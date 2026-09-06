@@ -19,7 +19,7 @@
 
 ## 2. TÁC GIẢ & PHÁT TRIỂN (AUTHOR & CREDITS)
 
-- **Người thực hiện**: banhtieu (Sinh viên lớp CD25CNTT2)
+- **Người thực hiện**: HUAN (huanbv2002 · Sinh viên lớp CD25CNTT2)
 - **Khoa**: Công nghệ thông tin - Trường CĐ Kỹ Thuật Công Nghệ BR-VT
 - **Mục đích**: Phục vụ việc tra cứu lịch học hàng ngày, theo dõi lịch thi, ghi chú bài tập và hỗ trợ sinh viên toàn trường tra cứu thời khóa biểu nhanh chóng, tiện lợi.
 
@@ -131,10 +131,9 @@ TKB/
 - Nhấp đúp mở file `index.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Firefox, Safari...).
 
 ### Triển khai lên GitHub Pages (Miễn phí):
-1. Khởi tạo và đẩy mã nguồn lên GitHub:
+1. Đẩy toàn bộ mã nguồn lên GitHub:
    ```bash
-   git remote add origin https://github.com/<tai-khoan-cua-ban>/<ten-repo>.git
-   git push -u origin main
+   git push origin main
    ```
 2. Vào **Settings** > **Pages** trên GitHub repository, tại mục **Branch** chọn `main` và thư mục `/(root)` > bấm **Save**.
 
