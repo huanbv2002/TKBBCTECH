@@ -800,43 +800,154 @@
   }
 
   /* ============================================================
-     7. COMPACT MONTH VIEW ON MOBILE (Tight height for empty days)
+     7. COMPACT MONTH VIEW ON MOBILE (Tight height & 100% fit)
      ============================================================ */
+  .calendar {
+    display: grid !important;
+    grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
   .calendar-cell {
+    min-width: 0 !important;
+    max-width: 100% !important;
     min-height: 48px !important;
     padding: 2px 2px !important;
+    overflow: hidden !important;
   }
 
   .calendar-cell.is-empty-day,
   .calendar-cell.muted {
-    min-height: 42px !important;
+    min-height: 40px !important;
   }
 
   .calendar-cell.has-events {
-    min-height: 56px !important;
+    min-height: 52px !important;
   }
 
   .calendar-day-head {
+    min-width: 0 !important;
     padding: 5px 2px !important;
     font-size: 10px !important;
+    overflow: hidden !important;
+  }
+
+  .calendar-cell-top {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    margin-bottom: 2px !important;
+  }
+
+  .calendar-number-wrap {
+    min-width: 0 !important;
+    overflow: hidden !important;
+    gap: 2px !important;
   }
 
   .calendar-number {
-    font-size: 10.5px !important;
-    width: 18px !important;
-    height: 18px !important;
+    font-size: 10px !important;
+    width: 17px !important;
+    height: 17px !important;
+    flex-shrink: 0 !important;
+  }
+
+  .today-tag {
+    font-size: 7px !important;
+    padding: 0.5px 2px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .holiday-pill-tag {
+    font-size: 6.5px !important;
+    padding: 0.5px 2px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .cal-note-badge {
+    padding: 1px 3px !important;
+    font-size: 8px !important;
+  }
+
+  .cal-note-badge svg {
+    width: 8px !important;
+    height: 8px !important;
+  }
+
+  .cal-events-container {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    gap: 1.5px !important;
+    overflow: hidden !important;
   }
 
   .cal-event {
-    font-size: 8px !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    font-size: 7.5px !important;
     padding: 1px 2px !important;
     border-radius: 2px !important;
-    line-height: 1.2 !important;
+    line-height: 1.15 !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    display: block !important;
+  }
+
+  .cal-holiday-badge {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    font-size: 7px !important;
+    padding: 1px 2px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    display: flex !important;
+  }
+
+  .cal-holiday-badge span {
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+
+  .cal-holiday-notice-box {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    padding: 2px !important;
+    margin-top: 1px !important;
+    overflow: hidden !important;
+  }
+
+  .cal-holiday-notice-box strong {
+    font-size: 7px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    display: block !important;
+  }
+
+  .cal-holiday-notice-box small {
+    font-size: 6.5px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    display: block !important;
   }
 
   .cal-note-card {
-    font-size: 7.5px !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    font-size: 7px !important;
     padding: 1px 2px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
   }
 
   /* ============================================================
@@ -1097,7 +1208,7 @@
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
     }
 
-    /* Week View Layout on Mobile (Mode Switch top, Days strip, Schedule cards, Week nav at bottom center) */
+    /* Week View Layout on Mobile (Mode Switch top, Sub-toggle, Days strip, Schedule cards, Week nav at bottom center) */
     #week-view.active-view {
       display: flex;
       flex-direction: column;
@@ -1107,19 +1218,23 @@
       order: 1;
     }
 
-    #week-view .mobile-day-tabs {
+    #week-view .week-layout-subtoggle {
       order: 2;
+    }
+
+    #week-view .mobile-day-tabs {
+      order: 3;
     }
 
     #week-view .mobile-agenda-wrap,
     #week-view .mobile-transposed-wrap,
     #week-view .week-board-wrap {
-      order: 3;
+      order: 4;
     }
 
     #week-view .view-toolbar {
-      order: 4;
-      margin-top: 14px;
+      order: 5;
+      margin-top: 12px;
       margin-bottom: 6px;
       justify-content: center;
       width: 100%;
@@ -1135,7 +1250,6 @@
       margin: 0 auto;
     }
   }
-
 
   /* Sub-toggle inside "Cả tuần" */
   .week-layout-subtoggle {
@@ -1186,21 +1300,6 @@
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
   }
 
-  /* When horizontal grid mode is active on mobile */
-  @media (max-width: 768px) {
-    .week-board-wrap {
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      border-radius: 12px;
-      margin-bottom: 8px;
-      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
-    }
-    .week-board {
-      min-width: 680px;
-    }
-  }
-
-
   /* ============================================================
      ULTRA-FIT 7-DAY HORIZONTAL GRID ON MOBILE (100% Fit - No Scroll)
      ============================================================ */
@@ -1220,11 +1319,13 @@
       display: grid !important;
       grid-template-columns: 32px repeat(7, minmax(0, 1fr)) !important;
       width: 100% !important;
+      max-width: 100% !important;
       min-width: 0 !important;
       overflow: hidden !important;
     }
 
     .week-head {
+      min-width: 0 !important;
       padding: 4px 1px !important;
       font-size: 8.5px !important;
       text-align: center !important;
@@ -1250,7 +1351,7 @@
     }
 
     .time-cell {
-      min-height: 52px !important;
+      min-height: 48px !important;
       padding: 4px 1px !important;
       font-size: 8px !important;
       font-weight: 700 !important;
@@ -1268,7 +1369,7 @@
     }
 
     .note-row-label {
-      min-height: 24px !important;
+      min-height: 20px !important;
       padding: 2px 1px !important;
       font-size: 7.5px !important;
     }
@@ -1278,19 +1379,22 @@
     }
 
     .note-slot {
-      min-height: 24px !important;
+      min-height: 20px !important;
       padding: 1px !important;
     }
 
     .empty-note-hint {
       font-size: 7px !important;
-      opacity: 0.6 !important;
+      opacity: 0.5 !important;
     }
 
     .week-note-pill {
-      font-size: 7px !important;
+      font-size: 6.8px !important;
       padding: 1px 2px !important;
       gap: 2px !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      white-space: nowrap !important;
     }
 
     .week-note-pill svg {
@@ -1300,7 +1404,8 @@
     }
 
     .slot {
-      min-height: 52px !important;
+      min-width: 0 !important;
+      min-height: 48px !important;
       padding: 2px 1px !important;
       overflow: hidden !important;
     }
@@ -1308,17 +1413,22 @@
     .event-list {
       gap: 2px !important;
       height: auto !important;
+      min-width: 0 !important;
+      overflow: hidden !important;
     }
 
     .event {
+      min-width: 0 !important;
+      max-width: 100% !important;
       padding: 3px 2px !important;
       border-radius: 4px !important;
       gap: 1px !important;
       border: none !important;
+      overflow: hidden !important;
     }
 
     .event strong {
-      font-size: 8px !important;
+      font-size: 7.8px !important;
       font-weight: 700 !important;
       line-height: 1.15 !important;
       word-break: break-word !important;
@@ -1331,6 +1441,10 @@
     .event small {
       font-size: 6.8px !important;
       line-height: 1.05 !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      white-space: nowrap !important;
+      display: block !important;
     }
 
     .event small.teacher-name {
@@ -1340,11 +1454,15 @@
     .event-holiday-tag {
       font-size: 6.5px !important;
       padding: 0 2px !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      white-space: nowrap !important;
     }
 
     .holiday-empty-slot {
       padding: 2px 1px !important;
       font-size: 7px !important;
+      overflow: hidden !important;
     }
 
     .holiday-slot-badge {
@@ -1353,5 +1471,9 @@
 
     .holiday-slot-text {
       font-size: 6.5px !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      white-space: nowrap !important;
+      display: block !important;
     }
   }

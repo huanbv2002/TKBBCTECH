@@ -145,7 +145,14 @@ function renderDesktopGrid(events, weekHolidays, isCurrentWeek, todayDate) {
       </div>`;
   }
 
-  for (const session of sessionOrder) {
+  const activeSessions = sessionOrder.filter((session) => {
+    if (session === 'evening') {
+      return events.some((item) => item.session === 'evening');
+    }
+    return true;
+  });
+
+  for (const session of activeSessions) {
     const info = PERIOD_GROUPS[session];
     desktopHtml += `<div class="time-cell">${info.label}<small>${info.start}</small></div>`;
     for (const dow of dayOrder) {
