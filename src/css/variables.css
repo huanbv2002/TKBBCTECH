@@ -1,0 +1,72 @@
+/**
+ * TKB - Design System & CSS Variables
+ */
+:root {
+  --slate-950: #0b1320;
+  --slate-900: #0f172a;
+  --slate-850: #162032;
+  --slate-800: #1e293b;
+  --slate-700: #334155;
+  --slate-600: #475569;
+  --slate-500: #64748b;
+  --slate-400: #94a3b8;
+  --slate-300: #cbd5e1;
+  --slate-200: #e2e8f0;
+  --slate-100: #f1f5f9;
+  --slate-50: #f8fafc;
+  
+  --ink: #0f172a;
+  --ink-secondary: #475569;
+  --ink-muted: #64748b;
+  
+  --line: #e2e8f0;
+  --line-light: #f1f5f9;
+  --bg-app: #f8fafc;
+  --white: #ffffff;
+  
+  --card-blue-bg: #eff6ff;
+  --card-blue-title: #1e40af;
+  --card-blue-sub: #3b82f6;
+
+  --card-teal-bg: #ecfeff;
+  --card-teal-title: #0e7490;
+  --card-teal-sub: #0891b2;
+
+  --card-violet-bg: #f5f3ff;
+  --card-violet-title: #5b21b6;
+  --card-violet-sub: #7c3aed;
+
+  --card-emerald-bg: #f0fdf4;
+  --card-emerald-title: #15803d;
+  --card-emerald-sub: #16a34a;
+
+  --card-orange-bg: #fff7ed;
+  --card-orange-title: #c2410c;
+  --card-orange-sub: #ea580c;
+
+  --card-rose-bg: #fff1f2;
+  --card-rose-title: #be123c;
+  --card-rose-sub: #e11d48;
+
+  --note-row-bg: #fffdf5;
+  --note-pill-bg: #fef9c3;
+  --note-pill-border: #fef08a;
+  --note-pill-text: #854d0e;
+
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --success: #10b981;
+  --danger: #ef4444;
+  --warning: #f59e0b;
+
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.03);
+  --shadow-md: 0 4px 16px -2px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 20px 35px -5px rgba(15, 23, 42, 0.15);
+
+  --radius-xs: 6px;
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+}

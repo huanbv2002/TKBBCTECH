@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f2b48" />
+  <meta name="description" content="Thời khóa biểu thông minh cho lớp học — xem lịch tuần, lịch tháng, ghi chú ngày và quét ảnh TKB." />
+  <title>Thời Khóa Biểu · CD25CNTT2</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/css/main.css?v=46" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="data/classes_data.js?v=46"></script>
+  <script src="src/js/config.js?v=47"></script>
+  <script src="src/js/utils.js?v=47"></script>
+  <script src="src/js/storage.js?v=47"></script>
+  <script src="src/js/components/class-picker.js?v=47"></script>
+  <script src="src/js/components/pdf-uploader.js?v=47"></script>
+  <script src="src/js/components/tour.js?v=47"></script>
+  <script src="src/js/views/note-modal.js?v=47"></script>
+  <script src="src/js/views/week-view.js?v=47"></script>
+  <script src="src/js/views/month-view.js?v=47"></script>
+  <script src="src/js/views/reference-view.js?v=47"></script>
+  <script src="src/js/main.js?v=47" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <!-- Sidebar for Desktop -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+        </div>
+        <div class="brand-text">
+          <strong>Lịch Học</strong>
+          <span id="brand-class">CD25CNTT2</span>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="Điều hướng chính">
+        <button class="nav-item active" data-view="week">
+          <span class="nav-icon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 9h18"></path><path d="M9 21V9"></path></svg>
+          </span>
+          <span>Lịch tuần</span>
+        </button>
+        <button class="nav-item" data-view="month">
+          <span class="nav-icon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line><path d="M8 14h.01"></path><path d="M12 14h.01"></path><path d="M16 14h.01"></path><path d="M8 18h.01"></path><path d="M12 18h.01"></path><path d="M16 18h.01"></path></svg>
+          </span>
+          <span>Lịch tháng & Ghi chú</span>
+        </button>
+        <button class="nav-item" data-view="reference">
+          <span class="nav-icon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+          </span>
+          <span>Bảng tham chiếu tuần</span>
+        </button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="semester-tag">HỌC KỲ 1 · 2026–2027</div>
+        <div class="semester-week-info" id="semester-progress-label">Tuần 1 / 18</div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main">
+      <header class="topbar">
+        <div class="topbar-left">
+          <h1 id="page-title">Lịch học tuần</h1>
+          <div class="class-picker-wrapper" id="class-picker-wrapper">
+            <button class="class-picker-trigger" id="class-picker-trigger" type="button" aria-haspopup="listbox" aria-expanded="false" title="Tìm & chọn lớp học toàn trường">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="picker-search-icon"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+              <span class="class-picker-text" id="class-picker-text">CD25CNTT2 · Công nghệ thông tin</span>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="picker-arrow"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+
+            <!-- Search Dropdown Popover -->
+            <div class="class-picker-dropdown" id="class-picker-dropdown" hidden>
+              <div class="picker-search-box">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="class-search-input" placeholder="Gõ tên lớp hoặc ngành học (vd: CNTT, Ô tô, May, Điện...)" autocomplete="off" spellcheck="false" />
+                <button type="button" class="picker-clear-btn" id="picker-clear-btn" title="Xóa tìm kiếm" hidden>&times;</button>
+              </div>
+              <div class="picker-meta-bar">
+                <span id="picker-count-label">61 lớp toàn trường</span>
+                <span class="picker-hint-label">Chạm vào lớp để xem lịch</span>
+              </div>
+              <div class="picker-options-list" id="picker-options-list" role="listbox"></div>
+            </div>
+            <select id="global-class-select" class="class-dropdown" style="display:none;" title="Chọn lớp học toàn trường"></select>
+          </div>
+          <span class="top-status-badge" id="top-status-badge">Tuần 1</span>
+        </div>
+
+        <div class="top-actions">
+          <span class="top-date-display" id="live-date">Chủ Nhật, 06/09/2026</span>
+          <button class="outline-btn help-btn" id="help-btn" title="Bấm để xem hướng dẫn sử dụng">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+            <span>Hướng dẫn</span>
+          </button>
+          <button class="outline-btn" id="upload-pdf-btn" title="Tải lên file lịch học mới từ trường">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+            <span>Cập nhật PDF</span>
+          </button>
+          <button class="outline-btn today-action-btn" id="today-btn" title="Bấm để quay về ngày hôm nay">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            <span>Hôm nay</span>
+          </button>
+        </div>
+      </header>
+
+      <section class="content">
+        <!-- 1. WEEK VIEW (LỊCH TUẦN) -->
+        <div id="week-view" class="view active-view">
+          <div class="view-toolbar">
+            <div class="toolbar-title-group">
+              <span class="toolbar-sub" id="week-range">07/09/2026 – 13/09/2026</span>
+            </div>
+            <div class="toolbar-actions">
+              <div class="select-wrapper">
+                <select id="week-select" class="week-dropdown" title="Chọn nhanh tuần học"></select>
+              </div>
+              <button class="outline-btn nav-arrow-btn" id="prev-week" title="Tuần trước">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                <span>Tuần trước</span>
+              </button>
+              <button class="outline-btn nav-arrow-btn" id="next-week" title="Tuần sau">
+                <span>Tuần sau</span>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- Mobile Main Mode Toggle (Từng ngày / Cả tuần) -->
+          <div class="mobile-mode-toggle" id="mobile-mode-toggle">
+            <button type="button" class="mobile-mode-btn active" id="mode-btn-agenda" data-mode="agenda" onclick="setMobileScheduleMode('agenda')">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="display: inline-block; vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+              <span>Từng ngày</span>
+            </button>
+            <button type="button" class="mobile-mode-btn" id="mode-btn-week" data-mode="week" onclick="setMobileScheduleMode('week')">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="display: inline-block; vertical-align: -2px; margin-right: 4px;"><rect x="3" y="3" width="7" height="18" rx="1"></rect><rect x="14" y="3" width="7" height="18" rx="1"></rect></svg>
+              <span>Cả tuần</span>
+            </button>
+          </div>
+
+          <!-- Sub-toggle inside "Cả tuần": Switch between Vertical (Dọc thứ) and Horizontal Grid (Lưới ngang) -->
+          <div class="week-layout-subtoggle" id="week-layout-subtoggle" style="display: none;">
+            <span class="subtoggle-hint">Hiển thị cả tuần:</span>
+            <div class="subtoggle-btn-group">
+              <button type="button" class="subtoggle-btn" id="layout-btn-vertical" onclick="setWeekLayout('vertical')" title="Xem dạng Bảng dọc (vừa khít màn hình)">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+                <span>Bảng dọc</span>
+              </button>
+              <button type="button" class="subtoggle-btn active" id="layout-btn-horizontal" onclick="setWeekLayout('horizontal')" title="Xem dạng Lưới ngang (kéo sang ngang)">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                <span>Lưới ngang</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Mobile Day Switcher for easy phone usage -->
+          <div class="mobile-day-tabs" id="mobile-day-tabs"></div>
+
+          <!-- Mode 1 (Default): Mobile Day Agenda Feed -->
+          <div class="mobile-agenda-wrap" id="mobile-agenda-view"></div>
+
+          <!-- Mode 2: Mobile Transposed Table (Dọc Thứ x Ngang Sáng Chiều) -->
+          <div class="mobile-transposed-wrap" id="mobile-transposed-wrap" style="display: none;"></div>
+
+          <!-- Desktop Week Grid Board (7-Column Table) -->
+          <div class="week-board-wrap">
+            <div class="week-board" id="week-board"></div>
+          </div>
+        </div>
+
+        <!-- 2. MONTH VIEW (LỊCH THÁNG & GHI CHÚ) -->
+        <div id="month-view" class="view">
+          <div class="month-mobile-header" id="month-mobile-header">
+            <span class="month-mobile-label" id="month-mobile-label">Tháng 9 năm 2026</span>
+          </div>
+
+          <div class="view-toolbar month-toolbar">
+            <div class="toolbar-title-group">
+              <span class="month-title-display" id="month-label">Tháng 9 năm 2026</span>
+            </div>
+            <div class="toolbar-actions">
+              <button class="outline-btn" id="prev-month" title="Tháng trước">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                <span>Tháng trước</span>
+              </button>
+              <button class="outline-btn" id="today-month">Tháng hiện tại</button>
+              <button class="outline-btn" id="next-month" title="Tháng sau">
+                <span>Tháng sau</span>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="calendar-wrap">
+            <div class="calendar" id="calendar"></div>
+          </div>
+        </div>
+
+        <!-- 3. REFERENCE VIEW (BẢNG THAM CHIẾU TUẦN & NGHỈ LỄ) -->
+        <div id="reference-view" class="view">
+          <div class="view-toolbar">
+            <div class="toolbar-title-group">
+              <span class="toolbar-sub">Bảng tham chiếu 22 tuần học kỳ 1 (2026–2027) &amp; Lịch nghỉ Lễ, Tết chính thức</span>
+            </div>
+            <div class="toolbar-actions">
+              <button class="outline-btn" id="ref-current-week-btn">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                <span>Đến tuần hiện tại</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Reference Summary Stats -->
+          <div class="ref-stats-grid">
+            <div class="ref-stat-card" onclick="jumpToWeekFromRef(1)" style="cursor: pointer;" title="Bấm để xem lịch Tuần 1">
+              <span class="ref-stat-num">22</span>
+              <span class="ref-stat-label">Tổng số tuần kỳ 1</span>
+            </div>
+            <div class="ref-stat-card" onclick="jumpToWeekFromRef(1)" style="cursor: pointer;" title="Bấm để xem lịch Tuần 1">
+              <span class="ref-stat-num">18</span>
+              <span class="ref-stat-label">Tuần học chính khóa</span>
+            </div>
+            <div class="ref-stat-card" onclick="jumpToWeekFromRef(19)" style="cursor: pointer;" title="Bấm để xem lịch Tuần 19 (Dự trữ & Thi)">
+              <span class="ref-stat-num">2</span>
+              <span class="ref-stat-label">Tuần dự trữ &amp; Thi</span>
+            </div>
+            <div class="ref-stat-card highlight" onclick="jumpToWeekFromRef(21)" style="cursor: pointer;" title="Bấm để xem lịch Tuần 21 (Nghỉ Tết)">
+              <span class="ref-stat-num">2</span>
+              <span class="ref-stat-label">Tuần nghỉ Tết Âm Lịch</span>
+            </div>
+          </div>
+
+          <!-- Holidays Highlights Card -->
+          <div class="ref-holidays-card">
+            <div class="ref-card-header">
+              <div class="ref-card-title">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                <span>Các ngày nghỉ Lễ &amp; Tết trong Học kỳ 1</span>
+              </div>
+            </div>
+            <div class="ref-holidays-list" id="ref-holidays-list"></div>
+          </div>
+
+          <!-- 22 Weeks Table Card -->
+          <div class="ref-table-card">
+            <div class="ref-card-header">
+              <div class="ref-card-title">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                <span>Bảng chi tiết 22 tuần học (Mẫu chuẩn In X1025)</span>
+              </div>
+              <span class="ref-legend-hint">Chạm vào tuần bất kỳ để mở xem chi tiết</span>
+            </div>
+            <div class="table-wrap">
+              <table class="ref-table">
+                <thead>
+                  <tr>
+                    <th style="width: 80px;">Tuần</th>
+                    <th>Từ ngày</th>
+                    <th>Đến ngày</th>
+                    <th>Giai đoạn / Trạng thái</th>
+                    <th>Sự kiện &amp; Nghỉ lễ</th>
+                    <th style="width: 110px; text-align: right;">Thao tác</th>
+                  </tr>
+                </thead>
+                <tbody id="ref-table-body"></tbody>
+              </table>
+            </div>
+            <!-- Mobile 22-Week Cards List -->
+            <div class="ref-mobile-cards-wrap" id="ref-mobile-cards"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Mobile Bottom Navigation Bar -->
+    <nav class="mobile-bottom-nav" aria-label="Điều hướng điện thoại">
+      <button class="mobile-nav-item active" data-view="week">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 9h18"></path><path d="M9 21V9"></path></svg>
+        <span>Lịch tuần</span>
+      </button>
+      <button class="mobile-nav-item" data-view="month">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+        <span>Lịch tháng</span>
+      </button>
+      <button class="mobile-nav-item" data-view="reference">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+        <span>Bảng tuần</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- Note Modal for Month & Week Calendar -->
+  <div class="modal-backdrop" id="note-modal" hidden>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div>
+          <div class="modal-eyebrow">GHI CHÚ & NHẮC NHỞ</div>
+          <h3 id="note-modal-title">Ghi chú cho ngày --/--/----</h3>
+        </div>
+        <button class="modal-close-btn" id="note-modal-close" aria-label="Đóng">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <!-- Classes on this day -->
+        <div class="modal-day-classes-section">
+          <div class="section-sub-title">Lịch học trong ngày</div>
+          <div id="modal-day-classes-list" class="modal-day-classes-list"></div>
+        </div>
+
+        <!-- Notes list -->
+        <div class="modal-notes-section">
+          <div class="section-sub-title">Danh sách ghi chú cá nhân</div>
+          <div id="modal-notes-list" class="modal-notes-list"></div>
+        </div>
+
+        <!-- Add note form -->
+        <form class="note-add-form" id="note-add-form">
+          <input type="text" id="note-input-text" placeholder="Thêm ghi chú (ví dụ: Nộp bài LAB, Kiểm tra...)" maxlength="150" required autocomplete="off" />
+          <button type="submit" class="primary-btn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+            <span>Thêm</span>
+          </button>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button class="outline-btn" id="note-modal-done">Xong</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PDF Upload & Update Modal (Hỗ trợ kéo thả & nạp PDF trực tiếp trên web) -->
+  <div class="modal-backdrop" id="pdf-modal" hidden>
+    <div class="modal-dialog pdf-modal-dialog">
+      <div class="modal-header">
+        <div>
+          <div class="modal-eyebrow">DỮ LIỆU THỜI KHÓA BIỂU</div>
+          <h3>Cập nhật Thời Khóa Biểu từ file PDF</h3>
+        </div>
+        <button class="modal-close-btn" id="pdf-modal-close" aria-label="Đóng">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <!-- 1. Dropzone -->
+        <div class="pdf-dropzone" id="pdf-dropzone">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" class="dropzone-icon"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+          <div class="dropzone-title">
+            <strong>Kéo & thả file PDF Thời khóa biểu vào đây</strong>
+          </div>
+          <div class="dropzone-sub">
+            hoặc <span class="dropzone-browse">Bấm vào đây để chọn file PDF</span>
+          </div>
+          <small class="dropzone-hint">Hỗ trợ file PDF thời khóa biểu của trường (.pdf)</small>
+          <input type="file" id="pdf-file-input" accept=".pdf" style="display:none;" />
+        </div>
+
+        <!-- 2. Processing Bar -->
+        <div class="pdf-processing-card" id="pdf-processing-card" style="display:none;">
+          <div class="pdf-progress-header">
+            <span id="pdf-process-filename" class="pdf-process-filename">Đang đọc file PDF...</span>
+            <span id="pdf-process-percent" class="pdf-process-percent">0%</span>
+          </div>
+          <div class="pdf-progress-track">
+            <div class="pdf-progress-bar" id="pdf-progress-bar" style="width: 0%;"></div>
+          </div>
+          <div class="pdf-process-status" id="pdf-process-status">Đang chuẩn bị trích xuất dữ liệu...</div>
+        </div>
+
+        <!-- 3. Result / Success -->
+        <div class="pdf-result-card" id="pdf-result-card" style="display:none;">
+          <div class="pdf-success-banner">
+            <div class="success-icon-wrap">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.6"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            </div>
+            <div>
+              <strong id="pdf-result-title">Đã trích xuất thành công 61 lớp học!</strong>
+              <div class="pdf-result-sub" id="pdf-result-sub">Dữ liệu đã được nạp trực tiếp vào ứng dụng web.</div>
+            </div>
+          </div>
+          <div class="pdf-classes-preview" id="pdf-classes-preview"></div>
+          <div class="pdf-action-buttons">
+            <button type="button" class="primary-btn" id="pdf-apply-btn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              <span>Xem lịch ngay</span>
+            </button>
+            <button type="button" class="outline-btn" id="pdf-download-js-btn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+              <span>Tải file classes_data.js</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- 4. Quick .bat alternative hint -->
+        <div class="pdf-alt-box">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+          <span>Ngoài ra, bạn cũng có thể kéo thả file PDF vào file <b><code>cap_nhat_tkb.bat</code></b> trong thư mục để tự động cập nhật bất kỳ lúc nào.</span>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="outline-btn" id="pdf-modal-done">Đóng</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

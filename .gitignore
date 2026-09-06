@@ -1,0 +1,14 @@
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Logs & Temp
+*.log
+*.tmp
+*.zip
+__pycache__/
+*.pyc
+
+# Local IDE
+.vscode/
+.idea/

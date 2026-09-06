@@ -1,0 +1,362 @@
+/**
+ * TKB - Week View & Subject Cards Styles
+ */
+.week-board-wrap {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.week-board {
+  display: grid;
+  grid-template-columns: 75px repeat(7, minmax(135px, 1fr));
+  overflow-x: auto;
+  min-width: 100%;
+}
+
+.week-head {
+  padding: 11px 8px;
+  text-align: center;
+  border-bottom: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--slate-500);
+  background: var(--slate-50);
+}
+
+.week-head b {
+  display: block;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: 2px;
+}
+
+.week-head.is-today {
+  background: #f0fdf4;
+  color: #166534;
+}
+
+.week-head.is-today b {
+  color: var(--primary);
+}
+
+.week-head.is-empty-day {
+  background: #f8fafc;
+  color: var(--slate-400);
+}
+
+.week-head.is-empty-day b {
+  color: var(--slate-600);
+}
+
+.empty-day-head-tag {
+  display: block;
+  font-size: 9.5px;
+  font-weight: 600;
+  color: #94a3b8;
+  margin-top: 3px;
+  letter-spacing: 0.2px;
+}
+
+.note-row-label {
+  min-height: 50px !important;
+  background: var(--note-row-bg) !important;
+  color: #854d0e !important;
+  border-bottom: 1px solid #fef3c7 !important;
+  padding: 8px 4px !important;
+}
+
+.note-slot {
+  min-height: 50px !important;
+  background: var(--note-row-bg) !important;
+  border-bottom: 1px solid #fef3c7 !important;
+  padding: 5px !important;
+  cursor: pointer;
+  transition: background 0.15s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.note-slot:hover {
+  background: #fefce8 !important;
+}
+
+.week-note-list {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 100%;
+}
+
+.week-note-pill {
+  background: var(--note-pill-bg);
+  border: none !important;
+  color: var(--note-pill-text);
+  font-size: 10.5px;
+  font-weight: 600;
+  padding: 3px 6px;
+  border-radius: var(--radius-xs);
+  line-height: 1.3;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.week-note-pill svg {
+  flex: 0 0 11px;
+  stroke: #854d0e;
+}
+
+.week-note-pill .text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.empty-note-hint {
+  font-size: 10px;
+  color: #bfa670;
+  font-weight: 500;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.note-slot:hover .empty-note-hint {
+  opacity: 1;
+  color: #854d0e;
+}
+
+.time-cell {
+  min-height: 120px;
+  padding: 12px 6px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  font-size: 11.5px;
+  font-weight: 700;
+  color: var(--slate-600);
+  text-align: center;
+  background: var(--slate-50);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.time-cell small {
+  font-size: 10px;
+  color: var(--slate-400);
+  font-weight: 500;
+}
+
+.slot {
+  min-height: 120px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 8px;
+  background: var(--white);
+  transition: background 0.15s ease;
+}
+
+.slot.is-today {
+  background: #fbfdff;
+}
+
+.slot.is-empty-slot,
+.slot.empty-day-slot {
+  background: #f8fafc;
+}
+
+.slot.is-empty-slot:hover,
+.slot.empty-day-slot:hover {
+  background: #f1f5f9;
+}
+
+.slot.has-events-slot {
+  background: #ffffff;
+}
+
+.event-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 100%;
+}
+
+.event {
+  padding: 10px 12px;
+  border-radius: var(--radius-md);
+  border: none !important;
+  border-left: none !important;
+  background: var(--card-blue-bg);
+  box-shadow: none;
+  font-size: 11.5px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: transform 0.12s ease, opacity 0.12s ease;
+}
+
+.event:hover {
+  transform: translateY(-1px);
+  opacity: 0.95;
+}
+
+.event strong {
+  display: block;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--card-blue-title);
+  line-height: 1.35;
+}
+
+.event small {
+  display: block;
+  color: var(--card-blue-sub);
+  font-size: 11px;
+  line-height: 1.35;
+  font-weight: 500;
+}
+
+.event small.teacher-name {
+  opacity: 0.85;
+}
+
+.event.blue { background: var(--card-blue-bg); }
+.event.blue strong { color: var(--card-blue-title); }
+.event.blue small { color: var(--card-blue-sub); }
+
+.event.teal { background: var(--card-teal-bg); }
+.event.teal strong { color: var(--card-teal-title); }
+.event.teal small { color: var(--card-teal-sub); }
+
+.event.violet { background: var(--card-violet-bg); }
+.event.violet strong { color: var(--card-violet-title); }
+.event.violet small { color: var(--card-violet-sub); }
+
+.event.emerald { background: var(--card-emerald-bg); }
+.event.emerald strong { color: var(--card-emerald-title); }
+.event.emerald small { color: var(--card-emerald-sub); }
+
+.event.orange { background: var(--card-orange-bg); }
+.event.orange strong { color: var(--card-orange-title); }
+.event.orange small { color: var(--card-orange-sub); }
+
+.event.rose { background: var(--card-rose-bg); }
+.event.rose strong { color: var(--card-rose-title); }
+.event.rose small { color: var(--card-rose-sub); }
+
+.week-holiday-banner {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border: none !important;
+  border-radius: var(--radius-md);
+  padding: 10px 16px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #991b1b;
+}
+
+.week-holiday-banner svg {
+  flex-shrink: 0;
+  color: #dc2626;
+}
+
+.week-head.is-holiday {
+  background: #fef2f2 !important;
+  color: #991b1b !important;
+  border-bottom: 2px solid #f87171 !important;
+}
+
+.week-head.is-holiday b {
+  color: #dc2626 !important;
+}
+
+.holiday-head-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  color: #dc2626;
+  background: #fee2e2;
+  border: none !important;
+  border-radius: 4px;
+  padding: 1.5px 5px;
+  margin-top: 3px;
+  letter-spacing: 0.2px;
+}
+
+.slot.holiday-slot {
+  background: #fff5f5 !important;
+  border-right-color: #fecaca !important;
+  border-bottom-color: #fecaca !important;
+}
+
+.slot.holiday-slot.note-slot {
+  background: #fef2f2 !important;
+  border-bottom-color: #fecaca !important;
+}
+
+.holiday-empty-slot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  min-height: 85px;
+  background: #fee2e2;
+  border: 1.5px dashed #f87171;
+  border-radius: var(--radius-md);
+  padding: 10px 8px;
+  text-align: center;
+  gap: 3px;
+}
+
+.holiday-slot-badge {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #b91c1c;
+}
+
+.holiday-slot-text {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: #dc2626;
+  line-height: 1.3;
+}
+
+.event.holiday-cancelled {
+  opacity: 0.9;
+  border: 1px solid #fca5a5 !important;
+  border-left: none !important;
+  background: #fee2e2 !important;
+}
+
+.event.holiday-cancelled strong {
+  text-decoration: line-through;
+  color: #991b1b;
+}
+
+.event.holiday-cancelled small {
+  color: #b91c1c;
+}
+
+.event-holiday-tag {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 10.5px;
+  font-weight: 700;
+  color: #ffffff;
+  background: #dc2626;
+  border-radius: 4px;
+  padding: 2px 6px;
+}

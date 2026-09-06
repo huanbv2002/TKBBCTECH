@@ -1,0 +1,382 @@
+/**
+ * TKB - Month View & Calendar Styles
+ */
+.month-title-display {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.calendar-wrap {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.calendar-day-head {
+  background: var(--slate-50);
+  color: var(--slate-600);
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 10px 8px;
+  text-align: center;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.calendar-cell {
+  min-height: 115px;
+  padding: 8px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  font-size: 11px;
+  background: var(--white);
+  cursor: pointer;
+  transition: background 0.12s ease;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.calendar-cell:hover {
+  background: #f8fbfe;
+}
+
+.calendar-cell.muted {
+  background: #f1f5f9;
+  color: var(--slate-300);
+  cursor: default;
+}
+
+.calendar-cell.is-empty-day {
+  background: #f8fafc;
+}
+
+.calendar-cell.is-empty-day:hover {
+  background: #f1f5f9;
+}
+
+.calendar-cell.is-empty-day .calendar-number {
+  color: #94a3b8;
+}
+
+.calendar-cell.has-events {
+  background: #ffffff;
+}
+
+.calendar-cell.has-events:hover {
+  background: #f8fbfe;
+}
+
+.calendar-cell.today {
+  background: #f0f7ff !important;
+  outline: 2px solid var(--primary);
+  outline-offset: -2px;
+  z-index: 2;
+}
+
+.calendar-cell.has-notes {
+  background: #fffef9;
+}
+
+.calendar-cell.today.has-notes {
+  background: #f0f7ff !important;
+}
+
+.calendar-cell-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.calendar-number-wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.calendar-number {
+  font-weight: 700;
+  font-size: 12.5px;
+  color: var(--ink);
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+}
+
+.calendar-cell.today .calendar-number {
+  background: var(--primary);
+  color: #ffffff;
+  font-weight: 800;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.35);
+}
+
+.today-tag {
+  font-size: 9.5px;
+  font-weight: 700;
+  color: var(--primary);
+  background: #dbeafe;
+  padding: 1px 5px;
+  border-radius: 4px;
+  letter-spacing: 0.2px;
+  line-height: 1.3;
+}
+
+.cal-note-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  background: var(--note-pill-bg);
+  color: var(--note-pill-text);
+  border: 1px solid var(--note-pill-border);
+  padding: 1.5px 5px;
+  border-radius: 4px;
+  font-size: 9.5px;
+  font-weight: 700;
+  box-shadow: 0 1px 2px rgba(133, 77, 14, 0.08);
+}
+
+.cal-note-badge svg {
+  stroke: var(--note-pill-text);
+  width: 10px;
+  height: 10px;
+}
+
+.cal-note-badge b {
+  font-size: 9.5px;
+  font-weight: 800;
+}
+
+.cal-note-list {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: 4px;
+}
+
+.cal-note-card {
+  background: var(--note-pill-bg);
+  border: 1px solid var(--note-pill-border);
+  color: var(--note-pill-text);
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 5px;
+  border-radius: var(--radius-xs);
+  line-height: 1.3;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.cal-note-card svg {
+  flex: 0 0 10px;
+  stroke: #854d0e;
+}
+
+.cal-note-card .text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cal-events-container {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  overflow: hidden;
+}
+
+.cal-event {
+  background: var(--card-blue-bg);
+  color: var(--card-blue-title);
+  border-radius: var(--radius-xs);
+  padding: 2px 5px;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.25;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cal-event.blue { background: var(--card-blue-bg); color: var(--card-blue-title); }
+.cal-event.teal { background: var(--card-teal-bg); color: var(--card-teal-title); }
+.cal-event.violet { background: var(--card-violet-bg); color: var(--card-violet-title); }
+.cal-event.emerald { background: var(--card-emerald-bg); color: var(--card-emerald-title); }
+.cal-event.orange { background: var(--card-orange-bg); color: var(--card-orange-title); }
+.cal-event.rose { background: var(--card-rose-bg); color: var(--card-rose-title); }
+
+.calendar-cell.has-holiday {
+  background: #fff5f5 !important;
+  border-color: #fecaca !important;
+}
+
+.calendar-cell.has-holiday:hover {
+  background: #fef2f2 !important;
+}
+
+.calendar-cell.has-holiday .calendar-number {
+  color: #dc2626 !important;
+  font-weight: 800 !important;
+  background: #fee2e2 !important;
+}
+
+.holiday-pill-tag {
+  font-size: 9px;
+  font-weight: 800;
+  color: #ffffff;
+  background: #dc2626;
+  padding: 1.5px 5px;
+  border-radius: 3px;
+  letter-spacing: 0.3px;
+  line-height: 1.2;
+}
+
+.cal-holiday-badge {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10.5px;
+  font-weight: 700;
+  background: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fca5a5;
+  border-radius: 4px;
+  padding: 2.5px 6px;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+
+.cal-holiday-notice-box {
+  background: #fee2e2;
+  border: 1px dashed #f87171;
+  border-radius: var(--radius-sm);
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-top: 4px;
+}
+
+.cal-holiday-notice-box strong {
+  color: #991b1b;
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.cal-holiday-notice-box small {
+  color: #b91c1c;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.section-sub-title {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--slate-600);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  margin-bottom: 6px;
+}
+
+.modal-day-classes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.modal-day-class-card {
+  padding: 8px 12px;
+  background: var(--slate-50);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+}
+
+.modal-day-class-card strong {
+  display: block;
+  font-size: 12px;
+  color: var(--ink);
+  margin-bottom: 2px;
+}
+
+.modal-day-class-card span {
+  color: var(--slate-500);
+  font-size: 11px;
+}
+
+.modal-notes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.note-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  background: var(--note-row-bg);
+  border: 1px solid #fef3c7;
+  border-radius: var(--radius-sm);
+  font-size: 12.5px;
+  color: #78350f;
+}
+
+.note-item span {
+  flex: 1;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+.note-delete-btn {
+  color: #b45309;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 6px;
+  border-radius: var(--radius-xs);
+  background: rgba(245, 158, 11, 0.15);
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  transition: all 0.15s ease;
+}
+
+.note-delete-btn:hover {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--danger);
+}
+
+.note-add-form {
+  display: flex;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.note-add-form input {
+  flex: 1;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-xs);
+  padding: 8px 12px;
+  font-size: 12.5px;
+}
+
+.note-add-form input:focus {
+  outline: 2px solid rgba(37, 99, 235, 0.2);
+  border-color: var(--primary);
+}

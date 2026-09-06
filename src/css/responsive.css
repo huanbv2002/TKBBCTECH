@@ -1,0 +1,1357 @@
+/**
+ * TKB - Modern Mobile & Tablet Responsive Architecture
+ */
+
+/* ============================================================
+   1. BASE MOBILE ANIMATIONS & NAV
+   ============================================================ */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUpMobile {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.mobile-day-tabs {
+  display: none;
+}
+
+.mobile-agenda-wrap {
+  display: none;
+}
+
+.mobile-transposed-wrap {
+  display: none;
+}
+
+.mobile-bottom-nav {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-top: 1px solid rgba(226, 232, 240, 0.9);
+  padding: 6px 12px calc(8px + env(safe-area-inset-bottom, 0px));
+  justify-content: space-around;
+  align-items: center;
+  z-index: 1000;
+  box-shadow: 0 -4px 16px rgba(15, 23, 42, 0.06);
+}
+
+.mobile-nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  padding: 6px 8px;
+  border-radius: var(--radius-xs);
+  color: var(--slate-400);
+  font-size: 11px;
+  font-weight: 600;
+  flex: 1;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  background: transparent;
+  border: none;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mobile-nav-item svg {
+  stroke: var(--slate-400);
+  transition: all 0.2s ease;
+}
+
+.mobile-nav-item.active {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.mobile-nav-item.active svg {
+  stroke: var(--primary);
+  transform: translateY(-1px) scale(1.08);
+}
+
+/* ============================================================
+   2. TABLET ADAPTATIONS (max-width: 1050px)
+   ============================================================ */
+@media (max-width: 1050px) {
+  .topbar {
+    padding: 12px 20px;
+  }
+  .content {
+    padding: 16px 20px 36px;
+  }
+}
+
+/* ============================================================
+   3. MOBILE SCREEN BREAKPOINT (max-width: 768px)
+   ============================================================ */
+@media (max-width: 768px) {
+  .sidebar {
+    display: none !important;
+  }
+
+  .mobile-bottom-nav {
+    display: flex;
+  }
+
+  .main {
+    padding-bottom: 76px;
+    width: 100vw;
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+
+  /* Ultra-Compact Topbar Header (Height ~50px) */
+  .topbar {
+    padding: 8px 12px;
+    min-height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+    gap: 8px;
+  }
+
+  .topbar-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .topbar h1 {
+    display: none;
+  }
+
+  .top-status-badge {
+    display: none;
+  }
+
+  /* Class Picker Trigger: Compact App Pill */
+  .class-picker-wrapper {
+    flex: 1;
+    min-width: 0;
+    max-width: 240px;
+  }
+
+  .class-picker-trigger {
+    width: 100%;
+    max-width: 100%;
+    padding: 6px 10px;
+    border-radius: 99px;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--primary);
+  }
+
+  .class-picker-text {
+    flex: 1;
+    min-width: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: var(--slate-800);
+    font-size: 12px;
+  }
+
+  .picker-search-icon, .picker-arrow {
+    width: 13px;
+    height: 13px;
+  }
+
+  /* Top Actions: Compact Icon Buttons */
+  .top-actions {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex-shrink: 0;
+  }
+
+  .top-date-display {
+    display: none;
+  }
+
+  .top-actions .outline-btn {
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    color: var(--slate-700);
+  }
+
+  .top-actions .outline-btn span {
+    display: none;
+  }
+
+  .top-actions .outline-btn svg {
+    width: 15px;
+    height: 15px;
+  }
+
+  .top-actions .today-action-btn {
+    background: #dbeafe;
+    border: none !important;
+    color: var(--primary);
+  }
+
+  /* Bottom Sheet Dropdown on Mobile */
+  .class-picker-dropdown {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    max-width: 100vw;
+    max-height: 82vh;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -10px 40px rgba(15, 23, 42, 0.25);
+    z-index: 100005;
+    animation: slideUpMobile 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    border: 1px solid var(--slate-200);
+    border-bottom: none;
+  }
+
+  .picker-options-list {
+    max-height: calc(82vh - 120px);
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Content area spacing */
+  .content {
+    padding: 8px 10px 24px;
+  }
+
+  /* Compact View Toolbar */
+  .view-toolbar {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+  }
+
+  .toolbar-title-group {
+    display: none;
+  }
+
+  .toolbar-actions {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .select-wrapper {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .week-dropdown {
+    width: 100%;
+    min-height: 34px;
+    padding: 5px 28px 5px 10px;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 8px;
+  }
+
+  .nav-arrow-btn {
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+
+  .nav-arrow-btn span {
+    display: none;
+  }
+
+  /* Mobile Mode Switcher (Theo ngày / Cả tuần) */
+  .mobile-mode-toggle {
+    display: flex;
+    background: #f1f5f9;
+    border-radius: 8px;
+    padding: 2px;
+    margin-bottom: 8px;
+    border: 1px solid #e2e8f0;
+  }
+
+  .mobile-mode-btn {
+    flex: 1;
+    padding: 5px 8px;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--slate-600);
+    border-radius: 6px;
+    text-align: center;
+    border: none;
+    background: transparent;
+    transition: all 0.15s ease;
+  }
+
+  .mobile-mode-btn.active {
+    background: #ffffff;
+    color: var(--primary);
+    font-weight: 700;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+
+  /* ============================================================
+     4. MOBILE DAY TABS (Dải 7 ngày)
+     ============================================================ */
+  .mobile-day-tabs {
+    display: flex;
+    gap: 5px;
+    overflow-x: auto;
+    padding: 2px 2px 8px;
+    margin-bottom: 8px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .mobile-day-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .mobile-day-tab {
+    flex: 1 0 auto;
+    min-width: 44px;
+    padding: 6px 2px;
+    background: #ffffff;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 10.5px;
+    font-weight: 600;
+    color: var(--slate-600);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    position: relative;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .mobile-day-tab span {
+    font-size: 10px;
+    color: var(--slate-400);
+  }
+
+  .mobile-day-tab b {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .tab-has-event-dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--primary);
+    margin-top: 1px;
+  }
+
+  .mobile-day-tab.active {
+    background: var(--primary) !important;
+    color: #ffffff !important;
+    border-color: var(--primary) !important;
+    box-shadow: 0 3px 8px rgba(37, 99, 235, 0.28);
+  }
+
+  .mobile-day-tab.active span,
+  .mobile-day-tab.active b {
+    color: #ffffff !important;
+  }
+
+  .mobile-day-tab.active .tab-has-event-dot {
+    background: #ffffff;
+  }
+
+  .mobile-day-tab.today:not(.active) {
+    border-color: var(--primary);
+    background: #eff6ff;
+  }
+
+  .mobile-day-tab.today:not(.active) b {
+    color: var(--primary);
+  }
+
+  .mobile-day-tab.holiday:not(.active) {
+    background: #fef2f2 !important;
+    border-color: #fca5a5 !important;
+    color: #dc2626 !important;
+  }
+
+  .mobile-day-tab.holiday:not(.active) b {
+    color: #dc2626 !important;
+  }
+  .mobile-day-tab.is-empty-day:not(.active):not(.today) {
+    background: #f8fafc !important;
+    border-color: #e2e8f0 !important;
+    color: #94a3b8 !important;
+  }
+
+  .mobile-day-tab.is-empty-day:not(.active):not(.today) span,
+  .mobile-day-tab.is-empty-day:not(.active):not(.today) b {
+    color: #94a3b8 !important;
+  }
+
+
+  /* ============================================================
+     5. MOBILE DAY AGENDA VIEW (Chế độ xem Thẻ dọc Chuẩn App - Không viền kẻ màu bên trái)
+     ============================================================ */
+  .mobile-agenda-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    animation: fadeIn 0.2s ease;
+    touch-action: pan-y pinch-zoom;
+  }
+
+  .agenda-day-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    background: #f8fafc;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+  }
+
+  .agenda-day-title {
+    font-size: 13.5px;
+    font-weight: 800;
+    color: var(--ink);
+  }
+
+  .agenda-day-date {
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--slate-500);
+  }
+
+  .agenda-session-section {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .agenda-session-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--slate-500);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-left: 2px;
+  }
+
+  /* Thẻ môn học: Hoàn toàn không viền, nền màu mềm mại sang trọng */
+  .agenda-card {
+    border-radius: 10px;
+    border: none !important;
+    padding: 10px 12px;
+    box-shadow: none !important;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .agenda-card.blue { background: #eff6ff; }
+  .agenda-card.teal { background: #f0fdfa; }
+  .agenda-card.violet { background: #f5f3ff; }
+  .agenda-card.emerald { background: #ecfdf5; }
+  .agenda-card.orange { background: #fff7ed; }
+  .agenda-card.rose { background: #fff1f2; }
+
+  .agenda-subject-title {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.35;
+  }
+
+  .agenda-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    font-size: 11.5px;
+    color: var(--slate-600);
+  }
+
+  .agenda-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: #ffffff;
+    border: none !important;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 6px;
+    padding: 2px 7px;
+    font-weight: 600;
+    font-size: 11px;
+  }
+
+  .agenda-room-badge {
+    background: #dbeafe;
+    border: none !important;
+    color: var(--primary);
+    font-weight: 700;
+  }
+
+  .agenda-teacher-row {
+    font-size: 11.5px;
+    color: var(--slate-500);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 1px;
+  }
+
+  .agenda-empty-state {
+    padding: 24px 16px;
+    background: #ffffff;
+    border: 1px dashed #cbd5e1;
+    border-radius: 12px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .agenda-empty-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background: #f1f5f9;
+    color: #94a3b8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2px;
+  }
+
+  .agenda-empty-title {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--slate-700);
+  }
+
+  .agenda-empty-sub {
+    font-size: 11.5px;
+    color: var(--slate-400);
+  }
+
+  .agenda-notes-card {
+    background: #fefce8;
+    border: none !important;
+    border-radius: 10px;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .agenda-notes-header {
+    font-size: 11.5px;
+    font-weight: 700;
+    color: #854d0e;
+  }
+
+  .agenda-note-item {
+    background: #fef08a;
+    border: none !important;
+    border-radius: 6px;
+    padding: 5px 8px;
+    font-size: 12px;
+    color: #78350f;
+  }
+
+  /* ============================================================
+     6. MOBILE TRANSPOSED TABLE (Mode 2: Bảng Cả Tuần)
+     ============================================================ */
+  .mvt-table {
+    background: #ffffff;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+  }
+
+  .mvt-row {
+    display: grid;
+    grid-template-columns: 56px 1fr 1fr;
+    border-bottom: 1px solid var(--line);
+    align-items: stretch;
+  }
+
+  .mvt-row:last-child {
+    border-bottom: none;
+  }
+
+  .mvt-header-row {
+    background: #f8fafc;
+    font-size: 11.5px;
+    font-weight: 700;
+    color: var(--slate-600);
+    text-align: center;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .mvt-col-day {
+    padding: 8px 2px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #f8fafc;
+    border-right: 1px solid var(--line);
+    cursor: pointer;
+    user-select: none;
+    gap: 1px;
+  }
+
+  .mvt-day-name {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--slate-500);
+  }
+
+  .mvt-day-num {
+    font-size: 12px;
+    font-weight: 800;
+    color: var(--ink);
+  }
+
+  .mvt-today-badge {
+    font-size: 8.5px;
+    font-weight: 800;
+    background: var(--primary);
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 0.5px 3.5px;
+  }
+
+  .mvt-holiday-badge {
+    font-size: 8.5px;
+    font-weight: 800;
+    background: #dc2626;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 0.5px 3.5px;
+  }
+
+  .mvt-notes-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #d97706;
+  }
+
+  .mvt-row.is-today .mvt-col-day {
+    background: #eff6ff;
+  }
+
+  .mvt-row.is-today .mvt-day-name {
+    color: var(--primary);
+  }
+
+  .mvt-col-session {
+    padding: 5px 6px;
+    border-right: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    justify-content: center;
+    min-height: 60px;
+    cursor: pointer;
+  }
+
+  .mvt-header-row .mvt-col-session {
+    padding: 8px 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    min-height: auto;
+  }
+
+  .mvt-header-row .mvt-col-session small {
+    color: var(--slate-400);
+    font-size: 10px;
+    font-weight: 500;
+  }
+
+  .mvt-col-session:last-child {
+    border-right: none;
+  }
+
+  .mvt-col-session.empty-session {
+    background: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mvt-empty-hint {
+    color: #e2e8f0;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .mvt-col-holiday-span {
+    grid-column: 2 / -1;
+    background: #fff5f5;
+    padding: 8px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    border-left: 1px solid #fecaca;
+    cursor: pointer;
+  }
+
+  .mvt-col-holiday-span strong {
+    font-size: 10.5px;
+    font-weight: 800;
+    color: #dc2626;
+    text-transform: uppercase;
+  }
+
+  .mvt-col-holiday-span span {
+    font-size: 11.5px;
+    font-weight: 600;
+    color: #991b1b;
+  }
+
+  .mvt-card {
+    padding: 6px 8px;
+    border-radius: 8px;
+    border: none !important;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    text-align: left;
+  }
+
+  .mvt-card.blue { background: #eff6ff; }
+  .mvt-card.teal { background: #f0fdfa; }
+  .mvt-card.violet { background: #f5f3ff; }
+  .mvt-card.emerald { background: #ecfdf5; }
+  .mvt-card.orange { background: #fff7ed; }
+  .mvt-card.rose { background: #fff1f2; }
+
+  .mvt-card-title {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.25;
+  }
+
+  .mvt-card-info {
+    font-size: 9.5px;
+    color: var(--slate-600);
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+
+  .mvt-card-teacher {
+    font-size: 9px;
+    color: var(--slate-500);
+  }
+
+  /* ============================================================
+     7. COMPACT MONTH VIEW ON MOBILE (Tight height for empty days)
+     ============================================================ */
+  .calendar-cell {
+    min-height: 48px !important;
+    padding: 2px 2px !important;
+  }
+
+  .calendar-cell.is-empty-day,
+  .calendar-cell.muted {
+    min-height: 42px !important;
+  }
+
+  .calendar-cell.has-events {
+    min-height: 56px !important;
+  }
+
+  .calendar-day-head {
+    padding: 5px 2px !important;
+    font-size: 10px !important;
+  }
+
+  .calendar-number {
+    font-size: 10.5px !important;
+    width: 18px !important;
+    height: 18px !important;
+  }
+
+  .cal-event {
+    font-size: 8px !important;
+    padding: 1px 2px !important;
+    border-radius: 2px !important;
+    line-height: 1.2 !important;
+  }
+
+  .cal-note-card {
+    font-size: 7.5px !important;
+    padding: 1px 2px !important;
+  }
+
+  /* ============================================================
+     8. 22-WEEK REFERENCE LIST (Compact Clean Rows - No Giant Bubble)
+     ============================================================ */
+  .ref-table-card .table-wrap {
+    display: none !important;
+  }
+
+  .ref-mobile-cards-wrap {
+    display: flex !important;
+    flex-direction: column;
+    gap: 6px;
+    padding: 8px;
+    background: #ffffff;
+  }
+
+  .ref-mobile-item {
+    background: #ffffff;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 9px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .ref-mobile-item:active {
+    background: #f8fafc;
+  }
+
+  .ref-mobile-item.is-current {
+    background: #eff6ff;
+    border-color: #93c5fd;
+    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.08);
+  }
+
+  .ref-mobile-item.is-holiday {
+    background: #fffdf5;
+    border-color: #fde68a;
+  }
+
+  .ref-mobile-item.is-tet {
+    background: #fff5f5;
+    border-color: #fca5a5;
+  }
+
+  .ref-mi-left {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+  }
+
+  .ref-mi-title-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .ref-mi-week-title {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .ref-mi-curr-badge {
+    font-size: 9px;
+    font-weight: 800;
+    background: var(--primary);
+    color: #ffffff;
+    padding: 0.5px 5px;
+    border-radius: 4px;
+  }
+
+  .ref-mi-dates {
+    font-size: 11px;
+    color: var(--slate-500);
+    font-weight: 500;
+  }
+
+  .ref-mi-holiday {
+    font-size: 10.5px;
+    font-weight: 600;
+    color: #b91c1c;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 1px;
+  }
+
+  .ref-mi-right {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+
+  .ref-mi-right .phase-pill {
+    padding: 3px 8px !important;
+    border-radius: 6px !important;
+    font-size: 10.5px !important;
+    font-weight: 600 !important;
+    white-space: nowrap !important;
+    width: auto !important;
+    flex: 0 0 auto !important;
+  }
+
+  .ref-mi-arrow {
+    color: var(--slate-400);
+    flex-shrink: 0;
+  }
+
+  .ref-stats-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 8px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .ref-stat-card {
+    padding: 10px 12px !important;
+  }
+
+  .ref-stat-num {
+    font-size: 20px !important;
+  }
+
+  .ref-stat-label {
+    font-size: 10.5px !important;
+  }
+
+  .ref-holidays-list {
+    padding: 8px !important;
+    gap: 8px !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  .ref-holiday-item {
+    padding: 8px 10px !important;
+    border-radius: 8px !important;
+    gap: 2px !important;
+    border: none !important;
+  }
+
+  .ref-holiday-date {
+    font-size: 10.5px !important;
+    font-weight: 700 !important;
+    color: var(--slate-700) !important;
+    line-height: 1.25 !important;
+  }
+
+  .ref-holiday-name {
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    color: var(--slate-900) !important;
+    line-height: 1.3 !important;
+  }
+
+  .ref-holiday-week {
+    font-size: 10px !important;
+    line-height: 1.25 !important;
+    color: var(--slate-500) !important;
+  }
+
+  .ref-card-header {
+    padding: 10px 14px !important;
+  }
+
+  /* Modals */
+  .modal-backdrop {
+    padding: 0;
+    align-items: flex-end;
+  }
+
+  .modal-dialog {
+    max-height: 88vh;
+    border-radius: 20px 20px 0 0;
+    max-width: 100vw;
+    width: 100vw;
+    animation: slideUpMobile 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .modal-header {
+    padding: 14px 16px;
+  }
+
+  .modal-body {
+    padding: 14px 16px;
+  }
+
+  .modal-footer {
+    padding: 10px 16px calc(10px + env(safe-area-inset-bottom, 0px));
+  }
+}
+
+
+  /* Month View Layout on Mobile (Title top, Calendar middle, Nav buttons bottom center) */
+  .month-mobile-header {
+    display: none;
+  }
+
+  @media (max-width: 768px) {
+    .month-mobile-header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 4px 0 8px;
+    }
+
+    .month-mobile-label {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--ink);
+      text-transform: capitalize;
+    }
+
+    #month-view.active-view {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #month-view .month-mobile-header {
+      order: 1;
+    }
+
+    #month-view .calendar-wrap {
+      order: 2;
+    }
+
+    #month-view .view-toolbar {
+      order: 3;
+      margin-top: 14px;
+      margin-bottom: 8px;
+      justify-content: center;
+      width: 100%;
+    }
+
+    #month-view .toolbar-actions {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      width: 100%;
+    }
+
+    #month-view .toolbar-actions .outline-btn {
+      padding: 7px 12px;
+      font-size: 12px;
+      font-weight: 600;
+      border-radius: 8px;
+      background: #ffffff;
+      border: 1px solid var(--line);
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    }
+
+    /* Week View Layout on Mobile (Mode Switch top, Days strip, Schedule cards, Week nav at bottom center) */
+    #week-view.active-view {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #week-view .mobile-mode-toggle {
+      order: 1;
+    }
+
+    #week-view .mobile-day-tabs {
+      order: 2;
+    }
+
+    #week-view .mobile-agenda-wrap,
+    #week-view .mobile-transposed-wrap,
+    #week-view .week-board-wrap {
+      order: 3;
+    }
+
+    #week-view .view-toolbar {
+      order: 4;
+      margin-top: 14px;
+      margin-bottom: 6px;
+      justify-content: center;
+      width: 100%;
+    }
+
+    #week-view .toolbar-actions {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      max-width: 320px;
+      margin: 0 auto;
+    }
+  }
+
+
+  /* Sub-toggle inside "Cả tuần" */
+  .week-layout-subtoggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #f8fafc;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 4px 8px;
+    margin-bottom: 8px;
+    gap: 8px;
+  }
+
+  .subtoggle-hint {
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--slate-600);
+  }
+
+  .subtoggle-btn-group {
+    display: flex;
+    gap: 3px;
+    background: #e2e8f0;
+    padding: 2px;
+    border-radius: 6px;
+  }
+
+  .subtoggle-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 8px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--slate-600);
+    border-radius: 4px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .subtoggle-btn.active {
+    background: #ffffff;
+    color: var(--primary);
+    font-weight: 700;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  }
+
+  /* When horizontal grid mode is active on mobile */
+  @media (max-width: 768px) {
+    .week-board-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      border-radius: 12px;
+      margin-bottom: 8px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+    }
+    .week-board {
+      min-width: 680px;
+    }
+  }
+
+
+  /* ============================================================
+     ULTRA-FIT 7-DAY HORIZONTAL GRID ON MOBILE (100% Fit - No Scroll)
+     ============================================================ */
+  @media (max-width: 768px) {
+    .week-board-wrap {
+      width: 100% !important;
+      max-width: 100% !important;
+      overflow: hidden !important;
+      border-radius: 10px !important;
+      margin-bottom: 8px !important;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04) !important;
+      border: 1px solid var(--line) !important;
+      background: #ffffff !important;
+    }
+
+    .week-board {
+      display: grid !important;
+      grid-template-columns: 32px repeat(7, minmax(0, 1fr)) !important;
+      width: 100% !important;
+      min-width: 0 !important;
+      overflow: hidden !important;
+    }
+
+    .week-head {
+      padding: 4px 1px !important;
+      font-size: 8.5px !important;
+      text-align: center !important;
+      line-height: 1.1 !important;
+      overflow: hidden !important;
+    }
+
+    .week-head b {
+      font-size: 10px !important;
+      margin-top: 1px !important;
+      display: block !important;
+    }
+
+    .empty-day-head-tag {
+      display: none !important;
+    }
+
+    .holiday-head-tag {
+      font-size: 7px !important;
+      padding: 0 1px !important;
+      margin-top: 1px !important;
+      border-radius: 2px !important;
+    }
+
+    .time-cell {
+      min-height: 52px !important;
+      padding: 4px 1px !important;
+      font-size: 8px !important;
+      font-weight: 700 !important;
+      line-height: 1.1 !important;
+      text-align: center !important;
+      display: flex !important;
+      flex-direction: column !important;
+      justify-content: center !important;
+      align-items: center !important;
+      gap: 1px !important;
+    }
+
+    .time-cell small {
+      font-size: 6.5px !important;
+    }
+
+    .note-row-label {
+      min-height: 24px !important;
+      padding: 2px 1px !important;
+      font-size: 7.5px !important;
+    }
+
+    .note-row-label small {
+      display: none !important;
+    }
+
+    .note-slot {
+      min-height: 24px !important;
+      padding: 1px !important;
+    }
+
+    .empty-note-hint {
+      font-size: 7px !important;
+      opacity: 0.6 !important;
+    }
+
+    .week-note-pill {
+      font-size: 7px !important;
+      padding: 1px 2px !important;
+      gap: 2px !important;
+    }
+
+    .week-note-pill svg {
+      width: 8px !important;
+      height: 8px !important;
+      flex: 0 0 8px !important;
+    }
+
+    .slot {
+      min-height: 52px !important;
+      padding: 2px 1px !important;
+      overflow: hidden !important;
+    }
+
+    .event-list {
+      gap: 2px !important;
+      height: auto !important;
+    }
+
+    .event {
+      padding: 3px 2px !important;
+      border-radius: 4px !important;
+      gap: 1px !important;
+      border: none !important;
+    }
+
+    .event strong {
+      font-size: 8px !important;
+      font-weight: 700 !important;
+      line-height: 1.15 !important;
+      word-break: break-word !important;
+      display: -webkit-box !important;
+      -webkit-line-clamp: 2 !important;
+      -webkit-box-orient: vertical !important;
+      overflow: hidden !important;
+    }
+
+    .event small {
+      font-size: 6.8px !important;
+      line-height: 1.05 !important;
+    }
+
+    .event small.teacher-name {
+      display: none !important;
+    }
+
+    .event-holiday-tag {
+      font-size: 6.5px !important;
+      padding: 0 2px !important;
+    }
+
+    .holiday-empty-slot {
+      padding: 2px 1px !important;
+      font-size: 7px !important;
+    }
+
+    .holiday-slot-badge {
+      font-size: 6.5px !important;
+    }
+
+    .holiday-slot-text {
+      font-size: 6.5px !important;
+    }
+  }
