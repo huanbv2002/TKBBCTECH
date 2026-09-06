@@ -9,20 +9,20 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="src/css/main.css?v=46" />
+  <link rel="stylesheet" href="src/css/main.css?v=48" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-  <script src="data/classes_data.js?v=46"></script>
-  <script src="src/js/config.js?v=47"></script>
-  <script src="src/js/utils.js?v=47"></script>
-  <script src="src/js/storage.js?v=47"></script>
-  <script src="src/js/components/class-picker.js?v=47"></script>
-  <script src="src/js/components/pdf-uploader.js?v=47"></script>
-  <script src="src/js/components/tour.js?v=47"></script>
-  <script src="src/js/views/note-modal.js?v=47"></script>
-  <script src="src/js/views/week-view.js?v=47"></script>
-  <script src="src/js/views/month-view.js?v=47"></script>
-  <script src="src/js/views/reference-view.js?v=47"></script>
-  <script src="src/js/main.js?v=47" defer></script>
+  <script src="data/classes_data.js?v=48"></script>
+  <script src="src/js/config.js?v=48"></script>
+  <script src="src/js/utils.js?v=48"></script>
+  <script src="src/js/storage.js?v=48"></script>
+  <script src="src/js/components/class-picker.js?v=48"></script>
+  <script src="src/js/components/pdf-uploader.js?v=48"></script>
+  <script src="src/js/components/tour.js?v=48"></script>
+  <script src="src/js/views/note-modal.js?v=48"></script>
+  <script src="src/js/views/week-view.js?v=48"></script>
+  <script src="src/js/views/month-view.js?v=48"></script>
+  <script src="src/js/views/reference-view.js?v=48"></script>
+  <script src="src/js/main.js?v=48" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -136,18 +136,18 @@
 
           <!-- Mobile Main Mode Toggle (Từng ngày / Cả tuần) -->
           <div class="mobile-mode-toggle" id="mobile-mode-toggle">
-            <button type="button" class="mobile-mode-btn active" id="mode-btn-agenda" data-mode="agenda" onclick="setMobileScheduleMode('agenda')">
+            <button type="button" class="mobile-mode-btn" id="mode-btn-agenda" data-mode="agenda" onclick="setMobileScheduleMode('agenda')">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="display: inline-block; vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
               <span>Từng ngày</span>
             </button>
-            <button type="button" class="mobile-mode-btn" id="mode-btn-week" data-mode="week" onclick="setMobileScheduleMode('week')">
+            <button type="button" class="mobile-mode-btn active" id="mode-btn-week" data-mode="week" onclick="setMobileScheduleMode('week')">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="display: inline-block; vertical-align: -2px; margin-right: 4px;"><rect x="3" y="3" width="7" height="18" rx="1"></rect><rect x="14" y="3" width="7" height="18" rx="1"></rect></svg>
               <span>Cả tuần</span>
             </button>
           </div>
 
           <!-- Sub-toggle inside "Cả tuần": Switch between Vertical (Dọc thứ) and Horizontal Grid (Lưới ngang) -->
-          <div class="week-layout-subtoggle" id="week-layout-subtoggle" style="display: none;">
+          <div class="week-layout-subtoggle" id="week-layout-subtoggle" style="display: flex;">
             <span class="subtoggle-hint">Hiển thị cả tuần:</span>
             <div class="subtoggle-btn-group">
               <button type="button" class="subtoggle-btn" id="layout-btn-vertical" onclick="setWeekLayout('vertical')" title="Xem dạng Bảng dọc (vừa khít màn hình)">
@@ -162,7 +162,7 @@
           </div>
 
           <!-- Mobile Day Switcher for easy phone usage -->
-          <div class="mobile-day-tabs" id="mobile-day-tabs"></div>
+          <div class="mobile-day-tabs" id="mobile-day-tabs" style="display: none;"></div>
 
           <!-- Mode 1 (Default): Mobile Day Agenda Feed -->
           <div class="mobile-agenda-wrap" id="mobile-agenda-view"></div>

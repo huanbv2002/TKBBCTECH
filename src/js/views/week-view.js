@@ -11,16 +11,16 @@
  */
 
 let activeMobileDow = null;
-let mobileScheduleMode = 'agenda'; // 'agenda' | 'week'
+let mobileScheduleMode = 'week'; // 'agenda' | 'week'
 let weekSubLayout = 'horizontal';     // 'vertical' | 'horizontal'
 
 // Load saved preferences
 try {
-  const savedMainMode = localStorage.getItem('tkb-mobile-mainmode-v2');
+  const savedMainMode = localStorage.getItem('tkb-mobile-mainmode-v3');
   if (savedMainMode && ['agenda', 'week'].includes(savedMainMode)) {
     mobileScheduleMode = savedMainMode;
   }
-  const savedSubLayout = localStorage.getItem('tkb-week-sublayout-v2');
+  const savedSubLayout = localStorage.getItem('tkb-week-sublayout-v3');
   if (savedSubLayout && ['vertical', 'horizontal'].includes(savedSubLayout)) {
     weekSubLayout = savedSubLayout;
   }
@@ -472,7 +472,7 @@ window.selectMobileDay = function(dow) {
 window.setMobileScheduleMode = function(mode) {
   mobileScheduleMode = mode;
   try {
-    localStorage.setItem('tkb-mobile-mainmode-v2', mode);
+    localStorage.setItem('tkb-mobile-mainmode-v3', mode);
   } catch (_) {}
   updateMobileScheduleVisibility();
 };
@@ -480,7 +480,7 @@ window.setMobileScheduleMode = function(mode) {
 window.setWeekLayout = function(layout) {
   weekSubLayout = layout;
   try {
-    localStorage.setItem('tkb-week-sublayout-v2', layout);
+    localStorage.setItem('tkb-week-sublayout-v3', layout);
   } catch (_) {}
   updateMobileScheduleVisibility();
 };
