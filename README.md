@@ -19,12 +19,12 @@
 
 ## 2. Các Tính Năng Chi Tiết
 
-### 🕒 Đồng hồ thực tế & Tự động nhận diện tuần học
+### Đồng hồ thực tế & Tự động nhận diện tuần học
 - Đồng hồ hiển thị Thứ, Ngày, Tháng, Năm và thời gian thực tế.
 - Hệ thống tự động so sánh ngày thực tế với mốc khai giảng (07/09/2026) để **tự động mở đúng Tuần học và Thứ của ngày hôm nay** ngay khi vào web.
 - Nút **"Hôm nay"** giúp quay trở lại ngay lịch thực tế sau khi xem các tuần hoặc tháng khác.
 
-### 📅 Lịch học theo Tuần (Week View)
+### Lịch học theo Tuần (Week View)
 - Phân ca học rõ ràng: **Buổi Sáng** (Tiết 1–5: 07:25 – 11:30) & **Buổi Chiều** (Tiết 6–10: 12:55 – 17:00).
 - Thẻ môn học thiết kế dạng **Pastel Card** mềm mại, không đường viền thô, hiển thị đầy đủ: tên môn, số tiết, khung giờ, phòng học (LAB / Lý thuyết) và thầy cô giảng dạy.
 - Các ngày và buổi không có tiết học có màu xám êm dịu, dễ phân biệt.
@@ -35,26 +35,26 @@
     - **Bảng dọc**: Bảng chia thứ theo hàng dọc và 2 cột Sáng/Chiều gọn gàng.
   - Cụm nút điều hướng chuyển tuần được đặt ở **dưới cùng và căn giữa**, rất thuận tay khi dùng 1 tay.
 
-### 🗓️ Lịch Tháng & Ghi chú cá nhân (Month View & Notes)
+### Lịch Tháng & Ghi chú cá nhân (Month View & Notes)
 - Hiển thị toàn bộ các ngày trong tháng theo dạng tờ lịch thân quen.
 - Tự động đánh dấu các ngày có tiết học, ngày nghỉ Lễ/Tết và ngày có ghi chú.
 - **Ghi chú bài học**: Bấm vào ngày bất kỳ để lưu nhắc nhở bài tập, hạn nộp bài LAB, lịch thi. Ghi chú được lưu trữ an toàn ngay trên trình duyệt (`LocalStorage`) của người dùng.
 
-### 📋 Bảng tham chiếu 22 tuần & Lịch nghỉ Lễ, Tết (Reference View)
+### Bảng tham chiếu 22 tuần & Lịch nghỉ Lễ, Tết (Reference View)
 - Bảng tổng kết chuẩn mẫu in X1025 của học kỳ 1: hiển thị ngày bắt đầu, ngày kết thúc và trạng thái của từng tuần (Tuần học chính khóa, Dự trữ & Thi, Nghỉ Tết).
 - **Mục Ngày nghỉ Lễ & Tết**: Hiển thị dạng **Lưới 2 cột song song** (Ngày Nhà Giáo VN 20/11, Ngày Văn Hóa VN 24/11, Tết Dương Lịch 01/01/2027, Tết Nguyên Đán Đinh Mùi 2027).
 - **Click-to-jump**: Chạm vào bất kỳ hàng tuần hoặc thẻ nghỉ lễ nào để mở ngay lịch của tuần đó.
 
-### 🔍 Hộp tìm kiếm 61 lớp học toàn trường (Searchable Class Picker)
+### Hộp tìm kiếm 61 lớp học toàn trường (Searchable Class Picker)
 - Tìm kiếm tức thì theo mã lớp (CD25, CD24, T25...) hoặc theo tên ngành học (CNTT, Ô tô, Điện, Cơ khí, May thời trang...).
 - Tìm kiếm thông minh không phân biệt dấu tiếng Việt và bôi đậm từ khóa khớp.
 - Hỗ trợ phím tắt trên máy tính: bấm `Ctrl + K` hoặc `/` để mở tìm kiếm, dùng phím `↑`/`↓` và `Enter` để chọn.
 
-### 📑 Cập nhật TKB từ file PDF mới
+### Cập nhật TKB từ file PDF mới
 - **Trực tiếp trên web**: Bấm nút **"Cập nhật PDF"**, kéo thả file PDF vào để hệ thống tự động bóc tách và cập nhật ngay trên trình duyệt (sử dụng thư viện `PDF.js`).
 - **Bằng công cụ Windows**: Kéo thả file PDF vào file `cap_nhat_tkb.bat` để chạy script Python tự động xuất dữ liệu mới vào thư mục `data/`.
 
-### 💡 Hướng dẫn sử dụng tương tác (Tour Onboarding)
+### Hướng dẫn sử dụng tương tác (Tour Onboarding)
 - Gồm 6 bước hướng dẫn chiếu sáng từng nút bấm chức năng, lời văn bình dị, gần gũi, phù hợp cho mọi lứa tuổi và phụ huynh.
 
 ---
