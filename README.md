@@ -1,128 +1,129 @@
-# Thời Khóa Biểu Thông Minh (Smart Timetable)
+# Thời Khóa Biểu CD25CNTT2 & Toàn Trường
 
-Ứng dụng tra cứu và quản lý **Thời Khóa Biểu thông minh**, tối ưu hiển thị hoàn hảo trên cả máy tính (Desktop) và điện thoại di động (Responsive Mobile UI). Hỗ trợ tra cứu 61 lớp học toàn trường, ghi chú cá nhân theo ngày, tra cứu lộ trình 22 tuần học kỳ kèm lịch nghỉ Lễ/Tết chính thức, và trích xuất dữ liệu trực tiếp từ file PDF trên trình duyệt.
+Ứng dụng web tra cứu và quản lý **Thời Khóa Biểu thông minh** dành cho lớp **CD25CNTT2 (Cao đẳng Công nghệ thông tin)** và toàn bộ **61 lớp học** tại Trường Cao đẳng Kỹ thuật Công nghệ Bà Rịa - Vũng Tàu (Học kỳ 1, Năm học 2026 – 2027).
 
 ---
 
-## Tính Năng Nổi Bật
+## 1. Thông Tin & Nguồn Gốc Dữ Liệu
 
-- **Lịch học tuần (Week View)**:
-  - Phân chia rõ ràng theo các ca học: **Sáng / Chiều**.
-  - Thẻ môn học thiết kế dạng **Pastel Card** mềm mại, không viền, hiển thị trực quan tên môn, phòng học, giảng viên và khung giờ.
-  - Màu nền xám êm dịu cho các ngày và buổi không có tiết học.
-  - Tự động nhảy đến đúng Tuần & Thứ hiện tại khi mở web. Nút **"Hôm nay"** giúp quay về lịch thực tế bất kỳ lúc nào.
+- **Đơn vị đào tạo**: Trường Cao đẳng Kỹ thuật Công nghệ Bà Rịa - Vũng Tàu.
+- **Lớp mặc định**: `CD25CNTT2` · Ngành Công nghệ thông tin.
+- **Thời gian học kỳ 1**:
+  - **Tuần 1 bắt đầu**: Thứ Hai, **07/09/2026**.
+  - **Lộ trình học tập**: 22 tuần (18 tuần học chính khóa, 2 tuần dự trữ & thi, 2 tuần nghỉ Tết Âm Lịch).
+- **Cơ sở dữ liệu**:
+  - Tích hợp sẵn dữ liệu đầy đủ của toàn bộ **61 lớp học** trong toàn trường (lưu trữ tại `data/classes_data.js` và `data/classes_database.json`).
+  - Hỗ trợ cập nhật tự động khi nhà trường ban hành file Thời khóa biểu PDF mới.
 
-- **Chế độ xem linh hoạt trên Điện thoại (Mobile-First)**:
-  - **Từng ngày**: Xem chi tiết 1 ngày, có thanh thứ **T2 → CN** và hỗ trợ **vuốt chạm màn hình qua lại** để chuyển ngày.
-  - **Cả tuần**: Xem toàn bộ tuần trên một màn hình với 2 dạng hiển thị tùy chọn:
-    - **Lưới ngang**: Lưới 7 cột (T2 → CN) thiết kế vừa khít 100% chiều ngang điện thoại, không cần cuộn ngang.
+---
+
+## 2. Các Tính Năng Chi Tiết
+
+### 🕒 Đồng hồ thực tế & Tự động nhận diện tuần học
+- Đồng hồ hiển thị Thứ, Ngày, Tháng, Năm và thời gian thực tế.
+- Hệ thống tự động so sánh ngày thực tế với mốc khai giảng (07/09/2026) để **tự động mở đúng Tuần học và Thứ của ngày hôm nay** ngay khi vào web.
+- Nút **"Hôm nay"** giúp quay trở lại ngay lịch thực tế sau khi xem các tuần hoặc tháng khác.
+
+### 📅 Lịch học theo Tuần (Week View)
+- Phân ca học rõ ràng: **Buổi Sáng** (Tiết 1–5: 07:25 – 11:30) & **Buổi Chiều** (Tiết 6–10: 12:55 – 17:00).
+- Thẻ môn học thiết kế dạng **Pastel Card** mềm mại, không đường viền thô, hiển thị đầy đủ: tên môn, số tiết, khung giờ, phòng học (LAB / Lý thuyết) và thầy cô giảng dạy.
+- Các ngày và buổi không có tiết học có màu xám êm dịu, dễ phân biệt.
+- **Tối ưu trên Điện thoại**:
+  - **Chế độ Từng ngày**: Xem chi tiết 1 ngày, có thanh thứ **T2 → CN** và hỗ trợ **vuốt màn hình qua lại** để chuyển ngày.
+  - **Chế độ Cả tuần**: Xem trọn vẹn cả tuần từ Thứ 2 đến Chủ Nhật với 2 dạng hiển thị tùy chọn:
+    - **Lưới ngang**: 7 cột thứ thiết kế vừa khít 100% chiều ngang điện thoại, không cần cuộn ngang.
     - **Bảng dọc**: Bảng chia thứ theo hàng dọc và 2 cột Sáng/Chiều gọn gàng.
-  - Thanh điều hướng chuyển tuần/tháng đặt ở **dưới cùng và căn giữa**, cực kỳ thuận tiện khi thao tác bằng 1 tay.
+  - Cụm nút điều hướng chuyển tuần được đặt ở **dưới cùng và căn giữa**, rất thuận tay khi dùng 1 tay.
 
-- **Lịch tháng & Ghi chú cá nhân (Month View & Notes)**:
-  - Xem tổng quan lịch học của tất cả các ngày trong tháng.
-  - Thêm, xem và xóa ghi chú cá nhân (nhắc nộp bài tập, thi cử, deadline...) cho từng ngày.
-  - Tự động lưu trữ an toàn trên trình duyệt (`LocalStorage`), không lo mất dữ liệu.
+### 🗓️ Lịch Tháng & Ghi chú cá nhân (Month View & Notes)
+- Hiển thị toàn bộ các ngày trong tháng theo dạng tờ lịch thân quen.
+- Tự động đánh dấu các ngày có tiết học, ngày nghỉ Lễ/Tết và ngày có ghi chú.
+- **Ghi chú bài học**: Bấm vào ngày bất kỳ để lưu nhắc nhở bài tập, hạn nộp bài LAB, lịch thi. Ghi chú được lưu trữ an toàn ngay trên trình duyệt (`LocalStorage`) của người dùng.
 
-- **Bảng tham chiếu 22 tuần & Lịch nghỉ Lễ/Tết (Reference View)**:
-  - Bảng tra cứu chuẩn 22 tuần học kỳ (18 tuần chính khóa, 2 tuần dự trữ & thi, 2 tuần nghỉ Tết).
-  - Mục **Các ngày nghỉ Lễ & Tết** hiển thị dạng **Lưới 2 cột song song** gọn gàng.
-  - **Click-to-jump**: Bấm vào bất kỳ hàng tuần hoặc thẻ ngày nghỉ lễ để mở ngay lịch học của tuần đó.
+### 📋 Bảng tham chiếu 22 tuần & Lịch nghỉ Lễ, Tết (Reference View)
+- Bảng tổng kết chuẩn mẫu in X1025 của học kỳ 1: hiển thị ngày bắt đầu, ngày kết thúc và trạng thái của từng tuần (Tuần học chính khóa, Dự trữ & Thi, Nghỉ Tết).
+- **Mục Ngày nghỉ Lễ & Tết**: Hiển thị dạng **Lưới 2 cột song song** (Ngày Nhà Giáo VN 20/11, Ngày Văn Hóa VN 24/11, Tết Dương Lịch 01/01/2027, Tết Nguyên Đán Đinh Mùi 2027).
+- **Click-to-jump**: Chạm vào bất kỳ hàng tuần hoặc thẻ nghỉ lễ nào để mở ngay lịch của tuần đó.
 
-- **Hộp tìm kiếm lớp học toàn trường (Searchable Class Picker)**:
-  - Tìm kiếm tức thì trong 61 lớp học theo mã lớp (CD25, CD24, T25...) hoặc tên ngành học (CNTT, Ô tô, Điện, Cơ khí...).
-  - Tìm kiếm thông minh không phân biệt dấu tiếng Việt (Accent-insensitive) và bôi đậm từ khóa khớp.
-  - Hỗ trợ phím tắt tiện lợi: `Ctrl + K` hoặc `/` để mở tìm kiếm; dùng phím `↑`/`↓` và `Enter` để chọn.
+### 🔍 Hộp tìm kiếm 61 lớp học toàn trường (Searchable Class Picker)
+- Tìm kiếm tức thì theo mã lớp (CD25, CD24, T25...) hoặc theo tên ngành học (CNTT, Ô tô, Điện, Cơ khí, May thời trang...).
+- Tìm kiếm thông minh không phân biệt dấu tiếng Việt và bôi đậm từ khóa khớp.
+- Hỗ trợ phím tắt trên máy tính: bấm `Ctrl + K` hoặc `/` để mở tìm kiếm, dùng phím `↑`/`↓` và `Enter` để chọn.
 
-- **Cập nhật PDF trực tiếp trên Web (In-Browser PDF.js)**:
-  - Kéo & thả file PDF Thời khóa biểu mới vào trình duyệt.
-  - Tự động bóc tách mã lớp, môn học, giảng viên, phòng học, thứ, tiết và tuần học ngay trên trình duyệt mà không cần cài đặt Python.
-  - Tùy chọn tải file `classes_data.js` để lưu cố định vào mã nguồn.
+### 📑 Cập nhật TKB từ file PDF mới
+- **Trực tiếp trên web**: Bấm nút **"Cập nhật PDF"**, kéo thả file PDF vào để hệ thống tự động bóc tách và cập nhật ngay trên trình duyệt (sử dụng thư viện `PDF.js`).
+- **Bằng công cụ Windows**: Kéo thả file PDF vào file `cap_nhat_tkb.bat` để chạy script Python tự động xuất dữ liệu mới vào thư mục `data/`.
 
-- **Hướng dẫn sử dụng tương tác (Interactive Onboarding Tour)**:
-  - 6 bước hướng dẫn trực quan, chiếu sáng từng nút chức năng với lời văn mộc mạc, gần gũi, phù hợp cho mọi lứa tuổi và phụ huynh.
-
----
-
-## Phím Tắt Tiện Lợi (Trên Máy Tính)
-
-| Phím tắt | Thao tác |
-| :--- | :--- |
-| `Ctrl + K` hoặc `/` | Mở nhanh hộp tìm kiếm lớp học |
-| `↑` / `↓` | Di chuyển lên / xuống giữa các lớp |
-| `Enter` | Chọn lớp đang trỏ tới |
-| `Escape` | Đóng hộp thoại tìm kiếm / Modal |
+### 💡 Hướng dẫn sử dụng tương tác (Tour Onboarding)
+- Gồm 6 bước hướng dẫn chiếu sáng từng nút bấm chức năng, lời văn bình dị, gần gũi, phù hợp cho mọi lứa tuổi và phụ huynh.
 
 ---
 
-## Cấu Trúc Thư Mục Dự Án (Modular Architecture)
+## 3. Cấu Trúc Mã Nguồn (Project Structure)
 
 ```
 TKB/
-├── index.html            # File HTML chính của ứng dụng
+├── index.html            # File HTML chính (Giao diện chuẩn PC & Điện thoại)
+│
 ├── src/
 │   ├── js/
-│   │   ├── config.js        # Cấu hình, mốc giờ ca học, danh mục ngày nghỉ lễ
+│   │   ├── config.js        # Cấu hình ca học, mốc giờ, danh mục ngày nghỉ lễ
 │   │   ├── utils.js         # Tiện ích ngày tháng, formatters, bộ lọc tiếng Việt
 │   │   ├── storage.js       # Dịch vụ lưu trữ LocalStorage (ghi chú, settings)
 │   │   ├── views/
-│   │   │   ├── week-view.js      # Render Lịch tuần, dải thứ và chế độ mobile
-│   │   │   ├── month-view.js     # Render Lịch tháng & sự kiện
-│   │   │   ├── reference-view.js # Render Bảng 22 tuần & Lễ Tết
-│   │   │   └── note-modal.js     # Modal thêm / xem / xóa ghi chú theo ngày
+│   │   │   ├── week-view.js      # Lịch tuần (Từng ngày & Cả tuần vừa khít điện thoại)
+│   │   │   ├── month-view.js     # Lịch tháng & sự kiện
+│   │   │   ├── reference-view.js # Bảng tham chiếu 22 tuần & Lễ Tết (Lưới 2 cột)
+│   │   │   └── note-modal.js     # Modal ghi chú bài học cá nhân
 │   │   ├── components/
-│   │   │   ├── class-picker.js   # Hộp thoại tìm kiếm & chọn lớp toàn trường (Ctrl+K)
-│   │   │   ├── pdf-uploader.js   # Bộ trích xuất file PDF trực tiếp trên web (PDF.js)
-│   │   │   └── tour.js           # Hướng dẫn sử dụng tương tác từng bước
-│   │   └── main.js          # Khởi tạo ứng dụng & gắn kết các sự kiện điều hướng
+│   │   │   ├── class-picker.js   # Tìm & chọn 61 lớp học toàn trường (Ctrl+K)
+│   │   │   ├── pdf-uploader.js   # Bộ bóc tách PDF trực tiếp trên web (PDF.js)
+│   │   │   └── tour.js           # Hướng dẫn 6 bước dễ hiểu cho người lớn tuổi
+│   │   └── main.js          # Controller khởi tạo ứng dụng & đồng hồ
 │   │
 │   └── css/
-│       ├── main.css         # Entry point CSS nạp toàn bộ module
-│       ├── variables.css    # Design System (biến màu sắc, fonts, shadows)
-│       ├── base.css         # Reset CSS, App Shell, Topbar, Sidebar
-│       ├── components.css   # Nút bấm, dropdown, modal, dropzone PDF
-│       ├── week-view.css    # Styles cho bảng Lịch tuần
-│       ├── month-view.css   # Styles cho Lịch tháng
-│       ├── reference-view.css # Styles cho Bảng tham chiếu 22 tuần
-│       ├── tour.css         # Styles cho hướng dẫn tương tác
-│       └── responsive.css   # Styles responsive & tối ưu giao diện điện thoại
+│       ├── main.css         # CSS Entry point
+│       ├── variables.css    # Design System (Màu sắc pastel không viền, fonts)
+│       ├── base.css         # Reset & App Shell layout
+│       ├── components.css   # Buttons, Dropdown, Modal, Search box
+│       ├── week-view.css    # Bảng Lịch tuần
+│       ├── month-view.css   # Lịch tháng
+│       ├── reference-view.css # Bảng 22 tuần & Thẻ nghỉ lễ
+│       ├── tour.css         # Spotlight & Popover hướng dẫn
+│       └── responsive.css   # Tối ưu giao diện mobile & bottom navigation
 │
 ├── data/
-│   ├── classes_data.js       # Dữ liệu TKB 61 lớp học (JS bundle)
-│   └── classes_database.json # File JSON thô để tích hợp API/Backend
+│   ├── classes_data.js       # Dữ liệu TKB 61 lớp học (JS bundle nạp vào web)
+│   └── classes_database.json # File JSON thô phục vụ tích hợp API/Backend
 │
 ├── scripts/
 │   └── update_tkb.py        # Tool Python trích xuất PDF tự động
 │
-├── cap_nhat_tkb.bat         # Tool Windows 1-click kéo thả cập nhật PDF
+├── cap_nhat_tkb.bat         # Tool Windows 1-click kéo thả cập nhật file PDF
 ├── .gitignore              # Cấu hình bỏ qua file tạm cho Git
 ├── LICENSE                 # Giấy phép mã nguồn mở (MIT License)
-└── README.md                # Tài liệu hướng dẫn sử dụng
+└── README.md                # Tài liệu hướng dẫn sử dụng & triển khai
 ```
 
 ---
 
-## Hướng Dẫn Triển Khai (Deployment)
+## 4. Hướng Dẫn Sử Dụng & Triển Khai (Deployment)
 
-### 1. Chạy trực tiếp (Không cần cài đặt):
-- Nhấp đúp mở file `index.html` bằng bất kỳ trình duyệt nào.
-- Hoặc deploy trực tiếp lên **GitHub Pages**, **Vercel**, **Netlify**, **Cloudflare Pages** hoàn toàn miễn phí.
+### Chạy trực tiếp trên máy:
+- Không cần cài đặt bất kỳ phần mềm hay Node.js nào. Chỉ cần nhấp đúp mở file `index.html` bằng trình duyệt web bất kỳ.
 
-### 2. Triển khai lên GitHub Pages:
-1. Tạo repository mới trên GitHub.
+### Triển khai lên GitHub Pages (Miễn phí):
+1. Tạo một repository mới trên tài khoản GitHub của bạn.
 2. Đẩy toàn bộ mã nguồn lên:
    ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Smart Timetable web app"
-   git branch -M main
-   git remote add origin https://github.com/<username>/<repo-name>.git
+   git remote add origin https://github.com/<tai-khoan-cua-ban>/<ten-repo>.git
    git push -u origin main
    ```
-3. Vào **Settings** > **Pages** trên GitHub, chọn Branch `main` và thư mục `/(root)` > bấm **Save**. Trang web sẽ tự động online sau 1 phút!
+3. Vào **Settings** > **Pages** trên GitHub repository, tại mục **Branch** chọn `main` và thư mục `/(root)` > bấm **Save**.
+4. Trang web sẽ có link online công khai để xem trên mọi thiết bị di động và máy tính!
 
 ---
 
-## Bản Quyền (License)
+## 5. Bản Quyền (License)
 
-Dự án được phân phối dưới giấy phép mã nguồn mở [MIT License](LICENSE).
+Dự án được phát hành dưới giấy phép mã nguồn mở [MIT License](LICENSE).
