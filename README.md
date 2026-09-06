@@ -125,20 +125,7 @@ TKB/
 
 ---
 
-## 6. HƯỚNG DẪN SỬ DỤNG & TRIỂN KHAI
 
-### Chạy trực tiếp trên máy tính:
-- Nhấp đúp mở file `index.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Firefox, Safari...).
-
-### Triển khai lên GitHub Pages (Miễn phí):
-1. Đẩy toàn bộ mã nguồn lên GitHub:
-   ```bash
-   git push origin main
-   ```
-2. Vào **Settings** > **Pages** trên GitHub repository, tại mục **Branch** chọn `main` và thư mục `/(root)` > bấm **Save**.
-
----
-
-## 7. BẢN QUYỀN (LICENSE)
+## 6. BẢN QUYỀN (LICENSE)
 
 Dự án được phân phối dưới giấy phép mã nguồn mở [MIT License](LICENSE).
