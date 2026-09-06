@@ -1,4 +1,4 @@
-# THỜI KHÓA BIỂU THÔNG MINH - LỚP CD25CNTT2 & TOÀN TRƯỜNG
+# THỜI KHÓA BIỂU THÔNG MINH
 
 Ứng dụng web tra cứu và quản lý Thời Khóa Biểu thông minh, tự động đồng bộ theo thời gian thực, tối ưu giao diện mượt mà trên cả máy tính và điện thoại di động.
 
