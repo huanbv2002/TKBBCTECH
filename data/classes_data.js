@@ -40,8 +40,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "emerald",
         "id": "cd25cbma-2"
@@ -77,8 +77,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "emerald",
         "id": "cd25cbma-4"
@@ -94,7 +94,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "cd25cbma-5"
@@ -153,8 +153,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "emerald",
         "id": "cd25cbma-8"
@@ -222,7 +222,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          5
+          15
         ],
         "color": "teal",
         "id": "cd25cbma-11"
@@ -258,8 +258,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "emerald",
         "id": "cd25cbma-13"
@@ -358,7 +358,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          5
+          15
         ],
         "color": "teal",
         "id": "cd25cbma-18"
@@ -413,8 +413,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "emerald",
         "id": "cd25cbma-21"
@@ -432,14 +432,14 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          6,
           9,
           10,
           11,
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "emerald",
         "id": "cd25cbma-22"
@@ -494,8 +494,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cbma-25"
@@ -538,7 +538,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cbma-27"
@@ -556,8 +556,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cbma-28"
@@ -611,8 +611,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cbma-31"
@@ -663,7 +663,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          5
+          15
         ],
         "color": "rose",
         "id": "cd25cbma-34"
@@ -743,8 +743,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cbma-37"
@@ -762,8 +762,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cbma-38"
@@ -791,7 +791,8 @@ const ALL_CLASSES_DATABASE =
           11,
           12,
           13,
-          14
+          14,
+          15
         ],
         "color": "rose",
         "id": "cd25cbma-39"
@@ -819,9 +820,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25cdt1-1"
@@ -871,7 +872,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cdt1-3"
@@ -976,7 +977,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.202(X.ĐT)",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25cdt1-7"
@@ -992,7 +993,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25cdt1-8"
@@ -1010,7 +1011,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "cd25cdt1-9"
@@ -1054,14 +1055,14 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X5.101(PCNC)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "blue",
         "id": "cd25cdt1-11"
@@ -1113,7 +1114,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "cd25cdt1-13"
@@ -1147,7 +1148,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt1-14"
       },
       {
@@ -1194,7 +1195,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "cd25cdt1-16"
@@ -1273,13 +1274,13 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt1-19"
       },
       {
@@ -1315,9 +1316,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt1-21"
       },
       {
@@ -1353,9 +1354,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt1-23"
       },
       {
@@ -1369,7 +1370,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "cd25cdt1-24"
@@ -1487,8 +1488,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "emerald",
         "id": "cd25cdt2-3"
@@ -1504,7 +1505,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.102(ĐT)",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25cdt2-4"
@@ -1520,7 +1521,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25cdt2-5"
@@ -1564,7 +1565,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.102(ĐT)",
         "weeks": [
-          1
+          11
         ],
         "color": "rose",
         "id": "cd25cdt2-7"
@@ -1582,9 +1583,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25cdt2-8"
@@ -1600,7 +1601,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
         "color": "rose",
         "id": "cd25cdt2-9"
@@ -1718,7 +1719,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cdt2-13"
@@ -1771,7 +1772,8 @@ const ALL_CLASSES_DATABASE =
           9,
           10,
           12,
-          13
+          13,
+          14
         ],
         "color": "blue",
         "id": "cd25cdt2-15"
@@ -1816,7 +1818,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4
+          14
         ],
         "color": "blue",
         "id": "cd25cdt2-17"
@@ -1843,9 +1845,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt2-18"
       },
       {
@@ -1872,7 +1875,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt2-19"
       },
       {
@@ -1886,9 +1889,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          6
+          16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt2-20"
       },
       {
@@ -1902,7 +1905,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cdt2-21"
@@ -1920,9 +1923,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cdt2-22"
       },
       {
@@ -1967,8 +1970,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5
+          14,
+          15
         ],
         "color": "emerald",
         "id": "cd25cdt2-24"
@@ -2036,7 +2039,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cgkl-1"
       },
       {
@@ -2084,7 +2087,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          9
+          19
         ],
         "color": "orange",
         "id": "cd25cgkl-3"
@@ -2099,7 +2102,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X5.102(PHAY)",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "cd25cgkl-4"
@@ -2210,8 +2213,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cgkl-8"
@@ -2247,7 +2250,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X4.PHAY",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "cd25cgkl-10"
@@ -2277,7 +2280,8 @@ const ALL_CLASSES_DATABASE =
           15,
           16,
           17,
-          18
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cgkl-11"
@@ -2327,7 +2331,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cgkl-13"
       },
       {
@@ -2352,7 +2356,8 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "violet",
         "id": "cd25cgkl-14"
@@ -2370,7 +2375,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "cd25cgkl-15"
@@ -2385,7 +2390,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "cd25cgkl-16"
@@ -2434,7 +2439,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cgkl-18"
       },
       {
@@ -2449,7 +2454,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X4.PLT",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cgkl-19"
@@ -2470,7 +2475,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           4
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cgkl-20"
       },
       {
@@ -2484,7 +2489,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cgkl-21"
@@ -2528,7 +2533,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          9
+          19
         ],
         "color": "orange",
         "id": "cd25cgkl-23"
@@ -2571,8 +2576,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cgkl-25"
@@ -2611,7 +2616,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cgkl-27"
       },
       {
@@ -2683,7 +2688,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "cd25cgkl-30"
@@ -2701,9 +2706,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5
+          13,
+          14,
+          15
         ],
         "color": "orange",
         "id": "cd25cgkl-31"
@@ -2757,14 +2762,14 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cgkl-34"
       },
       {
@@ -2779,9 +2784,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7
+          17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cgkl-35"
       }
     ]
@@ -2859,7 +2864,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot1-2"
       },
       {
@@ -2920,9 +2925,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.208",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25cnot1-5"
@@ -2953,7 +2958,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot1-6"
       },
       {
@@ -3060,7 +3065,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25cnot1-10"
@@ -3144,7 +3149,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "cd25cnot1-13"
@@ -3179,7 +3184,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-14"
       },
       {
@@ -3225,7 +3230,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1.STRG",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot1-16"
@@ -3240,7 +3245,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot1-17"
@@ -3293,7 +3298,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-19"
       },
       {
@@ -3309,7 +3314,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "cd25cnot1-20"
@@ -3327,12 +3332,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          2,
-          3,
-          4,
-          5
+          12,
+          13,
+          14,
+          15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-21"
       },
       {
@@ -3359,7 +3364,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-22"
       },
       {
@@ -3375,9 +3380,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot1-23"
       },
       {
@@ -3393,7 +3398,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25cnot1-24"
@@ -3409,9 +3414,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          6
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-25"
       },
       {
@@ -3427,9 +3432,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-26"
       },
       {
@@ -3444,9 +3449,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          2
+          12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-27"
       },
       {
@@ -3460,9 +3465,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot1-28"
       },
       {
@@ -3533,7 +3538,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot2-1"
       },
       {
@@ -3549,7 +3554,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          9
+          19
         ],
         "color": "orange",
         "id": "cd25cnot2-2"
@@ -3612,8 +3617,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cnot2-5"
@@ -3644,7 +3649,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot2-6"
       },
       {
@@ -3730,7 +3735,8 @@ const ALL_CLASSES_DATABASE =
           15,
           16,
           17,
-          18
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cnot2-9"
@@ -3808,7 +3814,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25cnot2-12"
@@ -3892,7 +3898,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "cd25cnot2-15"
@@ -3927,7 +3933,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-16"
       },
       {
@@ -3943,7 +3949,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          9
+          19
         ],
         "color": "orange",
         "id": "cd25cnot2-17"
@@ -3992,8 +3998,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          8,
-          9
+          18,
+          19
         ],
         "color": "orange",
         "id": "cd25cnot2-19"
@@ -4010,7 +4016,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1.STRG",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot2-20"
@@ -4025,7 +4031,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot2-21"
@@ -4078,7 +4084,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-23"
       },
       {
@@ -4094,7 +4100,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "cd25cnot2-24"
@@ -4112,12 +4118,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          2,
-          3,
-          4,
-          5
+          12,
+          13,
+          14,
+          15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-25"
       },
       {
@@ -4144,7 +4150,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-26"
       },
       {
@@ -4160,9 +4166,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot2-27"
       },
       {
@@ -4178,7 +4184,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25cnot2-28"
@@ -4194,9 +4200,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          6
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-29"
       },
       {
@@ -4212,9 +4218,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-30"
       },
       {
@@ -4229,9 +4235,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          2
+          12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-31"
       },
       {
@@ -4245,9 +4251,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot2-32"
       }
     ]
@@ -4284,7 +4290,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-1"
       },
       {
@@ -4299,9 +4305,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          1
+          11
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-2"
       },
       {
@@ -4315,9 +4321,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-3"
       },
       {
@@ -4363,7 +4369,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2.STRG",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot3-5"
@@ -4378,7 +4384,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot3-6"
@@ -4451,8 +4457,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           1,
@@ -4480,13 +4486,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "rose",
         "id": "cd25cnot3-9"
       },
       {
         "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           1,
@@ -4495,15 +4501,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          8
+          18
         ],
-        "color": "orange",
+        "color": "rose",
         "id": "cd25cnot3-10"
       },
       {
         "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           6,
@@ -4531,13 +4537,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "cd25cnot3-11"
       },
       {
         "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           6,
@@ -4546,9 +4552,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X6.301(D.OTO)",
         "weeks": [
-          8
+          18
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "cd25cnot3-12"
       },
       {
@@ -4609,7 +4615,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-14"
       },
       {
@@ -4676,7 +4682,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-16"
       },
       {
@@ -4690,7 +4696,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cnot3-17"
@@ -4745,9 +4751,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot3-19"
       },
       {
@@ -4778,7 +4785,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot3-20"
       },
       {
@@ -4794,17 +4801,17 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25cnot3-21"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           1,
@@ -4820,7 +4827,7 @@ const ALL_CLASSES_DATABASE =
           4,
           5
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot3-22"
       },
       {
@@ -4837,15 +4844,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-23"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           6,
@@ -4860,7 +4867,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot3-24"
       },
       {
@@ -4876,15 +4883,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot3-25"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           6,
@@ -4897,7 +4904,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot3-26"
       },
       {
@@ -4914,15 +4921,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-27"
       },
       {
         "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           11,
@@ -4932,15 +4939,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "cd25cnot3-28"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           1,
@@ -4952,7 +4959,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot3-29"
       },
       {
@@ -4968,15 +4975,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot3-30"
       },
       {
         "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           11,
@@ -4986,9 +4993,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "orange",
+        "color": "rose",
         "id": "cd25cnot3-31"
       }
     ]
@@ -5025,7 +5032,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-1"
       },
       {
@@ -5040,9 +5047,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          1
+          11
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-2"
       },
       {
@@ -5056,9 +5063,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-3"
       },
       {
@@ -5104,7 +5111,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2.STRG",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot4-5"
@@ -5119,7 +5126,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cnot4-6"
@@ -5192,8 +5199,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           1,
@@ -5221,13 +5228,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "rose",
         "id": "cd25cnot4-9"
       },
       {
         "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           1,
@@ -5236,15 +5243,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          8
+          18
         ],
-        "color": "orange",
+        "color": "rose",
         "id": "cd25cnot4-10"
       },
       {
         "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           6,
@@ -5272,13 +5279,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "cd25cnot4-11"
       },
       {
         "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 4,
         "periods": [
           6,
@@ -5287,9 +5294,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X6.301(D.OTO)",
         "weeks": [
-          8
+          18
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "cd25cnot4-12"
       },
       {
@@ -5350,7 +5357,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-14"
       },
       {
@@ -5417,7 +5424,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-16"
       },
       {
@@ -5431,7 +5438,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cnot4-17"
@@ -5486,9 +5493,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot4-19"
       },
       {
@@ -5519,7 +5527,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot4-20"
       },
       {
@@ -5535,17 +5543,17 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25cnot4-21"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           1,
@@ -5561,7 +5569,7 @@ const ALL_CLASSES_DATABASE =
           4,
           5
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot4-22"
       },
       {
@@ -5578,15 +5586,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-23"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           6,
@@ -5601,7 +5609,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot4-24"
       },
       {
@@ -5617,15 +5625,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25cnot4-25"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           6,
@@ -5638,7 +5646,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot4-26"
       },
       {
@@ -5655,15 +5663,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-27"
       },
       {
         "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           11,
@@ -5673,15 +5681,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "cd25cnot4-28"
       },
       {
         "code": "CD25CNOT21",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           1,
@@ -5693,7 +5701,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "cd25cnot4-29"
       },
       {
@@ -5709,15 +5717,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cnot4-30"
       },
       {
         "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           11,
@@ -5727,9 +5735,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "orange",
+        "color": "rose",
         "id": "cd25cnot4-31"
       }
     ]
@@ -5755,10 +5763,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.202(LAB1)",
         "weeks": [
-          5,
-          6,
-          7,
-          8
+          15,
+          16,
+          17,
+          18
         ],
         "color": "blue",
         "id": "cd25cntt1-1"
@@ -5773,8 +5781,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "blue",
         "id": "cd25cntt1-2"
@@ -5825,11 +5833,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "violet",
         "id": "cd25cntt1-4"
@@ -5946,8 +5954,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "violet",
         "id": "cd25cntt1-8"
@@ -6030,10 +6038,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "cd25cntt1-11"
@@ -6051,8 +6059,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5
+          14,
+          15
         ],
         "color": "teal",
         "id": "cd25cntt1-12"
@@ -6069,7 +6077,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cntt1-13"
@@ -6109,7 +6117,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cntt1-15"
@@ -6164,10 +6172,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.202(LAB1)",
         "weeks": [
-          5,
-          6,
-          7,
-          8
+          15,
+          16,
+          17,
+          18
         ],
         "color": "blue",
         "id": "cd25cntt2-1"
@@ -6182,8 +6190,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "blue",
         "id": "cd25cntt2-2"
@@ -6234,11 +6242,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "violet",
         "id": "cd25cntt2-4"
@@ -6355,8 +6363,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "violet",
         "id": "cd25cntt2-8"
@@ -6439,10 +6447,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "cd25cntt2-11"
@@ -6460,8 +6468,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5
+          14,
+          15
         ],
         "color": "teal",
         "id": "cd25cntt2-12"
@@ -6478,7 +6486,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25cntt2-13"
@@ -6518,7 +6526,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25cntt2-15"
@@ -6600,7 +6608,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck1-2"
@@ -6617,7 +6625,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          1
+          11
         ],
         "color": "violet",
         "id": "cd25ctck1-3"
@@ -6633,7 +6641,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
         "color": "violet",
         "id": "cd25ctck1-4"
@@ -6651,8 +6659,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25ctck1-5"
@@ -6771,7 +6779,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25ctck1-9"
@@ -6826,7 +6834,8 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "teal",
         "id": "cd25ctck1-11"
@@ -6842,7 +6851,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X2.PLASMA",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck1-12"
@@ -6858,7 +6867,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck1-13"
@@ -6907,7 +6916,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25ctck1-15"
@@ -6940,7 +6949,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25ctck1-16"
       },
       {
@@ -6954,9 +6963,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X6.201(CCĐ)",
         "weeks": [
-          6
+          16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25ctck1-17"
       },
       {
@@ -6970,9 +6979,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25ctck1-18"
       },
       {
@@ -7018,7 +7027,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.102(MAG)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck1-20"
@@ -7200,7 +7209,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck2-2"
@@ -7217,7 +7226,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          1
+          11
         ],
         "color": "violet",
         "id": "cd25ctck2-3"
@@ -7233,7 +7242,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
         "color": "violet",
         "id": "cd25ctck2-4"
@@ -7283,8 +7292,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25ctck2-6"
@@ -7418,7 +7427,8 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "teal",
         "id": "cd25ctck2-10"
@@ -7434,7 +7444,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X2.PLASMA",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck2-11"
@@ -7450,7 +7460,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck2-12"
@@ -7499,7 +7509,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25ctck2-14"
@@ -7532,7 +7542,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25ctck2-15"
       },
       {
@@ -7546,9 +7556,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X6.201(CCĐ)",
         "weeks": [
-          6
+          16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25ctck2-16"
       },
       {
@@ -7562,9 +7572,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25ctck2-17"
       },
       {
@@ -7578,7 +7588,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.102(MAG)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25ctck2-18"
@@ -7694,7 +7704,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25ctck2-23"
@@ -7773,9 +7783,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25dcn1-1"
@@ -7856,7 +7866,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.203(X.ĐKN)",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25dcn1-4"
@@ -7872,7 +7882,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25dcn1-5"
@@ -7909,7 +7919,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn1-6"
       },
       {
@@ -7940,7 +7950,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn1-7"
       },
       {
@@ -7954,9 +7964,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.202(X.ĐT)",
         "weeks": [
-          5
+          15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn1-8"
       },
       {
@@ -7972,11 +7982,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn1-9"
       },
       {
@@ -7990,9 +8000,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn1-10"
       },
       {
@@ -8035,9 +8045,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.203(X.TĐH)",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn1-12"
       },
       {
@@ -8052,7 +8062,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.202(X.ĐT)",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "cd25dcn1-13"
@@ -8068,7 +8078,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "cd25dcn1-14"
@@ -8115,7 +8125,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25dcn1-16"
@@ -8131,9 +8141,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn1-17"
       },
       {
@@ -8147,7 +8157,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25dcn1-18"
@@ -8191,7 +8201,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.104(X.ĐNC)",
         "weeks": [
-          2
+          12
         ],
         "color": "rose",
         "id": "cd25dcn1-20"
@@ -8207,7 +8217,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "rose",
         "id": "cd25dcn1-21"
@@ -8387,9 +8397,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25dcn2-2"
@@ -8436,7 +8446,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.203(X.ĐKN)",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25dcn2-4"
@@ -8452,7 +8462,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25dcn2-5"
@@ -8489,7 +8499,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn2-6"
       },
       {
@@ -8520,7 +8530,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn2-7"
       },
       {
@@ -8534,9 +8544,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.202(X.ĐT)",
         "weeks": [
-          5
+          15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn2-8"
       },
       {
@@ -8552,11 +8562,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn2-9"
       },
       {
@@ -8570,9 +8580,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn2-10"
       },
       {
@@ -8615,9 +8625,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.203(X.TĐH)",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn2-12"
       },
       {
@@ -8632,7 +8642,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.202(X.ĐT)",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "cd25dcn2-13"
@@ -8648,7 +8658,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "cd25dcn2-14"
@@ -8695,7 +8705,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25dcn2-16"
@@ -8711,9 +8721,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn2-17"
       },
       {
@@ -8727,7 +8737,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "cd25dcn2-18"
@@ -8771,7 +8781,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.104(X.ĐNC)",
         "weeks": [
-          2
+          12
         ],
         "color": "rose",
         "id": "cd25dcn2-20"
@@ -8787,7 +8797,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "rose",
         "id": "cd25dcn2-21"
@@ -8893,7 +8903,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn3-1"
       },
       {
@@ -8991,7 +9001,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn3-4"
       },
       {
@@ -9005,9 +9015,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.102(ĐT)",
         "weeks": [
-          6
+          16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn3-5"
       },
       {
@@ -9021,9 +9031,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25dcn3-6"
       },
       {
@@ -9093,7 +9103,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25dcn3-9"
@@ -9140,7 +9150,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.301(TĐH1)",
         "weeks": [
-          5
+          15
         ],
         "color": "teal",
         "id": "cd25dcn3-11"
@@ -9158,9 +9168,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25dcn3-12"
@@ -9176,7 +9186,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
         "color": "teal",
         "id": "cd25dcn3-13"
@@ -9223,7 +9233,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.101(LĐĐ)",
         "weeks": [
-          5
+          15
         ],
         "color": "blue",
         "id": "cd25dcn3-15"
@@ -9239,7 +9249,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
         "color": "blue",
         "id": "cd25dcn3-16"
@@ -9283,7 +9293,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X6.201(CCĐ)",
         "weeks": [
-          1
+          11
         ],
         "color": "rose",
         "id": "cd25dcn3-18"
@@ -9299,7 +9309,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
         "color": "rose",
         "id": "cd25dcn3-19"
@@ -9342,9 +9352,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn3-21"
       },
       {
@@ -9360,12 +9370,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn3-22"
       },
       {
@@ -9380,7 +9390,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X1.102(ĐT)",
         "weeks": [
-          1
+          11
         ],
         "color": "orange",
         "id": "cd25dcn3-23"
@@ -9396,7 +9406,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
         "color": "orange",
         "id": "cd25dcn3-24"
@@ -9414,9 +9424,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25dcn3-25"
       },
       {
@@ -9482,7 +9492,8 @@ const ALL_CLASSES_DATABASE =
           11,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "teal",
         "id": "cd25ktml-1"
@@ -9532,7 +9543,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25ktml-3"
@@ -9605,9 +9616,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "cd25ktml-6"
@@ -9654,7 +9665,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X7.204(X.ĐL)",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25ktml-8"
@@ -9671,9 +9682,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25ktml-9"
       },
       {
@@ -9699,7 +9710,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25ktml-10"
       },
       {
@@ -9730,7 +9741,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "cd25ktml-11"
       },
       {
@@ -9980,7 +9991,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "cd25log-2"
@@ -9995,7 +10006,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "cd25log-3"
@@ -10075,7 +10086,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "cd25log-6"
@@ -10090,7 +10101,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "cd25log-7"
@@ -10177,11 +10188,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7
+          13,
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "cd25log-10"
@@ -10208,7 +10219,8 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12
         ],
         "color": "rose",
         "id": "cd25log-11"
@@ -10225,7 +10237,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25log-12"
@@ -10241,7 +10253,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25log-13"
@@ -10256,7 +10268,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "rose",
         "id": "cd25log-14"
@@ -10304,7 +10316,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "cd25log-16"
@@ -10320,7 +10332,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "cd25log-17"
@@ -10335,7 +10347,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "cd25log-18"
@@ -10350,7 +10362,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "cd25log-19"
@@ -10431,7 +10443,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25log-22"
@@ -10446,7 +10458,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "cd25log-23"
@@ -10464,10 +10476,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "cd25log-24"
@@ -10500,7 +10512,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25log-25"
       },
       {
@@ -10515,9 +10527,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25log-26"
       },
       {
@@ -10530,9 +10542,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25log-27"
       },
       {
@@ -10546,7 +10558,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25log-28"
@@ -10659,7 +10671,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25tkdh-2"
@@ -10745,7 +10757,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25tkdh-5"
@@ -10764,7 +10776,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.202(LAB1)",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "cd25tkdh-6"
@@ -10799,7 +10811,8 @@ const ALL_CLASSES_DATABASE =
           15,
           16,
           17,
-          18
+          18,
+          19
         ],
         "color": "rose",
         "id": "cd25tkdh-7"
@@ -10883,7 +10896,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25tkdh-10"
@@ -10933,9 +10946,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          5,
-          6,
-          8
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "cd25tkdh-12"
@@ -10951,7 +10964,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "cd25tkdh-13"
@@ -10993,7 +11006,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25tkdh-15"
@@ -11009,7 +11022,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "cd25tkdh-16"
@@ -11027,7 +11040,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25tkdh-17"
@@ -11043,7 +11056,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25tkdh-18"
@@ -11061,10 +11074,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "cd25tkdh-19"
@@ -11080,7 +11093,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "rose",
         "id": "cd25tkdh-20"
@@ -11096,7 +11109,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "cd25tkdh-21"
@@ -11114,10 +11127,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "orange",
         "id": "cd25tkdh-22"
@@ -11263,7 +11276,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1
+          11
         ],
         "color": "teal",
         "id": "t25cbma1-4"
@@ -11280,7 +11293,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
         "color": "teal",
         "id": "t25cbma1-5"
@@ -11363,12 +11376,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25cbma1-8"
@@ -11416,7 +11429,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma1-10"
@@ -11432,7 +11445,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cbma1-11"
@@ -11510,7 +11523,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.201(X.CT)",
         "weeks": [
-          5
+          15
         ],
         "color": "emerald",
         "id": "t25cbma1-14"
@@ -11528,9 +11541,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cbma1-15"
@@ -11546,7 +11559,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
         "color": "emerald",
         "id": "t25cbma1-16"
@@ -11594,7 +11607,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cbma1-18"
@@ -11610,7 +11623,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma1-19"
@@ -11681,7 +11694,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cbma1-22"
@@ -11697,7 +11710,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cbma1-23"
@@ -11724,7 +11737,8 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12
         ],
         "color": "blue",
         "id": "t25cbma1-24"
@@ -11739,7 +11753,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "blue",
         "id": "t25cbma1-25"
@@ -11764,7 +11778,10 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13,
+          14
         ],
         "color": "violet",
         "id": "t25cbma1-26"
@@ -11806,9 +11823,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          2,
-          3,
-          4
+          12,
+          13,
+          14
         ],
         "color": "orange",
         "id": "t25cbma1-28"
@@ -11852,9 +11869,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          4,
-          5,
-          6
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cbma1-30"
@@ -11899,7 +11916,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma1-32"
@@ -11942,9 +11959,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          4,
-          5,
-          6
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cbma1-34"
@@ -11959,7 +11976,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma1-35"
@@ -12012,7 +12029,8 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "rose",
         "id": "t25cbma1-37"
@@ -12030,7 +12048,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cbma1-38"
@@ -12045,7 +12063,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "t25cbma1-39"
@@ -12150,7 +12168,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "t25cbma2-2"
@@ -12166,7 +12184,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "emerald",
         "id": "t25cbma2-3"
@@ -12231,7 +12249,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cbma2-5"
@@ -12279,7 +12298,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.205",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cbma2-7"
@@ -12319,7 +12338,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          5
+          15
         ],
         "color": "orange",
         "id": "t25cbma2-9"
@@ -12337,7 +12356,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cbma2-10"
@@ -12353,7 +12372,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
         "color": "orange",
         "id": "t25cbma2-11"
@@ -12410,7 +12429,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25cbma2-13"
@@ -12458,7 +12478,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma2-15"
@@ -12508,7 +12528,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cbma2-17"
@@ -12558,12 +12578,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25cbma2-19"
@@ -12621,7 +12641,8 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12
         ],
         "color": "blue",
         "id": "t25cbma2-21"
@@ -12639,7 +12660,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cbma2-22"
@@ -12654,7 +12675,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "blue",
         "id": "t25cbma2-23"
@@ -12724,8 +12745,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25cbma2-26"
@@ -12766,7 +12787,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cbma2-28"
@@ -12809,7 +12830,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.201(CBMA)",
         "weeks": [
-          2
+          12
         ],
         "color": "teal",
         "id": "t25cbma2-30"
@@ -12827,7 +12848,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cbma2-31"
@@ -12844,7 +12865,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "teal",
         "id": "t25cbma2-32"
@@ -12862,9 +12883,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          4,
-          5,
-          6
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cbma2-33"
@@ -12909,7 +12930,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma2-35"
@@ -12952,9 +12973,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          4,
-          5,
-          6
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cbma2-37"
@@ -12969,7 +12990,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbma2-38"
@@ -12987,7 +13008,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cbma2-39"
@@ -13040,7 +13061,8 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "rose",
         "id": "t25cbma2-41"
@@ -13055,7 +13077,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "t25cbma2-42"
@@ -13073,9 +13095,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cbma2-43"
@@ -13092,11 +13114,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5
+          11,
+          12,
+          13,
+          14,
+          15
         ],
         "color": "emerald",
         "id": "t25cbma2-44"
@@ -13145,8 +13167,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP18",
-        "subject": "Công nghệ bảo quản và chế biến rau quả Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Công nghệ bảo quản và chế biến rau quả",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 2,
         "periods": [
           1,
@@ -13156,10 +13178,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-2"
       },
       {
@@ -13188,15 +13210,16 @@ const ALL_CLASSES_DATABASE =
           11,
           13,
           14,
-          15
+          15,
+          16
         ],
         "color": "violet",
         "id": "t25cbtp-3"
       },
       {
         "code": "TC25CBTP18",
-        "subject": "Công nghệ bảo quản và chế biến rau quả Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Công nghệ bảo quản và chế biến rau quả",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 2,
         "periods": [
           6,
@@ -13206,10 +13229,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-4"
       },
       {
@@ -13265,7 +13288,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25cbtp-6"
@@ -13313,7 +13337,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cbtp-8"
@@ -13362,7 +13386,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25cbtp-10"
@@ -13419,7 +13443,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cbtp-12"
@@ -13467,7 +13492,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cbtp-14"
@@ -13575,7 +13600,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.305",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cbtp-18"
@@ -13633,7 +13658,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cbtp-21"
@@ -13664,8 +13689,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC23CBTP29",
-        "subject": "Phụ gia thực phẩm (TC*) Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Phụ gia thực phẩm (TC*)",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 5,
         "periods": [
           6,
@@ -13683,7 +13708,7 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25cbtp-23"
       },
       {
@@ -13721,18 +13746,18 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC23CBTP29",
-        "subject": "Phụ gia thực phẩm (TC*) Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Phụ gia thực phẩm (TC*)",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 5,
         "periods": [
           10
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25cbtp-26"
       },
       {
@@ -13756,7 +13781,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25cbtp-27"
@@ -13788,8 +13815,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP18",
-        "subject": "Công nghệ bảo quản và chế biến rau quả Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Công nghệ bảo quản và chế biến rau quả",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 6,
         "periods": [
           6,
@@ -13814,13 +13841,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-29"
       },
       {
         "code": "TC25CBTP18",
-        "subject": "Công nghệ bảo quản và chế biến rau quả Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Công nghệ bảo quản và chế biến rau quả",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 6,
         "periods": [
           6,
@@ -13828,9 +13855,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-30"
       },
       {
@@ -13854,7 +13881,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25cbtp-31"
@@ -13872,10 +13901,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "emerald",
         "id": "t25cbtp-32"
@@ -13951,7 +13980,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          5
+          15
         ],
         "color": "violet",
         "id": "t25cbtp-35"
@@ -13970,7 +13999,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25cbtp-36"
@@ -13988,18 +14017,18 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          4,
           10,
           12,
-          13
+          13,
+          14
         ],
         "color": "blue",
         "id": "t25cbtp-37"
       },
       {
         "code": "TC25CBTP18",
-        "subject": "Công nghệ bảo quản và chế biến rau quả Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Công nghệ bảo quản và chế biến rau quả",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 8,
         "periods": [
           1,
@@ -14012,7 +14041,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-38"
       },
       {
@@ -14047,7 +14076,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          5
+          15
         ],
         "color": "violet",
         "id": "t25cbtp-40"
@@ -14063,7 +14092,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25cbtp-41"
@@ -14080,7 +14109,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          4
+          14
         ],
         "color": "blue",
         "id": "t25cbtp-42"
@@ -14107,8 +14136,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP18",
-        "subject": "Công nghệ bảo quản và chế biến rau quả Luyện",
-        "teacher": "Thị Thu Huyền",
+        "subject": "Công nghệ bảo quản và chế biến rau quả",
+        "teacher": "Luyện Thị Thu Huyền",
         "dow": 8,
         "periods": [
           6,
@@ -14121,7 +14150,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-44"
       },
       {
@@ -14154,7 +14183,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4
+          14
         ],
         "color": "blue",
         "id": "t25cbtp-46"
@@ -14190,7 +14219,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          12
         ],
         "color": "orange",
         "id": "t25cdt1-1"
@@ -14206,7 +14237,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cdt1-2"
@@ -14222,7 +14253,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cdt1-3"
@@ -14334,7 +14365,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "violet",
         "id": "t25cdt1-7"
@@ -14350,7 +14383,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cdt1-8"
@@ -14366,7 +14399,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cdt1-9"
@@ -14441,7 +14474,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cdt1-12"
@@ -14457,7 +14490,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.202(X.ĐT)",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "t25cdt1-13"
@@ -14473,7 +14506,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "blue",
         "id": "t25cdt1-14"
@@ -14491,7 +14524,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cdt1-15"
@@ -14541,7 +14574,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cdt1-17"
@@ -14575,7 +14608,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-18"
       },
       {
@@ -14592,10 +14625,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25cdt1-19"
@@ -14625,7 +14658,7 @@ const ALL_CLASSES_DATABASE =
           10,
           12
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-20"
       },
       {
@@ -14640,7 +14673,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cdt1-21"
@@ -14656,7 +14689,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cdt1-22"
@@ -14763,13 +14796,13 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-26"
       },
       {
@@ -14838,9 +14871,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-29"
       },
       {
@@ -14864,7 +14897,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-30"
       },
       {
@@ -14879,9 +14912,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1
+          11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-31"
       },
       {
@@ -14994,9 +15027,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt1-35"
       },
       {
@@ -15012,8 +15045,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cdt1-36"
@@ -15031,8 +15064,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cdt1-37"
@@ -15048,7 +15081,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cdt1-38"
@@ -15077,11 +15110,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25cdt2-1"
@@ -15124,8 +15157,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          3
+          11,
+          13
         ],
         "color": "violet",
         "id": "t25cdt2-3"
@@ -15199,7 +15232,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-6"
       },
       {
@@ -15244,7 +15277,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-8"
       },
       {
@@ -15260,13 +15293,13 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5
+          11,
+          12,
+          13,
+          14,
+          15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-9"
       },
       {
@@ -15303,7 +15336,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-11"
       },
       {
@@ -15349,7 +15382,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cdt2-13"
@@ -15365,7 +15398,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cdt2-14"
@@ -15444,9 +15477,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-17"
       },
       {
@@ -15492,7 +15525,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cdt2-19"
@@ -15508,7 +15541,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cdt2-20"
@@ -15563,7 +15596,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-22"
       },
       {
@@ -15604,8 +15637,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25cdt2-24"
@@ -15624,8 +15657,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cdt2-25"
@@ -15699,7 +15732,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cdt2-28"
@@ -15715,7 +15748,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cdt2-29"
@@ -15742,7 +15775,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-30"
       },
       {
@@ -15758,14 +15791,14 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.403(LAB6)",
         "weeks": [
-          5,
           9,
           10,
           12,
           13,
-          14
+          14,
+          15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-31"
       },
       {
@@ -15790,7 +15823,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-32"
       },
       {
@@ -15812,7 +15845,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-33"
       },
       {
@@ -15828,9 +15861,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-34"
       },
       {
@@ -15879,10 +15912,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "emerald",
         "id": "t25cdt2-36"
@@ -15932,9 +15965,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cdt2-38"
       },
       {
@@ -15950,8 +15983,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4
+          13,
+          14
         ],
         "color": "blue",
         "id": "t25cdt2-39"
@@ -16013,7 +16046,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          12
         ],
         "color": "orange",
         "id": "t25cgkl1-1"
@@ -16031,9 +16066,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X4.MAI",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "blue",
         "id": "t25cgkl1-2"
@@ -16049,7 +16084,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-3"
@@ -16065,7 +16100,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cgkl1-4"
@@ -16134,9 +16169,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X4.MAI",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "blue",
         "id": "t25cgkl1-7"
@@ -16181,7 +16216,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "violet",
         "id": "t25cgkl1-9"
@@ -16199,9 +16236,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6,
-          7
+          15,
+          16,
+          17
         ],
         "color": "emerald",
         "id": "t25cgkl1-10"
@@ -16217,7 +16254,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-11"
@@ -16235,7 +16272,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X4.MAI",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cgkl1-12"
@@ -16251,7 +16288,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cgkl1-13"
@@ -16303,7 +16340,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "teal",
         "id": "t25cgkl1-15"
@@ -16386,8 +16424,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.204.T",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cgkl1-18"
@@ -16405,7 +16443,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-19"
@@ -16463,7 +16501,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl1-21"
       },
       {
@@ -16490,7 +16528,8 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15,
-          16
+          16,
+          18
         ],
         "color": "teal",
         "id": "t25cgkl1-22"
@@ -16508,7 +16547,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-23"
@@ -16530,7 +16569,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl1-24"
       },
       {
@@ -16578,7 +16617,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           4
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl1-26"
       },
       {
@@ -16592,7 +16631,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X5.102(TIEN)",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25cgkl1-27"
@@ -16610,7 +16649,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-28"
@@ -16626,7 +16665,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25cgkl1-29"
@@ -16702,7 +16741,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-32"
@@ -16790,7 +16829,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X4.MAI",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cgkl1-36"
@@ -16808,7 +16847,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-37"
@@ -16840,7 +16879,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cgkl1-39"
@@ -16855,7 +16894,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-40"
@@ -16877,7 +16916,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl1-41"
       },
       {
@@ -16983,9 +17022,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "blue",
         "id": "t25cgkl1-45"
@@ -17021,9 +17060,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6,
-          8
+          15,
+          16,
+          18
         ],
         "color": "emerald",
         "id": "t25cgkl1-47"
@@ -17101,8 +17140,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          3
+          11,
+          13
         ],
         "color": "violet",
         "id": "t25cgkl2-2"
@@ -17241,7 +17280,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cgkl2-7"
@@ -17257,7 +17296,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cgkl2-8"
@@ -17404,7 +17443,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cgkl2-13"
@@ -17420,7 +17459,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cgkl2-14"
@@ -17527,8 +17566,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25cgkl2-18"
@@ -17579,7 +17618,7 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl2-20"
       },
       {
@@ -17695,11 +17734,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X2.102(TCNC)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "rose",
         "id": "t25cgkl2-25"
@@ -17774,10 +17813,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X2.102(TCNC)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "rose",
         "id": "t25cgkl2-29"
@@ -17819,7 +17858,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X2.102(TCNC)",
         "weeks": [
-          8
+          18
         ],
         "color": "rose",
         "id": "t25cgkl2-31"
@@ -17836,7 +17875,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cgkl2-32"
@@ -17852,7 +17891,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cgkl2-33"
@@ -17890,7 +17929,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "rose",
         "id": "t25cgkl2-35"
@@ -17938,7 +17977,7 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl2-37"
       },
       {
@@ -17957,7 +17996,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           7
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl2-38"
       },
       {
@@ -17973,9 +18012,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cgkl2-39"
@@ -18029,7 +18068,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          12
         ],
         "color": "violet",
         "id": "t25cnot1-1"
@@ -18047,11 +18088,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-2"
@@ -18067,7 +18108,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cnot1-3"
@@ -18083,7 +18124,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-4"
@@ -18141,7 +18182,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "blue",
         "id": "t25cnot1-6"
@@ -18159,7 +18201,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-7"
@@ -18185,7 +18227,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "orange",
         "id": "t25cnot1-8"
@@ -18203,11 +18247,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-9"
@@ -18223,7 +18267,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cnot1-10"
@@ -18239,7 +18283,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-11"
@@ -18309,10 +18353,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "blue",
         "id": "t25cnot1-14"
@@ -18330,7 +18374,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-15"
@@ -18348,7 +18392,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-16"
@@ -18366,11 +18410,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-17"
@@ -18423,7 +18467,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-19"
@@ -18441,7 +18485,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-20"
@@ -18494,7 +18538,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-22"
@@ -18512,7 +18556,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-23"
@@ -18530,11 +18574,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-24"
@@ -18565,9 +18609,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot1-25"
       },
       {
@@ -18583,7 +18628,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-26"
@@ -18647,9 +18692,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot1-28"
       },
       {
@@ -18665,7 +18711,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-29"
@@ -18741,7 +18787,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-32"
@@ -18812,7 +18858,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cnot1-35"
@@ -18830,7 +18876,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot1-36"
@@ -18848,7 +18894,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-37"
@@ -18864,7 +18910,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cnot1-38"
@@ -18975,7 +19021,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cnot1-42"
@@ -19012,7 +19058,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cnot1-44"
@@ -19030,7 +19076,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot1-45"
@@ -19066,7 +19112,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          12
         ],
         "color": "violet",
         "id": "t25cnot2-1"
@@ -19082,7 +19130,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cnot2-2"
@@ -19100,11 +19148,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7
+          13,
+          14,
+          15,
+          16,
+          17
         ],
         "color": "blue",
         "id": "t25cnot2-3"
@@ -19123,7 +19171,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cnot2-4"
@@ -19139,7 +19187,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot2-5"
@@ -19171,8 +19219,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 2,
         "periods": [
           6,
@@ -19193,7 +19241,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "t25cnot2-7"
       },
       {
@@ -19244,7 +19292,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "orange",
         "id": "t25cnot2-9"
@@ -19263,10 +19313,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25cnot2-10"
@@ -19282,7 +19332,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cnot2-11"
@@ -19299,7 +19349,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cnot2-12"
@@ -19315,7 +19365,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot2-13"
@@ -19356,7 +19406,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cnot2-15"
@@ -19404,7 +19454,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          7
+          17
         ],
         "color": "blue",
         "id": "t25cnot2-17"
@@ -19471,13 +19521,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot2-19"
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           1,
@@ -19502,15 +19552,16 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
-        "color": "violet",
+        "color": "emerald",
         "id": "t25cnot2-20"
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           6,
@@ -19535,15 +19586,16 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
-        "color": "violet",
+        "color": "emerald",
         "id": "t25cnot2-21"
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           11,
@@ -19553,9 +19605,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "emerald",
         "id": "t25cnot2-22"
       },
       {
@@ -19649,7 +19701,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot2-25"
       },
       {
@@ -19687,8 +19739,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 6,
         "periods": [
           11,
@@ -19698,9 +19750,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "t25cnot2-27"
       },
       {
@@ -19812,15 +19864,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7
+          17
         ],
         "color": "blue",
         "id": "t25cnot2-31"
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           1,
@@ -19831,9 +19883,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X1.GAM",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "emerald",
         "id": "t25cnot2-32"
       },
       {
@@ -19849,16 +19901,16 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cnot2-33"
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           6,
@@ -19869,9 +19921,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X1.GAM",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "emerald",
         "id": "t25cnot2-34"
       },
       {
@@ -19913,8 +19965,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cnot2-36"
@@ -19932,9 +19984,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot2-37"
       }
     ]
@@ -19968,7 +20020,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          12
         ],
         "color": "orange",
         "id": "t25cnot3-1"
@@ -19986,11 +20040,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-2"
@@ -20006,7 +20060,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-3"
@@ -20022,7 +20076,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cnot3-4"
@@ -20080,7 +20134,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "blue",
         "id": "t25cnot3-6"
@@ -20098,7 +20153,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-7"
@@ -20124,7 +20179,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "violet",
         "id": "t25cnot3-8"
@@ -20142,11 +20199,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-9"
@@ -20162,7 +20219,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-10"
@@ -20178,7 +20235,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          9
+          19
         ],
         "color": "violet",
         "id": "t25cnot3-11"
@@ -20248,10 +20305,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "blue",
         "id": "t25cnot3-14"
@@ -20269,7 +20326,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-15"
@@ -20287,7 +20344,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-16"
@@ -20305,11 +20362,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-17"
@@ -20362,7 +20419,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-19"
@@ -20380,7 +20437,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-20"
@@ -20433,7 +20490,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-22"
@@ -20451,7 +20508,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-23"
@@ -20469,11 +20526,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-24"
@@ -20504,9 +20561,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot3-25"
       },
       {
@@ -20522,7 +20580,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-26"
@@ -20586,9 +20644,10 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot3-28"
       },
       {
@@ -20604,7 +20663,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-29"
@@ -20680,7 +20739,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-32"
@@ -20751,7 +20810,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cnot3-35"
@@ -20769,7 +20828,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot3-36"
@@ -20787,7 +20846,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-37"
@@ -20803,7 +20862,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cnot3-38"
@@ -20914,7 +20973,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cnot3-42"
@@ -20951,7 +21010,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cnot3-44"
@@ -20969,7 +21028,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot3-45"
@@ -21027,7 +21086,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cnot4-2"
@@ -21043,7 +21102,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot4-3"
@@ -21124,9 +21183,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot4-6"
       },
       {
@@ -21151,7 +21210,8 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11
         ],
         "color": "blue",
         "id": "t25cnot4-7"
@@ -21169,14 +21229,14 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot4-8"
       },
       {
@@ -21219,14 +21279,14 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot4-10"
       },
       {
@@ -21240,15 +21300,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          1
+          11
         ],
         "color": "blue",
         "id": "t25cnot4-11"
       },
       {
         "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 3,
         "periods": [
           11,
@@ -21258,9 +21318,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "t25cnot4-12"
       },
       {
@@ -21276,12 +21336,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot4-13"
@@ -21355,12 +21415,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot4-17"
@@ -21490,7 +21550,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot4-22"
@@ -21506,7 +21566,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot4-23"
@@ -21522,7 +21582,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cnot4-24"
@@ -21571,7 +21631,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot4-26"
@@ -21620,7 +21680,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot4-28"
@@ -21712,7 +21772,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          18
+          18,
+          19
         ],
         "color": "emerald",
         "id": "t25cnot4-31"
@@ -21747,7 +21808,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot4-32"
       },
       {
@@ -21763,15 +21824,15 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25cnot4-33"
       },
       {
         "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           1,
@@ -21781,13 +21842,13 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "t25cnot4-34"
       },
       {
@@ -21845,8 +21906,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô Ng",
-        "teacher": "Hữu Liêm Chánh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 7,
         "periods": [
           6,
@@ -21856,13 +21917,13 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
-        "color": "blue",
+        "color": "teal",
         "id": "t25cnot4-37"
       },
       {
@@ -21878,7 +21939,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot4-38"
@@ -21896,10 +21957,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cnot4-39"
@@ -21914,7 +21975,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          2
+          12
         ],
         "color": "violet",
         "id": "t25cnot4-40"
@@ -21932,7 +21993,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          1
+          11
         ],
         "color": "blue",
         "id": "t25cnot4-41"
@@ -21947,7 +22008,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cnot4-42"
@@ -21965,10 +22026,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cnot4-43"
@@ -21986,9 +22047,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot4-44"
       }
     ]
@@ -22044,7 +22105,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cnot5-2"
@@ -22060,7 +22121,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot5-3"
@@ -22120,7 +22181,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot5-5"
       },
       {
@@ -22325,11 +22386,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7
+          13,
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25cnot5-12"
@@ -22346,7 +22407,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cnot5-13"
@@ -22389,7 +22450,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25cnot5-15"
@@ -22437,7 +22498,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot5-17"
@@ -22453,7 +22514,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cnot5-18"
@@ -22534,8 +22595,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.403(LAB6)",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cnot5-21"
@@ -22553,11 +22614,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "teal",
         "id": "t25cnot5-22"
@@ -22584,7 +22645,8 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12
         ],
         "color": "blue",
         "id": "t25cnot5-23"
@@ -22602,11 +22664,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "teal",
         "id": "t25cnot5-24"
@@ -22649,7 +22711,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          2
+          12
         ],
         "color": "blue",
         "id": "t25cnot5-26"
@@ -22667,7 +22729,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "blue",
         "id": "t25cnot5-27"
@@ -22712,7 +22774,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot5-29"
@@ -22730,12 +22792,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot5-30"
       },
       {
@@ -22779,7 +22841,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot5-32"
@@ -22813,7 +22875,7 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot5-33"
       },
       {
@@ -22830,7 +22892,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25cnot5-34"
@@ -22845,7 +22907,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          2
+          12
         ],
         "color": "violet",
         "id": "t25cnot5-35"
@@ -22860,7 +22922,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cnot5-36"
@@ -22878,7 +22940,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cnot5-37"
@@ -22922,9 +22984,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cnot5-39"
       }
     ]
@@ -22993,10 +23055,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.308(LAB4)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "blue",
         "id": "t25cntt1-3"
@@ -23144,7 +23206,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cntt1-8"
@@ -23160,7 +23222,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cntt1-9"
@@ -23307,7 +23369,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cntt1-14"
@@ -23323,7 +23385,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cntt1-15"
@@ -23454,7 +23516,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cntt1-20"
@@ -23470,7 +23532,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25cntt1-21"
@@ -23495,7 +23557,10 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13,
+          14
         ],
         "color": "orange",
         "id": "t25cntt1-22"
@@ -23537,9 +23602,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          2,
-          3,
-          4
+          12,
+          13,
+          14
         ],
         "color": "violet",
         "id": "t25cntt1-24"
@@ -23608,11 +23673,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6
+          12,
+          13,
+          14,
+          15,
+          16
         ],
         "color": "violet",
         "id": "t25cntt1-27"
@@ -23630,9 +23695,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7
+          15,
+          16,
+          17
         ],
         "color": "teal",
         "id": "t25cntt1-28"
@@ -23651,7 +23716,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25cntt1-29"
@@ -23694,7 +23759,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cntt1-31"
@@ -23710,7 +23775,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cntt1-32"
@@ -23817,7 +23882,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25cntt2-3"
@@ -23865,7 +23931,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.205",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cntt2-5"
@@ -23956,7 +24022,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25cntt2-8"
@@ -24004,7 +24071,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25cntt2-10"
@@ -24203,8 +24270,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25cntt2-18"
@@ -24245,7 +24312,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cntt2-20"
@@ -24289,10 +24356,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25cntt2-22"
@@ -24335,11 +24402,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.403(LAB6)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          8
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "teal",
         "id": "t25cntt2-24"
@@ -24379,7 +24446,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25cntt2-26"
@@ -24416,7 +24483,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25cntt2-28"
@@ -24459,7 +24526,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "blue",
         "id": "t25cntt2-30"
@@ -24477,9 +24544,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7
+          15,
+          16,
+          17
         ],
         "color": "teal",
         "id": "t25cntt2-31"
@@ -24498,7 +24565,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25cntt2-32"
@@ -24508,7 +24575,7 @@ const ALL_CLASSES_DATABASE =
   "T25CTCK1": {
     "code": "T25CTCK1",
     "name": "Lớp T25CTCK1",
-    "major": "Chế tạo thiết bị c¬ khí - Hệ TC - Khóa học: 2025-2027 (T25CTCK1)",
+    "major": "Chế tạo thiết bị cơ khí - Hệ TC - Khóa học: 2025-2027 (T25CTCK1)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
     "maxWeeks": 19,
@@ -24539,7 +24606,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25ctck1-1"
@@ -24587,7 +24655,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ctck1-3"
@@ -24646,7 +24714,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25ctck1-5"
@@ -24694,7 +24763,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ctck1-7"
@@ -24770,7 +24839,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ctck1-10"
@@ -24788,8 +24857,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.204.T",
         "weeks": [
-          7,
-          8
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25ctck1-11"
@@ -24842,12 +24911,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "teal",
         "id": "t25ctck1-13"
@@ -25187,10 +25256,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "t25ctck1-26"
@@ -25207,10 +25276,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "t25ctck1-27"
@@ -25226,10 +25295,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "violet",
         "id": "t25ctck1-28"
@@ -25269,7 +25338,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
         "color": "emerald",
         "id": "t25ctck1-30"
@@ -25279,7 +25348,7 @@ const ALL_CLASSES_DATABASE =
   "T25CTCK2": {
     "code": "T25CTCK2",
     "name": "Lớp T25CTCK2",
-    "major": "Chế tạo thiết bị c¬ khí - Hệ TC - Khóa học: 2025-2027 (T25CTCK2)",
+    "major": "Chế tạo thiết bị cơ khí - Hệ TC - Khóa học: 2025-2027 (T25CTCK2)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
     "maxWeeks": 19,
@@ -25327,7 +25396,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ctck2-2"
@@ -25343,7 +25412,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ctck2-3"
@@ -25392,12 +25461,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          8
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "teal",
         "id": "t25ctck2-5"
@@ -25603,7 +25672,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ctck2-12"
@@ -25619,7 +25688,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ctck2-13"
@@ -25635,7 +25704,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ctck2-14"
@@ -25717,7 +25786,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ctck2-17"
@@ -25758,7 +25827,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ctck2-19"
@@ -25791,7 +25860,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          18
+          18,
+          19
         ],
         "color": "emerald",
         "id": "t25ctck2-20"
@@ -25809,7 +25879,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ctck2-21"
@@ -25911,12 +25981,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "teal",
         "id": "t25ctck2-25"
@@ -25933,7 +26003,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25ctck2-26"
@@ -25949,7 +26019,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25ctck2-27"
@@ -25991,7 +26061,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5
+          15
         ],
         "color": "emerald",
         "id": "t25ctck2-29"
@@ -26073,7 +26143,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn1-2"
@@ -26089,7 +26159,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn1-3"
@@ -26202,7 +26272,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn1-7"
@@ -26218,7 +26288,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn1-8"
@@ -26300,7 +26370,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.208",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn1-11"
@@ -26319,10 +26389,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.208",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25dcn1-12"
@@ -26365,7 +26435,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.208",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn1-14"
@@ -26382,8 +26452,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25dcn1-15"
@@ -26424,7 +26494,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn1-17"
@@ -26442,9 +26512,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25dcn1-18"
@@ -26505,7 +26575,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "orange",
         "id": "t25dcn1-21"
@@ -26710,8 +26780,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25dcn1-28"
@@ -26782,7 +26852,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25dcn1-31"
@@ -26877,7 +26947,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25dcn2-1"
@@ -26925,7 +26996,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn2-3"
@@ -26989,7 +27060,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25dcn2-5"
@@ -27037,7 +27109,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn2-7"
@@ -27089,7 +27161,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn2-9"
@@ -27176,7 +27248,6 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
           9,
           10,
           11,
@@ -27184,7 +27255,8 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15,
-          16
+          16,
+          17
         ],
         "color": "violet",
         "id": "t25dcn2-12"
@@ -27202,8 +27274,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.305(LAB1)",
         "weeks": [
-          6,
-          8
+          16,
+          18
         ],
         "color": "emerald",
         "id": "t25dcn2-13"
@@ -27222,10 +27294,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25dcn2-14"
@@ -27251,7 +27323,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25dcn2-15"
@@ -27268,7 +27342,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn2-16"
@@ -27311,7 +27385,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn2-18"
@@ -27527,7 +27601,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25dcn2-26"
@@ -27634,7 +27708,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn3-2"
@@ -27650,7 +27724,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn3-3"
@@ -27714,7 +27788,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25dcn3-5"
@@ -27747,7 +27822,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25dcn3-6"
@@ -27942,7 +28018,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn3-13"
@@ -27958,7 +28034,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn3-14"
@@ -28040,11 +28116,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6
+          12,
+          13,
+          14,
+          15,
+          16
         ],
         "color": "orange",
         "id": "t25dcn3-17"
@@ -28061,7 +28137,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn3-18"
@@ -28099,7 +28175,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn3-20"
@@ -28150,7 +28226,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn3-22"
@@ -28232,7 +28308,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn3-25"
@@ -28319,7 +28395,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "orange",
         "id": "t25dcn4-1"
@@ -28377,7 +28455,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25dcn4-3"
@@ -28410,7 +28489,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25dcn4-4"
@@ -28458,7 +28538,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn4-6"
@@ -28474,7 +28554,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn4-7"
@@ -28610,7 +28690,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn4-12"
@@ -28626,7 +28706,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25dcn4-13"
@@ -28710,7 +28790,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25dcn4-16"
@@ -28819,11 +28901,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6
+          12,
+          13,
+          14,
+          15,
+          16
         ],
         "color": "orange",
         "id": "t25dcn4-20"
@@ -28840,7 +28922,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn4-21"
@@ -28878,7 +28960,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn4-23"
@@ -28929,7 +29011,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25dcn4-25"
@@ -28980,7 +29062,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25dcn4-27"
@@ -29072,7 +29154,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25han1-1"
@@ -29090,7 +29173,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25han1-2"
@@ -29138,7 +29221,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25han1-4"
@@ -29183,7 +29266,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25han1-6"
@@ -29240,7 +29323,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25han1-8"
@@ -29288,7 +29372,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25han1-10"
@@ -29338,7 +29422,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25han1-12"
@@ -29484,10 +29568,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "violet",
         "id": "t25han1-17"
@@ -29506,11 +29590,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6
+          12,
+          13,
+          14,
+          15,
+          16
         ],
         "color": "orange",
         "id": "t25han1-18"
@@ -29554,7 +29638,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25han1-20"
@@ -29570,7 +29654,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25han1-21"
@@ -29596,7 +29680,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25han1-22"
@@ -29612,7 +29698,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X2.HAN",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25han1-23"
@@ -29630,10 +29716,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X2.HAN",
         "weeks": [
-          4,
-          5,
-          6,
-          7
+          14,
+          15,
+          16,
+          17
         ],
         "color": "teal",
         "id": "t25han1-24"
@@ -29804,7 +29890,10 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13,
+          14
         ],
         "color": "teal",
         "id": "t25han1-30"
@@ -29822,7 +29911,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25han1-31"
@@ -29863,7 +29952,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25han1-33"
@@ -29929,7 +30018,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25han1-36"
@@ -30009,11 +30098,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25han2-2"
@@ -30030,8 +30119,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          3
+          11,
+          13
         ],
         "color": "violet",
         "id": "t25han2-3"
@@ -30181,7 +30270,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25han2-9"
@@ -30197,7 +30286,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25han2-10"
@@ -30245,7 +30334,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25han2-12"
@@ -30261,7 +30350,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25han2-13"
@@ -30378,7 +30467,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-17"
@@ -30394,7 +30483,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25han2-18"
@@ -30410,7 +30499,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25han2-19"
@@ -30459,10 +30548,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8
+          15,
+          16,
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25han2-21"
@@ -30506,7 +30595,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-23"
@@ -30523,8 +30612,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25han2-24"
@@ -30542,10 +30631,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "emerald",
         "id": "t25han2-25"
@@ -30621,7 +30710,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-28"
@@ -30705,7 +30794,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-31"
@@ -30756,7 +30845,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-33"
@@ -30805,7 +30894,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-35"
@@ -30856,7 +30945,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          19
         ],
         "color": "teal",
         "id": "t25han2-37"
@@ -30874,7 +30963,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25han2-38"
@@ -30916,7 +31005,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25han2-40"
@@ -30984,7 +31073,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25ktml1-1"
@@ -31032,7 +31122,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml1-3"
@@ -31050,10 +31140,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4
+          13,
+          14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml1-4"
       },
       {
@@ -31069,7 +31159,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25ktml1-5"
@@ -31124,7 +31214,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25ktml1-7"
@@ -31172,7 +31263,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ktml1-9"
@@ -31259,7 +31350,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml1-12"
@@ -31312,7 +31403,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml1-14"
@@ -31422,7 +31513,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-18"
@@ -31473,9 +31564,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          5,
-          6,
-          8
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-20"
@@ -31507,7 +31598,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml1-21"
       },
       {
@@ -31523,7 +31614,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml1-22"
@@ -31542,7 +31633,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-23"
@@ -31581,7 +31672,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X6.101(X.ĐL)",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25ktml1-25"
@@ -31599,7 +31690,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml1-26"
@@ -31615,7 +31706,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25ktml1-27"
@@ -31657,11 +31748,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          4,
-          5,
-          6,
-          8,
-          9
+          14,
+          15,
+          16,
+          18,
+          19
         ],
         "color": "emerald",
         "id": "t25ktml1-29"
@@ -31823,10 +31914,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-36"
@@ -31843,10 +31934,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          4,
-          5,
-          6,
-          8
+          14,
+          15,
+          16,
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-37"
@@ -31863,7 +31954,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-38"
@@ -31879,10 +31970,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "violet",
         "id": "t25ktml1-39"
@@ -31898,7 +31989,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ktml1-40"
@@ -31958,7 +32049,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.305(LAB1)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml2-2"
@@ -31974,7 +32065,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ktml2-3"
@@ -31990,7 +32081,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml2-4"
@@ -32079,7 +32170,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.305(LAB1)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml2-8"
@@ -32122,7 +32213,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7
+          17
         ],
         "color": "teal",
         "id": "t25ktml2-10"
@@ -32188,7 +32279,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          9
+          19
         ],
         "color": "emerald",
         "id": "t25ktml2-13"
@@ -32204,7 +32295,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml2-14"
@@ -32220,7 +32311,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ktml2-15"
@@ -32281,7 +32372,8 @@ const ALL_CLASSES_DATABASE =
           15,
           16,
           17,
-          18
+          18,
+          19
         ],
         "color": "emerald",
         "id": "t25ktml2-17"
@@ -32324,8 +32416,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25ktml2-19"
@@ -32343,10 +32435,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          5,
-          6,
-          7,
-          8
+          15,
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25ktml2-20"
@@ -32472,7 +32564,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml2-24"
       },
       {
@@ -32488,9 +32580,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          6,
-          7,
-          8
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25ktml2-25"
@@ -32677,8 +32769,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          2,
-          3
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25ktml2-32"
@@ -32766,7 +32858,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1X7.103(X.ĐL)",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml2-36"
@@ -32782,7 +32874,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml2-37"
@@ -32867,10 +32959,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4
+          13,
+          14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml2-41"
       }
     ]
@@ -32904,7 +32996,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          11,
+          13
         ],
         "color": "orange",
         "id": "t25ktml3-1"
@@ -32995,7 +33089,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml3-4"
       },
       {
@@ -33011,10 +33105,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          5,
-          6,
-          7,
-          8
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25ktml3-5"
@@ -33062,7 +33156,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ktml3-7"
@@ -33078,7 +33172,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-8"
@@ -33184,7 +33278,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.301(ĐL)",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-12"
@@ -33200,7 +33294,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-13"
@@ -33281,7 +33375,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-16"
@@ -33297,7 +33391,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25ktml3-17"
@@ -33347,11 +33441,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "orange",
         "id": "t25ktml3-19"
@@ -33377,7 +33471,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25ktml3-20"
@@ -33420,12 +33516,12 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          8
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-22"
@@ -33498,7 +33594,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ktml3-25"
@@ -33514,7 +33610,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25ktml3-26"
@@ -33575,7 +33671,8 @@ const ALL_CLASSES_DATABASE =
           8,
           9,
           10,
-          12
+          12,
+          13
         ],
         "color": "teal",
         "id": "t25ktml3-28"
@@ -33603,7 +33700,8 @@ const ALL_CLASSES_DATABASE =
           8,
           9,
           10,
-          12
+          12,
+          13
         ],
         "color": "teal",
         "id": "t25ktml3-29"
@@ -33621,9 +33719,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml3-30"
       },
       {
@@ -33639,7 +33737,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3
+          13
         ],
         "color": "teal",
         "id": "t25ktml3-31"
@@ -33683,9 +33781,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ktml3-33"
       },
       {
@@ -33729,7 +33827,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-35"
@@ -33747,10 +33845,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "violet",
         "id": "t25ktml3-36"
@@ -33791,7 +33889,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25log-1"
@@ -33839,7 +33938,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25log-3"
@@ -33887,7 +33986,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "t25log-5"
@@ -33902,7 +34001,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "rose",
         "id": "t25log-6"
@@ -33933,7 +34032,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25log-7"
@@ -33981,7 +34081,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25log-9"
@@ -34068,11 +34168,11 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7
+          13,
+          14,
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "t25log-12"
@@ -34099,7 +34199,8 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12
         ],
         "color": "rose",
         "id": "t25log-13"
@@ -34116,7 +34217,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25log-14"
@@ -34132,7 +34233,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25log-15"
@@ -34147,7 +34248,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2
+          12
         ],
         "color": "rose",
         "id": "t25log-16"
@@ -34195,7 +34296,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25log-18"
@@ -34211,7 +34312,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25log-19"
@@ -34226,7 +34327,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25log-20"
@@ -34241,7 +34342,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "violet",
         "id": "t25log-21"
@@ -34267,7 +34368,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25log-22"
@@ -34340,7 +34443,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "t25log-25"
@@ -34355,7 +34458,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "teal",
         "id": "t25log-26"
@@ -34381,7 +34484,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25log-27"
@@ -34439,7 +34544,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25log-29"
       },
       {
@@ -34454,9 +34559,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.401(HT)",
         "weeks": [
-          6
+          16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25log-30"
       },
       {
@@ -34469,9 +34574,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25log-31"
       }
     ]
@@ -34695,7 +34800,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25tkdh1-8"
@@ -34711,7 +34816,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25tkdh1-9"
@@ -34795,7 +34900,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.305(LAB1)",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25tkdh1-12"
@@ -34843,7 +34948,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25tkdh1-14"
@@ -34859,7 +34964,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25tkdh1-15"
@@ -34956,7 +35061,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25tkdh1-19"
@@ -34972,7 +35077,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
+          16
         ],
         "color": "orange",
         "id": "t25tkdh1-20"
@@ -34997,7 +35102,10 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13,
+          14
         ],
         "color": "orange",
         "id": "t25tkdh1-21"
@@ -35013,7 +35121,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25tkdh1-22"
@@ -35055,9 +35163,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          2,
-          3,
-          4
+          12,
+          13,
+          14
         ],
         "color": "violet",
         "id": "t25tkdh1-24"
@@ -35157,7 +35265,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7
+          17
         ],
         "color": "blue",
         "id": "t25tkdh1-28"
@@ -35212,8 +35320,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25tkdh1-31"
@@ -35231,8 +35339,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25tkdh1-32"
@@ -35260,7 +35368,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25tkdh2-1"
@@ -35352,7 +35460,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "violet",
         "id": "t25tkdh2-4"
@@ -35400,7 +35509,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "emerald",
         "id": "t25tkdh2-6"
@@ -35497,7 +35606,8 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16,
-          17
+          17,
+          18
         ],
         "color": "emerald",
         "id": "t25tkdh2-9"
@@ -35545,7 +35655,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          8
+          18
         ],
         "color": "violet",
         "id": "t25tkdh2-11"
@@ -35598,7 +35708,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25tkdh2-13"
@@ -35712,7 +35822,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "orange",
         "id": "t25tkdh2-18"
@@ -35730,9 +35842,9 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          4,
-          5,
-          6
+          14,
+          15,
+          16
         ],
         "color": "emerald",
         "id": "t25tkdh2-19"
@@ -35796,8 +35908,8 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6
+          15,
+          16
         ],
         "color": "blue",
         "id": "t25tkdh2-22"
@@ -35823,7 +35935,9 @@ const ALL_CLASSES_DATABASE =
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13
         ],
         "color": "violet",
         "id": "t25tkdh2-23"
@@ -35866,10 +35980,10 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6
+          13,
+          14,
+          15,
+          16
         ],
         "color": "orange",
         "id": "t25tkdh2-25"
@@ -35885,7 +35999,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "orange",
         "id": "t25tkdh2-26"
@@ -35901,7 +36015,7 @@ const ALL_CLASSES_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8
+          18
         ],
         "color": "teal",
         "id": "t25tkdh2-27"
