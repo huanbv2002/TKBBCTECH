@@ -9,6 +9,10 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Local IDE
+# Local IDE & AI Agent
 .vscode/
 .idea/
+.agents/
+GEMINI.md
+.gemini/
+*.log
