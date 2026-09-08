@@ -11,8 +11,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
           1,
@@ -24,13 +24,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-1"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
           1,
@@ -43,13 +43,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-2"
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
           6,
@@ -61,13 +61,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-3"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
           6,
@@ -80,13 +80,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-4"
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
           6,
@@ -96,13 +96,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-5"
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
           6,
@@ -119,13 +119,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-6"
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
           1,
@@ -137,13 +137,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-7"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
           1,
@@ -156,13 +156,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-8"
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
           1,
@@ -179,7 +179,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-9"
       },
       {
@@ -229,8 +229,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 4,
         "periods": [
           1,
@@ -242,13 +242,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-12"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 4,
         "periods": [
           1,
@@ -261,7 +261,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-13"
       },
       {
@@ -302,8 +302,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 4,
         "periods": [
           6,
@@ -315,13 +315,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-16"
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 4,
         "periods": [
           6,
@@ -343,13 +343,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-17"
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 4,
         "periods": [
           6,
@@ -360,7 +360,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-18"
       },
       {
@@ -384,8 +384,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           1,
@@ -397,13 +397,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-20"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           1,
@@ -416,13 +416,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-21"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           1,
@@ -441,7 +441,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-22"
       },
       {
@@ -465,8 +465,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           6,
@@ -478,13 +478,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cbma-24"
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           6,
@@ -497,13 +497,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-25"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           6,
@@ -521,13 +521,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-26"
       },
       {
         "code": "CD25CBMA18",
-        "subject": "Chế biến món ăn Việt 2 Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn Việt 2",
+        "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
           6,
@@ -540,13 +540,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cbma-27"
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 6,
         "periods": [
           1,
@@ -559,7 +559,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-28"
       },
       {
@@ -600,8 +600,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 6,
         "periods": [
           6,
@@ -614,7 +614,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-31"
       },
       {
@@ -732,8 +732,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 7,
         "periods": [
           1,
@@ -746,13 +746,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-37"
       },
       {
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 7,
         "periods": [
           6,
@@ -765,7 +765,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25cbma-38"
       },
       {
@@ -808,8 +808,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 2,
         "periods": [
           1,
@@ -828,8 +828,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 2,
         "periods": [
           6,
@@ -857,7 +857,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cdt1-2"
       },
       {
@@ -902,8 +902,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 3,
         "periods": [
           1,
@@ -999,8 +999,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           11,
@@ -1012,7 +1012,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cdt1-9"
       },
       {
@@ -1102,8 +1102,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 4,
         "periods": [
           6,
@@ -1115,7 +1115,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cdt1-13"
       },
       {
@@ -1284,8 +1284,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 6,
         "periods": [
           6,
@@ -1299,7 +1299,7 @@ const ALL_CLASSES_DATABASE =
           10,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cdt1-20"
       },
       {
@@ -1360,8 +1360,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 8,
         "periods": [
           8,
@@ -1371,13 +1371,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "cd25cdt1-24"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 8,
         "periods": [
           11,
@@ -1571,8 +1571,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -1675,8 +1675,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 5,
         "periods": [
           1,
@@ -1823,8 +1823,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT21",
-        "subject": "PLC cơ bản Lê Văn",
-        "teacher": "Mai",
+        "subject": "PLC cơ bản",
+        "teacher": "Lê Văn Mai",
         "dow": 7,
         "periods": [
           1,
@@ -1845,13 +1845,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25cdt2-18"
       },
       {
         "code": "CD25CDT21",
-        "subject": "PLC cơ bản Lê Văn",
-        "teacher": "Mai",
+        "subject": "PLC cơ bản",
+        "teacher": "Lê Văn Mai",
         "dow": 7,
         "periods": [
           6,
@@ -1872,13 +1872,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25cdt2-19"
       },
       {
         "code": "CD25CDT21",
-        "subject": "PLC cơ bản Lê Văn",
-        "teacher": "Mai",
+        "subject": "PLC cơ bản",
+        "teacher": "Lê Văn Mai",
         "dow": 7,
         "periods": [
           6,
@@ -1888,7 +1888,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25cdt2-20"
       },
       {
@@ -1909,8 +1909,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT21",
-        "subject": "PLC cơ bản Lê Văn",
-        "teacher": "Mai",
+        "subject": "PLC cơ bản",
+        "teacher": "Lê Văn Mai",
         "dow": 8,
         "periods": [
           1,
@@ -1922,7 +1922,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25cdt2-22"
       },
       {
@@ -1975,8 +1975,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 8,
         "periods": [
           6,
@@ -2073,8 +2073,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 2,
         "periods": [
           6,
@@ -2199,8 +2199,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 3,
         "periods": [
           6,
@@ -2254,8 +2254,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 4,
         "periods": [
           6,
@@ -2284,8 +2284,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 4,
         "periods": [
           11,
@@ -2311,8 +2311,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 5,
         "periods": [
           1,
@@ -2327,13 +2327,13 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25cgkl-13"
       },
       {
         "code": "CD25CGKL23",
-        "subject": "Nguyên lý máy - chi tiết máy Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Nguyên lý máy - chi tiết máy",
+        "teacher": "Từ Thị Tuyết",
         "dow": 5,
         "periods": [
           1,
@@ -2354,7 +2354,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cgkl-14"
       },
       {
@@ -2377,8 +2377,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CGKL23",
-        "subject": "Nguyên lý máy - chi tiết máy Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Nguyên lý máy - chi tiết máy",
+        "teacher": "Từ Thị Tuyết",
         "dow": 5,
         "periods": [
           5
@@ -2387,13 +2387,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cgkl-16"
       },
       {
         "code": "CD25CGKL24",
-        "subject": "Máy cắt kim loại Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Máy cắt kim loại",
+        "teacher": "Từ Thị Tuyết",
         "dow": 5,
         "periods": [
           6,
@@ -2414,13 +2414,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cgkl-17"
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 5,
         "periods": [
           6,
@@ -2434,13 +2434,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25cgkl-18"
       },
       {
         "code": "CD25CGKL24",
-        "subject": "Máy cắt kim loại Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Máy cắt kim loại",
+        "teacher": "Từ Thị Tuyết",
         "dow": 5,
         "periods": [
           6,
@@ -2451,13 +2451,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cgkl-19"
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 5,
         "periods": [
           6,
@@ -2470,13 +2470,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           4
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25cgkl-20"
       },
       {
         "code": "CD25CGKL24",
-        "subject": "Máy cắt kim loại Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Máy cắt kim loại",
+        "teacher": "Từ Thị Tuyết",
         "dow": 5,
         "periods": [
           9,
@@ -2486,7 +2486,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25cgkl-21"
       },
       {
@@ -2517,8 +2517,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 6,
         "periods": [
           1,
@@ -2560,8 +2560,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 6,
         "periods": [
           6,
@@ -2596,8 +2596,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 6,
         "periods": [
           11,
@@ -2611,13 +2611,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25cgkl-27"
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           11,
@@ -2642,8 +2642,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           1,
@@ -3538,8 +3538,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 2,
         "periods": [
           6,
@@ -3601,8 +3601,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 3,
         "periods": [
           6,
@@ -3707,8 +3707,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 4,
         "periods": [
           6,
@@ -3737,8 +3737,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 4,
         "periods": [
           11,
@@ -3932,8 +3932,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 6,
         "periods": [
           1,
@@ -3981,8 +3981,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 6,
         "periods": [
           6,
@@ -4262,8 +4262,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC) Lê",
-        "teacher": "Văn Minh",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "teacher": "Lê Văn Minh",
         "dow": 2,
         "periods": [
           1,
@@ -4284,13 +4284,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cnot3-1"
       },
       {
         "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC) Lê",
-        "teacher": "Văn Minh",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "teacher": "Lê Văn Minh",
         "dow": 2,
         "periods": [
           1,
@@ -4301,13 +4301,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cnot3-2"
       },
       {
         "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC) Lê",
-        "teacher": "Văn Minh",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "teacher": "Lê Văn Minh",
         "dow": 2,
         "periods": [
           4,
@@ -4317,7 +4317,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cnot3-3"
       },
       {
@@ -4385,8 +4385,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
         "dow": 3,
         "periods": [
           1,
@@ -4417,8 +4417,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 3,
         "periods": [
           6,
@@ -4553,8 +4553,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 4,
         "periods": [
           11,
@@ -4681,8 +4681,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
         "dow": 5,
         "periods": [
           11,
@@ -4697,8 +4697,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
         "dow": 5,
         "periods": [
           11,
@@ -4721,8 +4721,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ Lê",
-        "teacher": "Văn Minh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
         "dow": 6,
         "periods": [
           1,
@@ -4747,13 +4747,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25cnot3-19"
       },
       {
         "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ Lê",
-        "teacher": "Văn Minh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
         "dow": 6,
         "periods": [
           6,
@@ -4778,13 +4778,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25cnot3-20"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 6,
         "periods": [
           6,
@@ -4865,8 +4865,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ Lê",
-        "teacher": "Văn Minh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
         "dow": 7,
         "periods": [
           6,
@@ -4878,7 +4878,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25cnot3-25"
       },
       {
@@ -5003,8 +5003,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC) Lê",
-        "teacher": "Văn Minh",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "teacher": "Lê Văn Minh",
         "dow": 2,
         "periods": [
           1,
@@ -5025,13 +5025,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cnot4-1"
       },
       {
         "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC) Lê",
-        "teacher": "Văn Minh",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "teacher": "Lê Văn Minh",
         "dow": 2,
         "periods": [
           1,
@@ -5042,13 +5042,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cnot4-2"
       },
       {
         "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC) Lê",
-        "teacher": "Văn Minh",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "teacher": "Lê Văn Minh",
         "dow": 2,
         "periods": [
           4,
@@ -5058,7 +5058,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "cd25cnot4-3"
       },
       {
@@ -5126,8 +5126,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
         "dow": 3,
         "periods": [
           1,
@@ -5158,8 +5158,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 3,
         "periods": [
           6,
@@ -5294,8 +5294,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 4,
         "periods": [
           11,
@@ -5422,8 +5422,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
         "dow": 5,
         "periods": [
           11,
@@ -5438,8 +5438,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
         "dow": 5,
         "periods": [
           11,
@@ -5462,8 +5462,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ Lê",
-        "teacher": "Văn Minh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
         "dow": 6,
         "periods": [
           1,
@@ -5488,13 +5488,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25cnot4-19"
       },
       {
         "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ Lê",
-        "teacher": "Văn Minh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
         "dow": 6,
         "periods": [
           6,
@@ -5519,13 +5519,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25cnot4-20"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 6,
         "periods": [
           6,
@@ -5606,8 +5606,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ Lê",
-        "teacher": "Văn Minh",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
         "dow": 7,
         "periods": [
           6,
@@ -5619,7 +5619,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25cnot4-25"
       },
       {
@@ -5814,8 +5814,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNTT18",
-        "subject": "Thiết kế web Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Thiết kế web",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 3,
         "periods": [
           1,
@@ -5904,8 +5904,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNTT18",
-        "subject": "Thiết kế web Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Thiết kế web",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 5,
         "periods": [
           6,
@@ -5938,8 +5938,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNTT18",
-        "subject": "Thiết kế web Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Thiết kế web",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 5,
         "periods": [
           10
@@ -5987,8 +5987,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 6,
         "periods": [
           6,
@@ -6076,8 +6076,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 8,
         "periods": [
           6,
@@ -6100,8 +6100,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 8,
         "periods": [
           6,
@@ -6223,8 +6223,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNTT18",
-        "subject": "Thiết kế web Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Thiết kế web",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 3,
         "periods": [
           1,
@@ -6313,8 +6313,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNTT18",
-        "subject": "Thiết kế web Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Thiết kế web",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 5,
         "periods": [
           6,
@@ -6347,8 +6347,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CNTT18",
-        "subject": "Thiết kế web Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Thiết kế web",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 5,
         "periods": [
           10
@@ -6396,8 +6396,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 6,
         "periods": [
           6,
@@ -6485,8 +6485,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 8,
         "periods": [
           6,
@@ -6509,8 +6509,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 8,
         "periods": [
           6,
@@ -6640,8 +6640,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 2,
         "periods": [
           6,
@@ -6659,8 +6659,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 4,
         "periods": [
           1,
@@ -6914,8 +6914,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CTCK22",
-        "subject": "Lắp mạch điện đơn giản Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Lắp mạch điện đơn giản",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 6,
         "periods": [
           1,
@@ -6940,13 +6940,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25ctck1-16"
       },
       {
         "code": "CD25CTCK22",
-        "subject": "Lắp mạch điện đơn giản Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Lắp mạch điện đơn giản",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 6,
         "periods": [
           1,
@@ -6956,13 +6956,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25ctck1-17"
       },
       {
         "code": "CD25CTCK22",
-        "subject": "Lắp mạch điện đơn giản Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Lắp mạch điện đơn giản",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 6,
         "periods": [
           3,
@@ -6972,7 +6972,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25ctck1-18"
       },
       {
@@ -7125,8 +7125,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 8,
         "periods": [
           11,
@@ -7272,8 +7272,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 2,
         "periods": [
           6,
@@ -7291,8 +7291,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 4,
         "periods": [
           1,
@@ -7506,8 +7506,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CTCK22",
-        "subject": "Lắp mạch điện đơn giản Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Lắp mạch điện đơn giản",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 6,
         "periods": [
           1,
@@ -7532,13 +7532,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25ctck2-15"
       },
       {
         "code": "CD25CTCK22",
-        "subject": "Lắp mạch điện đơn giản Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Lắp mạch điện đơn giản",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 6,
         "periods": [
           1,
@@ -7548,13 +7548,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25ctck2-16"
       },
       {
         "code": "CD25CTCK22",
-        "subject": "Lắp mạch điện đơn giản Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Lắp mạch điện đơn giản",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 6,
         "periods": [
           3,
@@ -7564,7 +7564,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "cd25ctck2-17"
       },
       {
@@ -7725,8 +7725,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 8,
         "periods": [
           11,
@@ -7762,8 +7762,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 2,
         "periods": [
           1,
@@ -7782,8 +7782,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 3,
         "periods": [
           1,
@@ -7816,8 +7816,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           6,
@@ -7842,13 +7842,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn1-3"
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           6,
@@ -7858,13 +7858,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn1-4"
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           8,
@@ -7874,7 +7874,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn1-5"
       },
       {
@@ -8247,8 +8247,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           11,
@@ -8273,8 +8273,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25CDT29",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           1,
@@ -8305,8 +8305,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 8,
         "periods": [
           11,
@@ -8342,8 +8342,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 2,
         "periods": [
           6,
@@ -8376,8 +8376,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 3,
         "periods": [
           1,
@@ -8396,8 +8396,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           6,
@@ -8422,13 +8422,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn2-3"
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           6,
@@ -8438,13 +8438,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn2-4"
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           8,
@@ -8454,7 +8454,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn2-5"
       },
       {
@@ -8827,8 +8827,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 8,
         "periods": [
           11,
@@ -8931,8 +8931,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh",
+        "teacher": "Ngô Thị Nhung",
         "dow": 2,
         "periods": [
           6,
@@ -9100,8 +9100,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 4,
         "periods": [
           1,
@@ -9126,13 +9126,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn3-10"
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 4,
         "periods": [
           1,
@@ -9142,13 +9142,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn3-11"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh",
+        "teacher": "Ngô Thị Nhung",
         "dow": 4,
         "periods": [
           1,
@@ -9167,8 +9167,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25DCN18",
-        "subject": "Điện khí nén Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Điện khí nén",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 4,
         "periods": [
           3,
@@ -9178,7 +9178,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25dcn3-13"
       },
       {
@@ -9246,8 +9246,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25DCN26",
-        "subject": "Truyền Động Điện Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Truyền Động Điện",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 5,
         "periods": [
           6,
@@ -9268,13 +9268,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25dcn3-17"
       },
       {
         "code": "CD25DCN26",
-        "subject": "Truyền Động Điện Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Truyền Động Điện",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 5,
         "periods": [
           6,
@@ -9285,13 +9285,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25dcn3-18"
       },
       {
         "code": "CD25DCN26",
-        "subject": "Truyền Động Điện Nguyễn",
-        "teacher": "Thị Hiên",
+        "subject": "Truyền Động Điện",
+        "teacher": "Nguyễn Thị Hiên",
         "dow": 5,
         "periods": [
           9,
@@ -9301,7 +9301,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25dcn3-19"
       },
       {
@@ -9421,8 +9421,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh",
+        "teacher": "Ngô Thị Nhung",
         "dow": 7,
         "periods": [
           6,
@@ -9458,8 +9458,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "CD25KTML19",
-        "subject": "Hệ thống máy lạnh công nghiệp Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Hệ thống máy lạnh công nghiệp",
+        "teacher": "Trần Văn Quốc",
         "dow": 2,
         "periods": [
           1,
@@ -9484,13 +9484,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25ktml-1"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 2,
         "periods": [
           6,
@@ -9563,8 +9563,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25KTML19",
-        "subject": "Hệ thống máy lạnh công nghiệp Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Hệ thống máy lạnh công nghiệp",
+        "teacher": "Trần Văn Quốc",
         "dow": 3,
         "periods": [
           1,
@@ -9589,13 +9589,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25ktml-5"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 3,
         "periods": [
           1,
@@ -9614,8 +9614,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25KTML24",
-        "subject": "Điện tử ứng dụng trong hệ thống lạnh Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Điện tử ứng dụng trong hệ thống lạnh",
+        "teacher": "Bùi Văn Vinh",
         "dow": 3,
         "periods": [
           6,
@@ -9640,13 +9640,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "cd25ktml-7"
       },
       {
         "code": "CD25KTML24",
-        "subject": "Điện tử ứng dụng trong hệ thống lạnh Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Điện tử ứng dụng trong hệ thống lạnh",
+        "teacher": "Bùi Văn Vinh",
         "dow": 3,
         "periods": [
           6,
@@ -9656,13 +9656,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "cd25ktml-8"
       },
       {
         "code": "CD25KTML21",
-        "subject": "Hệ thống máy lạnh thương nghiệp Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống máy lạnh thương nghiệp",
+        "teacher": "Lê Văn Thịnh",
         "dow": 4,
         "periods": [
           1,
@@ -9673,13 +9673,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25ktml-9"
       },
       {
         "code": "CD25KTML21",
-        "subject": "Hệ thống máy lạnh thương nghiệp Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống máy lạnh thương nghiệp",
+        "teacher": "Lê Văn Thịnh",
         "dow": 4,
         "periods": [
           1,
@@ -9699,13 +9699,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25ktml-10"
       },
       {
         "code": "CD25KTML21",
-        "subject": "Hệ thống máy lạnh thương nghiệp Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống máy lạnh thương nghiệp",
+        "teacher": "Lê Văn Thịnh",
         "dow": 5,
         "periods": [
           6,
@@ -9730,7 +9730,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "cd25ktml-11"
       },
       {
@@ -9849,8 +9849,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25KTML24",
-        "subject": "Điện tử ứng dụng trong hệ thống lạnh Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Điện tử ứng dụng trong hệ thống lạnh",
+        "teacher": "Bùi Văn Vinh",
         "dow": 8,
         "periods": [
           1,
@@ -9869,13 +9869,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "cd25ktml-16"
       },
       {
         "code": "CD25KTML19",
-        "subject": "Hệ thống máy lạnh công nghiệp Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Hệ thống máy lạnh công nghiệp",
+        "teacher": "Trần Văn Quốc",
         "dow": 8,
         "periods": [
           6,
@@ -9897,13 +9897,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "cd25ktml-17"
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 8,
         "periods": [
           11,
@@ -10034,8 +10034,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -10060,13 +10060,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25log-5"
       },
       {
         "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -10077,13 +10077,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25log-6"
       },
       {
         "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 3,
         "periods": [
           9
@@ -10092,13 +10092,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25log-7"
       },
       {
         "code": "CD25LGT22",
-        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không. Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 4,
         "periods": [
           6,
@@ -10127,7 +10127,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "cd25log-8"
       },
       {
@@ -10188,8 +10188,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT23",
-        "subject": "Bảo quản hàng hóa Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Bảo quản hàng hóa",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 5,
         "periods": [
           1,
@@ -10210,7 +10210,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25log-11"
       },
       {
@@ -10248,8 +10248,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT23",
-        "subject": "Bảo quản hàng hóa Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Bảo quản hàng hóa",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 5,
         "periods": [
           5
@@ -10258,13 +10258,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "cd25log-14"
       },
       {
         "code": "CD25LGT26",
-        "subject": "Container đường biển Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Container đường biển",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           6,
@@ -10289,13 +10289,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "cd25log-15"
       },
       {
         "code": "CD25LGT26",
-        "subject": "Container đường biển Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Container đường biển",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           6,
@@ -10306,13 +10306,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "cd25log-16"
       },
       {
         "code": "CD25LGT22",
-        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không. Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           6,
@@ -10322,13 +10322,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "cd25log-17"
       },
       {
         "code": "CD25LGT22",
-        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không. Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           8
@@ -10337,13 +10337,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "cd25log-18"
       },
       {
         "code": "CD25LGT26",
-        "subject": "Container đường biển Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Container đường biển",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           9
@@ -10352,7 +10352,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "cd25log-19"
       },
       {
@@ -10390,8 +10390,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics Bùi",
-        "teacher": "Thị Huệ",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
         "dow": 6,
         "periods": [
           6,
@@ -10416,13 +10416,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "cd25log-21"
       },
       {
         "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics Bùi",
-        "teacher": "Thị Huệ",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
         "dow": 6,
         "periods": [
           6,
@@ -10433,13 +10433,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "cd25log-22"
       },
       {
         "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics Bùi",
-        "teacher": "Thị Huệ",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
         "dow": 6,
         "periods": [
           9
@@ -10448,7 +10448,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "cd25log-23"
       },
       {
@@ -10474,8 +10474,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT14",
-        "subject": "Vận tải đa phương thức Trần",
-        "teacher": "Thị Hoa",
+        "subject": "Vận tải đa phương thức",
+        "teacher": "Trần Thị Hoa",
         "dow": 7,
         "periods": [
           6,
@@ -10500,13 +10500,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25log-25"
       },
       {
         "code": "CD25LGT14",
-        "subject": "Vận tải đa phương thức Trần",
-        "teacher": "Thị Hoa",
+        "subject": "Vận tải đa phương thức",
+        "teacher": "Trần Thị Hoa",
         "dow": 7,
         "periods": [
           6,
@@ -10517,13 +10517,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25log-26"
       },
       {
         "code": "CD25LGT14",
-        "subject": "Vận tải đa phương thức Trần",
-        "teacher": "Thị Hoa",
+        "subject": "Vận tải đa phương thức",
+        "teacher": "Trần Thị Hoa",
         "dow": 7,
         "periods": [
           9
@@ -10532,7 +10532,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "cd25log-27"
       },
       {
@@ -10666,8 +10666,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 3,
         "periods": [
           6,
@@ -10700,8 +10700,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25TKDH18",
-        "subject": "Thiết kế hoạt hình Adobe Animation Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Thiết kế hoạt hình Adobe Animation",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 4,
         "periods": [
           1,
@@ -10734,8 +10734,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "teacher": "Phùng Thị Nga",
         "dow": 4,
         "periods": [
           1,
@@ -10747,13 +10747,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "rose",
         "id": "cd25tkdh-5"
       },
       {
         "code": "CD25TKDH18",
-        "subject": "Thiết kế hoạt hình Adobe Animation Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Thiết kế hoạt hình Adobe Animation",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 4,
         "periods": [
           1,
@@ -10771,8 +10771,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "teacher": "Phùng Thị Nga",
         "dow": 4,
         "periods": [
           6,
@@ -10801,7 +10801,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "rose",
         "id": "cd25tkdh-7"
       },
       {
@@ -10922,8 +10922,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 6,
         "periods": [
           1,
@@ -10982,8 +10982,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "teacher": "Phùng Thị Nga",
         "dow": 7,
         "periods": [
           1,
@@ -10995,13 +10995,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "rose",
         "id": "cd25tkdh-15"
       },
       {
         "code": "CD25TKDH18",
-        "subject": "Thiết kế hoạt hình Adobe Animation Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Thiết kế hoạt hình Adobe Animation",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 7,
         "periods": [
           1,
@@ -11016,8 +11016,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "teacher": "Phùng Thị Nga",
         "dow": 7,
         "periods": [
           6,
@@ -11029,7 +11029,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "rose",
         "id": "cd25tkdh-17"
       },
       {
@@ -11071,8 +11071,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "teacher": "Phùng Thị Nga",
         "dow": 8,
         "periods": [
           1,
@@ -11082,7 +11082,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "rose",
         "id": "cd25tkdh-20"
       },
       {
@@ -11124,8 +11124,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25MC01",
-        "subject": "Tiếng Anh Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 8,
         "periods": [
           6,
@@ -11161,8 +11161,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 2,
         "periods": [
           1,
@@ -11193,8 +11193,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           6,
@@ -11227,8 +11227,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 3,
         "periods": [
           1,
@@ -11249,13 +11249,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma1-3"
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 3,
         "periods": [
           1,
@@ -11265,13 +11265,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma1-4"
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 3,
         "periods": [
           3,
@@ -11282,13 +11282,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           1
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma1-5"
       },
       {
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
           6,
@@ -11316,7 +11316,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma1-6"
       },
       {
@@ -11353,8 +11353,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
           11,
@@ -11370,7 +11370,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma1-8"
       },
       {
@@ -11423,8 +11423,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 4,
         "periods": [
           3,
@@ -11434,13 +11434,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbma1-11"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 4,
         "periods": [
           4,
@@ -11465,7 +11465,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbma1-12"
       },
       {
@@ -11517,8 +11517,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           6,
@@ -11553,8 +11553,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 5,
         "periods": [
           1,
@@ -11580,13 +11580,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbma1-17"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 5,
         "periods": [
           1,
@@ -11596,7 +11596,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbma1-18"
       },
       {
@@ -11648,8 +11648,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 5,
         "periods": [
           6,
@@ -11671,8 +11671,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 5,
         "periods": [
           6,
@@ -11688,8 +11688,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 5,
         "periods": [
           9,
@@ -11704,8 +11704,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA09",
-        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
+        "teacher": "Đặng Thị Cương",
         "dow": 6,
         "periods": [
           1,
@@ -11726,13 +11726,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cbma1-24"
       },
       {
         "code": "TC25CBMA09",
-        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
+        "teacher": "Đặng Thị Cương",
         "dow": 6,
         "periods": [
           5
@@ -11741,13 +11741,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cbma1-25"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 6,
         "periods": [
           6,
@@ -11766,7 +11766,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbma1-26"
       },
       {
@@ -11815,8 +11815,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           11,
@@ -11841,8 +11841,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           1,
@@ -11856,13 +11856,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma1-30"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 7,
         "periods": [
           1,
@@ -11882,13 +11882,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbma1-31"
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           1,
@@ -11901,7 +11901,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma1-32"
       },
       {
@@ -11931,8 +11931,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           6,
@@ -11946,13 +11946,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma1-34"
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           6
@@ -11961,13 +11961,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma1-35"
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 7,
         "periods": [
           6,
@@ -11987,13 +11987,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma1-36"
       },
       {
         "code": "TC25CBMA28",
-        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*) Nguyễn",
-        "teacher": "Thị Lương",
+        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
+        "teacher": "Nguyễn Thị Lương",
         "dow": 8,
         "periods": [
           1,
@@ -12014,13 +12014,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25cbma1-37"
       },
       {
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á Trần",
-        "teacher": "Thị Thúy",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
         "dow": 8,
         "periods": [
           1,
@@ -12032,13 +12032,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma1-38"
       },
       {
         "code": "TC25CBMA28",
-        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*) Nguyễn",
-        "teacher": "Thị Lương",
+        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
+        "teacher": "Nguyễn Thị Lương",
         "dow": 8,
         "periods": [
           5
@@ -12047,7 +12047,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25cbma1-39"
       },
       {
@@ -12073,8 +12073,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           11,
@@ -12173,8 +12173,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phạm",
-        "teacher": "Thị Trang",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
         "dow": 2,
         "periods": [
           6,
@@ -12207,8 +12207,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           1,
@@ -12233,13 +12233,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-5"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           3,
@@ -12265,13 +12265,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbma2-6"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           3,
@@ -12281,13 +12281,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbma2-7"
       },
       {
         "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -12309,8 +12309,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -12344,8 +12344,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           9,
@@ -12360,8 +12360,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           11,
@@ -12386,8 +12386,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           1,
@@ -12412,13 +12412,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbma2-13"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           3,
@@ -12444,13 +12444,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-14"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           3,
@@ -12460,13 +12460,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-15"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 4,
         "periods": [
           6,
@@ -12601,8 +12601,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA09",
-        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
+        "teacher": "Đặng Thị Cương",
         "dow": 5,
         "periods": [
           6,
@@ -12623,7 +12623,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cbma2-21"
       },
       {
@@ -12646,8 +12646,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA09",
-        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
+        "teacher": "Đặng Thị Cương",
         "dow": 5,
         "periods": [
           10
@@ -12656,13 +12656,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cbma2-23"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phạm",
-        "teacher": "Thị Trang",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
         "dow": 5,
         "periods": [
           11,
@@ -12688,8 +12688,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           1,
@@ -12709,13 +12709,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbma2-25"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           1,
@@ -12727,13 +12727,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbma2-26"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           4,
@@ -12752,13 +12752,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma2-27"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           4,
@@ -12768,13 +12768,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma2-28"
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 6,
         "periods": [
           6,
@@ -12795,13 +12795,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma2-29"
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 6,
         "periods": [
           6,
@@ -12811,7 +12811,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma2-30"
       },
       {
@@ -12834,8 +12834,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 6,
         "periods": [
           8,
@@ -12846,13 +12846,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma2-32"
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           1,
@@ -12866,13 +12866,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-33"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           1,
@@ -12892,13 +12892,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma2-34"
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           1,
@@ -12911,13 +12911,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-35"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 7,
         "periods": [
           4,
@@ -12936,13 +12936,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbma2-36"
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           6,
@@ -12956,13 +12956,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-37"
       },
       {
         "code": "TC25CBMA11",
-        "subject": "Sinh lý dinh dưỡng Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Sinh lý dinh dưỡng",
+        "teacher": "Đặng Thị Cương",
         "dow": 7,
         "periods": [
           6
@@ -12971,13 +12971,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbma2-38"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           6,
@@ -12989,13 +12989,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbma2-39"
       },
       {
         "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 7,
         "periods": [
           11,
@@ -13015,13 +13015,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25cbma2-40"
       },
       {
         "code": "TC25CBMA28",
-        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*) Nguyễn",
-        "teacher": "Thị Lương",
+        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
+        "teacher": "Nguyễn Thị Lương",
         "dow": 8,
         "periods": [
           1,
@@ -13042,13 +13042,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25cbma2-41"
       },
       {
         "code": "TC25CBMA28",
-        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*) Nguyễn",
-        "teacher": "Thị Lương",
+        "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
+        "teacher": "Nguyễn Thị Lương",
         "dow": 8,
         "periods": [
           5
@@ -13057,13 +13057,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25cbma2-42"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phạm",
-        "teacher": "Thị Trang",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
         "dow": 8,
         "periods": [
           6,
@@ -13113,8 +13113,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Ngô Thị Nhung",
         "dow": 2,
         "periods": [
           1,
@@ -13164,8 +13164,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "teacher": "Đặng Thị Cương",
         "dow": 2,
         "periods": [
           6,
@@ -13190,7 +13190,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-3"
       },
       {
@@ -13241,8 +13241,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           1,
@@ -13267,13 +13267,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-6"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           3,
@@ -13299,13 +13299,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbtp-7"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           3,
@@ -13315,13 +13315,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbtp-8"
       },
       {
         "code": "TC25CBTP19",
-        "subject": "Kỹ thuật sản xuất nước giải khát Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kỹ thuật sản xuất nước giải khát",
+        "teacher": "Đặng Thị Cương",
         "dow": 3,
         "periods": [
           6,
@@ -13349,13 +13349,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cbtp-9"
       },
       {
         "code": "TC25CBTP19",
-        "subject": "Kỹ thuật sản xuất nước giải khát Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kỹ thuật sản xuất nước giải khát",
+        "teacher": "Đặng Thị Cương",
         "dow": 3,
         "periods": [
           10
@@ -13364,13 +13364,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cbtp-10"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Ngô Thị Nhung",
         "dow": 3,
         "periods": [
           11,
@@ -13395,8 +13395,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           1,
@@ -13421,13 +13421,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cbtp-12"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           3,
@@ -13453,13 +13453,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-13"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           3,
@@ -13469,13 +13469,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-14"
       },
       {
         "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng Phan",
-        "teacher": "Văn Mẫn",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
         "dow": 4,
         "periods": [
           6,
@@ -13504,7 +13504,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "blue",
         "id": "t25cbtp-15"
       },
       {
@@ -13542,8 +13542,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP08",
-        "subject": "Tiếng Anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 5,
         "periods": [
           1,
@@ -13565,8 +13565,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP08",
-        "subject": "Tiếng Anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 5,
         "periods": [
           1,
@@ -13582,8 +13582,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP21",
-        "subject": "Vệ sinh an toàn thực phẩm Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Vệ sinh an toàn thực phẩm",
+        "teacher": "Trần Thị Khuyên",
         "dow": 5,
         "periods": [
           1,
@@ -13597,13 +13597,13 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-19"
       },
       {
         "code": "TC25CBTP19",
-        "subject": "Kỹ thuật sản xuất nước giải khát Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kỹ thuật sản xuất nước giải khát",
+        "teacher": "Đặng Thị Cương",
         "dow": 5,
         "periods": [
           1,
@@ -13619,13 +13619,13 @@ const ALL_CLASSES_DATABASE =
           4,
           5
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cbtp-20"
       },
       {
         "code": "TC25CBTP08",
-        "subject": "Tiếng Anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 5,
         "periods": [
           4,
@@ -13640,8 +13640,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP21",
-        "subject": "Vệ sinh an toàn thực phẩm Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Vệ sinh an toàn thực phẩm",
+        "teacher": "Trần Thị Khuyên",
         "dow": 5,
         "periods": [
           6,
@@ -13659,7 +13659,7 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-22"
       },
       {
@@ -13688,8 +13688,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP21",
-        "subject": "Vệ sinh an toàn thực phẩm Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Vệ sinh an toàn thực phẩm",
+        "teacher": "Trần Thị Khuyên",
         "dow": 5,
         "periods": [
           6,
@@ -13699,13 +13699,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-24"
       },
       {
         "code": "TC25CBTP21",
-        "subject": "Vệ sinh an toàn thực phẩm Trần",
-        "teacher": "Thị Khuyên",
+        "subject": "Vệ sinh an toàn thực phẩm",
+        "teacher": "Trần Thị Khuyên",
         "dow": 5,
         "periods": [
           8,
@@ -13716,7 +13716,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cbtp-25"
       },
       {
@@ -13737,8 +13737,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -13758,13 +13758,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbtp-27"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           4,
@@ -13783,7 +13783,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-28"
       },
       {
@@ -13835,8 +13835,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 7,
         "periods": [
           1,
@@ -13856,7 +13856,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-31"
       },
       {
@@ -13882,8 +13882,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           4,
@@ -13902,7 +13902,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cbtp-33"
       },
       {
@@ -13940,8 +13940,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "teacher": "Đặng Thị Cương",
         "dow": 8,
         "periods": [
           1,
@@ -13953,13 +13953,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-35"
       },
       {
         "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "teacher": "Đặng Thị Cương",
         "dow": 8,
         "periods": [
           1,
@@ -13972,13 +13972,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-36"
       },
       {
         "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng Phan",
-        "teacher": "Văn Mẫn",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
         "dow": 8,
         "periods": [
           1,
@@ -13993,7 +13993,7 @@ const ALL_CLASSES_DATABASE =
           12,
           13
         ],
-        "color": "rose",
+        "color": "blue",
         "id": "t25cbtp-37"
       },
       {
@@ -14017,8 +14017,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP19",
-        "subject": "Kỹ thuật sản xuất nước giải khát Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kỹ thuật sản xuất nước giải khát",
+        "teacher": "Đặng Thị Cương",
         "dow": 8,
         "periods": [
           1,
@@ -14031,13 +14031,13 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cbtp-39"
       },
       {
         "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "teacher": "Đặng Thị Cương",
         "dow": 8,
         "periods": [
           6,
@@ -14049,13 +14049,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-40"
       },
       {
         "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "teacher": "Đặng Thị Cương",
         "dow": 8,
         "periods": [
           6,
@@ -14065,13 +14065,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cbtp-41"
       },
       {
         "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng Phan",
-        "teacher": "Văn Mẫn",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
         "dow": 8,
         "periods": [
           6,
@@ -14082,13 +14082,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           4
         ],
-        "color": "rose",
+        "color": "blue",
         "id": "t25cbtp-42"
       },
       {
         "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng Phan",
-        "teacher": "Văn Mẫn",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
         "dow": 8,
         "periods": [
           6,
@@ -14102,7 +14102,7 @@ const ALL_CLASSES_DATABASE =
           12,
           13
         ],
-        "color": "rose",
+        "color": "blue",
         "id": "t25cbtp-43"
       },
       {
@@ -14126,8 +14126,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP19",
-        "subject": "Kỹ thuật sản xuất nước giải khát Đặng",
-        "teacher": "Thị Cương",
+        "subject": "Kỹ thuật sản xuất nước giải khát",
+        "teacher": "Đặng Thị Cương",
         "dow": 8,
         "periods": [
           6,
@@ -14140,13 +14140,13 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cbtp-45"
       },
       {
         "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng Phan",
-        "teacher": "Văn Mẫn",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
         "dow": 8,
         "periods": [
           9,
@@ -14156,7 +14156,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           4
         ],
-        "color": "rose",
+        "color": "blue",
         "id": "t25cbtp-46"
       }
     ]
@@ -14197,8 +14197,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -14208,7 +14208,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt1-2"
       },
       {
@@ -14229,8 +14229,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 2,
         "periods": [
           4,
@@ -14249,13 +14249,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cdt1-4"
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 2,
         "periods": [
           6,
@@ -14283,13 +14283,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25cdt1-5"
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           11,
@@ -14315,8 +14315,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 3,
         "periods": [
           1,
@@ -14336,13 +14336,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cdt1-7"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           1,
@@ -14352,7 +14352,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt1-8"
       },
       {
@@ -14429,8 +14429,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 3,
         "periods": [
           6,
@@ -14480,8 +14480,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 3,
         "periods": [
           11,
@@ -14493,13 +14493,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25cdt1-15"
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 4,
         "periods": [
           1,
@@ -14530,8 +14530,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 4,
         "periods": [
           6,
@@ -14543,7 +14543,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25cdt1-17"
       },
       {
@@ -14580,8 +14580,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           6,
@@ -14630,8 +14630,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           6,
@@ -14647,8 +14647,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           9,
@@ -14663,8 +14663,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 5,
         "periods": [
           11,
@@ -14689,8 +14689,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 6,
         "periods": [
           1,
@@ -14716,7 +14716,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt1-24"
       },
       {
@@ -14774,8 +14774,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 6,
         "periods": [
           6,
@@ -14789,7 +14789,7 @@ const ALL_CLASSES_DATABASE =
           10,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25cdt1-27"
       },
       {
@@ -14918,8 +14918,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 7,
         "periods": [
           4,
@@ -14944,13 +14944,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt1-33"
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           6,
@@ -15001,8 +15001,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           1,
@@ -15020,8 +15020,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           6,
@@ -15039,8 +15039,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực Nguyễn Văn",
-        "teacher": "Hoàng",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
         "dow": 8,
         "periods": [
           8,
@@ -15050,7 +15050,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25cdt1-38"
       }
     ]
@@ -15065,8 +15065,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 2,
         "periods": [
           1,
@@ -15088,8 +15088,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           1,
@@ -15109,13 +15109,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-2"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           1,
@@ -15127,13 +15127,13 @@ const ALL_CLASSES_DATABASE =
           1,
           3
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-3"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 2,
         "periods": [
           4,
@@ -15152,7 +15152,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25cdt2-4"
       },
       {
@@ -15308,8 +15308,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           6,
@@ -15335,13 +15335,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-12"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           6,
@@ -15351,13 +15351,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-13"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           8,
@@ -15367,13 +15367,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt2-14"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           9,
@@ -15398,7 +15398,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt2-15"
       },
       {
@@ -15451,8 +15451,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           6,
@@ -15478,13 +15478,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt2-18"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           6,
@@ -15494,13 +15494,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cdt2-19"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           8,
@@ -15510,13 +15510,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-20"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           9,
@@ -15541,7 +15541,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-21"
       },
       {
@@ -15568,8 +15568,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           1,
@@ -15589,13 +15589,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25cdt2-23"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           1,
@@ -15607,7 +15607,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25cdt2-24"
       },
       {
@@ -15632,8 +15632,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 5,
         "periods": [
           4,
@@ -15652,13 +15652,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cdt2-26"
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 5,
         "periods": [
           6,
@@ -15689,8 +15689,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 5,
         "periods": [
           6,
@@ -15706,8 +15706,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 5,
         "periods": [
           9,
@@ -15958,8 +15958,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 8,
         "periods": [
           6,
@@ -16020,8 +16020,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Phạm Thị Minh",
         "dow": 2,
         "periods": [
           1,
@@ -16035,13 +16035,13 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cgkl1-2"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -16051,7 +16051,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-3"
       },
       {
@@ -16072,8 +16072,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 2,
         "periods": [
           4,
@@ -16092,7 +16092,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl1-5"
       },
       {
@@ -16123,8 +16123,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Phạm Thị Minh",
         "dow": 2,
         "periods": [
           6,
@@ -16138,7 +16138,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cgkl1-7"
       },
       {
@@ -16162,8 +16162,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 3,
         "periods": [
           1,
@@ -16183,7 +16183,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cgkl1-9"
       },
       {
@@ -16208,8 +16208,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           1,
@@ -16219,13 +16219,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-11"
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Phạm Thị Minh",
         "dow": 3,
         "periods": [
           1,
@@ -16237,7 +16237,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cgkl1-12"
       },
       {
@@ -16343,8 +16343,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 4,
         "periods": [
           1,
@@ -16447,8 +16447,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 5,
         "periods": [
           1,
@@ -16463,7 +16463,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-21"
       },
       {
@@ -16515,8 +16515,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 5,
         "periods": [
           6,
@@ -16530,7 +16530,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-24"
       },
       {
@@ -16564,8 +16564,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 5,
         "periods": [
           6,
@@ -16578,7 +16578,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           4
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-26"
       },
       {
@@ -16633,8 +16633,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 5,
         "periods": [
           11,
@@ -16659,8 +16659,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 6,
         "periods": [
           1,
@@ -16686,7 +16686,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-31"
       },
       {
@@ -16740,8 +16740,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -16763,8 +16763,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -16780,8 +16780,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Phạm Thị Minh",
         "dow": 6,
         "periods": [
           6,
@@ -16792,7 +16792,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cgkl1-36"
       },
       {
@@ -16815,8 +16815,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           9,
@@ -16831,8 +16831,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Phạm Thị Minh",
         "dow": 6,
         "periods": [
           9,
@@ -16842,7 +16842,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cgkl1-39"
       },
       {
@@ -16862,8 +16862,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 6,
         "periods": [
           11,
@@ -16877,7 +16877,7 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-41"
       },
       {
@@ -16941,8 +16941,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 7,
         "periods": [
           4,
@@ -16967,13 +16967,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl1-44"
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Phạm Thị Minh",
         "dow": 7,
         "periods": [
           6,
@@ -16987,7 +16987,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "t25cgkl1-45"
       },
       {
@@ -17065,8 +17065,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           1,
@@ -17086,13 +17086,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-1"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           1,
@@ -17104,13 +17104,13 @@ const ALL_CLASSES_DATABASE =
           1,
           3
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-2"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 2,
         "periods": [
           4,
@@ -17129,13 +17129,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25cgkl2-3"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phạm",
-        "teacher": "Thị Trang",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
         "dow": 2,
         "periods": [
           6,
@@ -17168,8 +17168,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 3,
         "periods": [
           1,
@@ -17200,8 +17200,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           6,
@@ -17227,13 +17227,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-6"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           6,
@@ -17243,13 +17243,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-7"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           8,
@@ -17259,13 +17259,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-8"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           9,
@@ -17290,13 +17290,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-9"
       },
       {
         "code": "TC25CGKL17",
-        "subject": "Gia công trên máy tiện 1 Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Gia công trên máy tiện 1",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 4,
         "periods": [
           1,
@@ -17325,7 +17325,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cgkl2-10"
       },
       {
@@ -17363,8 +17363,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           6,
@@ -17390,13 +17390,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-12"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           6,
@@ -17406,13 +17406,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-13"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           8,
@@ -17422,13 +17422,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-14"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           9,
@@ -17453,13 +17453,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-15"
       },
       {
         "code": "TC25CGKL17",
-        "subject": "Gia công trên máy tiện 1 Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Gia công trên máy tiện 1",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 4,
         "periods": [
           11,
@@ -17486,13 +17486,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cgkl2-16"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           1,
@@ -17512,13 +17512,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25cgkl2-17"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           1,
@@ -17530,13 +17530,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25cgkl2-18"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 5,
         "periods": [
           4,
@@ -17555,13 +17555,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cgkl2-19"
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Phạm Thị Minh",
         "dow": 5,
         "periods": [
           6,
@@ -17579,13 +17579,13 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-20"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phạm",
-        "teacher": "Thị Trang",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
         "dow": 5,
         "periods": [
           11,
@@ -17611,8 +17611,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Từ Thị Tuyết",
         "dow": 6,
         "periods": [
           1,
@@ -17632,13 +17632,13 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25cgkl2-22"
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Từ Thị Tuyết",
         "dow": 6,
         "periods": [
           1,
@@ -17651,13 +17651,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25cgkl2-23"
       },
       {
         "code": "TC25CGKL17",
-        "subject": "Gia công trên máy tiện 1 Nguyễn",
-        "teacher": "Thị Bích",
+        "subject": "Gia công trên máy tiện 1",
+        "teacher": "Nguyễn Thị Bích",
         "dow": 6,
         "periods": [
           6,
@@ -17679,7 +17679,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25cgkl2-24"
       },
       {
@@ -17784,8 +17784,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 7,
         "periods": [
           6,
@@ -17826,8 +17826,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 7,
         "periods": [
           6,
@@ -17843,8 +17843,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 7,
         "periods": [
           9,
@@ -17897,8 +17897,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 8,
         "periods": [
           1,
@@ -17923,8 +17923,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Phạm Thị Minh",
         "dow": 8,
         "periods": [
           6,
@@ -17938,13 +17938,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-37"
       },
       {
         "code": "TC25CGKL09",
-        "subject": "Cơ kỹ thuật Phạm",
-        "teacher": "Thị Minh",
+        "subject": "Cơ kỹ thuật",
+        "teacher": "Phạm Thị Minh",
         "dow": 8,
         "periods": [
           6,
@@ -17957,13 +17957,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           7
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cgkl2-38"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phạm",
-        "teacher": "Thị Trang",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
         "dow": 8,
         "periods": [
           6,
@@ -17982,8 +17982,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CGKL21",
-        "subject": "Gia công trên máy mài 1 Từ",
-        "teacher": "Thị Tuyết",
+        "subject": "Gia công trên máy mài 1",
+        "teacher": "Từ Thị Tuyết",
         "dow": 8,
         "periods": [
           6,
@@ -17995,7 +17995,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25cgkl2-40"
       }
     ]
@@ -18010,8 +18010,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 2,
         "periods": [
           1,
@@ -18031,13 +18031,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot1-1"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           1,
@@ -18074,8 +18074,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           3,
@@ -18085,7 +18085,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot1-4"
       },
       {
@@ -18148,8 +18148,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           6,
@@ -18192,8 +18192,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           1,
@@ -18230,8 +18230,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           3,
@@ -18241,13 +18241,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot1-11"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 3,
         "periods": [
           4,
@@ -18266,7 +18266,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot1-12"
       },
       {
@@ -18319,8 +18319,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           6,
@@ -18337,8 +18337,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           6,
@@ -18355,8 +18355,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           11,
@@ -18430,8 +18430,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           1,
@@ -18501,8 +18501,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           6,
@@ -18519,8 +18519,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           11,
@@ -18572,8 +18572,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           1,
@@ -18654,8 +18654,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           6,
@@ -18672,8 +18672,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           11,
@@ -18730,8 +18730,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           1,
@@ -18748,8 +18748,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 6,
         "periods": [
           4,
@@ -18774,13 +18774,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot1-33"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -18802,8 +18802,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -18819,8 +18819,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           6,
@@ -18837,8 +18837,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           6,
@@ -18855,8 +18855,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           9,
@@ -18871,8 +18871,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 7,
         "periods": [
           1,
@@ -18898,7 +18898,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot1-39"
       },
       {
@@ -18934,8 +18934,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 7,
         "periods": [
           6,
@@ -19047,8 +19047,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 2,
         "periods": [
           1,
@@ -19068,7 +19068,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot2-1"
       },
       {
@@ -19111,8 +19111,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 2,
         "periods": [
           1,
@@ -19130,8 +19130,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           3,
@@ -19141,7 +19141,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot2-5"
       },
       {
@@ -19198,8 +19198,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           11,
@@ -19251,8 +19251,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 3,
         "periods": [
           1,
@@ -19289,8 +19289,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 3,
         "periods": [
           1,
@@ -19306,8 +19306,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           3,
@@ -19317,13 +19317,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot2-13"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 3,
         "periods": [
           4,
@@ -19342,13 +19342,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot2-14"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 3,
         "periods": [
           4,
@@ -19363,8 +19363,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 3,
         "periods": [
           6,
@@ -19592,8 +19592,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 6,
         "periods": [
           4,
@@ -19618,7 +19618,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot2-24"
       },
       {
@@ -19705,8 +19705,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 7,
         "periods": [
           1,
@@ -19732,7 +19732,7 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot2-28"
       },
       {
@@ -19768,8 +19768,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           6,
@@ -19838,8 +19838,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           1,
@@ -19876,8 +19876,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 8,
         "periods": [
           6,
@@ -19902,8 +19902,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           6,
@@ -19975,8 +19975,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           1,
@@ -19997,8 +19997,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -20008,7 +20008,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot3-3"
       },
       {
@@ -20029,8 +20029,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 2,
         "periods": [
           4,
@@ -20049,7 +20049,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot3-5"
       },
       {
@@ -20087,8 +20087,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           6,
@@ -20105,8 +20105,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 3,
         "periods": [
           1,
@@ -20126,13 +20126,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot3-8"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           1,
@@ -20153,8 +20153,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           1,
@@ -20164,7 +20164,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot3-10"
       },
       {
@@ -20258,8 +20258,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           6,
@@ -20276,8 +20276,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           6,
@@ -20294,8 +20294,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 3,
         "periods": [
           11,
@@ -20369,8 +20369,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           1,
@@ -20440,8 +20440,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           6,
@@ -20458,8 +20458,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           11,
@@ -20511,8 +20511,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           1,
@@ -20593,8 +20593,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           6,
@@ -20611,8 +20611,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           11,
@@ -20637,8 +20637,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 6,
         "periods": [
           1,
@@ -20664,13 +20664,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot3-31"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           1,
@@ -20718,8 +20718,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -20741,8 +20741,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -20758,8 +20758,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           6,
@@ -20776,8 +20776,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 6,
         "periods": [
           6,
@@ -20794,8 +20794,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           9,
@@ -20842,8 +20842,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 7,
         "periods": [
           4,
@@ -20868,13 +20868,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot3-40"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 7,
         "periods": [
           6,
@@ -20986,8 +20986,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           1,
@@ -21013,13 +21013,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot4-1"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           1,
@@ -21029,13 +21029,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot4-2"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           3,
@@ -21045,13 +21045,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot4-3"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           4,
@@ -21076,13 +21076,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot4-4"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 2,
         "periods": [
           6,
@@ -21288,8 +21288,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 4,
         "periods": [
           1,
@@ -21311,8 +21311,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 4,
         "periods": [
           1,
@@ -21328,8 +21328,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 4,
         "periods": [
           4,
@@ -21420,8 +21420,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 4,
         "periods": [
           11,
@@ -21447,8 +21447,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           1,
@@ -21474,13 +21474,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot4-21"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 5,
         "periods": [
           1,
@@ -21497,8 +21497,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           1,
@@ -21508,13 +21508,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot4-23"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           3,
@@ -21524,13 +21524,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot4-24"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           4,
@@ -21555,13 +21555,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot4-25"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 5,
         "periods": [
           6,
@@ -21660,8 +21660,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 5,
         "periods": [
           11,
@@ -21686,8 +21686,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           1,
@@ -21752,8 +21752,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           6,
@@ -22003,8 +22003,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           1,
@@ -22030,13 +22030,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot5-1"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           1,
@@ -22046,13 +22046,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot5-2"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           3,
@@ -22062,13 +22062,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot5-3"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           4,
@@ -22093,7 +22093,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot5-4"
       },
       {
@@ -22125,8 +22125,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 3,
         "periods": [
           1,
@@ -22154,13 +22154,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "emerald",
         "id": "t25cnot5-6"
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 3,
         "periods": [
           6,
@@ -22188,7 +22188,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "emerald",
         "id": "t25cnot5-7"
       },
       {
@@ -22225,8 +22225,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Văn Long",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Văn Long",
         "dow": 3,
         "periods": [
           11,
@@ -22252,8 +22252,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Văn Long",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Văn Long",
         "dow": 4,
         "periods": [
           1,
@@ -22313,8 +22313,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 4,
         "periods": [
           6,
@@ -22336,8 +22336,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 4,
         "periods": [
           6,
@@ -22380,8 +22380,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 4,
         "periods": [
           9,
@@ -22396,8 +22396,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           1,
@@ -22423,13 +22423,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot5-16"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           1,
@@ -22439,13 +22439,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cnot5-17"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           3,
@@ -22455,13 +22455,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot5-18"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           4,
@@ -22486,13 +22486,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cnot5-19"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 5,
         "periods": [
           6,
@@ -22523,8 +22523,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Văn Long",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Văn Long",
         "dow": 5,
         "periods": [
           6,
@@ -22564,8 +22564,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Thực hành nâng cao",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 6,
         "periods": [
           1,
@@ -22586,7 +22586,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "blue",
         "id": "t25cnot5-23"
       },
       {
@@ -22613,8 +22613,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Thực hành nâng cao",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 6,
         "periods": [
           6,
@@ -22635,13 +22635,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "blue",
         "id": "t25cnot5-25"
       },
       {
         "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Thực hành nâng cao",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 6,
         "periods": [
           6,
@@ -22651,13 +22651,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "emerald",
+        "color": "blue",
         "id": "t25cnot5-26"
       },
       {
         "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Thực hành nâng cao",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 6,
         "periods": [
           11,
@@ -22669,7 +22669,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "emerald",
+        "color": "blue",
         "id": "t25cnot5-27"
       },
       {
@@ -22700,8 +22700,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 7,
         "periods": [
           1,
@@ -22714,7 +22714,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "emerald",
         "id": "t25cnot5-29"
       },
       {
@@ -22767,8 +22767,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 7,
         "periods": [
           6,
@@ -22781,7 +22781,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "emerald",
         "id": "t25cnot5-32"
       },
       {
@@ -22867,8 +22867,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô Cao",
-        "teacher": "Huỳnh Minh Hiếu",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Cao Huỳnh Minh Hiếu",
         "dow": 8,
         "periods": [
           6,
@@ -22880,13 +22880,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "emerald",
         "id": "t25cnot5-37"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 8,
         "periods": [
           6,
@@ -22961,8 +22961,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           1,
@@ -23037,8 +23037,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 3,
         "periods": [
           1,
@@ -23103,8 +23103,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 4,
         "periods": [
           1,
@@ -23130,13 +23130,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-7"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 4,
         "periods": [
           1,
@@ -23146,7 +23146,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-8"
       },
       {
@@ -23314,8 +23314,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 5,
         "periods": [
           3,
@@ -23325,13 +23325,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-15"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 5,
         "periods": [
           4,
@@ -23356,13 +23356,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-16"
       },
       {
         "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           6,
@@ -23394,8 +23394,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           11,
@@ -23421,8 +23421,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH08",
-        "subject": "Tiếng Anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           1,
@@ -23444,8 +23444,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH08",
-        "subject": "Tiếng Anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           1,
@@ -23461,8 +23461,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH08",
-        "subject": "Tiếng Anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           4,
@@ -23502,8 +23502,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 6,
         "periods": [
           8,
@@ -23523,13 +23523,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-23"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 6,
         "periods": [
           8,
@@ -23541,7 +23541,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-24"
       },
       {
@@ -23572,8 +23572,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 7,
         "periods": [
           4,
@@ -23592,7 +23592,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25cntt1-26"
       },
       {
@@ -23658,8 +23658,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 8,
         "periods": [
           1,
@@ -23727,8 +23727,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Ngô Thị Nhung",
         "dow": 2,
         "periods": [
           1,
@@ -23793,8 +23793,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           1,
@@ -23819,13 +23819,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cntt2-3"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           3,
@@ -23851,13 +23851,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cntt2-4"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           3,
@@ -23867,13 +23867,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cntt2-5"
       },
       {
         "code": "TC25CNTT13",
-        "subject": "Quản trị mạng Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Quản trị mạng",
+        "teacher": "Vũ Thị Tho",
         "dow": 3,
         "periods": [
           6,
@@ -23901,13 +23901,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "teal",
         "id": "t25cntt2-6"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Ngô Thị Nhung",
         "dow": 3,
         "periods": [
           11,
@@ -23932,8 +23932,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           1,
@@ -23958,13 +23958,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cntt2-8"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           3,
@@ -23990,13 +23990,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cntt2-9"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           3,
@@ -24006,7 +24006,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25cntt2-10"
       },
       {
@@ -24078,8 +24078,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT08",
-        "subject": "Tiếng Anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           1,
@@ -24101,8 +24101,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT08",
-        "subject": "Tiếng Anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           1,
@@ -24118,8 +24118,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT08",
-        "subject": "Tiếng Anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           4,
@@ -24134,8 +24134,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 5,
         "periods": [
           6,
@@ -24167,8 +24167,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           1,
@@ -24188,13 +24188,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cntt2-17"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           1,
@@ -24206,13 +24206,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cntt2-18"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           4,
@@ -24231,13 +24231,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cntt2-19"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           4,
@@ -24247,13 +24247,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cntt2-20"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           1,
@@ -24273,13 +24273,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cntt2-21"
       },
       {
         "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 7,
         "periods": [
           1,
@@ -24299,8 +24299,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 7,
         "periods": [
           4,
@@ -24319,13 +24319,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25cntt2-23"
       },
       {
         "code": "TC25CNTT13",
-        "subject": "Quản trị mạng Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Quản trị mạng",
+        "teacher": "Vũ Thị Tho",
         "dow": 7,
         "periods": [
           6,
@@ -24341,7 +24341,7 @@ const ALL_CLASSES_DATABASE =
           6,
           8
         ],
-        "color": "orange",
+        "color": "teal",
         "id": "t25cntt2-24"
       },
       {
@@ -24368,8 +24368,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           6,
@@ -24381,7 +24381,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25cntt2-26"
       },
       {
@@ -24423,8 +24423,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 8,
         "periods": [
           1,
@@ -24466,8 +24466,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT13",
-        "subject": "Quản trị mạng Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Quản trị mạng",
+        "teacher": "Vũ Thị Tho",
         "dow": 8,
         "periods": [
           6,
@@ -24481,13 +24481,13 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "orange",
+        "color": "teal",
         "id": "t25cntt2-31"
       },
       {
         "code": "TC25CNTT13",
-        "subject": "Quản trị mạng Vũ",
-        "teacher": "Thị Tho",
+        "subject": "Quản trị mạng",
+        "teacher": "Vũ Thị Tho",
         "dow": 8,
         "periods": [
           6,
@@ -24500,7 +24500,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "orange",
+        "color": "teal",
         "id": "t25cntt2-32"
       }
     ]
@@ -24854,8 +24854,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CTCK13",
-        "subject": "Gia công các chi tiết bằng tay Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Gia công các chi tiết bằng tay",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 5,
         "periods": [
           1,
@@ -24881,7 +24881,7 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ctck1-14"
       },
       {
@@ -24919,8 +24919,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 5,
         "periods": [
           6,
@@ -24946,13 +24946,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ctck1-16"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           11,
@@ -25010,8 +25010,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -25058,8 +25058,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -25075,8 +25075,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           9,
@@ -25146,8 +25146,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 7,
         "periods": [
           6,
@@ -25217,8 +25217,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 8,
         "periods": [
           6,
@@ -25231,13 +25231,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ctck1-28"
       },
       {
         "code": "TC25CTCK13",
-        "subject": "Gia công các chi tiết bằng tay Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Gia công các chi tiết bằng tay",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 8,
         "periods": [
           11,
@@ -25255,13 +25255,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ctck1-29"
       },
       {
         "code": "TC25CTCK13",
-        "subject": "Gia công các chi tiết bằng tay Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Gia công các chi tiết bằng tay",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 8,
         "periods": [
           11,
@@ -25271,7 +25271,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           5
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "t25ctck1-30"
       }
     ]
@@ -25286,8 +25286,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           1,
@@ -25313,13 +25313,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ctck2-1"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           1,
@@ -25329,13 +25329,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ctck2-2"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           3,
@@ -25345,13 +25345,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ctck2-3"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           4,
@@ -25376,7 +25376,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ctck2-4"
       },
       {
@@ -25404,8 +25404,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 3,
         "periods": [
           1,
@@ -25502,8 +25502,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 4,
         "periods": [
           6,
@@ -25528,13 +25528,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ctck2-9"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 4,
         "periods": [
           11,
@@ -25560,8 +25560,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           1,
@@ -25587,13 +25587,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ctck2-11"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 5,
         "periods": [
           1,
@@ -25610,8 +25610,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           1,
@@ -25621,13 +25621,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ctck2-13"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           3,
@@ -25637,13 +25637,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ctck2-14"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           4,
@@ -25668,7 +25668,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ctck2-15"
       },
       {
@@ -25706,8 +25706,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 5,
         "periods": [
           6,
@@ -25765,8 +25765,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           1,
@@ -25798,8 +25798,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           6,
@@ -25846,8 +25846,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Võ",
-        "teacher": "Thị Thu Thảo",
+        "subject": "Vật lý",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 7,
         "periods": [
           1,
@@ -25872,13 +25872,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ctck2-23"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 7,
         "periods": [
           6,
@@ -25923,8 +25923,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 7,
         "periods": [
           6,
@@ -25940,8 +25940,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 7,
         "periods": [
           9,
@@ -25956,8 +25956,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị ái Nhi",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị ái Nhi",
         "dow": 8,
         "periods": [
           1,
@@ -26032,8 +26032,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -26059,13 +26059,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn1-1"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -26075,13 +26075,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn1-2"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 2,
         "periods": [
           3,
@@ -26091,13 +26091,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-3"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 2,
         "periods": [
           4,
@@ -26122,13 +26122,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-4"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           6,
@@ -26161,8 +26161,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 3,
         "periods": [
           1,
@@ -26188,13 +26188,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-6"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 3,
         "periods": [
           1,
@@ -26204,13 +26204,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-7"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           3,
@@ -26220,13 +26220,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn1-8"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           4,
@@ -26251,13 +26251,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn1-9"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 3,
         "periods": [
           6,
@@ -26288,8 +26288,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 3,
         "periods": [
           6,
@@ -26307,8 +26307,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 4,
         "periods": [
           1,
@@ -26329,8 +26329,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 4,
         "periods": [
           1,
@@ -26350,13 +26350,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-13"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 4,
         "periods": [
           1,
@@ -26372,8 +26372,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 4,
         "periods": [
           1,
@@ -26385,13 +26385,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25dcn1-15"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 4,
         "periods": [
           4,
@@ -26410,13 +26410,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-16"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 4,
         "periods": [
           4,
@@ -26431,8 +26431,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           6,
@@ -26578,8 +26578,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Hà",
-        "teacher": "Thị Thu Phương",
+        "subject": "Trang bị điện 1",
+        "teacher": "Hà Thị Thu Phương",
         "dow": 6,
         "periods": [
           1,
@@ -26605,13 +26605,13 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "t25dcn1-24"
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Hà",
-        "teacher": "Thị Thu Phương",
+        "subject": "Trang bị điện 1",
+        "teacher": "Hà Thị Thu Phương",
         "dow": 6,
         "periods": [
           6,
@@ -26637,7 +26637,7 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "t25dcn1-25"
       },
       {
@@ -26675,8 +26675,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 7,
         "periods": [
           1,
@@ -26695,13 +26695,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25dcn1-27"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 7,
         "periods": [
           1,
@@ -26713,13 +26713,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn1-28"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 7,
         "periods": [
           3,
@@ -26739,13 +26739,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25dcn1-29"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 7,
         "periods": [
           11,
@@ -26770,8 +26770,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Hà",
-        "teacher": "Thị Thu Phương",
+        "subject": "Trang bị điện 1",
+        "teacher": "Hà Thị Thu Phương",
         "dow": 8,
         "periods": [
           6,
@@ -26784,13 +26784,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "t25dcn1-31"
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Hà",
-        "teacher": "Thị Thu Phương",
+        "subject": "Trang bị điện 1",
+        "teacher": "Hà Thị Thu Phương",
         "dow": 8,
         "periods": [
           6,
@@ -26811,13 +26811,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "violet",
         "id": "t25dcn1-32"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           11,
@@ -26932,8 +26932,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Lê Văn",
-        "teacher": "Mai",
+        "subject": "Trang bị điện 1",
+        "teacher": "Lê Văn Mai",
         "dow": 2,
         "periods": [
           6,
@@ -26960,7 +26960,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn2-4"
       },
       {
@@ -27044,8 +27044,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Lê Văn",
-        "teacher": "Mai",
+        "subject": "Trang bị điện 1",
+        "teacher": "Lê Văn Mai",
         "dow": 3,
         "periods": [
           6,
@@ -27072,13 +27072,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn2-8"
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 3,
         "periods": [
           6,
@@ -27096,8 +27096,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           1,
@@ -27165,8 +27165,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Lê Văn",
-        "teacher": "Mai",
+        "subject": "Trang bị điện 1",
+        "teacher": "Lê Văn Mai",
         "dow": 4,
         "periods": [
           11,
@@ -27186,13 +27186,13 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn2-12"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 5,
         "periods": [
           1,
@@ -27210,8 +27210,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           6,
@@ -27258,8 +27258,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           6,
@@ -27275,8 +27275,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 5,
         "periods": [
           9,
@@ -27297,13 +27297,13 @@ const ALL_CLASSES_DATABASE =
           12,
           13
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn2-17"
       },
       {
         "code": "TC25CDT08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           9,
@@ -27318,8 +27318,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 6,
         "periods": [
           1,
@@ -27465,8 +27465,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           11,
@@ -27492,8 +27492,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 8,
         "periods": [
           1,
@@ -27510,7 +27510,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn2-25"
       },
       {
@@ -27534,8 +27534,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 8,
         "periods": [
           3,
@@ -27552,13 +27552,13 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn2-27"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 8,
         "periods": [
           6,
@@ -27593,8 +27593,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           1,
@@ -27620,13 +27620,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn3-1"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 2,
         "periods": [
           1,
@@ -27636,13 +27636,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn3-2"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           3,
@@ -27652,13 +27652,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-3"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 2,
         "periods": [
           4,
@@ -27683,7 +27683,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-4"
       },
       {
@@ -27721,8 +27721,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 3,
         "periods": [
           1,
@@ -27749,7 +27749,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-6"
       },
       {
@@ -27811,8 +27811,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 4,
         "periods": [
           1,
@@ -27843,8 +27843,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 4,
         "periods": [
           6,
@@ -27869,7 +27869,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn3-10"
       },
       {
@@ -27901,8 +27901,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           1,
@@ -27928,13 +27928,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-12"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Thu Hiền",
+        "subject": "Toán",
+        "teacher": "Trần Thị Thu Hiền",
         "dow": 5,
         "periods": [
           1,
@@ -27944,13 +27944,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-13"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           3,
@@ -27960,13 +27960,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn3-14"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 5,
         "periods": [
           4,
@@ -27991,13 +27991,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn3-15"
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 5,
         "periods": [
           6,
@@ -28023,13 +28023,13 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-16"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -28051,8 +28051,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -28090,8 +28090,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 6,
         "periods": [
           4,
@@ -28157,8 +28157,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Võ",
-        "teacher": "Thị Thu Thảo",
+        "subject": "Vật lý",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 7,
         "periods": [
           1,
@@ -28183,7 +28183,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25dcn3-23"
       },
       {
@@ -28220,8 +28220,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 8,
         "periods": [
           1,
@@ -28234,13 +28234,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-25"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 8,
         "periods": [
           1,
@@ -28265,8 +28265,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 8,
         "periods": [
           6,
@@ -28285,7 +28285,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn3-27"
       }
     ]
@@ -28300,8 +28300,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 2,
         "periods": [
           1,
@@ -28321,13 +28321,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25dcn4-1"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           4,
@@ -28346,7 +28346,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn4-2"
       },
       {
@@ -28384,8 +28384,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 3,
         "periods": [
           1,
@@ -28412,13 +28412,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn4-4"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           6,
@@ -28444,13 +28444,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn4-5"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           6,
@@ -28460,13 +28460,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn4-6"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           8,
@@ -28476,13 +28476,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn4-7"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           9,
@@ -28507,7 +28507,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn4-8"
       },
       {
@@ -28537,8 +28537,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 4,
         "periods": [
           1,
@@ -28569,8 +28569,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           6,
@@ -28596,13 +28596,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn4-11"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           6,
@@ -28612,13 +28612,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn4-12"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           8,
@@ -28628,13 +28628,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn4-13"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           9,
@@ -28659,7 +28659,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25dcn4-14"
       },
       {
@@ -28691,8 +28691,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 5,
         "periods": [
           1,
@@ -28712,13 +28712,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25dcn4-16"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           4,
@@ -28737,13 +28737,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25dcn4-17"
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 5,
         "periods": [
           6,
@@ -28769,7 +28769,7 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn4-18"
       },
       {
@@ -28807,8 +28807,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -28830,8 +28830,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -28869,8 +28869,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 6,
         "periods": [
           4,
@@ -28968,8 +28968,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 8,
         "periods": [
           1,
@@ -28982,13 +28982,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn4-27"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Phạm",
-        "teacher": "Thị Phương Thanh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Phạm Thị Phương Thanh",
         "dow": 8,
         "periods": [
           1,
@@ -29013,8 +29013,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN16",
-        "subject": "Trang bị điện 1 Trần",
-        "teacher": "Thị Thu",
+        "subject": "Trang bị điện 1",
+        "teacher": "Trần Thị Thu",
         "dow": 8,
         "periods": [
           6,
@@ -29033,7 +29033,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25dcn4-29"
       }
     ]
@@ -29190,8 +29190,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 2,
         "periods": [
           11,
@@ -29295,8 +29295,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn TIG",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 3,
         "periods": [
           6,
@@ -29324,7 +29324,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han1-11"
       },
       {
@@ -29494,8 +29494,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           1,
@@ -29544,8 +29544,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           1,
@@ -29561,8 +29561,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           4,
@@ -29603,8 +29603,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn TIG",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 5,
         "periods": [
           6,
@@ -29614,13 +29614,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han1-23"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn TIG",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 5,
         "periods": [
           6,
@@ -29635,13 +29635,13 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han1-24"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 5,
         "periods": [
           9,
@@ -29662,7 +29662,7 @@ const ALL_CLASSES_DATABASE =
           12,
           13
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25han1-25"
       },
       {
@@ -29694,8 +29694,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Trần",
-        "teacher": "Thị Kim Thảo",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 6,
         "periods": [
           1,
@@ -29811,8 +29811,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn TIG",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 7,
         "periods": [
           6,
@@ -29824,13 +29824,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han1-31"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 8,
         "periods": [
           1,
@@ -29847,7 +29847,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25han1-32"
       },
       {
@@ -29895,8 +29895,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 8,
         "periods": [
           3,
@@ -29913,7 +29913,7 @@ const ALL_CLASSES_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25han1-35"
       },
       {
@@ -29971,8 +29971,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           1,
@@ -29992,13 +29992,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-1"
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 2,
         "periods": [
           1,
@@ -30020,8 +30020,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           1,
@@ -30033,13 +30033,13 @@ const ALL_CLASSES_DATABASE =
           1,
           3
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-3"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 2,
         "periods": [
           4,
@@ -30058,13 +30058,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25han2-4"
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 2,
         "periods": [
           6,
@@ -30085,7 +30085,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-5"
       },
       {
@@ -30114,8 +30114,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 2,
         "periods": [
           11,
@@ -30134,13 +30134,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-7"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           1,
@@ -30171,8 +30171,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           1,
@@ -30188,8 +30188,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 3,
         "periods": [
           4,
@@ -30204,8 +30204,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           6,
@@ -30231,13 +30231,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-11"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           6,
@@ -30247,13 +30247,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-12"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           8,
@@ -30263,13 +30263,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25han2-13"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           9,
@@ -30294,7 +30294,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25han2-14"
       },
       {
@@ -30335,8 +30335,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           6,
@@ -30362,13 +30362,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25han2-16"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 4,
         "periods": [
           6,
@@ -30380,13 +30380,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-17"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           6,
@@ -30396,13 +30396,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25han2-18"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           8,
@@ -30412,13 +30412,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-19"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           9,
@@ -30443,7 +30443,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-20"
       },
       {
@@ -30469,8 +30469,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           1,
@@ -30490,13 +30490,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25han2-22"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 5,
         "periods": [
           1,
@@ -30508,13 +30508,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-23"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           1,
@@ -30526,13 +30526,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25han2-24"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Trần",
-        "teacher": "Thị Thùy Dung",
+        "subject": "Tin học nâng cao",
+        "teacher": "Trần Thị Thùy Dung",
         "dow": 5,
         "periods": [
           1,
@@ -30552,8 +30552,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 5,
         "periods": [
           4,
@@ -30572,13 +30572,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25han2-26"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Trần",
-        "teacher": "Thị Thùy Dung",
+        "subject": "Tin học nâng cao",
+        "teacher": "Trần Thị Thùy Dung",
         "dow": 5,
         "periods": [
           6,
@@ -30610,8 +30610,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 5,
         "periods": [
           6,
@@ -30623,7 +30623,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-28"
       },
       {
@@ -30661,8 +30661,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 6,
         "periods": [
           1,
@@ -30689,13 +30689,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-30"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 6,
         "periods": [
           1,
@@ -30707,13 +30707,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-31"
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 6,
         "periods": [
           6,
@@ -30740,13 +30740,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-32"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 6,
         "periods": [
           6,
@@ -30758,13 +30758,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-33"
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 7,
         "periods": [
           1,
@@ -30791,13 +30791,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-34"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 7,
         "periods": [
           1,
@@ -30807,13 +30807,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-35"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 7,
         "periods": [
           6,
@@ -30840,13 +30840,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-36"
       },
       {
         "code": "TC25HAN15",
-        "subject": "Hàn TIG Lê",
-        "teacher": "Văn Tấn",
+        "subject": "Hàn TIG",
+        "teacher": "Lê Văn Tấn",
         "dow": 7,
         "periods": [
           6,
@@ -30858,13 +30858,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-37"
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 8,
         "periods": [
           1,
@@ -30876,13 +30876,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-38"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Lê",
-        "teacher": "Thị Thúy Hằng",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Lê Thị Thúy Hằng",
         "dow": 8,
         "periods": [
           1,
@@ -30907,8 +30907,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao Hồ",
-        "teacher": "Văn Ngữ",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Hồ Văn Ngữ",
         "dow": 8,
         "periods": [
           6,
@@ -30918,13 +30918,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25han2-40"
       },
       {
         "code": "TC25DCN23",
-        "subject": "Tin học nâng cao Trần",
-        "teacher": "Thị Thùy Dung",
+        "subject": "Tin học nâng cao",
+        "teacher": "Trần Thị Thùy Dung",
         "dow": 8,
         "periods": [
           6,
@@ -31039,8 +31039,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 2,
         "periods": [
           6,
@@ -31053,13 +31053,13 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml1-4"
       },
       {
         "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm. Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "teacher": "Trần Văn Quốc",
         "dow": 2,
         "periods": [
           6,
@@ -31071,13 +31071,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25ktml1-5"
       },
       {
         "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm. Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "teacher": "Trần Văn Quốc",
         "dow": 2,
         "periods": [
           6,
@@ -31095,7 +31095,7 @@ const ALL_CLASSES_DATABASE =
           6,
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25ktml1-6"
       },
       {
@@ -31179,8 +31179,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm. Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "teacher": "Trần Văn Quốc",
         "dow": 3,
         "periods": [
           6,
@@ -31208,13 +31208,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "t25ktml1-10"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
         "dow": 4,
         "periods": [
           1,
@@ -31243,7 +31243,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml1-11"
       },
       {
@@ -31266,8 +31266,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
         "dow": 4,
         "periods": [
           6,
@@ -31296,7 +31296,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml1-13"
       },
       {
@@ -31352,8 +31352,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 4,
         "periods": [
           11,
@@ -31378,8 +31378,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 5,
         "periods": [
           1,
@@ -31410,8 +31410,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 5,
         "periods": [
           1,
@@ -31429,8 +31429,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 5,
         "periods": [
           6,
@@ -31456,13 +31456,13 @@ const ALL_CLASSES_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml1-19"
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           1,
@@ -31482,8 +31482,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 6,
         "periods": [
           1,
@@ -31507,7 +31507,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml1-21"
       },
       {
@@ -31530,8 +31530,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 6,
         "periods": [
           6,
@@ -31549,8 +31549,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
         "dow": 6,
         "periods": [
           6,
@@ -31567,13 +31567,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml1-24"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
         "dow": 6,
         "periods": [
           6,
@@ -31583,7 +31583,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml1-25"
       },
       {
@@ -31606,8 +31606,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
         "dow": 6,
         "periods": [
           8,
@@ -31617,13 +31617,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml1-27"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Bùi",
-        "teacher": "Văn Vinh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
         "dow": 6,
         "periods": [
           11,
@@ -31641,7 +31641,7 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml1-28"
       },
       {
@@ -31696,8 +31696,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC* Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC*",
+        "teacher": "Trần Văn Quốc",
         "dow": 7,
         "periods": [
           6,
@@ -31714,7 +31714,7 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml1-31"
       },
       {
@@ -31774,8 +31774,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC* Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC*",
+        "teacher": "Trần Văn Quốc",
         "dow": 8,
         "periods": [
           1,
@@ -31788,13 +31788,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml1-34"
       },
       {
         "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC* Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC*",
+        "teacher": "Trần Văn Quốc",
         "dow": 8,
         "periods": [
           1,
@@ -31809,7 +31809,7 @@ const ALL_CLASSES_DATABASE =
           4,
           5
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml1-35"
       },
       {
@@ -31853,8 +31853,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 8,
         "periods": [
           6,
@@ -31870,8 +31870,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 8,
         "periods": [
           6,
@@ -31884,13 +31884,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml1-39"
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan Anh",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan Anh",
         "dow": 8,
         "periods": [
           9,
@@ -31915,8 +31915,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -31942,13 +31942,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml2-1"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Lâm",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Lâm",
         "dow": 2,
         "periods": [
           1,
@@ -31965,8 +31965,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 2,
         "periods": [
           1,
@@ -31976,13 +31976,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml2-3"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 2,
         "periods": [
           3,
@@ -31992,13 +31992,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-4"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 2,
         "periods": [
           4,
@@ -32023,13 +32023,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-5"
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 2,
         "periods": [
           6,
@@ -32051,8 +32051,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 2,
         "periods": [
           6,
@@ -32068,8 +32068,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Lâm",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Lâm",
         "dow": 2,
         "periods": [
           6,
@@ -32129,8 +32129,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 2,
         "periods": [
           9,
@@ -32145,8 +32145,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 3,
         "periods": [
           1,
@@ -32172,13 +32172,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-12"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Lâm",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Lâm",
         "dow": 3,
         "periods": [
           1,
@@ -32195,8 +32195,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 3,
         "periods": [
           1,
@@ -32206,13 +32206,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-14"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           3,
@@ -32222,13 +32222,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml2-15"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Cẩm Tú",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
         "dow": 3,
         "periods": [
           4,
@@ -32253,13 +32253,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml2-16"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Lâm",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Lâm",
         "dow": 3,
         "periods": [
           6,
@@ -32288,8 +32288,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 4,
         "periods": [
           1,
@@ -32309,13 +32309,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-18"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 4,
         "periods": [
           1,
@@ -32327,13 +32327,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25ktml2-19"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 4,
         "periods": [
           1,
@@ -32353,8 +32353,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 4,
         "periods": [
           4,
@@ -32373,13 +32373,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-21"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Lê Văn Thịnh",
         "dow": 4,
         "periods": [
           6,
@@ -32408,13 +32408,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-22"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Lê Văn Thịnh",
         "dow": 5,
         "periods": [
           1,
@@ -32442,13 +32442,13 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-23"
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 5,
         "periods": [
           6,
@@ -32472,13 +32472,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml2-24"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Lâm",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Lâm",
         "dow": 5,
         "periods": [
           6,
@@ -32497,8 +32497,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 5,
         "periods": [
           11,
@@ -32589,8 +32589,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           6,
@@ -32617,8 +32617,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Lê Văn Thịnh",
         "dow": 6,
         "periods": [
           11,
@@ -32637,13 +32637,13 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-30"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 7,
         "periods": [
           1,
@@ -32662,13 +32662,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25ktml2-31"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 7,
         "periods": [
           1,
@@ -32680,13 +32680,13 @@ const ALL_CLASSES_DATABASE =
           2,
           3
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-32"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 7,
         "periods": [
           3,
@@ -32706,13 +32706,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25ktml2-33"
       },
       {
         "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC* Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC*",
+        "teacher": "Trần Văn Quốc",
         "dow": 7,
         "periods": [
           6,
@@ -32729,13 +32729,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-34"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Lê Văn Thịnh",
         "dow": 7,
         "periods": [
           6,
@@ -32752,13 +32752,13 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-35"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Lê Văn Thịnh",
         "dow": 7,
         "periods": [
           6,
@@ -32768,13 +32768,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-36"
       },
       {
         "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng Lê",
-        "teacher": "Văn Thịnh",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Lê Văn Thịnh",
         "dow": 7,
         "periods": [
           8,
@@ -32784,13 +32784,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-37"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn",
-        "teacher": "Lâm",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Lâm",
         "dow": 8,
         "periods": [
           1,
@@ -32816,8 +32816,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC* Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC*",
+        "teacher": "Trần Văn Quốc",
         "dow": 8,
         "periods": [
           1,
@@ -32830,13 +32830,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-39"
       },
       {
         "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC* Trần",
-        "teacher": "Văn Quốc",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng (TC*",
+        "teacher": "Trần Văn Quốc",
         "dow": 8,
         "periods": [
           1,
@@ -32851,13 +32851,13 @@ const ALL_CLASSES_DATABASE =
           4,
           5
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25ktml2-40"
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 8,
         "periods": [
           6,
@@ -32870,7 +32870,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml2-41"
       }
     ]
@@ -32885,8 +32885,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 2,
         "periods": [
           1,
@@ -32906,13 +32906,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25ktml3-1"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 2,
         "periods": [
           4,
@@ -32931,7 +32931,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml3-2"
       },
       {
@@ -32970,8 +32970,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 3,
         "periods": [
           1,
@@ -32995,13 +32995,13 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml3-4"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 3,
         "periods": [
           1,
@@ -33021,8 +33021,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           6,
@@ -33048,13 +33048,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml3-6"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           6,
@@ -33064,13 +33064,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml3-7"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           8,
@@ -33080,13 +33080,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml3-8"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           9,
@@ -33111,7 +33111,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml3-9"
       },
       {
@@ -33240,8 +33240,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           6,
@@ -33267,13 +33267,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml3-15"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           6,
@@ -33283,13 +33283,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml3-16"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           8,
@@ -33299,13 +33299,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml3-17"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           9,
@@ -33330,13 +33330,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25ktml3-18"
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           1,
@@ -33358,8 +33358,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 5,
         "periods": [
           1,
@@ -33379,13 +33379,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25ktml3-20"
       },
       {
         "code": "T25VH04",
-        "subject": "Vật lý Nguyễn",
-        "teacher": "Thị Bảo Anh",
+        "subject": "Vật lý",
+        "teacher": "Nguyễn Thị Bảo Anh",
         "dow": 5,
         "periods": [
           4,
@@ -33404,7 +33404,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "orange",
         "id": "t25ktml3-21"
       },
       {
@@ -33456,8 +33456,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Ngô Thị Nhung",
         "dow": 6,
         "periods": [
           1,
@@ -33488,8 +33488,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 6,
         "periods": [
           1,
@@ -33505,8 +33505,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML08",
-        "subject": "Tiếng anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 6,
         "periods": [
           4,
@@ -33521,8 +33521,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 6,
         "periods": [
           6,
@@ -33554,8 +33554,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm. Nguyễn",
-        "teacher": "Cao Danh",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "teacher": "Nguyễn Cao Danh",
         "dow": 7,
         "periods": [
           1,
@@ -33577,13 +33577,13 @@ const ALL_CLASSES_DATABASE =
           10,
           12
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25ktml3-28"
       },
       {
         "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm. Nguyễn",
-        "teacher": "Cao Danh",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "teacher": "Nguyễn Cao Danh",
         "dow": 7,
         "periods": [
           6,
@@ -33605,13 +33605,13 @@ const ALL_CLASSES_DATABASE =
           10,
           12
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25ktml3-29"
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 8,
         "periods": [
           1,
@@ -33623,13 +33623,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml3-30"
       },
       {
         "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm. Nguyễn",
-        "teacher": "Cao Danh",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "teacher": "Nguyễn Cao Danh",
         "dow": 8,
         "periods": [
           1,
@@ -33641,13 +33641,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           3
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25ktml3-31"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Ngô Thị Nhung",
         "dow": 8,
         "periods": [
           1,
@@ -33672,8 +33672,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25KTML15",
-        "subject": "Trang bị điện lạnh cơ bản Võ",
-        "teacher": "Văn Giang",
+        "subject": "Trang bị điện lạnh cơ bản",
+        "teacher": "Võ Văn Giang",
         "dow": 8,
         "periods": [
           6,
@@ -33685,13 +33685,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "teal",
+        "color": "orange",
         "id": "t25ktml3-33"
       },
       {
         "code": "TC25KTML23",
-        "subject": "Tin học nâng cao Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 8,
         "periods": [
           6,
@@ -33767,8 +33767,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           1,
@@ -33793,13 +33793,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25log-1"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           3,
@@ -33825,13 +33825,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25log-2"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           3,
@@ -33841,13 +33841,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25log-3"
       },
       {
         "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -33872,13 +33872,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25log-4"
       },
       {
         "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 3,
         "periods": [
           6,
@@ -33889,13 +33889,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25log-5"
       },
       {
         "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 3,
         "periods": [
           9
@@ -33904,13 +33904,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25log-6"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           1,
@@ -33935,13 +33935,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25log-7"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           3,
@@ -33967,13 +33967,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25log-8"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           3,
@@ -33983,13 +33983,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25log-9"
       },
       {
         "code": "CD25LGT22",
-        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không. Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 4,
         "periods": [
           6,
@@ -34018,7 +34018,7 @@ const ALL_CLASSES_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "t25log-10"
       },
       {
@@ -34079,8 +34079,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT23",
-        "subject": "Bảo quản hàng hóa Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Bảo quản hàng hóa",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 5,
         "periods": [
           1,
@@ -34101,7 +34101,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25log-13"
       },
       {
@@ -34139,8 +34139,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "CD25LGT23",
-        "subject": "Bảo quản hàng hóa Nguyễn",
-        "teacher": "Thị Hằng",
+        "subject": "Bảo quản hàng hóa",
+        "teacher": "Nguyễn Thị Hằng",
         "dow": 5,
         "periods": [
           5
@@ -34149,13 +34149,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           2
         ],
-        "color": "emerald",
+        "color": "rose",
         "id": "t25log-16"
       },
       {
         "code": "CD25LGT26",
-        "subject": "Container đường biển Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Container đường biển",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           6,
@@ -34180,13 +34180,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "t25log-17"
       },
       {
         "code": "CD25LGT26",
-        "subject": "Container đường biển Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Container đường biển",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           6,
@@ -34197,13 +34197,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "t25log-18"
       },
       {
         "code": "CD25LGT22",
-        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không. Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           6,
@@ -34213,13 +34213,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "t25log-19"
       },
       {
         "code": "CD25LGT22",
-        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không. Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           8
@@ -34228,13 +34228,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "t25log-20"
       },
       {
         "code": "CD25LGT26",
-        "subject": "Container đường biển Đỗ",
-        "teacher": "Lê Minh Điền",
+        "subject": "Container đường biển",
+        "teacher": "Đỗ Lê Minh Điền",
         "dow": 5,
         "periods": [
           9
@@ -34243,13 +34243,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "violet",
         "id": "t25log-21"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -34269,13 +34269,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25log-22"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           4,
@@ -34294,13 +34294,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25log-23"
       },
       {
         "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics Bùi",
-        "teacher": "Thị Huệ",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
         "dow": 6,
         "periods": [
           6,
@@ -34325,13 +34325,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25log-24"
       },
       {
         "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics Bùi",
-        "teacher": "Thị Huệ",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
         "dow": 6,
         "periods": [
           6,
@@ -34342,13 +34342,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25log-25"
       },
       {
         "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics Bùi",
-        "teacher": "Thị Huệ",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
         "dow": 6,
         "periods": [
           9
@@ -34357,13 +34357,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "teal",
         "id": "t25log-26"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 7,
         "periods": [
           1,
@@ -34383,13 +34383,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25log-27"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           4,
@@ -34408,13 +34408,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25log-28"
       },
       {
         "code": "CD25LGT14",
-        "subject": "Vận tải đa phương thức Trần",
-        "teacher": "Thị Hoa",
+        "subject": "Vận tải đa phương thức",
+        "teacher": "Trần Thị Hoa",
         "dow": 7,
         "periods": [
           6,
@@ -34439,13 +34439,13 @@ const ALL_CLASSES_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25log-29"
       },
       {
         "code": "CD25LGT14",
-        "subject": "Vận tải đa phương thức Trần",
-        "teacher": "Thị Hoa",
+        "subject": "Vận tải đa phương thức",
+        "teacher": "Trần Thị Hoa",
         "dow": 7,
         "periods": [
           6,
@@ -34456,13 +34456,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25log-30"
       },
       {
         "code": "CD25LGT14",
-        "subject": "Vận tải đa phương thức Trần",
-        "teacher": "Thị Hoa",
+        "subject": "Vận tải đa phương thức",
+        "teacher": "Trần Thị Hoa",
         "dow": 7,
         "periods": [
           9
@@ -34471,7 +34471,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           6
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25log-31"
       }
     ]
@@ -34486,8 +34486,8 @@ const ALL_CLASSES_DATABASE =
     "schedule": [
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 2,
         "periods": [
           6,
@@ -34551,8 +34551,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           11,
@@ -34604,8 +34604,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH15",
-        "subject": "Thực tế tại trung tâm in ấn quảng cáo Trần",
-        "teacher": "Thị Thùy Dung",
+        "subject": "Thực tế tại trung tâm in ấn quảng cáo",
+        "teacher": "Trần Thị Thùy Dung",
         "dow": 3,
         "periods": [
           6,
@@ -34623,7 +34623,7 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25tkdh1-5"
       },
       {
@@ -34654,8 +34654,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 4,
         "periods": [
           1,
@@ -34681,13 +34681,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-7"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 4,
         "periods": [
           1,
@@ -34697,7 +34697,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-8"
       },
       {
@@ -34850,8 +34850,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 5,
         "periods": [
           3,
@@ -34861,13 +34861,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-15"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần",
-        "teacher": "Thị Mỹ Hương",
+        "subject": "Toán",
+        "teacher": "Trần Thị Mỹ Hương",
         "dow": 5,
         "periods": [
           4,
@@ -34892,13 +34892,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-16"
       },
       {
         "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao Nguyễn",
-        "teacher": "Văn Hậu",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Nguyễn Văn Hậu",
         "dow": 5,
         "periods": [
           6,
@@ -34923,8 +34923,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH08",
-        "subject": "Tiếng Anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           1,
@@ -34946,8 +34946,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH08",
-        "subject": "Tiếng Anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           1,
@@ -34963,8 +34963,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH08",
-        "subject": "Tiếng Anh chuyên ngành Nguyễn",
-        "teacher": "Thị Lan",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Nguyễn Thị Lan",
         "dow": 6,
         "periods": [
           4,
@@ -35020,8 +35020,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 6,
         "periods": [
           8,
@@ -35041,13 +35041,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-23"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 6,
         "periods": [
           8,
@@ -35059,7 +35059,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-24"
       },
       {
@@ -35090,8 +35090,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Lê Đoàn",
-        "teacher": "Hoàng Anh",
+        "subject": "Lịch sử",
+        "teacher": "Lê Đoàn Hoàng Anh",
         "dow": 7,
         "periods": [
           4,
@@ -35110,13 +35110,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "t25tkdh1-26"
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           6,
@@ -35148,8 +35148,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH15",
-        "subject": "Thực tế tại trung tâm in ấn quảng cáo Trần",
-        "teacher": "Thị Thùy Dung",
+        "subject": "Thực tế tại trung tâm in ấn quảng cáo",
+        "teacher": "Trần Thị Thùy Dung",
         "dow": 8,
         "periods": [
           1,
@@ -35159,7 +35159,7 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           7
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "t25tkdh1-28"
       },
       {
@@ -35201,8 +35201,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           1,
@@ -35220,8 +35220,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao Lại",
-        "teacher": "Văn Duy",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           6,
@@ -35267,8 +35267,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH21",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 2,
         "periods": [
           1,
@@ -35328,8 +35328,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 3,
         "periods": [
           1,
@@ -35354,13 +35354,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25tkdh2-4"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           3,
@@ -35386,13 +35386,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25tkdh2-5"
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
           3,
@@ -35402,13 +35402,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25tkdh2-6"
       },
       {
         "code": "TC25TKDH21",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 3,
         "periods": [
           6,
@@ -35473,8 +35473,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH02",
-        "subject": "Ngữ văn Nguyễn",
-        "teacher": "Thị Yến",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 4,
         "periods": [
           1,
@@ -35499,13 +35499,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "t25tkdh2-9"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           3,
@@ -35531,13 +35531,13 @@ const ALL_CLASSES_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25tkdh2-10"
       },
       {
         "code": "T25VH01",
-        "subject": "Toán Trần Võ",
-        "teacher": "Văn Đạt",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
           3,
@@ -35547,13 +35547,13 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           8
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25tkdh2-11"
       },
       {
         "code": "TC25TKDH16",
-        "subject": "Thiết kế hoạt hình Adobe Animation Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Thiết kế hoạt hình Adobe Animation",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 4,
         "periods": [
           6,
@@ -35586,8 +35586,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH16",
-        "subject": "Thiết kế hoạt hình Adobe Animation Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Thiết kế hoạt hình Adobe Animation",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 4,
         "periods": [
           6,
@@ -35605,8 +35605,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT08",
-        "subject": "Tiếng Anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           1,
@@ -35628,8 +35628,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT08",
-        "subject": "Tiếng Anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           1,
@@ -35645,8 +35645,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CNTT08",
-        "subject": "Tiếng Anh chuyên ngành Ngô",
-        "teacher": "Thị Nhung",
+        "subject": "Tiếng Anh chuyên ngành",
+        "teacher": "Ngô Thị Nhung",
         "dow": 5,
         "periods": [
           4,
@@ -35661,8 +35661,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 5,
         "periods": [
           6,
@@ -35693,8 +35693,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 6,
         "periods": [
           1,
@@ -35714,13 +35714,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25tkdh2-18"
       },
       {
         "code": "TC25TKDH21",
-        "subject": "Tin học nâng cao Nguyễn Thị Hải",
-        "teacher": "Hà",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
         "dow": 6,
         "periods": [
           1,
@@ -35739,8 +35739,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
           4,
@@ -35759,13 +35759,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25tkdh2-20"
       },
       {
         "code": "TC25TKDH15",
-        "subject": "Thực tế tại trung tâm in ấn quảng cáo Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thực tế tại trung tâm in ấn quảng cáo",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           6,
@@ -35783,13 +35783,13 @@ const ALL_CLASSES_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "blue",
         "id": "t25tkdh2-21"
       },
       {
         "code": "TC25TKDH15",
-        "subject": "Thực tế tại trung tâm in ấn quảng cáo Phùng",
-        "teacher": "Thị Nga",
+        "subject": "Thực tế tại trung tâm in ấn quảng cáo",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           10
@@ -35799,13 +35799,13 @@ const ALL_CLASSES_DATABASE =
           5,
           6
         ],
-        "color": "violet",
+        "color": "blue",
         "id": "t25tkdh2-22"
       },
       {
         "code": "T25VH03",
-        "subject": "Lịch sử Nguyễn",
-        "teacher": "Thị Hồng Ân",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 7,
         "periods": [
           1,
@@ -35825,13 +35825,13 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "violet",
         "id": "t25tkdh2-23"
       },
       {
         "code": "T25VH05",
-        "subject": "Hóa học Hồ",
-        "teacher": "Ngọc Lệ Thanh",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
         "dow": 7,
         "periods": [
           4,
@@ -35850,7 +35850,7 @@ const ALL_CLASSES_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "t25tkdh2-24"
       },
       {
@@ -35892,8 +35892,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25TKDH16",
-        "subject": "Thiết kế hoạt hình Adobe Animation Nguyễn Thị",
-        "teacher": "Mai",
+        "subject": "Thiết kế hoạt hình Adobe Animation",
+        "teacher": "Nguyễn Thị Mai",
         "dow": 7,
         "periods": [
           8,
@@ -35908,8 +35908,8 @@ const ALL_CLASSES_DATABASE =
       },
       {
         "code": "TC25CDT25",
-        "subject": "Tiếng anh nâng cao Nguyễn",
-        "teacher": "Thị Phương Thảo",
+        "subject": "Tiếng anh nâng cao",
+        "teacher": "Nguyễn Thị Phương Thảo",
         "dow": 8,
         "periods": [
           6,
