@@ -6,7 +6,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Chế biến món ăn Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CBMA)",
     "dept": "Du lịch",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 20,
     "schedule": [
       {
         "id": "cd25cbma-1",
@@ -85,7 +85,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-5",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
@@ -101,7 +101,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-6",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 2,
         "periods": [
@@ -161,7 +161,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-9",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
@@ -516,7 +516,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-27",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 5,
         "periods": [
@@ -596,7 +596,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-31",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 6,
         "periods": [
@@ -651,7 +651,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-34",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 6,
         "periods": [
@@ -783,7 +783,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-40",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 7,
         "periods": [
@@ -802,7 +802,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "cd25cbma-41",
         "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 7,
         "periods": [
@@ -863,78 +863,20 @@ const ALL_CLASSES_DATABASE = {
           14
         ],
         "color": "violet"
-      },
+      }
+    ],
+    "unscheduled": [
       {
-        "id": "cd25cbma-44",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
         "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
-        ],
-        "color": "teal"
+        "note": "Môn chưa xếp / Tự học / Online"
       },
       {
-        "id": "cd25cbma-45",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
-        ],
-        "color": "teal"
+        "note": "Môn chưa xếp / Tự học / Online"
       }
     ]
   },
@@ -944,7 +886,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CDT1)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cdt1-1",
@@ -1542,7 +1484,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CDT2": {
     "code": "CD25CDT2",
@@ -1550,7 +1493,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CDT2)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cdt2-1",
@@ -2177,7 +2120,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CGKL": {
     "code": "CD25CGKL",
@@ -2185,7 +2129,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cắt gọt kim loại Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CGKL)",
     "dept": "Cơ khí chế tạo",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cgkl-1",
@@ -3065,7 +3009,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CNOT1": {
     "code": "CD25CNOT1",
@@ -3073,7 +3018,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CNOT1)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cnot1-1",
@@ -3773,7 +3718,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CNOT2": {
     "code": "CD25CNOT2",
@@ -3781,7 +3727,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CNOT2)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cnot2-1",
@@ -4583,7 +4529,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CNOT3": {
     "code": "CD25CNOT3",
@@ -4591,7 +4538,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CNOT3)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cnot3-1",
@@ -5359,7 +5306,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CNOT4": {
     "code": "CD25CNOT4",
@@ -5367,7 +5315,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CNOT4)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cnot4-1",
@@ -6135,7 +6083,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CNTT1": {
     "code": "CD25CNTT1",
@@ -6143,7 +6092,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CNTT1)",
     "dept": "Công nghệ thông tin",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cntt1-1",
@@ -6544,7 +6493,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CNTT2": {
     "code": "CD25CNTT2",
@@ -6552,7 +6502,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CNTT2)",
     "dept": "Công nghệ thông tin",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25cntt2-1",
@@ -6953,7 +6903,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CTCK1": {
     "code": "CD25CTCK1",
@@ -6961,7 +6912,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Chế tạo Cơ khí Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CTCK1)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25ctck1-1",
@@ -7571,7 +7522,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25CTCK2": {
     "code": "CD25CTCK2",
@@ -7579,7 +7531,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Chế tạo Cơ khí Hệ: Cao đẳng - Khóa học 2025-2028 (CD25CTCK2)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25ctck2-1",
@@ -8189,7 +8141,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25DCN1": {
     "code": "CD25DCN1",
@@ -8197,7 +8150,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2025-2028 (CD25DCN1)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25dcn1-1",
@@ -8769,7 +8722,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25DCN2": {
     "code": "CD25DCN2",
@@ -8777,7 +8731,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2025-2028 (CD25DCN2)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25dcn2-1",
@@ -9291,7 +9245,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25DCN3": {
     "code": "CD25DCN3",
@@ -9299,7 +9254,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2025-2028 (CD25DCN3)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25dcn3-1",
@@ -9885,7 +9840,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25KTML": {
     "code": "CD25KTML",
@@ -9893,7 +9849,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "KTML&ĐHKK Hệ: Cao đẳng - Khóa học 2025-2028 (CD25KTML)",
     "dept": "Điện lạnh",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25ktml-1",
@@ -10384,7 +10340,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25LOG": {
     "code": "CD25LOG",
@@ -10392,7 +10349,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Logistics Hệ: Cao đẳng - Khóa học 2025-2028 (CD25LOG)",
     "dept": "Cơ khí chế tạo",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25log-1",
@@ -11077,7 +11034,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "CD25TKDH": {
     "code": "CD25TKDH",
@@ -11085,7 +11043,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Thiết kế đồ họa Hệ: Cao đẳng - Khóa học 2025-2028 (CD25TKDH)",
     "dept": "Công nghệ thông tin",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "cd25tkdh-1",
@@ -11642,7 +11600,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CBMA1": {
     "code": "T25CBMA1",
@@ -11781,7 +11740,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma1-6",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
@@ -11847,7 +11806,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma1-8",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 3,
         "periods": [
@@ -12549,7 +12508,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma1-40",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Thị Thúy",
         "dow": 8,
         "periods": [
@@ -12645,7 +12604,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CBMA2": {
     "code": "T25CBMA2",
@@ -12653,7 +12613,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Kỹ thuật chế biến món ăn - Hệ TC - Khóa học: 2025-2027 (T25CBMA2)",
     "dept": "Du lịch",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cbma2-1",
@@ -12890,7 +12850,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma2-11",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Ngọc Minh",
         "dow": 3,
         "periods": [
@@ -13077,7 +13037,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma2-19",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Ngọc Minh",
         "dow": 4,
         "periods": [
@@ -13128,7 +13088,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma2-21",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Ngọc Minh",
         "dow": 4,
         "periods": [
@@ -13150,7 +13110,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma2-22",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Ngọc Minh",
         "dow": 5,
         "periods": [
@@ -13226,7 +13186,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma2-25",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Ngọc Minh",
         "dow": 5,
         "periods": [
@@ -13414,7 +13374,7 @@ const ALL_CLASSES_DATABASE = {
       {
         "id": "t25cbma2-34",
         "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
+        "subject": "Chế biến món ăn Á",
         "teacher": "Trần Ngọc Minh",
         "dow": 6,
         "periods": [
@@ -13716,7 +13676,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "indigo"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CBTP": {
     "code": "T25CBTP",
@@ -13724,7 +13685,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Chế biến thực phẩm - Hệ TC - Khóa học: 2025-2027 (T25CBTP)",
     "dept": "Du lịch",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cbtp-1",
@@ -14877,7 +14838,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "orange"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CDT1": {
     "code": "T25CDT1",
@@ -14885,7 +14847,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cơ Điện tử - Hệ TC - Khóa học: 2025-2027 (T25CDT1)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cdt1-1",
@@ -15808,7 +15770,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CDT2": {
     "code": "T25CDT2",
@@ -15816,7 +15779,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cơ Điện tử - Hệ TC - Khóa học: 2025-2027 (T25CDT2)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cdt2-1",
@@ -16754,7 +16717,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CGKL1": {
     "code": "T25CGKL1",
@@ -16762,7 +16726,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cắt gọt kim loại - Hệ TC - Khóa học: 2025-2027 (T25CGKL1)",
     "dept": "Cơ khí chế tạo",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cgkl1-1",
@@ -17914,7 +17878,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "indigo"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CGKL2": {
     "code": "T25CGKL2",
@@ -17922,7 +17887,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Cắt gọt kim loại - Hệ TC - Khóa học: 2025-2027 (T25CGKL2)",
     "dept": "Cơ khí chế tạo",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cgkl2-1",
@@ -18876,7 +18841,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNOT1": {
     "code": "T25CNOT1",
@@ -18884,7 +18850,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2025-2027 (T25CNOT1)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cnot1-1",
@@ -20003,7 +19969,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "violet"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNOT2": {
     "code": "T25CNOT2",
@@ -20011,7 +19978,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2025-2027 (T25CNOT2)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cnot2-1",
@@ -20995,7 +20962,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNOT3": {
     "code": "T25CNOT3",
@@ -21003,7 +20971,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2025-2027 (T25CNOT3)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cnot3-1",
@@ -22122,7 +22090,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "violet"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNOT4": {
     "code": "T25CNOT4",
@@ -22130,7 +22099,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2025-2027 (T25CNOT4)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cnot4-1",
@@ -23176,7 +23145,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNOT5": {
     "code": "T25CNOT5",
@@ -24130,7 +24100,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNTT1": {
     "code": "T25CNTT1",
@@ -24138,7 +24109,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Công nghệ thông tin - Hệ TC - Khóa học: 2025-2027 (T25CNTT1)",
     "dept": "Công nghệ thông tin",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25cntt1-1",
@@ -24936,7 +24907,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CNTT2": {
     "code": "T25CNTT2",
@@ -25756,7 +25728,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "emerald"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CTCK1": {
     "code": "T25CTCK1",
@@ -25764,7 +25737,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Chế tạo thiết bị Cơ khí - Hệ TC - Khóa học: 2025-2027 (T25CTCK1)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25ctck1-1",
@@ -26559,7 +26532,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "violet"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25CTCK2": {
     "code": "T25CTCK2",
@@ -26567,7 +26541,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Chế tạo thiết bị Cơ khí - Hệ TC - Khóa học: 2025-2027 (T25CTCK2)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25ctck2-1",
@@ -27323,7 +27297,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "violet"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25DCN1": {
     "code": "T25DCN1",
@@ -27331,7 +27306,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Điện công nghiệp - Hệ TC - Khóa học: 2025-2027 (T25DCN1)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25dcn1-1",
@@ -28144,7 +28119,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25DCN2": {
     "code": "T25DCN2",
@@ -28152,7 +28128,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Điện công nghiệp - Hệ TC - Khóa học: 2025-2027 (T25DCN2)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25dcn2-1",
@@ -28952,7 +28928,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25DCN3": {
     "code": "T25DCN3",
@@ -29695,7 +29672,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "violet"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25DCN4": {
     "code": "T25DCN4",
@@ -29703,7 +29681,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Điện công nghiệp - Hệ TC - Khóa học: 2025-2027 (T25DCN4)",
     "dept": "Điện",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25dcn4-1",
@@ -30515,7 +30493,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "violet"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25HAN1": {
     "code": "T25HAN1",
@@ -30523,7 +30502,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Hàn - Hệ TC - Khóa học: 2025-2027 (T25HAN1)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25han1-1",
@@ -31508,7 +31487,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "rose"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25HAN2": {
     "code": "T25HAN2",
@@ -31516,7 +31496,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Hàn - Hệ TC - Khóa học: 2025-2027 (T25HAN2)",
     "dept": "Cơ khí",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25han2-1",
@@ -32497,7 +32477,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25KTML1": {
     "code": "T25KTML1",
@@ -32505,7 +32486,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "KTML&ĐHKK - Hệ TC - Khóa học: 2025-2027 (T25KTML1)",
     "dept": "Điện lạnh",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25ktml1-1",
@@ -33484,7 +33465,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25KTML2": {
     "code": "T25KTML2",
@@ -33492,7 +33474,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "KTML&ĐHKK - Hệ TC - Khóa học: 2025-2027 (T25KTML2)",
     "dept": "Điện lạnh",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25ktml2-1",
@@ -34472,7 +34454,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "rose"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25KTML3": {
     "code": "T25KTML3",
@@ -34480,7 +34463,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "KTML&ĐHKK - Hệ TC - Khóa học: 2025-2027 (T25KTML3)",
     "dept": "Điện lạnh",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25ktml3-1",
@@ -35426,7 +35409,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "rose"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25LOG": {
     "code": "T25LOG",
@@ -35434,7 +35418,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Logistics - Hệ TC - Khóa học: 2025-2027 (T25LOG)",
     "dept": "Cơ khí chế tạo",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25log-1",
@@ -36231,7 +36215,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "emerald"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25TKDH1": {
     "code": "T25TKDH1",
@@ -36239,7 +36224,7 @@ const ALL_CLASSES_DATABASE = {
     "major": "Thiết kế đồ họa - Hệ TC - Khóa học: 2025-2027 (T25TKDH1)",
     "dept": "Công nghệ thông tin",
     "startDate": "2026-09-07",
-    "maxWeeks": 18,
+    "maxWeeks": 19,
     "schedule": [
       {
         "id": "t25tkdh1-1",
@@ -37012,7 +36997,8 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "teal"
       }
-    ]
+    ],
+    "unscheduled": []
   },
   "T25TKDH2": {
     "code": "T25TKDH2",
@@ -37775,6 +37761,7 @@ const ALL_CLASSES_DATABASE = {
         ],
         "color": "blue"
       }
-    ]
+    ],
+    "unscheduled": []
   }
 };
