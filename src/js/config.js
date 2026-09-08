@@ -25,7 +25,7 @@ const TRASH_ICON_SVG = `<svg width="13" height="13" viewBox="0 0 24 24" fill="no
 const PERIOD_GROUPS = {
   morning: { label: 'Sáng', start: '07:25', end: '12:20', periods: [1, 2, 3, 4, 5] },
   afternoon: { label: 'Chiều', start: '12:55', end: '17:50', periods: [6, 7, 8, 9, 10] },
-  evening: { label: 'Tối', start: '17:55', end: '21:00', periods: [11, 12, 13, 14] },
+  evening: { label: 'Tối', start: '17:55', end: '21:45', periods: [11, 12, 13, 14, 15] },
 };
 
 const OFFICIAL_HOLIDAYS = [
