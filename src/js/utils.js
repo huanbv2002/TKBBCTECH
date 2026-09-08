@@ -232,9 +232,19 @@ function displayTime(periods) {
   const key = normalizePeriods(periods).join(',');
   if (key === '1,2,3,4') return '07:25–11:30';
   if (key === '1,2,3,4,5') return '07:25–12:20';
+  if (key === '1,2,3') return '07:25–10:10';
+  if (key === '1,2') return '07:25–09:10';
+  if (key === '4,5') return '10:15–12:20';
+  if (key === '5') return '11:35–12:20';
   if (key === '6,7,8,9') return '12:55–17:00';
   if (key === '6,7,8,9,10') return '12:55–17:50';
+  if (key === '6,7,8') return '12:55–15:40';
+  if (key === '6,7') return '12:55–14:35';
+  if (key === '8,9') return '14:45–17:00';
+  if (key === '10') return '17:05–17:50';
   if (key === '11,12,13,14') return '17:55–21:00';
+  if (key === '11,12,13') return '17:55–20:15';
+  if (key === '11,12') return '17:55–19:30';
   const info = PERIOD_GROUPS[sessionForPeriods(periods)];
   return `${info.start}–${info.end}`;
 }
