@@ -1,6768 +1,5 @@
 /* Cơ sở dữ liệu TKB toàn trường - Trường CĐ Kỹ Thuật Công Nghệ BR-VT */
 const ALL_CLASSES_DATABASE = {
-  "CD24CBMA1": {
-    "code": "CD24CBMA1",
-    "name": "Lớp CD24CBMA1",
-    "major": "Chế biến món ăn Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CBMA1)",
-    "dept": "Du lịch",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cbma1-1",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-2",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-3",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-4",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-5",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.101(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-6",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.101(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-7",
-        "code": "SHL",
-        "subject": "Sinh hoạt lớp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          10
-        ],
-        "room": "DN",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-8",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-9",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-10",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-11",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-12",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-13",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-14",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-15",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-16",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-17",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-18",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-19",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-20",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-21",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-22",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-23",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-24",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-25",
-        "code": "CD24CBMA33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cbma1-26",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-27",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-28",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-29",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-30",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-31",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-32",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-33",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cbma1-34",
-        "code": "CD24CBMA34",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Thị Thúy",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      }
-    ]
-  },
-  "CD24CDT1": {
-    "code": "CD24CDT1",
-    "name": "Lớp CD24CDT1",
-    "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CDT1)",
-    "dept": "Điện",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cdt1-1",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-2",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-3",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-4",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-5",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-6",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-7",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-8",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-9",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt1-10",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24CDT2": {
-    "code": "CD24CDT2",
-    "name": "Lớp CD24CDT2",
-    "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CDT2)",
-    "dept": "Điện",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cdt2-1",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-2",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-3",
-        "code": "CD24CDT23",
-        "subject": "Bảo trì hệ thống truyền động Cơ khí",
-        "teacher": "Trần Trường Lam",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "cd24cdt2-4",
-        "code": "CD24CDT32",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Trường Lam",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cdt2-5",
-        "code": "CD24CDT23",
-        "subject": "Bảo trì hệ thống truyền động Cơ khí",
-        "teacher": "Trần Trường Lam",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "cd24cdt2-6",
-        "code": "CD24CDT32",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Trường Lam",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cdt2-7",
-        "code": "SHL",
-        "subject": "Sinh hoạt lớp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          10
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cdt2-8",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-9",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-10",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-11",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-12",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-13",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-14",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-15",
-        "code": "CD24CDT31",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cdt2-16",
-        "code": "CD24CDT23",
-        "subject": "Bảo trì hệ thống truyền động Cơ khí",
-        "teacher": "Trần Trường Lam",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          7
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "cd24cdt2-17",
-        "code": "CD24CDT23",
-        "subject": "Bảo trì hệ thống truyền động Cơ khí",
-        "teacher": "Trần Trường Lam",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          8
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "cd24cdt2-18",
-        "code": "CD24CDT32",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Trường Lam",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          16,
-          17
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cdt2-19",
-        "code": "CD24CDT32",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Trường Lam",
-        "dow": 8,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cdt2-20",
-        "code": "CD24CDT23",
-        "subject": "Bảo trì hệ thống truyền động Cơ khí",
-        "teacher": "Trần Trường Lam",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          7
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "cd24cdt2-21",
-        "code": "CD24CDT32",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trần Trường Lam",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN RENZE\n_",
-        "weeks": [
-          16,
-          17
-        ],
-        "color": "violet"
-      }
-    ]
-  },
-  "CD24CGKL1": {
-    "code": "CD24CGKL1",
-    "name": "Lớp CD24CGKL1",
-    "major": "Cắt gọt kim loại Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CGKL1)",
-    "dept": "Cơ khí chế tạo",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cgkl1-1",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-2",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-3",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-4",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-5",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-6",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-7",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-8",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-9",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24cgkl1-10",
-        "code": "CD24CGKL33",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      }
-    ]
-  },
-  "CD24CNOT1": {
-    "code": "CD24CNOT1",
-    "name": "Lớp CD24CNOT1",
-    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNOT1)",
-    "dept": "Cơ khí",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cnot1-1",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-2",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-3",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-4",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-5",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-6",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-7",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-8",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-9",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot1-10",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24CNOT3": {
-    "code": "CD24CNOT3",
-    "name": "Lớp CD24CNOT3",
-    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNOT3)",
-    "dept": "Cơ khí",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cnot3-1",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-2",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-3",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-4",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-5",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-6",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-7",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-8",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-9",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot3-10",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24CNOT4": {
-    "code": "CD24CNOT4",
-    "name": "Lớp CD24CNOT4",
-    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNOT4)",
-    "dept": "Cơ khí",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cnot4-1",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-2",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-3",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-4",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-5",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-6",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-7",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-8",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-9",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cnot4-10",
-        "code": "CD24CNOT32",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24CNTT1": {
-    "code": "CD24CNTT1",
-    "name": "Lớp CD24CNTT1",
-    "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNTT1)",
-    "dept": "Công nghệ thông tin",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cntt1-1",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-2",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-3",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-4",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-5",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-6",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-7",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-8",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-9",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-10",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-11",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-12",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-13",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-14",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-15",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-16",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-17",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-18",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-19",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-20",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-21",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-22",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-23",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-24",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-25",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-26",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-27",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-28",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-29",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-30",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-31",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt1-32",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt1-33",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24CNTT2": {
-    "code": "CD24CNTT2",
-    "name": "Lớp CD24CNTT2",
-    "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNTT2)",
-    "dept": "Công nghệ thông tin",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24cntt2-1",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-2",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-3",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-4",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-5",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-6",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-7",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-8",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-9",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-10",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-11",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-12",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-13",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-14",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-15",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-16",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-17",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-18",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-19",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-20",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-21",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-22",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-23",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-24",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-25",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-26",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-27",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-28",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          2
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-29",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-30",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.202(LAB1)",
-        "weeks": [
-          1
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-31",
-        "code": "CD24CNTT25",
-        "subject": "Đồ án tốt nghiệp",
-        "teacher": "Trịnh Quang Quất",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          3
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "cd24cntt2-32",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24cntt2-33",
-        "code": "CD24CNTT26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24CTCK1": {
-    "code": "CD24CTCK1",
-    "name": "Lớp CD24CTCK1",
-    "major": "Chế tạo Cơ khí Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CTCK1)",
-    "dept": "Cơ khí",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24ctck1-1",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-2",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-3",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-4",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-5",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-6",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-7",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-8",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-9",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "cd24ctck1-10",
-        "code": "CD24CTCK28",
-        "subject": "Thực tập sản xuất",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "orange"
-      }
-    ]
-  },
-  "CD24DCN1": {
-    "code": "CD24DCN1",
-    "name": "Lớp CD24DCN1",
-    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2024-2027 (CD24DCN1)",
-    "dept": "Điện",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24dcn1-1",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-2",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-3",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-4",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-5",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-6",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-7",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-8",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-9",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn1-10",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24DCN2": {
-    "code": "CD24DCN2",
-    "name": "Lớp CD24DCN2",
-    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2024-2027 (CD24DCN2)",
-    "dept": "Điện",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24dcn2-1",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-2",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-3",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-4",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-5",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-6",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-7",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-8",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-9",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn2-10",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24DCN3": {
-    "code": "CD24DCN3",
-    "name": "Lớp CD24DCN3",
-    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2024-2027 (CD24DCN3)",
-    "dept": "Điện",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24dcn3-1",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-2",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-3",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-4",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-5",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-6",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-7",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-8",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-9",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24dcn3-10",
-        "code": "CD24DCN30",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24KTML1": {
-    "code": "CD24KTML1",
-    "name": "Lớp CD24KTML1",
-    "major": "KTML&ĐHKK Hệ: Cao đẳng - Khóa học 2024-2027 (CD24KTML1)",
-    "dept": "Điện lạnh",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24ktml1-1",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-2",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-3",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-4",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-5",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-6",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-7",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-8",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-9",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24ktml1-10",
-        "code": "CD24KTML28",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
-  "CD24TKDH1": {
-    "code": "CD24TKDH1",
-    "name": "Lớp CD24TKDH1",
-    "major": "Thiết kế đồ họa Hệ: Cao đẳng - Khóa học 2024-2027 (CD24TKDH1)",
-    "dept": "Công nghệ thông tin",
-    "startDate": "2026-09-07",
-    "maxWeeks": 18,
-    "schedule": [
-      {
-        "id": "cd24tkdh1-1",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-2",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-3",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-4",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-5",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-6",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-7",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-8",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-9",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd24tkdh1-10",
-        "code": "CD24TKDH26",
-        "subject": "Thực tập tốt nghiệp",
-        "teacher": "",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
-        ],
-        "color": "blue"
-      }
-    ]
-  },
   "CD25CBMA": {
     "code": "CD25CBMA",
     "name": "Lớp CD25CBMA",
@@ -6953,23 +190,6 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           6,
           7,
-          8
-        ],
-        "room": "DN",
-        "weeks": [
-          15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cbma-11",
-        "code": "CD25CBMA23",
-        "subject": "Chế biến món ăn Âu",
-        "teacher": "Trần Ngọc Minh",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
           8,
           9
         ],
@@ -6990,26 +210,24 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-12",
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trương Lệ Minh",
+        "id": "cd25cbma-11",
+        "code": "CD25CBMA23",
+        "subject": "Chế biến món ăn Âu",
+        "teacher": "Trần Ngọc Minh",
         "dow": 3,
         "periods": [
-          11,
-          12,
-          13,
-          14
+          6,
+          7,
+          8
         ],
-        "room": "P.G.MEET",
+        "room": "DN",
         "weeks": [
-          17,
-          18
+          15
         ],
         "color": "teal"
       },
       {
-        "id": "cd25cbma-13",
+        "id": "cd25cbma-12",
         "code": "CD25CBMA25",
         "subject": "Chế biến các món ăn chay",
         "teacher": "Trần Thị Thúy",
@@ -7027,7 +245,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-14",
+        "id": "cd25cbma-13",
         "code": "CD25CBMA18",
         "subject": "Chế biến món ăn Việt 2",
         "teacher": "Trần Thị Thúy",
@@ -7046,7 +264,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-15",
+        "id": "cd25cbma-14",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7064,7 +282,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-16",
+        "id": "cd25cbma-15",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7082,7 +300,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-17",
+        "id": "cd25cbma-16",
         "code": "CD25CBMA25",
         "subject": "Chế biến các món ăn chay",
         "teacher": "Trần Thị Thúy",
@@ -7096,6 +314,34 @@ const ALL_CLASSES_DATABASE = {
         "room": "1B.102(CBMA)",
         "weeks": [
           3
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "cd25cbma-17",
+        "code": "CD25CBMA25",
+        "subject": "Chế biến các món ăn chay",
+        "teacher": "Trần Thị Thúy",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ],
         "color": "blue"
       },
@@ -7118,69 +364,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cbma-19",
-        "code": "CD25CBMA25",
-        "subject": "Chế biến các món ăn chay",
-        "teacher": "Trần Thị Thúy",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "DN",
-        "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd25cbma-20",
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trương Lệ Minh",
-        "dow": 4,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cbma-21",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7198,7 +381,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-22",
+        "id": "cd25cbma-20",
         "code": "CD25CBMA25",
         "subject": "Chế biến các món ăn chay",
         "teacher": "Trần Thị Thúy",
@@ -7216,7 +399,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-23",
+        "id": "cd25cbma-21",
         "code": "CD25CBMA18",
         "subject": "Chế biến món ăn Việt 2",
         "teacher": "Trần Thị Thúy",
@@ -7235,7 +418,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-24",
+        "id": "cd25cbma-22",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7253,7 +436,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-25",
+        "id": "cd25cbma-23",
         "code": "CD25CBMA18",
         "subject": "Chế biến món ăn Việt 2",
         "teacher": "Trần Thị Thúy",
@@ -7277,7 +460,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-26",
+        "id": "cd25cbma-24",
         "code": "CD25CBMA18",
         "subject": "Chế biến món ăn Việt 2",
         "teacher": "Trần Thị Thúy",
@@ -7295,7 +478,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-27",
+        "id": "cd25cbma-25",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7313,7 +496,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-28",
+        "id": "cd25cbma-26",
         "code": "CD25CBMA25",
         "subject": "Chế biến các món ăn chay",
         "teacher": "Trần Thị Thúy",
@@ -7331,7 +514,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-29",
+        "id": "cd25cbma-27",
         "code": "CD25CBMA22",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -7350,7 +533,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-30",
+        "id": "cd25cbma-28",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7368,7 +551,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-31",
+        "id": "cd25cbma-29",
         "code": "CD25CBMA18",
         "subject": "Chế biến món ăn Việt 2",
         "teacher": "Trần Thị Thúy",
@@ -7392,7 +575,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-32",
+        "id": "cd25cbma-30",
         "code": "CD25CBMA18",
         "subject": "Chế biến món ăn Việt 2",
         "teacher": "Trần Thị Thúy",
@@ -7411,7 +594,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-33",
+        "id": "cd25cbma-31",
         "code": "CD25CBMA22",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -7430,7 +613,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-34",
+        "id": "cd25cbma-32",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7448,7 +631,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-35",
+        "id": "cd25cbma-33",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7466,7 +649,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-36",
+        "id": "cd25cbma-34",
         "code": "CD25CBMA22",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -7485,7 +668,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-37",
+        "id": "cd25cbma-35",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7502,7 +685,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-38",
+        "id": "cd25cbma-36",
         "code": "CD25CBMA23",
         "subject": "Chế biến món ăn Âu",
         "teacher": "Trần Ngọc Minh",
@@ -7520,7 +703,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cbma-39",
+        "id": "cd25cbma-37",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7536,7 +719,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-40",
+        "id": "cd25cbma-38",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7564,7 +747,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-41",
+        "id": "cd25cbma-39",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -7598,7 +781,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cbma-42",
+        "id": "cd25cbma-40",
         "code": "CD25CBMA22",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -7617,7 +800,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-43",
+        "id": "cd25cbma-41",
         "code": "CD25CBMA22",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -7636,7 +819,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cbma-44",
+        "id": "cd25cbma-42",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7654,7 +837,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-45",
+        "id": "cd25cbma-43",
         "code": "CD24CBMA26",
         "subject": "Chế biến các món ăn đãi tiệc",
         "teacher": "Trần Ngọc Minh",
@@ -7682,37 +865,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cbma-46",
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trương Lệ Minh",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cbma-47",
+        "id": "cd25cbma-44",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thị Hải Hà",
+        "teacher": "",
         "dow": 2,
         "periods": [
           1,
@@ -7739,7 +895,44 @@ const ALL_CLASSES_DATABASE = {
           15,
           16,
           17,
-          18
+          18,
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cbma-45",
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
         ],
         "color": "teal"
       }
@@ -7809,19 +1002,17 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cdt1-3",
-        "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
-        "teacher": "Nguyễn Văn Hoàng",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
         "dow": 2,
         "periods": [
           11,
-          12,
-          13,
-          14
+          12
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18
+          16
         ],
         "color": "teal"
       },
@@ -7851,22 +1042,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cdt1-5",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lê Viết Huấn",
-        "dow": 2,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cdt1-6",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -7900,7 +1075,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cdt1-7",
+        "id": "cd25cdt1-6",
         "code": "TC25CDT16",
         "subject": "Lập trình Vi điều khiển",
         "teacher": "Trương Thiện Quân",
@@ -7931,7 +1106,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cdt1-8",
+        "id": "cd25cdt1-7",
         "code": "TC25CDT16",
         "subject": "Lập trình Vi điều khiển",
         "teacher": "Trương Thiện Quân",
@@ -7947,7 +1122,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cdt1-9",
+        "id": "cd25cdt1-8",
         "code": "TC25CDT16",
         "subject": "Lập trình Vi điều khiển",
         "teacher": "Trương Thiện Quân",
@@ -7961,6 +1136,24 @@ const ALL_CLASSES_DATABASE = {
           16
         ],
         "color": "blue"
+      },
+      {
+        "id": "cd25cdt1-9",
+        "code": "TC25CDT20",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal"
       },
       {
         "id": "cd25cdt1-10",
@@ -9267,7 +2460,19 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "1A.208",
         "weeks": [
-          19
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "teal"
       },
@@ -9285,19 +2490,7 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "1A.208",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          19
         ],
         "color": "teal"
       },
@@ -9588,26 +2781,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cgkl-28",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1A.306(LAB2)",
-        "weeks": [
-          12,
-          13,
-          14
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cgkl-29",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -9625,7 +2798,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cgkl-30",
+        "id": "cd25cgkl-29",
         "code": "CD25CGKL25",
         "subject": "Gia công trên máy tiện 2",
         "teacher": "Nguyễn Hàm Hòa",
@@ -9650,7 +2823,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cgkl-31",
+        "id": "cd25cgkl-30",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -9668,7 +2841,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cgkl-32",
+        "id": "cd25cgkl-31",
         "code": "CD25CGKL25",
         "subject": "Gia công trên máy tiện 2",
         "teacher": "Nguyễn Hàm Hòa",
@@ -9685,7 +2858,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cgkl-33",
+        "id": "cd25cgkl-32",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -9703,7 +2876,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cgkl-34",
+        "id": "cd25cgkl-33",
         "code": "TC25CGKL09",
         "subject": "Cơ kỹ thuật",
         "teacher": "Nguyễn Thị Bích",
@@ -9723,7 +2896,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cgkl-35",
+        "id": "cd25cgkl-34",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -9731,39 +2904,25 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           11,
           12,
-          13,
-          14
+          13
         ],
         "room": "P.ONLINE",
         "weeks": [
+          6,
           7,
           8,
           9,
           10,
           11,
           12,
-          13
+          13,
+          14,
+          15
         ],
         "color": "teal"
       },
       {
-        "id": "cd25cgkl-36",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 6,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          14
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cgkl-37",
+        "id": "cd25cgkl-35",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -9774,7 +2933,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1A.306(LAB2)",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -9787,12 +2946,31 @@ const ALL_CLASSES_DATABASE = {
           9,
           10,
           12,
-          13
+          13,
+          14,
+          15,
+          16
         ],
         "color": "teal"
       },
       {
-        "id": "cd25cgkl-38",
+        "id": "cd25cgkl-36",
+        "code": "CD25CGKL27",
+        "subject": "Gia công trên máy phay 2",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "cd25cgkl-37",
         "code": "CD25CGKL27",
         "subject": "Gia công trên máy phay 2",
         "teacher": "Nguyễn Chí Thức",
@@ -9812,23 +2990,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "cd25cgkl-39",
-        "code": "CD25CGKL27",
-        "subject": "Gia công trên máy phay 2",
-        "teacher": "Nguyễn Chí Thức",
-        "dow": 7,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald"
-      },
-      {
-        "id": "cd25cgkl-40",
+        "id": "cd25cgkl-38",
         "code": "CD25CGKL25",
         "subject": "Gia công trên máy tiện 2",
         "teacher": "Nguyễn Hàm Hòa",
@@ -9846,7 +3008,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cgkl-41",
+        "id": "cd25cgkl-39",
         "code": "CD25CGKL18",
         "subject": "Gia công trên máy tiện CNC 1",
         "teacher": "Nguyễn Quang Thu",
@@ -9864,24 +3026,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "cd25cgkl-42",
-        "code": "CD25CNOT11",
-        "subject": "Nguội cơ bản",
-        "teacher": "Nguyễn Chí Thức",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          17
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd25cgkl-43",
+        "id": "cd25cgkl-40",
         "code": "CD25CNOT11",
         "subject": "Nguội cơ bản",
         "teacher": "Nguyễn Chí Thức",
@@ -9900,6 +3045,23 @@ const ALL_CLASSES_DATABASE = {
           14,
           15,
           16
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "cd25cgkl-41",
+        "code": "CD25CNOT11",
+        "subject": "Nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
         ],
         "color": "blue"
       }
@@ -10077,95 +3239,19 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cnot1-7",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
+        "code": "CD25CNOT31",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 3,
         "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot1-8",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          6
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot1-9",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          4,
-          5
+          11,
+          12,
+          13
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot1-10",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          6,
           7,
           8,
-          9
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot1-11",
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trương Lệ Minh",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
           9,
           10,
           11,
@@ -10173,14 +3259,44 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "teal"
       },
       {
-        "id": "cd25cnot1-12",
+        "id": "cd25cnot1-8",
+        "code": "CD25CNOT31",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot1-9",
         "code": "CD25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10214,7 +3330,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot1-13",
+        "id": "cd25cnot1-10",
         "code": "CD25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10231,7 +3347,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot1-14",
+        "id": "cd25cnot1-11",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -10264,7 +3380,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot1-15",
+        "id": "cd25cnot1-12",
         "code": "CD25CNOT25",
         "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10298,7 +3414,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot1-16",
+        "id": "cd25cnot1-13",
         "code": "CD25CNOT25",
         "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10315,7 +3431,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot1-17",
+        "id": "cd25cnot1-14",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -10348,7 +3464,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-18",
+        "id": "cd25cnot1-15",
         "code": "CD25CNOT28",
         "subject": "Kỹ thuật lái xe ô tô",
         "teacher": "Võ Đình Tâm",
@@ -10379,7 +3495,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-19",
+        "id": "cd25cnot1-16",
         "code": "CD25CNOT28",
         "subject": "Kỹ thuật lái xe ô tô",
         "teacher": "Võ Đình Tâm",
@@ -10396,7 +3512,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-20",
+        "id": "cd25cnot1-17",
         "code": "CD25CNOT28",
         "subject": "Kỹ thuật lái xe ô tô",
         "teacher": "Võ Đình Tâm",
@@ -10411,7 +3527,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-21",
+        "id": "cd25cnot1-18",
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10429,7 +3545,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot1-22",
+        "id": "cd25cnot1-19",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -10462,7 +3578,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-23",
+        "id": "cd25cnot1-20",
         "code": "CD25CNOT25",
         "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10480,7 +3596,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot1-24",
+        "id": "cd25cnot1-21",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -10501,7 +3617,34 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-25",
+        "id": "cd25cnot1-22",
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
+        "teacher": "Võ Đình Tâm",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X.ĐIOTO1",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot1-23",
         "code": "CD25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
         "teacher": "Vũ Quang Thoại",
@@ -10519,7 +3662,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "cd25cnot1-26",
+        "id": "cd25cnot1-24",
         "code": "CD25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10537,7 +3680,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot1-27",
+        "id": "cd25cnot1-25",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -10553,7 +3696,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-28",
+        "id": "cd25cnot1-26",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -10571,27 +3714,52 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot1-29",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "",
-        "dow": 2,
+        "id": "cd25cnot1-27",
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
+        "teacher": "Võ Đình Tâm",
+        "dow": 8,
         "periods": [
           1,
           2,
-          3,
-          4
+          3
+        ],
+        "room": "1X.ĐIOTO1",
+        "weeks": [
+          12
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot1-28",
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
+        "teacher": "Võ Đình Tâm",
+        "dow": 8,
+        "periods": [
+          4,
+          5
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
+          12
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot1-29",
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trương Lệ Minh",
+        "dow": 8,
+        "periods": [
           6,
           7,
           8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
           9,
           10,
           11,
@@ -10779,9 +3947,35 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cnot2-8",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
+        "code": "CD25CNOT31",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot2-9",
+        "code": "CD25CNOT31",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
         "dow": 4,
         "periods": [
           1,
@@ -10789,91 +3983,28 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1X1.GAM",
+        "room": "1X8.204.N",
         "weeks": [
-          1,
           2,
           3,
           4,
-          5
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot2-9",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          6
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
         ],
         "color": "teal"
       },
       {
         "id": "cd25cnot2-10",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          4,
-          5
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot2-11",
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot2-12",
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trần Thị Kim Thảo",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.208",
-        "weeks": [
-          19
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot2-13",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -10903,7 +4034,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-14",
+        "id": "cd25cnot2-11",
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.208",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot2-12",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -10930,7 +4079,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-15",
+        "id": "cd25cnot2-13",
         "code": "CD25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10964,7 +4113,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-16",
+        "id": "cd25cnot2-14",
         "code": "CD25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
         "teacher": "Lê Hồng Bích",
@@ -10981,7 +4130,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-17",
+        "id": "cd25cnot2-15",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -11014,7 +4163,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot2-18",
+        "id": "cd25cnot2-16",
         "code": "CD25CNOT25",
         "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
         "teacher": "Lê Hồng Bích",
@@ -11048,7 +4197,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot2-19",
+        "id": "cd25cnot2-17",
         "code": "CD25CNOT25",
         "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
         "teacher": "Lê Hồng Bích",
@@ -11065,7 +4214,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot2-20",
+        "id": "cd25cnot2-18",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -11098,7 +4247,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot2-21",
+        "id": "cd25cnot2-19",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -11116,7 +4265,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-22",
+        "id": "cd25cnot2-20",
         "code": "CD25CNOT28",
         "subject": "Kỹ thuật lái xe ô tô",
         "teacher": "Võ Đình Tâm",
@@ -11143,6 +4292,41 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "cd25cnot2-21",
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.210",
+        "weeks": [
+          18
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot2-22",
+        "code": "CD25CNOT28",
+        "subject": "Kỹ thuật lái xe ô tô",
+        "teacher": "Võ Đình Tâm",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1.STRG",
+        "weeks": [
+          16
         ],
         "color": "blue"
       },
@@ -11160,47 +4344,12 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "1A.210",
         "weeks": [
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot2-24",
-        "code": "CD25CNOT28",
-        "subject": "Kỹ thuật lái xe ô tô",
-        "teacher": "Võ Đình Tâm",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "1.STRG",
-        "weeks": [
-          16
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd25cnot2-25",
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trần Thị Kim Thảo",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.210",
-        "weeks": [
           19
         ],
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-26",
+        "id": "cd25cnot2-24",
         "code": "CD25CNOT28",
         "subject": "Kỹ thuật lái xe ô tô",
         "teacher": "Võ Đình Tâm",
@@ -11215,7 +4364,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot2-27",
+        "id": "cd25cnot2-25",
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -11233,7 +4382,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot2-28",
+        "id": "cd25cnot2-26",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -11266,7 +4415,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot2-29",
+        "id": "cd25cnot2-27",
         "code": "CD25CNOT25",
         "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
         "teacher": "Lê Hồng Bích",
@@ -11284,7 +4433,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot2-30",
+        "id": "cd25cnot2-28",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -11305,7 +4454,34 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot2-31",
+        "id": "cd25cnot2-29",
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
+        "teacher": "Võ Đình Tâm",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X.ĐIOTO1",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot2-30",
         "code": "CD25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
         "teacher": "Vũ Quang Thoại",
@@ -11323,7 +4499,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "cd25cnot2-32",
+        "id": "cd25cnot2-31",
         "code": "CD25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
         "teacher": "Lê Hồng Bích",
@@ -11341,7 +4517,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot2-33",
+        "id": "cd25cnot2-32",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -11357,7 +4533,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25cnot2-34",
+        "id": "cd25cnot2-33",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Võ Đình Tâm",
@@ -11373,6 +4549,39 @@ const ALL_CLASSES_DATABASE = {
           16
         ],
         "color": "blue"
+      },
+      {
+        "id": "cd25cnot2-34",
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
+        "teacher": "Võ Đình Tâm",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X.ĐIOTO1",
+        "weeks": [
+          12
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot2-35",
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng s¬n xe ô tô (TC)",
+        "teacher": "Võ Đình Tâm",
+        "dow": 8,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12
+        ],
+        "color": "teal"
       }
     ]
   },
@@ -11511,7 +4720,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "cd25cnot3-7",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
+        "teacher": "Vũ Thị Tho",
         "dow": 3,
         "periods": [
           1,
@@ -11805,52 +5014,43 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cnot3-17",
-        "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
-        "teacher": "Lê Văn Minh",
-        "dow": 6,
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
         "periods": [
-          1,
-          2,
-          3,
-          4
+          11,
+          12
         ],
-        "room": "2X4.101(ĐIOT1)",
+        "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot3-18",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
           9,
           10,
+          11,
           12,
           13,
           14,
           15
         ],
-        "color": "emerald"
-      },
-      {
-        "id": "cd25cnot3-18",
-        "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
-        "teacher": "Lê Văn Minh",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X4.101(ĐIOT1)",
-        "weeks": [
-          16
-        ],
-        "color": "emerald"
+        "color": "teal"
       },
       {
         "id": "cd25cnot3-19",
@@ -11859,10 +5059,10 @@ const ALL_CLASSES_DATABASE = {
         "teacher": "Lê Văn Minh",
         "dow": 6,
         "periods": [
-          6,
-          7,
-          8,
-          9
+          1,
+          2,
+          3,
+          4
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
@@ -11885,6 +5085,55 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cnot3-20",
+        "code": "CD25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          16
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "cd25cnot3-21",
+        "code": "CD25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "cd25cnot3-22",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Nguyễn Thị Phương Thảo",
@@ -11904,7 +5153,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot3-21",
+        "id": "cd25cnot3-23",
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
@@ -11925,7 +5174,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot3-22",
+        "id": "cd25cnot3-24",
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
@@ -11943,7 +5192,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot3-23",
+        "id": "cd25cnot3-25",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Nguyễn Thanh Liêm",
@@ -11960,46 +5209,6 @@ const ALL_CLASSES_DATABASE = {
           18
         ],
         "color": "blue"
-      },
-      {
-        "id": "cd25cnot3-24",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 7,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot3-25",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "teal"
       },
       {
         "id": "cd25cnot3-26",
@@ -12287,7 +5496,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "cd25cnot4-7",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
+        "teacher": "Vũ Thị Tho",
         "dow": 3,
         "periods": [
           1,
@@ -12581,52 +5790,43 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cnot4-17",
-        "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
-        "teacher": "Lê Văn Minh",
-        "dow": 6,
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
         "periods": [
-          1,
-          2,
-          3,
-          4
+          11,
+          12
         ],
-        "room": "2X4.101(ĐIOT1)",
+        "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cnot4-18",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
           9,
           10,
+          11,
           12,
           13,
           14,
           15
         ],
-        "color": "emerald"
-      },
-      {
-        "id": "cd25cnot4-18",
-        "code": "CD25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
-        "teacher": "Lê Văn Minh",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X4.101(ĐIOT1)",
-        "weeks": [
-          16
-        ],
-        "color": "emerald"
+        "color": "teal"
       },
       {
         "id": "cd25cnot4-19",
@@ -12635,10 +5835,10 @@ const ALL_CLASSES_DATABASE = {
         "teacher": "Lê Văn Minh",
         "dow": 6,
         "periods": [
-          6,
-          7,
-          8,
-          9
+          1,
+          2,
+          3,
+          4
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
@@ -12661,6 +5861,55 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25cnot4-20",
+        "code": "CD25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          16
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "cd25cnot4-21",
+        "code": "CD25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống nhiên liệu trên động cơ",
+        "teacher": "Lê Văn Minh",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "cd25cnot4-22",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Nguyễn Thị Phương Thảo",
@@ -12680,7 +5929,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cnot4-21",
+        "id": "cd25cnot4-23",
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
@@ -12701,7 +5950,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot4-22",
+        "id": "cd25cnot4-24",
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
@@ -12719,7 +5968,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "cd25cnot4-23",
+        "id": "cd25cnot4-25",
         "code": "CD25CNOT23",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Nguyễn Thanh Liêm",
@@ -12736,46 +5985,6 @@ const ALL_CLASSES_DATABASE = {
           18
         ],
         "color": "blue"
-      },
-      {
-        "id": "cd25cnot4-24",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 7,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cnot4-25",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "teal"
       },
       {
         "id": "cd25cnot4-26",
@@ -13241,11 +6450,13 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           1,
           2,
-          3
+          3,
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16
+          14,
+          15
         ],
         "color": "teal"
       },
@@ -13258,25 +6469,7 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           1,
           2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          14,
-          15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cntt1-14",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thị Hải Hà",
-        "dow": 8,
-        "periods": [
-          6,
-          7
+          3
         ],
         "room": "P.ONLINE",
         "weeks": [
@@ -13285,7 +6478,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cntt1-15",
+        "id": "cd25cntt1-14",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
         "teacher": "Nguyễn Thị Hải Hà",
@@ -13305,6 +6498,22 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cntt1-15",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "teal"
       },
@@ -13650,11 +6859,13 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           1,
           2,
-          3
+          3,
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16
+          14,
+          15
         ],
         "color": "teal"
       },
@@ -13667,25 +6878,7 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           1,
           2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          14,
-          15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25cntt2-14",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thị Hải Hà",
-        "dow": 8,
-        "periods": [
-          6,
-          7
+          3
         ],
         "room": "P.ONLINE",
         "weeks": [
@@ -13694,7 +6887,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25cntt2-15",
+        "id": "cd25cntt2-14",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
         "teacher": "Nguyễn Thị Hải Hà",
@@ -13714,6 +6907,22 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25cntt2-15",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "teal"
       },
@@ -14921,6 +8130,22 @@ const ALL_CLASSES_DATABASE = {
         "dow": 8,
         "periods": [
           6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25ctck2-25",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 8,
+        "periods": [
+          6,
           7,
           8,
           9
@@ -14934,22 +8159,6 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25ctck2-25",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "teal"
       },
@@ -15479,7 +8688,33 @@ const ALL_CLASSES_DATABASE = {
         "id": "cd25dcn1-23",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
-        "teacher": "Trần Phước Thọ",
+        "teacher": "Lại Văn Duy",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25dcn1-24",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           1,
@@ -15487,7 +8722,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1X8.204.T",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -15508,47 +8743,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25dcn1-24",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Trần Phước Thọ",
-        "dow": 8,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "teal"
-      },
-      {
         "id": "cd25dcn1-25",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Trần Phước Thọ",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25dcn1-26",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
@@ -16274,7 +9469,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "cd25dcn3-7",
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
+        "teacher": "Hoàng Thanh Bình",
         "dow": 3,
         "periods": [
           6,
@@ -16304,6 +9499,46 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "cd25dcn3-8",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25dcn3-9",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25dcn3-10",
         "code": "CD25DCN18",
         "subject": "Điện khí nén",
         "teacher": "Nguyễn Văn Hoàng",
@@ -16334,7 +9569,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-9",
+        "id": "cd25dcn3-11",
         "code": "CD25DCN18",
         "subject": "Điện khí nén",
         "teacher": "Nguyễn Văn Hoàng",
@@ -16350,7 +9585,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-10",
+        "id": "cd25dcn3-12",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Ngô Thị Nhung",
@@ -16370,7 +9605,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "cd25dcn3-11",
+        "id": "cd25dcn3-13",
         "code": "CD25DCN18",
         "subject": "Điện khí nén",
         "teacher": "Nguyễn Văn Hoàng",
@@ -16386,7 +9621,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-12",
+        "id": "cd25dcn3-14",
         "code": "CD25DCN21",
         "subject": "Kỹ thuật lắp đặt điện 2",
         "teacher": "Lê Thanh Thịnh",
@@ -16417,7 +9652,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-13",
+        "id": "cd25dcn3-15",
         "code": "CD25DCN21",
         "subject": "Kỹ thuật lắp đặt điện 2",
         "teacher": "Lê Thanh Thịnh",
@@ -16433,7 +9668,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-14",
+        "id": "cd25dcn3-16",
         "code": "CD25DCN21",
         "subject": "Kỹ thuật lắp đặt điện 2",
         "teacher": "Lê Thanh Thịnh",
@@ -16449,7 +9684,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-15",
+        "id": "cd25dcn3-17",
         "code": "CD25DCN26",
         "subject": "Truyền Động Điện",
         "teacher": "Nguyễn Thị Hiên",
@@ -16476,7 +9711,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "cd25dcn3-16",
+        "id": "cd25dcn3-18",
         "code": "CD25DCN26",
         "subject": "Truyền Động Điện",
         "teacher": "Nguyễn Thị Hiên",
@@ -16493,7 +9728,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "cd25dcn3-17",
+        "id": "cd25dcn3-19",
         "code": "CD25DCN26",
         "subject": "Truyền Động Điện",
         "teacher": "Nguyễn Thị Hiên",
@@ -16509,7 +9744,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "cd25dcn3-18",
+        "id": "cd25dcn3-20",
         "code": "CD25DCN19",
         "subject": "KT cảm biến",
         "teacher": "Lê Minh Tân",
@@ -16536,7 +9771,23 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "cd25dcn3-19",
+        "id": "cd25dcn3-21",
+        "code": "CD25DCN17",
+        "subject": "PLC cơ bản",
+        "teacher": "Đinh Hùng",
+        "dow": 6,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2X1.302(TĐH2)",
+        "weeks": [
+          18
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "cd25dcn3-22",
         "code": "CD25DCN17",
         "subject": "PLC cơ bản",
         "teacher": "Đinh Hùng",
@@ -16557,23 +9808,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-20",
-        "code": "CD25DCN17",
-        "subject": "PLC cơ bản",
-        "teacher": "Đinh Hùng",
-        "dow": 6,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "2X1.302(TĐH2)",
-        "weeks": [
-          18
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "cd25dcn3-21",
+        "id": "cd25dcn3-23",
         "code": "CD25DCN19",
         "subject": "KT cảm biến",
         "teacher": "Lê Minh Tân",
@@ -16590,7 +9825,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "cd25dcn3-22",
+        "id": "cd25dcn3-24",
         "code": "CD25DCN19",
         "subject": "KT cảm biến",
         "teacher": "Lê Minh Tân",
@@ -16606,7 +9841,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "cd25dcn3-23",
+        "id": "cd25dcn3-25",
         "code": "CD25DCN17",
         "subject": "PLC cơ bản",
         "teacher": "Đinh Hùng",
@@ -16624,7 +9859,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "cd25dcn3-24",
+        "id": "cd25dcn3-26",
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Ngô Thị Nhung",
@@ -16647,46 +9882,6 @@ const ALL_CLASSES_DATABASE = {
           16,
           17,
           18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25dcn3-25",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 8,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25dcn3-26",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
         ],
         "color": "teal"
       }
@@ -16791,6 +9986,22 @@ const ALL_CLASSES_DATABASE = {
         "dow": 2,
         "periods": [
           11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25ktml-5",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 2,
+        "periods": [
+          11,
           12,
           13,
           14
@@ -16804,22 +10015,6 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25ktml-5",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lê Viết Huấn",
-        "dow": 2,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "teal"
       },
@@ -16930,6 +10125,23 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           1,
           2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "indigo"
+      },
+      {
+        "id": "cd25ktml-11",
+        "code": "CD25KTML21",
+        "subject": "Hệ thống máy lạnh thương nghiệp",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
           3,
           4
         ],
@@ -16944,23 +10156,6 @@ const ALL_CLASSES_DATABASE = {
           12,
           13,
           14
-        ],
-        "color": "indigo"
-      },
-      {
-        "id": "cd25ktml-11",
-        "code": "CD25KTML21",
-        "subject": "Hệ thống máy lạnh thương nghiệp",
-        "teacher": "Lê Văn Thịnh",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15
         ],
         "color": "indigo"
       },
@@ -17211,7 +10406,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17241,7 +10436,7 @@ const ALL_CLASSES_DATABASE = {
           2,
           3
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
@@ -17306,7 +10501,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17336,7 +10531,7 @@ const ALL_CLASSES_DATABASE = {
           7,
           8
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
@@ -17369,7 +10564,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17401,7 +10596,7 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           10
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17460,7 +10655,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17504,7 +10699,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           12
         ],
@@ -17553,7 +10748,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17583,7 +10778,7 @@ const ALL_CLASSES_DATABASE = {
           7,
           8
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
@@ -17599,7 +10794,7 @@ const ALL_CLASSES_DATABASE = {
           6,
           7
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           18
         ],
@@ -17680,7 +10875,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17710,7 +10905,7 @@ const ALL_CLASSES_DATABASE = {
           7,
           8
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
@@ -17764,7 +10959,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -17794,7 +10989,7 @@ const ALL_CLASSES_DATABASE = {
           7,
           8
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
@@ -17823,6 +11018,22 @@ const ALL_CLASSES_DATABASE = {
         "dow": 8,
         "periods": [
           6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "cd25log-30",
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 8,
+        "periods": [
+          6,
           7,
           8,
           9
@@ -17836,22 +11047,6 @@ const ALL_CLASSES_DATABASE = {
           13,
           14,
           15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "cd25log-30",
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "teal"
       },
@@ -18338,16 +11533,11 @@ const ALL_CLASSES_DATABASE = {
         "dow": 7,
         "periods": [
           6,
-          7,
-          8,
-          9
+          7
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
-          16,
-          17
+          18
         ],
         "color": "indigo"
       },
@@ -18359,11 +11549,16 @@ const ALL_CLASSES_DATABASE = {
         "dow": 7,
         "periods": [
           6,
-          7
+          7,
+          8,
+          9
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18
+          14,
+          15,
+          16,
+          17
         ],
         "color": "indigo"
       },
@@ -18391,16 +11586,11 @@ const ALL_CLASSES_DATABASE = {
         "dow": 8,
         "periods": [
           1,
-          2,
-          3,
-          4
+          2
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16
+          18
         ],
         "color": "teal"
       },
@@ -18412,11 +11602,16 @@ const ALL_CLASSES_DATABASE = {
         "dow": 8,
         "periods": [
           1,
-          2
+          2,
+          3,
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18
+          13,
+          14,
+          15,
+          16
         ],
         "color": "teal"
       },
@@ -18493,7 +11688,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "t25cbma1-2",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           6,
@@ -18501,7 +11696,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -18511,31 +11706,20 @@ const ALL_CLASSES_DATABASE = {
           6,
           7,
           8,
-          9
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "teal"
       },
       {
         "id": "t25cbma1-3",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X8.204.N",
-        "weeks": [
-          10,
-          11
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbma1-4",
         "code": "TC25CBMA17",
         "subject": "Chế biến bánh & mứt Việt",
         "teacher": "Trần Thị Khuyên",
@@ -18562,7 +11746,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-5",
+        "id": "t25cbma1-4",
         "code": "TC25CBMA17",
         "subject": "Chế biến bánh & mứt Việt",
         "teacher": "Trần Thị Khuyên",
@@ -18578,7 +11762,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-6",
+        "id": "t25cbma1-5",
         "code": "TC25CBMA17",
         "subject": "Chế biến bánh & mứt Việt",
         "teacher": "Trần Thị Khuyên",
@@ -18595,7 +11779,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-7",
+        "id": "t25cbma1-6",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -18629,7 +11813,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma1-8",
+        "id": "t25cbma1-7",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -18661,7 +11845,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbma1-9",
+        "id": "t25cbma1-8",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Thị Thúy",
@@ -18683,7 +11867,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma1-10",
+        "id": "t25cbma1-9",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -18715,7 +11899,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-11",
+        "id": "t25cbma1-10",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -18731,7 +11915,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-12",
+        "id": "t25cbma1-11",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -18747,7 +11931,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-13",
+        "id": "t25cbma1-12",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -18778,7 +11962,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-14",
+        "id": "t25cbma1-13",
         "code": "TC25CBMA14",
         "subject": "Kỹ thuật cắt tỉa rau quả",
         "teacher": "Trần Ngọc Minh",
@@ -18809,7 +11993,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cbma1-15",
+        "id": "t25cbma1-14",
         "code": "TC25CBMA14",
         "subject": "Kỹ thuật cắt tỉa rau quả",
         "teacher": "Trần Ngọc Minh",
@@ -18825,10 +12009,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cbma1-16",
-        "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
-        "teacher": "Trần Thị Thúy",
+        "id": "t25cbma1-15",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 4,
         "periods": [
           6,
@@ -18836,14 +12020,16 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1B.102(CBMA)",
+        "room": "P.G.MEET",
         "weeks": [
+          16,
+          17,
           18
         ],
-        "color": "blue"
+        "color": "teal"
       },
       {
-        "id": "t25cbma1-17",
+        "id": "t25cbma1-16",
         "code": "TC25CBMA14",
         "subject": "Kỹ thuật cắt tỉa rau quả",
         "teacher": "Trần Ngọc Minh",
@@ -18859,34 +12045,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cbma1-18",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 4,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbma1-19",
+        "id": "t25cbma1-17",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -18918,7 +12077,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-20",
+        "id": "t25cbma1-18",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -18934,7 +12093,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-21",
+        "id": "t25cbma1-19",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -18950,7 +12109,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-22",
+        "id": "t25cbma1-20",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -18981,7 +12140,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-23",
+        "id": "t25cbma1-21",
         "code": "TC25CBMA08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -19004,33 +12163,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma1-24",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X8.204.N",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbma1-25",
+        "id": "t25cbma1-22",
         "code": "TC25CBMA08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -19047,7 +12180,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma1-26",
+        "id": "t25cbma1-23",
         "code": "TC25CBMA08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -19063,7 +12196,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma1-27",
+        "id": "t25cbma1-24",
         "code": "TC25CBMA09",
         "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
         "teacher": "Đặng Thị Cương",
@@ -19090,7 +12223,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-28",
+        "id": "t25cbma1-25",
         "code": "TC25CBMA09",
         "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
         "teacher": "Đặng Thị Cương",
@@ -19108,7 +12241,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-29",
+        "id": "t25cbma1-26",
         "code": "TC25CBMA09",
         "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
         "teacher": "Đặng Thị Cương",
@@ -19123,7 +12256,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-30",
+        "id": "t25cbma1-27",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -19148,7 +12281,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-31",
+        "id": "t25cbma1-28",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -19166,7 +12299,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-32",
+        "id": "t25cbma1-29",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Dương Tiến Thảo",
@@ -19192,7 +12325,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-33",
+        "id": "t25cbma1-30",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Dương Tiến Thảo",
@@ -19210,7 +12343,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-34",
+        "id": "t25cbma1-31",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -19236,7 +12369,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma1-35",
+        "id": "t25cbma1-32",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -19256,7 +12389,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma1-36",
+        "id": "t25cbma1-33",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -19282,7 +12415,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma1-37",
+        "id": "t25cbma1-34",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -19301,7 +12434,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma1-38",
+        "id": "t25cbma1-35",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Dương Tiến Thảo",
@@ -19326,7 +12459,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-39",
+        "id": "t25cbma1-36",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -19346,7 +12479,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma1-40",
+        "id": "t25cbma1-37",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -19361,7 +12494,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma1-41",
+        "id": "t25cbma1-38",
         "code": "TC25CBMA17",
         "subject": "Chế biến bánh & mứt Việt",
         "teacher": "Trần Thị Khuyên",
@@ -19387,7 +12520,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma1-42",
+        "id": "t25cbma1-39",
         "code": "TC25CBMA28",
         "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
         "teacher": "Nguyễn Thị Lương",
@@ -19414,7 +12547,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbma1-43",
+        "id": "t25cbma1-40",
+        "code": "TC25CBMA20",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.102(CBMA)",
+        "weeks": [
+          18
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "t25cbma1-41",
         "code": "TC25CBMA28",
         "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
         "teacher": "Nguyễn Thị Lương",
@@ -19432,7 +12583,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbma1-44",
+        "id": "t25cbma1-42",
         "code": "TC25CBMA28",
         "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
         "teacher": "Nguyễn Thị Lương",
@@ -19447,7 +12598,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbma1-45",
+        "id": "t25cbma1-43",
         "code": "TC25CBMA14",
         "subject": "Kỹ thuật cắt tỉa rau quả",
         "teacher": "Trần Ngọc Minh",
@@ -19466,6 +12617,33 @@ const ALL_CLASSES_DATABASE = {
           14
         ],
         "color": "indigo"
+      },
+      {
+        "id": "t25cbma1-44",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal"
       }
     ]
   },
@@ -19526,42 +12704,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cbma2-3",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          17
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbma2-4",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbma2-5",
         "code": "TC25CBMA14",
         "subject": "Kỹ thuật cắt tỉa rau quả",
         "teacher": "Trần Ngọc Minh",
@@ -19577,68 +12719,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cbma2-6",
-        "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt",
-        "teacher": "Trần Thị Khuyên",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "emerald"
-      },
-      {
-        "id": "t25cbma2-7",
-        "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt",
-        "teacher": "Trần Thị Khuyên",
-        "dow": 2,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "2B.201(CBMA)",
-        "weeks": [
-          11
-        ],
-        "color": "emerald"
-      },
-      {
-        "id": "t25cbma2-8",
-        "code": "TC25CBMA20",
-        "subject": "Chế biến món ăn á",
-        "teacher": "Trần Ngọc Minh",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.101(CBMA)",
-        "weeks": [
-          18
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "t25cbma2-9",
+        "id": "t25cbma2-4",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phạm Thị Trang",
@@ -19649,31 +12730,30 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2B.303(LAB4)",
+        "room": "P.G.MEET",
         "weeks": [
-          17
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
         "color": "teal"
       },
       {
-        "id": "t25cbma2-10",
-        "code": "TC25CBMA17",
-        "subject": "Chế biến bánh & mứt Việt",
-        "teacher": "Trần Thị Khuyên",
-        "dow": 2,
-        "periods": [
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          11
-        ],
-        "color": "emerald"
-      },
-      {
-        "id": "t25cbma2-11",
+        "id": "t25cbma2-5",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -19704,7 +12784,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-12",
+        "id": "t25cbma2-6",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -19720,7 +12800,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-13",
+        "id": "t25cbma2-7",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -19752,7 +12832,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-14",
+        "id": "t25cbma2-8",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -19768,10 +12848,50 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-15",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
+        "id": "t25cbma2-9",
+        "code": "TC25CBMA08",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "2A.303",
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "t25cbma2-10",
+        "code": "TC25CBMA08",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2A.303",
+        "weeks": [
+          15
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "t25cbma2-11",
+        "code": "TC25CBMA20",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Ngọc Minh",
         "dow": 3,
         "periods": [
           6,
@@ -19779,30 +12899,30 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2B.303(LAB4)",
+        "room": "2B.101(CBMA)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
-        "color": "teal"
+        "color": "blue"
       },
       {
-        "id": "t25cbma2-16",
+        "id": "t25cbma2-12",
+        "code": "TC25CBMA08",
+        "subject": "Tiếng anh chuyên ngành",
+        "teacher": "Lê Thị Thúy Hằng",
+        "dow": 3,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "t25cbma2-13",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Lê Thị Thúy Hằng",
@@ -19828,7 +12948,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-17",
+        "id": "t25cbma2-14",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -19859,7 +12979,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-18",
+        "id": "t25cbma2-15",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -19875,7 +12995,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-19",
+        "id": "t25cbma2-16",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -19907,7 +13027,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-20",
+        "id": "t25cbma2-17",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -19923,7 +13043,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-21",
+        "id": "t25cbma2-18",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Lê Thị Thúy Hằng",
@@ -19955,7 +13075,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-22",
+        "id": "t25cbma2-19",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Ngọc Minh",
@@ -19973,7 +13093,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-23",
+        "id": "t25cbma2-20",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -20006,7 +13126,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbma2-24",
+        "id": "t25cbma2-21",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Ngọc Minh",
@@ -20028,7 +13148,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-25",
+        "id": "t25cbma2-22",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Ngọc Minh",
@@ -20059,7 +13179,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-26",
+        "id": "t25cbma2-23",
         "code": "TC25CBMA09",
         "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
         "teacher": "Đặng Thị Cương",
@@ -20086,7 +13206,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-27",
+        "id": "t25cbma2-24",
         "code": "TC25CBMA09",
         "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
         "teacher": "Đặng Thị Cương",
@@ -20104,7 +13224,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-28",
+        "id": "t25cbma2-25",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Ngọc Minh",
@@ -20122,7 +13242,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-29",
+        "id": "t25cbma2-26",
         "code": "TC25CBMA09",
         "subject": "Tổ chức nhà bếp và an toàn lao động trong nhà bếp",
         "teacher": "Đặng Thị Cương",
@@ -20137,7 +13257,34 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-30",
+        "id": "t25cbma2-27",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cbma2-28",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -20163,7 +13310,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-31",
+        "id": "t25cbma2-29",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -20181,7 +13328,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-32",
+        "id": "t25cbma2-30",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -20191,6 +13338,49 @@ const ALL_CLASSES_DATABASE = {
           5
         ],
         "room": "2A.205",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "t25cbma2-31",
+        "code": "T25VH05",
+        "subject": "Hóa học",
+        "teacher": "Hồ Ngọc Lệ Thanh",
+        "dow": 6,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "2A.304",
+        "weeks": [
+          12
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "t25cbma2-32",
+        "code": "TC25CBMA17",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.201(CBMA)",
         "weeks": [
           1,
           2,
@@ -20207,15 +13397,15 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cbma2-33",
-        "code": "T25VH05",
-        "subject": "Hóa học",
-        "teacher": "Hồ Ngọc Lệ Thanh",
+        "code": "TC25CBMA17",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 6,
         "periods": [
-          4,
-          5
+          6,
+          7
         ],
-        "room": "2A.304",
+        "room": "2B.201(CBMA)",
         "weeks": [
           12
         ],
@@ -20223,46 +13413,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cbma2-34",
-        "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành",
-        "teacher": "Lê Thị Thúy Hằng",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "2A.203",
-        "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "t25cbma2-35",
-        "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành",
-        "teacher": "Lê Thị Thúy Hằng",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "2A.203",
-        "weeks": [
-          16
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "t25cbma2-36",
         "code": "TC25CBMA20",
         "subject": "Chế biến món ăn á",
         "teacher": "Trần Ngọc Minh",
@@ -20280,44 +13430,24 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbma2-37",
-        "code": "TC25CBMA08",
-        "subject": "Tiếng anh chuyên ngành",
-        "teacher": "Lê Thị Thúy Hằng",
+        "id": "t25cbma2-35",
+        "code": "TC25CBMA17",
+        "subject": "Chế biến bánh & mứt Việt",
+        "teacher": "Trần Thị Khuyên",
         "dow": 6,
         "periods": [
+          8,
           9,
           10
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16
+          12
         ],
-        "color": "blue"
+        "color": "emerald"
       },
       {
-        "id": "t25cbma2-38",
-        "code": "TC25CBMA14",
-        "subject": "Kỹ thuật cắt tỉa rau quả",
-        "teacher": "Trần Ngọc Minh",
-        "dow": 6,
-        "periods": [
-          11,
-          12,
-          13
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "indigo"
-      },
-      {
-        "id": "t25cbma2-39",
+        "id": "t25cbma2-36",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -20337,7 +13467,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma2-40",
+        "id": "t25cbma2-37",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -20363,7 +13493,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma2-41",
+        "id": "t25cbma2-38",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -20382,7 +13512,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma2-42",
+        "id": "t25cbma2-39",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -20407,7 +13537,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbma2-43",
+        "id": "t25cbma2-40",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -20427,7 +13557,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma2-44",
+        "id": "t25cbma2-41",
         "code": "TC25CBMA11",
         "subject": "Sinh lý dinh dưỡng",
         "teacher": "Đặng Thị Cương",
@@ -20442,7 +13572,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cbma2-45",
+        "id": "t25cbma2-42",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -20460,7 +13590,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma2-46",
+        "id": "t25cbma2-43",
         "code": "TC25CBMA17",
         "subject": "Chế biến bánh & mứt Việt",
         "teacher": "Trần Thị Khuyên",
@@ -20486,7 +13616,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbma2-47",
+        "id": "t25cbma2-44",
         "code": "TC25CBMA28",
         "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
         "teacher": "Nguyễn Thị Lương",
@@ -20513,7 +13643,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbma2-48",
+        "id": "t25cbma2-45",
         "code": "TC25CBMA28",
         "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
         "teacher": "Nguyễn Thị Lương",
@@ -20531,7 +13661,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbma2-49",
+        "id": "t25cbma2-46",
         "code": "TC25CBMA28",
         "subject": "Tâm lý và kỹ năng giao tiếp ứng xử với khách du lịch (TC*)",
         "teacher": "Nguyễn Thị Lương",
@@ -20546,31 +13676,45 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbma2-50",
+        "id": "t25cbma2-47",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phạm Thị Trang",
         "dow": 8,
         "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cbma2-48",
+        "code": "TC25CBMA14",
+        "subject": "Kỹ thuật cắt tỉa rau quả",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 8,
+        "periods": [
           11,
           12,
-          13,
-          14
+          13
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
           11,
           12,
           13,
           14,
-          15,
-          16,
-          17
+          15
         ],
-        "color": "teal"
+        "color": "indigo"
       }
     ]
   },
@@ -20703,6 +13847,33 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cbtp-6",
+        "code": "TC25TKDH21",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cbtp-7",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -20733,7 +13904,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-7",
+        "id": "t25cbtp-8",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -20749,7 +13920,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-8",
+        "id": "t25cbtp-9",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -20781,7 +13952,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-9",
+        "id": "t25cbtp-10",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -20797,7 +13968,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-10",
+        "id": "t25cbtp-11",
         "code": "TC25CBTP19",
         "subject": "Kỹ thuật sản xuất nước giải khát",
         "teacher": "Đặng Thị Cương",
@@ -20831,7 +14002,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-11",
+        "id": "t25cbtp-12",
         "code": "TC25CBTP19",
         "subject": "Kỹ thuật sản xuất nước giải khát",
         "teacher": "Đặng Thị Cương",
@@ -20846,7 +14017,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-12",
+        "id": "t25cbtp-13",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Ngô Thị Nhung",
@@ -20872,7 +14043,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbtp-13",
+        "id": "t25cbtp-14",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -20903,7 +14074,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-14",
+        "id": "t25cbtp-15",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -20919,7 +14090,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-15",
+        "id": "t25cbtp-16",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -20951,7 +14122,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-16",
+        "id": "t25cbtp-17",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -20967,7 +14138,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-17",
+        "id": "t25cbtp-18",
         "code": "TC25CBTP16",
         "subject": "Công nghệ chế biến thịt, cá, trứng",
         "teacher": "Phan Văn Mẫn",
@@ -21002,7 +14173,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-18",
+        "id": "t25cbtp-19",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -21035,7 +14206,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-19",
+        "id": "t25cbtp-20",
         "code": "TC25CBTP08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Phạm Thị Phương Thanh",
@@ -21058,7 +14229,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbtp-20",
+        "id": "t25cbtp-21",
         "code": "TC25CBTP08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Phạm Thị Phương Thanh",
@@ -21075,7 +14246,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbtp-21",
+        "id": "t25cbtp-22",
         "code": "TC25CBTP21",
         "subject": "Vệ sinh an toàn thực phẩm",
         "teacher": "Trần Thị Khuyên",
@@ -21095,7 +14266,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-22",
+        "id": "t25cbtp-23",
         "code": "TC25CBTP19",
         "subject": "Kỹ thuật sản xuất nước giải khát",
         "teacher": "Đặng Thị Cương",
@@ -21117,7 +14288,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-23",
+        "id": "t25cbtp-24",
         "code": "TC25CBTP08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Phạm Thị Phương Thanh",
@@ -21133,7 +14304,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbtp-24",
+        "id": "t25cbtp-25",
         "code": "TC25CBTP21",
         "subject": "Vệ sinh an toàn thực phẩm",
         "teacher": "Trần Thị Khuyên",
@@ -21157,7 +14328,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-25",
+        "id": "t25cbtp-26",
         "code": "TC23CBTP29",
         "subject": "Phụ gia thực phẩm (TC*)",
         "teacher": "Luyện Thị Thu Huyền",
@@ -21181,7 +14352,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cbtp-26",
+        "id": "t25cbtp-27",
         "code": "TC25CBTP21",
         "subject": "Vệ sinh an toàn thực phẩm",
         "teacher": "Trần Thị Khuyên",
@@ -21197,7 +14368,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-27",
+        "id": "t25cbtp-28",
         "code": "TC25CBTP21",
         "subject": "Vệ sinh an toàn thực phẩm",
         "teacher": "Trần Thị Khuyên",
@@ -21214,7 +14385,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-28",
+        "id": "t25cbtp-29",
         "code": "TC23CBTP29",
         "subject": "Phụ gia thực phẩm (TC*)",
         "teacher": "Luyện Thị Thu Huyền",
@@ -21230,7 +14401,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cbtp-29",
+        "id": "t25cbtp-30",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -21256,7 +14427,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-30",
+        "id": "t25cbtp-31",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -21272,27 +14443,6 @@ const ALL_CLASSES_DATABASE = {
           13
         ],
         "color": "emerald"
-      },
-      {
-        "id": "t25cbtp-31",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.403(LAB6)",
-        "weeks": [
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "teal"
       },
       {
         "id": "t25cbtp-32",
@@ -21368,33 +14518,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cbtp-35",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 6,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbtp-36",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -21420,7 +14543,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-37",
+        "id": "t25cbtp-36",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -21438,10 +14561,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-38",
-        "code": "TC25DCN23",
+        "id": "t25cbtp-37",
+        "code": "TC25TKDH21",
         "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
+        "teacher": "Hoàng Thanh Bình",
         "dow": 7,
         "periods": [
           1,
@@ -21449,7 +14572,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2B.403(LAB6)",
+        "room": "P.G.MEET",
         "weeks": [
           14,
           15,
@@ -21459,7 +14582,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cbtp-39",
+        "id": "t25cbtp-38",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -21484,10 +14607,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-40",
-        "code": "TC25DCN23",
+        "id": "t25cbtp-39",
+        "code": "TC25TKDH21",
         "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
+        "teacher": "Hoàng Thanh Bình",
         "dow": 7,
         "periods": [
           6,
@@ -21495,7 +14618,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2B.403(LAB6)",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -21507,30 +14630,17 @@ const ALL_CLASSES_DATABASE = {
           8,
           9,
           10,
-          12
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cbtp-41",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.303(LAB4)",
-        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
           18
         ],
         "color": "teal"
       },
       {
-        "id": "t25cbtp-42",
+        "id": "t25cbtp-40",
         "code": "TC25CBTP15",
         "subject": "Kiểm tra chất lượng sản phẩm",
         "teacher": "Đặng Thị Cương",
@@ -21548,7 +14658,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-43",
+        "id": "t25cbtp-41",
         "code": "TC25CBTP15",
         "subject": "Kiểm tra chất lượng sản phẩm",
         "teacher": "Đặng Thị Cương",
@@ -21567,7 +14677,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-44",
+        "id": "t25cbtp-42",
+        "code": "TC25CBTP16",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.301(CBTP)",
+        "weeks": [
+          14
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25cbtp-43",
         "code": "TC25CBTP16",
         "subject": "Công nghệ chế biến thịt, cá, trứng",
         "teacher": "Phan Văn Mẫn",
@@ -21587,25 +14715,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-45",
-        "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng",
-        "teacher": "Phan Văn Mẫn",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.301(CBTP)",
-        "weeks": [
-          14
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "t25cbtp-46",
+        "id": "t25cbtp-44",
         "code": "TC25CBTP18",
         "subject": "Công nghệ bảo quản và chế biến rau quả",
         "teacher": "Luyện Thị Thu Huyền",
@@ -21624,7 +14734,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbtp-47",
+        "id": "t25cbtp-45",
         "code": "TC25CBTP19",
         "subject": "Kỹ thuật sản xuất nước giải khát",
         "teacher": "Đặng Thị Cương",
@@ -21643,7 +14753,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-48",
+        "id": "t25cbtp-46",
         "code": "TC25CBTP15",
         "subject": "Kiểm tra chất lượng sản phẩm",
         "teacher": "Đặng Thị Cương",
@@ -21661,7 +14771,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-49",
+        "id": "t25cbtp-47",
         "code": "TC25CBTP15",
         "subject": "Kiểm tra chất lượng sản phẩm",
         "teacher": "Đặng Thị Cương",
@@ -21677,7 +14787,24 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cbtp-50",
+        "id": "t25cbtp-48",
+        "code": "TC25CBTP16",
+        "subject": "Công nghệ chế biến thịt, cá, trứng",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2B.301(CBTP)",
+        "weeks": [
+          14
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25cbtp-49",
         "code": "TC25CBTP16",
         "subject": "Công nghệ chế biến thịt, cá, trứng",
         "teacher": "Phan Văn Mẫn",
@@ -21697,24 +14824,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cbtp-51",
-        "code": "TC25CBTP16",
-        "subject": "Công nghệ chế biến thịt, cá, trứng",
-        "teacher": "Phan Văn Mẫn",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "2B.301(CBTP)",
-        "weeks": [
-          14
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "t25cbtp-52",
+        "id": "t25cbtp-50",
         "code": "TC25CBTP18",
         "subject": "Công nghệ bảo quản và chế biến rau quả",
         "teacher": "Luyện Thị Thu Huyền",
@@ -21733,7 +14843,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cbtp-53",
+        "id": "t25cbtp-51",
         "code": "TC25CBTP19",
         "subject": "Kỹ thuật sản xuất nước giải khát",
         "teacher": "Đặng Thị Cương",
@@ -21752,7 +14862,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cbtp-54",
+        "id": "t25cbtp-52",
         "code": "TC25CBTP16",
         "subject": "Công nghệ chế biến thịt, cá, trứng",
         "teacher": "Phan Văn Mẫn",
@@ -21914,9 +15024,9 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cdt1-7",
-        "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
-        "teacher": "Nguyễn Văn Hoàng",
+        "code": "TC25CNOT26",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
           11,
@@ -21926,6 +15036,15 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "P.ONLINE",
         "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
           18
         ],
         "color": "teal"
@@ -22115,6 +15234,24 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cdt1-17",
+        "code": "TC25CDT20",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "teacher": "Nguyễn Văn Hoàng",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cdt1-18",
         "code": "TC25CDT25",
         "subject": "Tiếng anh nâng cao",
         "teacher": "Nguyễn Văn Hậu",
@@ -22125,7 +15262,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1A.210",
+        "room": "1A.405",
         "weeks": [
           1,
           2,
@@ -22146,7 +15283,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-18",
+        "id": "t25cdt1-19",
         "code": "TC25CDT20",
         "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
         "teacher": "Nguyễn Văn Hoàng",
@@ -22164,7 +15301,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cdt1-19",
+        "id": "t25cdt1-20",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Hà Quốc Trung",
@@ -22196,7 +15333,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-20",
+        "id": "t25cdt1-21",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -22218,7 +15355,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-21",
+        "id": "t25cdt1-22",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Trần Trường Lam",
@@ -22246,7 +15383,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt1-22",
+        "id": "t25cdt1-23",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -22263,7 +15400,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-23",
+        "id": "t25cdt1-24",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -22279,7 +15416,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-24",
+        "id": "t25cdt1-25",
         "code": "TC25CDT25",
         "subject": "Tiếng anh nâng cao",
         "teacher": "Nguyễn Văn Hậu",
@@ -22305,7 +15442,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-25",
+        "id": "t25cdt1-26",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -22337,7 +15474,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt1-26",
+        "id": "t25cdt1-27",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -22368,7 +15505,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt1-27",
+        "id": "t25cdt1-28",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Hà Quốc Trung",
@@ -22390,7 +15527,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-28",
+        "id": "t25cdt1-29",
         "code": "TC25CDT20",
         "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
         "teacher": "Nguyễn Văn Hoàng",
@@ -22410,7 +15547,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cdt1-29",
+        "id": "t25cdt1-30",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -22443,7 +15580,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cdt1-30",
+        "id": "t25cdt1-31",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Hà Quốc Trung",
@@ -22462,7 +15599,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt1-31",
+        "id": "t25cdt1-32",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Trần Trường Lam",
@@ -22486,7 +15623,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt1-32",
+        "id": "t25cdt1-33",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Trần Trường Lam",
@@ -22503,7 +15640,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt1-33",
+        "id": "t25cdt1-34",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -22535,7 +15672,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt1-34",
+        "id": "t25cdt1-35",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -22566,7 +15703,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt1-35",
+        "id": "t25cdt1-36",
         "code": "TC25CNOT26",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -22577,7 +15714,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -22594,33 +15731,6 @@ const ALL_CLASSES_DATABASE = {
           14,
           15,
           16,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cdt1-36",
-        "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 7,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal"
@@ -22656,7 +15766,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           15,
           16
@@ -22675,7 +15785,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           15,
           16
@@ -22849,6 +15959,33 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cdt2-7",
+        "code": "TC25TKDH21",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cdt2-8",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Đinh Hùng",
@@ -22866,7 +16003,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-8",
+        "id": "t25cdt2-9",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Lê Phước Triều",
@@ -22888,7 +16025,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt2-9",
+        "id": "t25cdt2-10",
         "code": "TC25CDT20",
         "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
         "teacher": "Đinh Hùng",
@@ -22910,7 +16047,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cdt2-10",
+        "id": "t25cdt2-11",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Đinh Hùng",
@@ -22925,7 +16062,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-11",
+        "id": "t25cdt2-12",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -22957,7 +16094,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-12",
+        "id": "t25cdt2-13",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -22973,7 +16110,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-13",
+        "id": "t25cdt2-14",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -22989,7 +16126,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-14",
+        "id": "t25cdt2-15",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -23020,7 +16157,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-15",
+        "id": "t25cdt2-16",
         "code": "TC25CDT16",
         "subject": "Lập trình Vi điều khiển",
         "teacher": "Nguyễn T. Thu Hương",
@@ -23050,7 +16187,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-16",
+        "id": "t25cdt2-17",
+        "code": "TC25CDT13",
+        "subject": "Thiết kế Cơ khí",
+        "teacher": "Lê Phước Triều",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "t25cdt2-18",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -23082,7 +16237,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-17",
+        "id": "t25cdt2-19",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -23098,7 +16253,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-18",
+        "id": "t25cdt2-20",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -23114,7 +16269,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-19",
+        "id": "t25cdt2-21",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -23145,7 +16300,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-20",
+        "id": "t25cdt2-22",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Đinh Hùng",
@@ -23167,7 +16322,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-21",
+        "id": "t25cdt2-23",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -23193,7 +16348,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cdt2-22",
+        "id": "t25cdt2-24",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -23211,7 +16366,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cdt2-23",
+        "id": "t25cdt2-25",
         "code": "TC25CDT20",
         "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
         "teacher": "Đinh Hùng",
@@ -23231,7 +16386,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cdt2-24",
+        "id": "t25cdt2-26",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -23256,7 +16411,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cdt2-25",
+        "id": "t25cdt2-27",
         "code": "TC25CDT25",
         "subject": "Tiếng anh nâng cao",
         "teacher": "Nguyễn Thị Phương Thảo",
@@ -23288,7 +16443,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-26",
+        "id": "t25cdt2-28",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Phương Thảo",
@@ -23305,7 +16460,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-27",
+        "id": "t25cdt2-29",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Phương Thảo",
@@ -23321,7 +16476,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-28",
+        "id": "t25cdt2-30",
         "code": "TC25CDT21",
         "subject": "PLC cơ bản",
         "teacher": "Đinh Hùng",
@@ -23346,7 +16501,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cdt2-29",
+        "id": "t25cdt2-31",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Lê Phước Triều",
@@ -23357,7 +16512,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2X1.301(TĐH1)",
+        "room": "2B.403(LAB6)",
         "weeks": [
           9,
           10,
@@ -23366,49 +16521,6 @@ const ALL_CLASSES_DATABASE = {
           14
         ],
         "color": "emerald"
-      },
-      {
-        "id": "t25cdt2-30",
-        "code": "TC25CDT13",
-        "subject": "Thiết kế Cơ khí",
-        "teacher": "Lê Phước Triều",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X1.301(TĐH1)",
-        "weeks": [
-          15
-        ],
-        "color": "emerald"
-      },
-      {
-        "id": "t25cdt2-31",
-        "code": "TC25CDT21",
-        "subject": "PLC cơ bản",
-        "teacher": "Đinh Hùng",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2X1.301(TĐH1)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
-        ],
-        "color": "blue"
       },
       {
         "id": "t25cdt2-32",
@@ -23417,12 +16529,55 @@ const ALL_CLASSES_DATABASE = {
         "teacher": "Lê Phước Triều",
         "dow": 6,
         "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          15
+        ],
+        "color": "emerald"
+      },
+      {
+        "id": "t25cdt2-33",
+        "code": "TC25CDT21",
+        "subject": "PLC cơ bản",
+        "teacher": "Đinh Hùng",
+        "dow": 6,
+        "periods": [
           6,
           7,
           8,
           9
         ],
         "room": "2X1.301(TĐH1)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "t25cdt2-34",
+        "code": "TC25CDT13",
+        "subject": "Thiết kế Cơ khí",
+        "teacher": "Lê Phước Triều",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.403(LAB6)",
         "weeks": [
           9,
           10,
@@ -23433,7 +16588,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt2-33",
+        "id": "t25cdt2-35",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Lê Phước Triều",
@@ -23451,7 +16606,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt2-34",
+        "id": "t25cdt2-36",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -23484,63 +16639,39 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cdt2-35",
-        "code": "TC25TKDH21",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.402(LAB5)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cdt2-36",
-        "code": "TC25CDT13",
-        "subject": "Thiết kế Cơ khí",
-        "teacher": "Lê Phước Triều",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15
-        ],
-        "color": "emerald"
-      },
-      {
         "id": "t25cdt2-37",
         "code": "TC25TKDH21",
         "subject": "Tin học nâng cao",
         "teacher": "Hoàng Thanh Bình",
         "dow": 7,
         "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cdt2-38",
+        "code": "TC25TKDH21",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 7,
+        "periods": [
           6,
           7,
           8,
           9
         ],
-        "room": "2B.402(LAB5)",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -23551,20 +16682,26 @@ const ALL_CLASSES_DATABASE = {
           7,
           8,
           9,
-          10
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
         ],
         "color": "teal"
       },
       {
-        "id": "t25cdt2-38",
+        "id": "t25cdt2-39",
         "code": "TC25CDT13",
         "subject": "Thiết kế Cơ khí",
         "teacher": "Lê Phước Triều",
-        "dow": 7,
+        "dow": 8,
         "periods": [
-          6,
-          7,
-          8
+          1,
+          2,
+          3
         ],
         "room": "P.ONLINE",
         "weeks": [
@@ -23573,29 +16710,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25cdt2-39",
+        "id": "t25cdt2-40",
         "code": "TC25CDT16",
         "subject": "Lập trình Vi điều khiển",
         "teacher": "Nguyễn T. Thu Hương",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          13,
-          14
-        ],
-        "color": "blue"
-      },
-      {
-        "id": "t25cdt2-40",
-        "code": "TC25TKDH21",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
         "dow": 8,
         "periods": [
           1,
@@ -23605,18 +16723,10 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
+          13,
+          14
         ],
-        "color": "teal"
+        "color": "blue"
       },
       {
         "id": "t25cdt2-41",
@@ -23993,7 +17103,16 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "1X5.102(TIEN)",
         "weeks": [
-          18
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
         ],
         "color": "indigo"
       },
@@ -24011,16 +17130,7 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "1X5.102(TIEN)",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17
+          18
         ],
         "color": "indigo"
       },
@@ -24069,7 +17179,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1A.210",
+        "room": "1A.405",
         "weeks": [
           1,
           2,
@@ -24860,25 +17970,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cgkl2-3",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.403(LAB6)",
-        "weeks": [
-          17,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cgkl2-4",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -24903,10 +17994,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cgkl2-5",
+        "id": "t25cgkl2-4",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
+        "teacher": "Phạm Thị Trang",
         "dow": 2,
         "periods": [
           6,
@@ -24914,7 +18005,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2B.403(LAB6)",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -24937,7 +18028,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cgkl2-6",
+        "id": "t25cgkl2-5",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -24969,7 +18060,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cgkl2-7",
+        "id": "t25cgkl2-6",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -25001,7 +18092,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-8",
+        "id": "t25cgkl2-7",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -25017,7 +18108,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-9",
+        "id": "t25cgkl2-8",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -25033,7 +18124,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-10",
+        "id": "t25cgkl2-9",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -25064,7 +18155,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-11",
+        "id": "t25cgkl2-10",
         "code": "TC25CGKL17",
         "subject": "Gia công trên máy tiện 1",
         "teacher": "Nguyễn Thị Bích",
@@ -25099,7 +18190,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-12",
+        "id": "t25cgkl2-11",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -25132,7 +18223,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cgkl2-13",
+        "id": "t25cgkl2-12",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -25164,7 +18255,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-14",
+        "id": "t25cgkl2-13",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -25180,7 +18271,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-15",
+        "id": "t25cgkl2-14",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -25196,7 +18287,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-16",
+        "id": "t25cgkl2-15",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -25227,7 +18318,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-17",
+        "id": "t25cgkl2-16",
         "code": "TC25CGKL17",
         "subject": "Gia công trên máy tiện 1",
         "teacher": "Nguyễn Thị Bích",
@@ -25260,7 +18351,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-18",
+        "id": "t25cgkl2-17",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -25286,7 +18377,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cgkl2-19",
+        "id": "t25cgkl2-18",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -25304,7 +18395,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cgkl2-20",
+        "id": "t25cgkl2-19",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -25329,7 +18420,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-21",
+        "id": "t25cgkl2-20",
         "code": "TC25CGKL09",
         "subject": "Cơ kỹ thuật",
         "teacher": "Phạm Thị Minh",
@@ -25351,6 +18442,33 @@ const ALL_CLASSES_DATABASE = {
           7
         ],
         "color": "orange"
+      },
+      {
+        "id": "t25cgkl2-21",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal"
       },
       {
         "id": "t25cgkl2-22",
@@ -25380,24 +18498,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cgkl2-23",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.302(LAB3)",
-        "weeks": [
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cgkl2-24",
         "code": "TC25CGKL21",
         "subject": "Gia công trên máy mài 1",
         "teacher": "Từ Thị Tuyết",
@@ -25416,7 +18516,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cgkl2-25",
+        "id": "t25cgkl2-24",
         "code": "TC25CGKL17",
         "subject": "Gia công trên máy tiện 1",
         "teacher": "Nguyễn Thị Bích",
@@ -25444,7 +18544,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-26",
+        "id": "t25cgkl2-25",
         "code": "TC25CGKL18",
         "subject": "Gia công trên máy tiện CNC 1",
         "teacher": "Nguyễn Thanh Thảo",
@@ -25465,7 +18565,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-27",
+        "id": "t25cgkl2-26",
         "code": "TC25CGKL14",
         "subject": "Kỹ thuật an toàn lao động",
         "teacher": "Lê Tiến Thành",
@@ -25489,7 +18589,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-28",
+        "id": "t25cgkl2-27",
         "code": "TC25CGKL18",
         "subject": "Gia công trên máy tiện CNC 1",
         "teacher": "Nguyễn Thanh Thảo",
@@ -25507,7 +18607,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-29",
+        "id": "t25cgkl2-28",
         "code": "TC25CGKL14",
         "subject": "Kỹ thuật an toàn lao động",
         "teacher": "Lê Tiến Thành",
@@ -25524,7 +18624,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-30",
+        "id": "t25cgkl2-29",
         "code": "TC25CGKL14",
         "subject": "Kỹ thuật an toàn lao động",
         "teacher": "Lê Tiến Thành",
@@ -25540,7 +18640,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-31",
+        "id": "t25cgkl2-30",
         "code": "TC25CGKL18",
         "subject": "Gia công trên máy tiện CNC 1",
         "teacher": "Nguyễn Thanh Thảo",
@@ -25561,7 +18661,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-32",
+        "id": "t25cgkl2-31",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -25584,7 +18684,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cgkl2-33",
+        "id": "t25cgkl2-32",
         "code": "TC25CGKL18",
         "subject": "Gia công trên máy tiện CNC 1",
         "teacher": "Nguyễn Thanh Thảo",
@@ -25603,7 +18703,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-34",
+        "id": "t25cgkl2-33",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -25620,7 +18720,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cgkl2-35",
+        "id": "t25cgkl2-34",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -25636,7 +18736,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cgkl2-36",
+        "id": "t25cgkl2-35",
         "code": "TC25CGKL14",
         "subject": "Kỹ thuật an toàn lao động",
         "teacher": "Lê Tiến Thành",
@@ -25656,7 +18756,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25cgkl2-37",
+        "id": "t25cgkl2-36",
         "code": "TC25CGKL18",
         "subject": "Gia công trên máy tiện CNC 1",
         "teacher": "Nguyễn Thanh Thảo",
@@ -25674,7 +18774,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cgkl2-38",
+        "id": "t25cgkl2-37",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -25700,7 +18800,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cgkl2-39",
+        "id": "t25cgkl2-38",
         "code": "TC25CGKL09",
         "subject": "Cơ kỹ thuật",
         "teacher": "Phạm Thị Minh",
@@ -25720,7 +18820,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cgkl2-40",
+        "id": "t25cgkl2-39",
         "code": "TC25CGKL09",
         "subject": "Cơ kỹ thuật",
         "teacher": "Phạm Thị Minh",
@@ -25739,6 +18839,26 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
+        "id": "t25cgkl2-40",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "teal"
+      },
+      {
         "id": "t25cgkl2-41",
         "code": "TC25CGKL21",
         "subject": "Gia công trên máy mài 1",
@@ -25753,33 +18873,6 @@ const ALL_CLASSES_DATABASE = {
         "room": "P.ONLINE",
         "weeks": [
           10
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cgkl2-42",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 8,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
         ],
         "color": "teal"
       }
@@ -26168,9 +19261,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.309(LAB5)",
+        "room": "1A.307(LAB3)",
         "weeks": [
-          18
+          19
         ],
         "color": "teal"
       },
@@ -26186,9 +19279,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.307(LAB3)",
+        "room": "1A.309(LAB5)",
         "weeks": [
-          19
+          18
         ],
         "color": "teal"
       },
@@ -26547,6 +19640,32 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot1-35",
+        "code": "TC25CBTP24",
+        "subject": "Tiếng Anh nâng cao",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "blue"
+      },
+      {
+        "id": "t25cnot1-36",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -26578,7 +19697,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot1-36",
+        "id": "t25cnot1-37",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -26596,7 +19715,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cnot1-37",
+        "id": "t25cnot1-38",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -26623,30 +19742,6 @@ const ALL_CLASSES_DATABASE = {
           15,
           16,
           18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot1-38",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X3.HAN",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
         ],
         "color": "violet"
       },
@@ -26702,9 +19797,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.309(LAB5)",
+        "room": "1A.307(LAB3)",
         "weeks": [
-          18
+          19
         ],
         "color": "teal"
       },
@@ -26720,9 +19815,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.307(LAB3)",
+        "room": "1A.309(LAB5)",
         "weeks": [
-          19
+          18
         ],
         "color": "teal"
       },
@@ -26744,22 +19839,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot1-44",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 6,
-        "periods": [
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot1-45",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -26791,7 +19870,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot1-46",
+        "id": "t25cnot1-45",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -26822,7 +19901,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot1-47",
+        "id": "t25cnot1-46",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Trần Thị Kim Thảo",
@@ -26833,7 +19912,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.210",
+        "room": "1A.401(HT)",
         "weeks": [
           1,
           2,
@@ -26854,7 +19933,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot1-48",
+        "id": "t25cnot1-47",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -26870,7 +19949,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot1-49",
+        "id": "t25cnot1-48",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -26889,7 +19968,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot1-50",
+        "id": "t25cnot1-49",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -26907,7 +19986,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot1-51",
+        "id": "t25cnot1-50",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -26923,32 +20002,6 @@ const ALL_CLASSES_DATABASE = {
           18
         ],
         "color": "violet"
-      },
-      {
-        "id": "t25cnot1-52",
-        "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao",
-        "teacher": "Trần Thị Kim Thảo",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "blue"
       }
     ]
   },
@@ -27148,46 +20201,33 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot2-10",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Trần Ngọc Thủy",
+        "code": "TC25CNOT26",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 2,
         "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X3.HAN",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot2-11",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 2,
-        "periods": [
-          10
+          11,
+          12,
+          13,
+          14
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
         ],
-        "color": "violet"
+        "color": "teal"
       },
       {
-        "id": "t25cnot2-12",
+        "id": "t25cnot2-11",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -27213,7 +20253,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot2-13",
+        "id": "t25cnot2-12",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -27235,7 +20275,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot2-14",
+        "id": "t25cnot2-13",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -27251,7 +20291,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-15",
+        "id": "t25cnot2-14",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -27269,7 +20309,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot2-16",
+        "id": "t25cnot2-15",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -27286,7 +20326,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot2-17",
+        "id": "t25cnot2-16",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -27302,7 +20342,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-18",
+        "id": "t25cnot2-17",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -27327,7 +20367,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-19",
+        "id": "t25cnot2-18",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -27343,7 +20383,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot2-20",
+        "id": "t25cnot2-19",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị Lan",
@@ -27375,7 +20415,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot2-21",
+        "id": "t25cnot2-20",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -27391,7 +20431,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot2-22",
+        "id": "t25cnot2-21",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -27424,25 +20464,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot2-23",
-        "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot2-24",
+        "id": "t25cnot2-22",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Nguyễn Bình Trị",
@@ -27474,28 +20496,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot2-25",
+        "id": "t25cnot2-23",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X1.GAM",
-        "weeks": [
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot2-26",
-        "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           1,
@@ -27525,17 +20529,16 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-27",
+        "id": "t25cnot2-24",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           1,
           2,
           3,
-          4,
-          5
+          4
         ],
         "room": "1X1.GAM",
         "weeks": [
@@ -27544,10 +20547,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-28",
+        "id": "t25cnot2-25",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           6,
@@ -27577,17 +20580,16 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-29",
+        "id": "t25cnot2-26",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 5,
         "periods": [
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "room": "1X1.GAM",
         "weeks": [
@@ -27596,7 +20598,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-30",
+        "id": "t25cnot2-27",
+        "code": "TC25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25cnot2-28",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -27628,7 +20648,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-31",
+        "id": "t25cnot2-29",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -27659,7 +20679,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-32",
+        "id": "t25cnot2-30",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Nguyễn Bình Trị",
@@ -27690,7 +20710,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot2-33",
+        "id": "t25cnot2-31",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -27723,7 +20743,26 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot2-34",
+        "id": "t25cnot2-32",
+        "code": "TC25CNOT20",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25cnot2-33",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -27755,7 +20794,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot2-35",
+        "id": "t25cnot2-34",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -27786,6 +20825,39 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
+        "id": "t25cnot2-35",
+        "code": "TC25CNOT26",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal"
+      },
+      {
         "id": "t25cnot2-36",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
@@ -27807,15 +20879,16 @@ const ALL_CLASSES_DATABASE = {
         "id": "t25cnot2-37",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "teacher": "Trần H. Bảo Phước",
+        "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
           1,
           2,
           3,
-          4
+          4,
+          5
         ],
-        "room": "P.ONLINE",
+        "room": "1X1.GAM",
         "weeks": [
           18
         ],
@@ -27823,9 +20896,9 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot2-38",
-        "code": "TC25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
-        "teacher": "Nguyễn Bình Trị",
+        "code": "TC25CNOT26",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 8,
         "periods": [
           1,
@@ -27833,16 +20906,17 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "P.ONLINE",
+        "room": "P.G.MEET",
         "weeks": [
-          15
+          15,
+          16
         ],
-        "color": "blue"
+        "color": "teal"
       },
       {
         "id": "t25cnot2-39",
-        "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "code": "TC25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
         "dow": 8,
         "periods": [
@@ -27852,11 +20926,11 @@ const ALL_CLASSES_DATABASE = {
           9,
           10
         ],
-        "room": "P.ONLINE",
+        "room": "1X1.GAM",
         "weeks": [
           18
         ],
-        "color": "orange"
+        "color": "violet"
       },
       {
         "id": "t25cnot2-40",
@@ -27886,38 +20960,40 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot2-41",
-        "code": "TC25DCN23",
+        "code": "TC25CNOT26",
         "subject": "Tin học nâng cao",
-        "teacher": "",
-        "dow": 2,
+        "teacher": "Lại Văn Duy",
+        "dow": 8,
         "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
-          9,
-          10,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          15,
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cnot2-42",
+        "code": "TC25CNOT22",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
+        "teacher": "Nguyễn Bình Trị",
+        "dow": 8,
+        "periods": [
           11,
           12,
           13,
-          14,
-          15,
-          16,
-          17,
-          18
+          14
         ],
-        "color": "teal"
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "blue"
       }
     ]
   },
@@ -28304,9 +21380,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.309(LAB5)",
+        "room": "1A.307(LAB3)",
         "weeks": [
-          18
+          19
         ],
         "color": "teal"
       },
@@ -28322,9 +21398,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.307(LAB3)",
+        "room": "1A.309(LAB5)",
         "weeks": [
-          19
+          18
         ],
         "color": "teal"
       },
@@ -28685,7 +21761,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "t25cnot3-35",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
-        "teacher": "Nguyễn Thị Lan Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           11,
@@ -28790,30 +21866,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot3-39",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X3.HAN",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot3-40",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -28836,7 +21888,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot3-41",
+        "id": "t25cnot3-40",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -28851,6 +21903,24 @@ const ALL_CLASSES_DATABASE = {
           16
         ],
         "color": "blue"
+      },
+      {
+        "id": "t25cnot3-41",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
       },
       {
         "id": "t25cnot3-42",
@@ -28872,24 +21942,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot3-43",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.307(LAB3)",
-        "weeks": [
-          19
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25cnot3-44",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -28905,23 +21957,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot3-45",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 6,
-        "periods": [
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot3-46",
+        "id": "t25cnot3-44",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -28953,7 +21989,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot3-47",
+        "id": "t25cnot3-45",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Cẩm Tú",
@@ -28984,10 +22020,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot3-48",
+        "id": "t25cnot3-46",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
-        "teacher": "Nguyễn Thị Lan Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 7,
         "periods": [
           6,
@@ -28995,7 +22031,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.211",
+        "room": "1A.401(HT)",
         "weeks": [
           1,
           2,
@@ -29016,7 +22052,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot3-49",
+        "id": "t25cnot3-47",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -29032,7 +22068,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot3-50",
+        "id": "t25cnot3-48",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -29051,7 +22087,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot3-51",
+        "id": "t25cnot3-49",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -29069,7 +22105,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot3-52",
+        "id": "t25cnot3-50",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -29377,6 +22413,25 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot4-13",
+        "code": "TC25CNOT20",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "teacher": "Ng Hữu Liêm Chánh",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25cnot4-14",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Huỳnh Minh Tuấn",
@@ -29399,7 +22454,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-14",
+        "id": "t25cnot4-15",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -29422,7 +22477,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot4-15",
+        "id": "t25cnot4-16",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -29439,7 +22494,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot4-16",
+        "id": "t25cnot4-17",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -29455,7 +22510,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot4-17",
+        "id": "t25cnot4-18",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Huỳnh Minh Tuấn",
@@ -29478,7 +22533,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-18",
+        "id": "t25cnot4-19",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -29504,7 +22559,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot4-19",
+        "id": "t25cnot4-20",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -29531,7 +22586,34 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot4-20",
+        "id": "t25cnot4-21",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25cnot4-22",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -29563,7 +22645,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-21",
+        "id": "t25cnot4-23",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phùng Thị Nga",
@@ -29574,14 +22656,14 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2B.303(LAB4)",
+        "room": "P.G.MEET",
         "weeks": [
           19
         ],
         "color": "teal"
       },
       {
-        "id": "t25cnot4-22",
+        "id": "t25cnot4-24",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -29597,7 +22679,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-23",
+        "id": "t25cnot4-25",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Thu Hiền",
@@ -29613,7 +22695,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-24",
+        "id": "t25cnot4-26",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Thu Hiền",
@@ -29644,7 +22726,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-25",
+        "id": "t25cnot4-27",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phùng Thị Nga",
@@ -29655,14 +22737,14 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2B.303(LAB4)",
+        "room": "P.G.MEET",
         "weeks": [
           19
         ],
         "color": "teal"
       },
       {
-        "id": "t25cnot4-26",
+        "id": "t25cnot4-28",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Huỳnh Minh Tuấn",
@@ -29695,7 +22777,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-27",
+        "id": "t25cnot4-29",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Huỳnh Minh Tuấn",
@@ -29711,7 +22793,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-28",
+        "id": "t25cnot4-30",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -29744,7 +22826,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot4-29",
+        "id": "t25cnot4-31",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -29770,7 +22852,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot4-30",
+        "id": "t25cnot4-32",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phùng Thị Nga",
@@ -29781,14 +22863,14 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2B.303(LAB4)",
+        "room": "P.G.MEET",
         "weeks": [
           19
         ],
         "color": "teal"
       },
       {
-        "id": "t25cnot4-31",
+        "id": "t25cnot4-33",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phùng Thị Nga",
@@ -29799,7 +22881,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2B.303(LAB4)",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -29821,7 +22903,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cnot4-32",
+        "id": "t25cnot4-34",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Nguyễn Thanh Liêm",
@@ -29854,7 +22936,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot4-33",
+        "id": "t25cnot4-35",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Phùng Thị Nga",
@@ -29865,14 +22947,14 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2B.303(LAB4)",
+        "room": "P.G.MEET",
         "weeks": [
           19
         ],
         "color": "teal"
       },
       {
-        "id": "t25cnot4-34",
+        "id": "t25cnot4-36",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
@@ -29894,7 +22976,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot4-35",
+        "id": "t25cnot4-37",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Hải Yến",
@@ -29920,7 +23002,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-36",
+        "id": "t25cnot4-38",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Hải Yến",
@@ -29947,7 +23029,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-37",
+        "id": "t25cnot4-39",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Ng Hữu Liêm Chánh",
@@ -29967,46 +23049,6 @@ const ALL_CLASSES_DATABASE = {
           18
         ],
         "color": "orange"
-      },
-      {
-        "id": "t25cnot4-38",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Hồ Văn Ngữ",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2X3.102(HAN)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot4-39",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Hồ Văn Ngữ",
-        "dow": 7,
-        "periods": [
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6,
-          7
-        ],
-        "color": "violet"
       },
       {
         "id": "t25cnot4-40",
@@ -30049,25 +23091,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot4-42",
-        "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
-        "teacher": "Ng Hữu Liêm Chánh",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "t25cnot4-43",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Hải Yến",
@@ -30082,7 +23105,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-44",
+        "id": "t25cnot4-43",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Võ Đình Tâm",
@@ -30100,7 +23123,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot4-45",
+        "id": "t25cnot4-44",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -30115,7 +23138,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot4-46",
+        "id": "t25cnot4-45",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Huỳnh Minh Tuấn",
@@ -30136,7 +23159,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot4-47",
+        "id": "t25cnot4-46",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Nguyễn Thanh Liêm",
@@ -30152,33 +23175,6 @@ const ALL_CLASSES_DATABASE = {
           18
         ],
         "color": "blue"
-      },
-      {
-        "id": "t25cnot4-48",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phùng Thị Nga",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "teal"
       }
     ]
   },
@@ -30314,46 +23310,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25cnot5-6",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Hồ Văn Ngữ",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2X3.102(HAN)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot5-7",
-        "code": "TC25CNOT12",
-        "subject": "Hàn cơ bản",
-        "teacher": "Hồ Văn Ngữ",
-        "dow": 2,
-        "periods": [
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6,
-          7
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25cnot5-8",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30387,7 +23343,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-9",
+        "id": "t25cnot5-7",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30421,7 +23377,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-10",
+        "id": "t25cnot5-8",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -30453,7 +23409,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot5-11",
+        "id": "t25cnot5-9",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Nguyễn Văn Long",
@@ -30480,7 +23436,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cnot5-12",
+        "id": "t25cnot5-10",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Nguyễn Văn Long",
@@ -30515,7 +23471,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cnot5-13",
+        "id": "t25cnot5-11",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -30541,7 +23497,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-14",
+        "id": "t25cnot5-12",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Phạm Thị Phương Thanh",
@@ -30564,7 +23520,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-15",
+        "id": "t25cnot5-13",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Phạm Thị Phương Thanh",
@@ -30581,7 +23537,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-16",
+        "id": "t25cnot5-14",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -30608,7 +23564,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-17",
+        "id": "t25cnot5-15",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Phạm Thị Phương Thanh",
@@ -30624,7 +23580,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-18",
+        "id": "t25cnot5-16",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -30656,7 +23612,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-19",
+        "id": "t25cnot5-17",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -30672,7 +23628,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-20",
+        "id": "t25cnot5-18",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Thu Hiền",
@@ -30688,7 +23644,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-21",
+        "id": "t25cnot5-19",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Thu Hiền",
@@ -30719,7 +23675,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-22",
+        "id": "t25cnot5-20",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Phạm Thị Phương Thanh",
@@ -30751,7 +23707,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-23",
+        "id": "t25cnot5-21",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Nguyễn Văn Long",
@@ -30770,7 +23726,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25cnot5-24",
+        "id": "t25cnot5-22",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -30792,7 +23748,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot5-25",
+        "id": "t25cnot5-23",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30819,7 +23775,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-26",
+        "id": "t25cnot5-24",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30837,7 +23793,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-27",
+        "id": "t25cnot5-25",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -30859,7 +23815,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot5-28",
+        "id": "t25cnot5-26",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30886,7 +23842,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-29",
+        "id": "t25cnot5-27",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30902,7 +23858,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-30",
+        "id": "t25cnot5-28",
         "code": "TC23CNOT24",
         "subject": "Thực hành nâng cao",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30920,7 +23876,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-31",
+        "id": "t25cnot5-29",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Hải Yến",
@@ -30946,7 +23902,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-32",
+        "id": "t25cnot5-30",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -30965,7 +23921,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-33",
+        "id": "t25cnot5-31",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Chu Minh Cẩn",
@@ -30986,7 +23942,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-34",
+        "id": "t25cnot5-32",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Hải Yến",
@@ -31013,7 +23969,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-35",
+        "id": "t25cnot5-33",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -31032,7 +23988,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-36",
+        "id": "t25cnot5-34",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Chu Minh Cẩn",
@@ -31064,7 +24020,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-37",
+        "id": "t25cnot5-35",
         "code": "TC25CNOT20",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -31083,7 +24039,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25cnot5-38",
+        "id": "t25cnot5-36",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Hải Yến",
@@ -31098,7 +24054,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-39",
+        "id": "t25cnot5-37",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -31113,7 +24069,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25cnot5-40",
+        "id": "t25cnot5-38",
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "teacher": "Cao Huỳnh Minh Hiếu",
@@ -31131,7 +24087,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25cnot5-41",
+        "id": "t25cnot5-39",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Phạm Thị Phương Thanh",
@@ -31157,7 +24113,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25cnot5-42",
+        "id": "t25cnot5-40",
         "code": "TC25CNOT22",
         "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
         "teacher": "Chu Minh Cẩn",
@@ -31294,7 +24250,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1A.210",
+        "room": "1A.405",
         "weeks": [
           1,
           2,
@@ -32771,12 +25727,13 @@ const ALL_CLASSES_DATABASE = {
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18
+          15,
+          16,
+          17
         ],
         "color": "emerald"
       },
@@ -32790,13 +25747,12 @@ const ALL_CLASSES_DATABASE = {
           6,
           7,
           8,
-          9
+          9,
+          10
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          17
+          18
         ],
         "color": "emerald"
       }
@@ -33071,22 +26027,6 @@ const ALL_CLASSES_DATABASE = {
         "dow": 3,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25ctck1-12",
-        "code": "TC25CTCK16",
-        "subject": "Chế tạo khung nhà công nghiệp",
-        "teacher": "Lê Đình Sen",
-        "dow": 3,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -33101,6 +26041,22 @@ const ALL_CLASSES_DATABASE = {
           15,
           16,
           17
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25ctck1-12",
+        "code": "TC25CTCK16",
+        "subject": "Chế tạo khung nhà công nghiệp",
+        "teacher": "Lê Đình Sen",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
         ],
         "color": "teal"
       },
@@ -33282,7 +26238,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "t25ctck1-19",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
-        "teacher": "Nguyễn Thị Lan Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 5,
         "periods": [
           11,
@@ -33477,7 +26433,7 @@ const ALL_CLASSES_DATABASE = {
         "id": "t25ctck1-27",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
-        "teacher": "Nguyễn Thị Lan Anh",
+        "teacher": "Trần Thị Kim Thảo",
         "dow": 7,
         "periods": [
           6,
@@ -33485,7 +26441,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.211",
+        "room": "1A.401(HT)",
         "weeks": [
           1,
           2,
@@ -33864,20 +26820,26 @@ const ALL_CLASSES_DATABASE = {
         "id": "t25ctck2-10",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
+        "teacher": "Phùng Thị Nga",
         "dow": 4,
         "periods": [
-          6,
-          7,
-          8,
-          9
+          11,
+          12,
+          13,
+          14
         ],
-        "room": "2B.402(LAB5)",
+        "room": "P.ONLINE",
         "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal"
       },
@@ -33915,6 +26877,24 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25ctck2-12",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25ctck2-13",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Thu Hiền",
@@ -33930,7 +26910,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25ctck2-13",
+        "id": "t25ctck2-14",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -33946,7 +26926,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25ctck2-14",
+        "id": "t25ctck2-15",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
@@ -33977,7 +26957,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25ctck2-15",
+        "id": "t25ctck2-16",
         "code": "TC25CTCK16",
         "subject": "Chế tạo khung nhà công nghiệp",
         "teacher": "Lê Đình Sen",
@@ -34010,23 +26990,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25ctck2-16",
-        "code": "TC25CTCK16",
-        "subject": "Chế tạo khung nhà công nghiệp",
-        "teacher": "Lê Đình Sen",
+        "id": "t25ctck2-17",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
         "dow": 5,
         "periods": [
-          11,
-          12
+          6,
+          7,
+          8,
+          9
         ],
-        "room": "P.ONLINE",
+        "room": "P.G.MEET",
         "weeks": [
-          18
+          19
         ],
         "color": "teal"
       },
       {
-        "id": "t25ctck2-17",
+        "id": "t25ctck2-18",
         "code": "TC25CTCK16",
         "subject": "Chế tạo khung nhà công nghiệp",
         "teacher": "Lê Đình Sen",
@@ -34051,10 +27033,26 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25ctck2-18",
+        "id": "t25ctck2-19",
+        "code": "TC25CTCK16",
+        "subject": "Chế tạo khung nhà công nghiệp",
+        "teacher": "Lê Đình Sen",
+        "dow": 5,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25ctck2-20",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
+        "teacher": "Phùng Thị Nga",
         "dow": 6,
         "periods": [
           1,
@@ -34062,7 +27060,25 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2B.203(LAB2)",
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25ctck2-21",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -34084,7 +27100,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25ctck2-19",
+        "id": "t25ctck2-22",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phùng Thị Nga",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25ctck2-23",
         "code": "TC25CTCK16",
         "subject": "Chế tạo khung nhà công nghiệp",
         "teacher": "Lê Đình Sen",
@@ -34114,34 +27148,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25ctck2-20",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thanh Bình",
-        "dow": 6,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25ctck2-21",
+        "id": "t25ctck2-24",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Võ Thị Thu Thảo",
@@ -34172,7 +27179,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25ctck2-22",
+        "id": "t25ctck2-25",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -34195,7 +27202,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25ctck2-23",
+        "id": "t25ctck2-26",
         "code": "TC25CTCK17",
         "subject": "Chế tạo, lắp đặt ống công nghệ",
         "teacher": "Nguyễn Công Tâm",
@@ -34218,7 +27225,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25ctck2-24",
+        "id": "t25ctck2-27",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -34235,7 +27242,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25ctck2-25",
+        "id": "t25ctck2-28",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -34251,7 +27258,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25ctck2-26",
+        "id": "t25ctck2-29",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị ái Nhi",
@@ -34277,7 +27284,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25ctck2-27",
+        "id": "t25ctck2-30",
         "code": "TC25CTCK13",
         "subject": "Gia công các chi tiết bằng tay",
         "teacher": "Nguyễn Ngọc Sáng",
@@ -34293,7 +27300,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25ctck2-28",
+        "id": "t25ctck2-31",
         "code": "TC25CTCK13",
         "subject": "Gia công các chi tiết bằng tay",
         "teacher": "Nguyễn Ngọc Sáng",
@@ -34328,6 +27335,54 @@ const ALL_CLASSES_DATABASE = {
     "schedule": [
       {
         "id": "t25dcn1-1",
+        "code": "T25VH02",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1A.211",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25dcn1-2",
+        "code": "T25VH02",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1A.211",
+        "weeks": [
+          18
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25dcn1-3",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -34343,7 +27398,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-2",
+        "id": "t25dcn1-4",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -34374,7 +27429,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-3",
+        "id": "t25dcn1-5",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -34385,7 +27440,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.309(LAB5)",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -34408,7 +27463,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25dcn1-4",
+        "id": "t25dcn1-6",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -34440,7 +27495,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-5",
+        "id": "t25dcn1-7",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -34456,7 +27511,54 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-6",
+        "id": "t25dcn1-8",
+        "code": "T25VH02",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
+        "dow": 3,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "1A.211",
+        "weeks": [
+          18
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25dcn1-9",
+        "code": "T25VH02",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Cẩm Tú",
+        "dow": 3,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "1A.211",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25dcn1-10",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -34488,7 +27590,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn1-7",
+        "id": "t25dcn1-11",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -34507,7 +27609,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn1-8",
+        "id": "t25dcn1-12",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -34529,7 +27631,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn1-9",
+        "id": "t25dcn1-13",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -34555,7 +27657,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-10",
+        "id": "t25dcn1-14",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -34572,7 +27674,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn1-11",
+        "id": "t25dcn1-15",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -34590,7 +27692,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn1-12",
+        "id": "t25dcn1-16",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -34615,7 +27717,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-13",
+        "id": "t25dcn1-17",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -34631,7 +27733,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn1-14",
+        "id": "t25dcn1-18",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -34642,55 +27744,16 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1A.309(LAB5)",
+        "room": "P.G.MEET",
         "weeks": [
-          15,
           16,
-          17
+          17,
+          18
         ],
         "color": "teal"
       },
       {
-        "id": "t25dcn1-15",
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "teacher": "Trần Quốc Anh",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          12
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "t25dcn1-16",
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "teacher": "Trần Quốc Anh",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X6.102(X.MĐ)",
-        "weeks": [
-          4,
-          5,
-          6
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "t25dcn1-17",
+        "id": "t25dcn1-19",
         "code": "TC25DCN15",
         "subject": "Máy điện 1",
         "teacher": "Trần Quốc Anh",
@@ -34712,44 +27775,11 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn1-18",
+        "id": "t25dcn1-20",
         "code": "TC25DCN15",
         "subject": "Máy điện 1",
         "teacher": "Trần Quốc Anh",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X6.102(X.MĐ)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "rose"
-      },
-      {
-        "id": "t25dcn1-19",
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "teacher": "Trần Quốc Anh",
-        "dow": 5,
+        "dow": 4,
         "periods": [
           6,
           7,
@@ -34758,59 +27788,131 @@ const ALL_CLASSES_DATABASE = {
         ],
         "room": "1X6.102(X.MĐ)",
         "weeks": [
-          1,
-          2,
-          3,
           4,
           5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          6
         ],
         "color": "rose"
-      },
-      {
-        "id": "t25dcn1-20",
-        "code": "TC25DCN16",
-        "subject": "Trang bị điện 1",
-        "teacher": "Hà Thị Thu Phương",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X7.203(X.TBĐ)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "color": "violet"
       },
       {
         "id": "t25dcn1-21",
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12
+        ],
+        "color": "rose"
+      },
+      {
+        "id": "t25dcn1-22",
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose"
+      },
+      {
+        "id": "t25dcn1-23",
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose"
+      },
+      {
+        "id": "t25dcn1-24",
+        "code": "TC25DCN16",
+        "subject": "Trang bị điện 1",
+        "teacher": "Hà Thị Thu Phương",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.203(X.TBĐ)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25dcn1-25",
         "code": "TC25DCN16",
         "subject": "Trang bị điện 1",
         "teacher": "Hà Thị Thu Phương",
@@ -34842,7 +27944,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-22",
+        "id": "t25dcn1-26",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -34875,7 +27977,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25dcn1-23",
+        "id": "t25dcn1-27",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -34900,7 +28002,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn1-24",
+        "id": "t25dcn1-28",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -34918,7 +28020,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-25",
+        "id": "t25dcn1-29",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Nguyễn Thị Bảo Anh",
@@ -34944,7 +28046,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn1-26",
+        "id": "t25dcn1-30",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Thị Lan Anh",
@@ -34970,34 +28072,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn1-27",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25dcn1-28",
+        "id": "t25dcn1-31",
         "code": "TC25DCN16",
         "subject": "Trang bị điện 1",
         "teacher": "Hà Thị Thu Phương",
@@ -35016,7 +28091,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn1-29",
+        "id": "t25dcn1-32",
         "code": "TC25DCN16",
         "subject": "Trang bị điện 1",
         "teacher": "Hà Thị Thu Phương",
@@ -35041,6 +28116,33 @@ const ALL_CLASSES_DATABASE = {
           15
         ],
         "color": "violet"
+      },
+      {
+        "id": "t25dcn1-33",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal"
       }
     ]
   },
@@ -35182,33 +28284,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25dcn2-6",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 2,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25dcn2-7",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -35239,7 +28314,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-8",
+        "id": "t25dcn2-7",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -35255,7 +28330,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-9",
+        "id": "t25dcn2-8",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -35287,7 +28362,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-10",
+        "id": "t25dcn2-9",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -35303,7 +28378,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-11",
+        "id": "t25dcn2-10",
         "code": "TC25DCN16",
         "subject": "Trang bị điện 1",
         "teacher": "Lê Văn Mai",
@@ -35336,7 +28411,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-12",
+        "id": "t25dcn2-11",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -35355,7 +28430,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn2-13",
+        "id": "t25dcn2-12",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -35390,7 +28465,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25dcn2-14",
+        "id": "t25dcn2-13",
         "code": "TC25DCN15",
         "subject": "Máy điện 1",
         "teacher": "Dương Ngọc Lan",
@@ -35424,7 +28499,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn2-15",
+        "id": "t25dcn2-14",
         "code": "TC25DCN16",
         "subject": "Trang bị điện 1",
         "teacher": "Lê Văn Mai",
@@ -35443,7 +28518,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-16",
+        "id": "t25dcn2-15",
         "code": "TC25DCN16",
         "subject": "Trang bị điện 1",
         "teacher": "Lê Văn Mai",
@@ -35468,7 +28543,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-17",
+        "id": "t25dcn2-16",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -35487,7 +28562,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25dcn2-18",
+        "id": "t25dcn2-17",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -35509,7 +28584,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn2-19",
+        "id": "t25dcn2-18",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -35535,7 +28610,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn2-20",
+        "id": "t25dcn2-19",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -35552,7 +28627,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn2-21",
+        "id": "t25dcn2-20",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -35570,7 +28645,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn2-22",
+        "id": "t25dcn2-21",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -35597,7 +28672,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25dcn2-23",
+        "id": "t25dcn2-22",
         "code": "TC25CDT08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -35613,7 +28688,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn2-24",
+        "id": "t25dcn2-23",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Văn Hậu",
@@ -35624,7 +28699,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1A.210",
+        "room": "1A.405",
         "weeks": [
           1,
           2,
@@ -35645,7 +28720,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25dcn2-25",
+        "id": "t25dcn2-24",
         "code": "TC25DCN15",
         "subject": "Máy điện 1",
         "teacher": "Dương Ngọc Lan",
@@ -35677,7 +28752,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25dcn2-26",
+        "id": "t25dcn2-25",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -35710,6 +28785,31 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
+        "id": "t25dcn2-26",
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "rose"
+      },
+      {
         "id": "t25dcn2-27",
         "code": "T25VH04",
         "subject": "Vật lý",
@@ -35736,9 +28836,9 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25dcn2-28",
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "teacher": "Dương Ngọc Lan",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
         "dow": 7,
         "periods": [
           11,
@@ -35755,9 +28855,11 @@ const ALL_CLASSES_DATABASE = {
           12,
           13,
           14,
-          15
+          15,
+          16,
+          17
         ],
-        "color": "rose"
+        "color": "teal"
       },
       {
         "id": "t25dcn2-29",
@@ -37472,6 +30574,24 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25han1-3",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25han1-4",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -37503,7 +30623,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-4",
+        "id": "t25han1-5",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -37519,7 +30639,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-5",
+        "id": "t25han1-6",
         "code": "TC25HAN14",
         "subject": "Hàn MIG/MAG",
         "teacher": "Trần Ngọc Thủy",
@@ -37546,7 +30666,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25han1-6",
+        "id": "t25han1-7",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25han1-8",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Trần Thị Kim Thảo",
@@ -37572,7 +30710,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-7",
+        "id": "t25han1-9",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -37603,7 +30741,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-8",
+        "id": "t25han1-10",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -37619,7 +30757,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-9",
+        "id": "t25han1-11",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -37651,7 +30789,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-10",
+        "id": "t25han1-12",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Huỳnh Trí Dũng",
@@ -37667,7 +30805,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-11",
+        "id": "t25han1-13",
         "code": "TC25HAN15",
         "subject": "Hàn TIG",
         "teacher": "Hồ Văn Ngữ",
@@ -37701,7 +30839,23 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-12",
+        "id": "t25han1-14",
+        "code": "TC25HAN13",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Trần Ngọc Thủy",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25han1-15",
         "code": "TC25HAN13",
         "subject": "Hàn hồ quang nâng cao",
         "teacher": "Trần Ngọc Thủy",
@@ -37726,23 +30880,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-13",
-        "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 3,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25han1-14",
+        "id": "t25han1-16",
         "code": "TC25HAN13",
         "subject": "Hàn hồ quang nâng cao",
         "teacher": "Trần Ngọc Thủy",
@@ -37777,7 +30915,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-15",
+        "id": "t25han1-17",
         "code": "TC25HAN13",
         "subject": "Hàn hồ quang nâng cao",
         "teacher": "Trần Ngọc Thủy",
@@ -37812,7 +30950,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-16",
+        "id": "t25han1-18",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -37845,7 +30983,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25han1-17",
+        "id": "t25han1-19",
         "code": "TC25HAN14",
         "subject": "Hàn MIG/MAG",
         "teacher": "Trần Ngọc Thủy",
@@ -37866,7 +31004,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25han1-18",
+        "id": "t25han1-20",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Trần Thị Kim Thảo",
@@ -37889,7 +31027,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-19",
+        "id": "t25han1-21",
         "code": "TC25HAN13",
         "subject": "Hàn hồ quang nâng cao",
         "teacher": "Trần Ngọc Thủy",
@@ -37916,7 +31054,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-20",
+        "id": "t25han1-22",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Trần Thị Kim Thảo",
@@ -37933,7 +31071,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-21",
+        "id": "t25han1-23",
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "teacher": "Trần Thị Kim Thảo",
@@ -37949,7 +31087,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-22",
+        "id": "t25han1-24",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -37975,7 +31113,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25han1-23",
+        "id": "t25han1-25",
         "code": "TC25HAN15",
         "subject": "Hàn TIG",
         "teacher": "Hồ Văn Ngữ",
@@ -37991,7 +31129,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-24",
+        "id": "t25han1-26",
         "code": "TC25HAN15",
         "subject": "Hàn TIG",
         "teacher": "Hồ Văn Ngữ",
@@ -38012,7 +31150,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-25",
+        "id": "t25han1-27",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -38030,7 +31168,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25han1-26",
+        "id": "t25han1-28",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -38057,7 +31195,34 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-27",
+        "id": "t25han1-29",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25han1-30",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Trần Thị Kim Thảo",
@@ -38089,10 +31254,10 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-28",
+        "id": "t25han1-31",
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
-        "teacher": "Trần Thị Phương Thảo",
+        "teacher": "Lê Viết Huấn",
         "dow": 6,
         "periods": [
           6,
@@ -38122,55 +31287,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25han1-29",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Trần Thị Phương Thảo",
-        "dow": 6,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25han1-30",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Trần Thị Phương Thảo",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X8.204.N",
-        "weeks": [
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25han1-31",
+        "id": "t25han1-32",
         "code": "T25VH04",
         "subject": "Vật lý",
         "teacher": "Bùi Quang Đạt",
@@ -38193,26 +31310,6 @@ const ALL_CLASSES_DATABASE = {
           10
         ],
         "color": "rose"
-      },
-      {
-        "id": "t25han1-32",
-        "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X3.HAN",
-        "weeks": [
-          12,
-          13,
-          14
-        ],
-        "color": "violet"
       },
       {
         "id": "t25han1-33",
@@ -38243,6 +31340,26 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25han1-34",
+        "code": "TC25HAN13",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Trần Ngọc Thủy",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          12,
+          13,
+          14
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25han1-35",
         "code": "TC25HAN15",
         "subject": "Hàn TIG",
         "teacher": "Hồ Văn Ngữ",
@@ -38260,7 +31377,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25han1-35",
+        "id": "t25han1-36",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -38283,7 +31400,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-36",
+        "id": "t25han1-37",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25han1-38",
         "code": "TC25HAN14",
         "subject": "Hàn MIG/MAG",
         "teacher": "Trần Ngọc Thủy",
@@ -38308,7 +31443,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "rose"
       },
       {
-        "id": "t25han1-37",
+        "id": "t25han1-39",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -38331,7 +31466,25 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25han1-38",
+        "id": "t25han1-40",
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          19
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25han1-41",
         "code": "TC25HAN14",
         "subject": "Hàn MIG/MAG",
         "teacher": "Trần Ngọc Thủy",
@@ -39480,15 +32633,9 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1X7.101(X.ĐL)",
+        "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
+          18
         ],
         "color": "rose"
       },
@@ -39504,9 +32651,15 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "1X7.101(X.ĐL)",
         "weeks": [
-          18
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
         ],
         "color": "rose"
       },
@@ -42285,36 +35438,15 @@ const ALL_CLASSES_DATABASE = {
     "schedule": [
       {
         "id": "t25log-1",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 2,
+        "code": "T25VH01",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
+        "dow": 3,
         "periods": [
           1,
-          2,
-          3,
-          4
+          2
         ],
-        "room": "2B.403(LAB6)",
-        "weeks": [
-          17,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25log-2",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2B.403(LAB6)",
+        "room": "2A.301",
         "weeks": [
           1,
           2,
@@ -42331,13 +35463,12 @@ const ALL_CLASSES_DATABASE = {
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
-        "color": "teal"
+        "color": "violet"
       },
       {
-        "id": "t25log-3",
+        "id": "t25log-2",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -42345,6 +35476,23 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           1,
           2
+        ],
+        "room": "2A.301",
+        "weeks": [
+          18
+        ],
+        "color": "violet"
+      },
+      {
+        "id": "t25log-3",
+        "code": "T25VH02",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
+        "dow": 3,
+        "periods": [
+          3,
+          4,
+          5
         ],
         "room": "2A.301",
         "weeks": [
@@ -42369,13 +35517,13 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25log-4",
-        "code": "T25VH01",
-        "subject": "Toán",
-        "teacher": "Trần Võ Văn Đạt",
+        "code": "T25VH02",
+        "subject": "Ngữ văn",
+        "teacher": "Nguyễn Thị Yến",
         "dow": 3,
         "periods": [
-          1,
-          2
+          3,
+          4
         ],
         "room": "2A.301",
         "weeks": [
@@ -42385,14 +35533,76 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25log-5",
+        "code": "CD25LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.401(HT)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25log-6",
+        "code": "CD25LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2A.401(HT)",
+        "weeks": [
+          16
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25log-7",
+        "code": "CD25LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "teacher": "Nguyễn Thị Hằng",
+        "dow": 3,
+        "periods": [
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "orange"
+      },
+      {
+        "id": "t25log-8",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
-        "dow": 3,
+        "dow": 4,
         "periods": [
-          3,
-          4,
-          5
+          1,
+          2
         ],
         "room": "2A.301",
         "weeks": [
@@ -42416,14 +35626,14 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25log-6",
+        "id": "t25log-9",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Thị Yến",
-        "dow": 3,
+        "dow": 4,
         "periods": [
-          3,
-          4
+          1,
+          2
         ],
         "room": "2A.301",
         "weeks": [
@@ -42432,77 +35642,15 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25log-7",
-        "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng",
-        "teacher": "Nguyễn Thị Hằng",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2C.101(LOG)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "t25log-8",
-        "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng",
-        "teacher": "Nguyễn Thị Hằng",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "2C.101(LOG)",
-        "weeks": [
-          16
-        ],
-        "color": "orange"
-      },
-      {
-        "id": "t25log-9",
-        "code": "CD25LGT16",
-        "subject": "Quản trị Chuỗi cung ứng",
-        "teacher": "Nguyễn Thị Hằng",
-        "dow": 3,
-        "periods": [
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "orange"
-      },
-      {
         "id": "t25log-10",
-        "code": "T25VH02",
-        "subject": "Ngữ văn",
-        "teacher": "Nguyễn Thị Yến",
+        "code": "T25VH01",
+        "subject": "Toán",
+        "teacher": "Trần Võ Văn Đạt",
         "dow": 4,
         "periods": [
-          1,
-          2
+          3,
+          4,
+          5
         ],
         "room": "2A.301",
         "weeks": [
@@ -42527,54 +35675,6 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25log-11",
-        "code": "T25VH02",
-        "subject": "Ngữ văn",
-        "teacher": "Nguyễn Thị Yến",
-        "dow": 4,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "2A.301",
-        "weeks": [
-          18
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25log-12",
-        "code": "T25VH01",
-        "subject": "Toán",
-        "teacher": "Trần Võ Văn Đạt",
-        "dow": 4,
-        "periods": [
-          3,
-          4,
-          5
-        ],
-        "room": "2A.301",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25log-13",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Võ Văn Đạt",
@@ -42590,7 +35690,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25log-14",
+        "id": "t25log-12",
         "code": "CD25LGT22",
         "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
         "teacher": "Đỗ Lê Minh Điền",
@@ -42601,7 +35701,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -42625,7 +35725,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-15",
+        "id": "t25log-13",
         "code": "SHL",
         "subject": "Sinh hoạt lớp",
         "teacher": "",
@@ -42633,7 +35733,7 @@ const ALL_CLASSES_DATABASE = {
         "periods": [
           10
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -42658,7 +35758,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "orange"
       },
       {
-        "id": "t25log-16",
+        "id": "t25log-14",
         "code": "CD25LGT08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Trương Lệ Minh",
@@ -42681,7 +35781,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25log-17",
+        "id": "t25log-15",
         "code": "CD25LGT23",
         "subject": "Bảo quản hàng hóa",
         "teacher": "Nguyễn Thị Hằng",
@@ -42692,7 +35792,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -42708,7 +35808,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25log-18",
+        "id": "t25log-16",
         "code": "CD25LGT08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Trương Lệ Minh",
@@ -42725,7 +35825,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25log-19",
+        "id": "t25log-17",
         "code": "CD25LGT23",
         "subject": "Bảo quản hàng hóa",
         "teacher": "Nguyễn Thị Hằng",
@@ -42736,14 +35836,14 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           12
         ],
         "color": "blue"
       },
       {
-        "id": "t25log-20",
+        "id": "t25log-18",
         "code": "CD25LGT08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Trương Lệ Minh",
@@ -42759,7 +35859,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25log-21",
+        "id": "t25log-19",
         "code": "CD25LGT23",
         "subject": "Bảo quản hàng hóa",
         "teacher": "Nguyễn Thị Hằng",
@@ -42774,7 +35874,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25log-22",
+        "id": "t25log-20",
         "code": "CD25LGT26",
         "subject": "Container đường biển",
         "teacher": "Đỗ Lê Minh Điền",
@@ -42785,7 +35885,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -42805,7 +35905,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-23",
+        "id": "t25log-21",
         "code": "CD25LGT26",
         "subject": "Container đường biển",
         "teacher": "Đỗ Lê Minh Điền",
@@ -42815,14 +35915,14 @@ const ALL_CLASSES_DATABASE = {
           7,
           8
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
         "color": "emerald"
       },
       {
-        "id": "t25log-24",
+        "id": "t25log-22",
         "code": "CD25LGT22",
         "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
         "teacher": "Đỗ Lê Minh Điền",
@@ -42831,14 +35931,14 @@ const ALL_CLASSES_DATABASE = {
           6,
           7
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           18
         ],
         "color": "emerald"
       },
       {
-        "id": "t25log-25",
+        "id": "t25log-23",
         "code": "CD25LGT22",
         "subject": "Vận tải đường bộ, đường sắt, đường thủy, hàng không.",
         "teacher": "Đỗ Lê Minh Điền",
@@ -42853,7 +35953,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-26",
+        "id": "t25log-24",
         "code": "CD25LGT26",
         "subject": "Container đường biển",
         "teacher": "Đỗ Lê Minh Điền",
@@ -42868,7 +35968,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-27",
+        "id": "t25log-25",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -42894,7 +35994,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-28",
+        "id": "t25log-26",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -42912,98 +36012,80 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-29",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
+        "id": "t25log-27",
+        "code": "T25VH03",
+        "subject": "Lịch sử",
+        "teacher": "Nguyễn Thị Hồng Ân",
         "dow": 6,
         "periods": [
+          4,
+          5
+        ],
+        "room": "2A.301",
+        "weeks": [
           1,
           2,
           3,
-          4
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
         ],
-        "room": "2B.302(LAB3)",
+        "color": "violet"
+      },
+      {
+        "id": "t25log-28",
+        "code": "CD25LGT19",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.401(HT)",
         "weeks": [
-          18
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25log-29",
+        "code": "CD25LGT19",
+        "subject": "Quản trị Kho hàng trong Logistics",
+        "teacher": "Bùi Thị Huệ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2A.401(HT)",
+        "weeks": [
+          16
         ],
         "color": "teal"
       },
       {
         "id": "t25log-30",
-        "code": "T25VH03",
-        "subject": "Lịch sử",
-        "teacher": "Nguyễn Thị Hồng Ân",
-        "dow": 6,
-        "periods": [
-          4,
-          5
-        ],
-        "room": "2A.301",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "violet"
-      },
-      {
-        "id": "t25log-31",
-        "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics",
-        "teacher": "Bùi Thị Huệ",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2C.101(LOG)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25log-32",
-        "code": "CD25LGT19",
-        "subject": "Quản trị Kho hàng trong Logistics",
-        "teacher": "Bùi Thị Huệ",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "2C.101(LOG)",
-        "weeks": [
-          16
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25log-33",
         "code": "CD25LGT19",
         "subject": "Quản trị Kho hàng trong Logistics",
         "teacher": "Bùi Thị Huệ",
@@ -43018,7 +36100,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25log-34",
+        "id": "t25log-31",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -43044,7 +36126,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25log-35",
+        "id": "t25log-32",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Nguyễn Thị Hồng Ân",
@@ -43062,7 +36144,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25log-36",
+        "id": "t25log-33",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -43087,7 +36169,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-37",
+        "id": "t25log-34",
         "code": "CD25LGT14",
         "subject": "Vận tải đa phương thức",
         "teacher": "Trần Thị Hoa",
@@ -43098,7 +36180,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           1,
           2,
@@ -43118,7 +36200,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25log-38",
+        "id": "t25log-35",
         "code": "CD25LGT14",
         "subject": "Vận tải đa phương thức",
         "teacher": "Trần Thị Hoa",
@@ -43128,14 +36210,14 @@ const ALL_CLASSES_DATABASE = {
           7,
           8
         ],
-        "room": "2C.101(LOG)",
+        "room": "2A.401(HT)",
         "weeks": [
           16
         ],
         "color": "emerald"
       },
       {
-        "id": "t25log-39",
+        "id": "t25log-36",
         "code": "CD25LGT14",
         "subject": "Vận tải đa phương thức",
         "teacher": "Trần Thị Hoa",
@@ -43148,33 +36230,6 @@ const ALL_CLASSES_DATABASE = {
           16
         ],
         "color": "emerald"
-      },
-      {
-        "id": "t25log-40",
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 8,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "color": "teal"
       }
     ]
   },
@@ -43253,6 +36308,33 @@ const ALL_CLASSES_DATABASE = {
       },
       {
         "id": "t25tkdh1-3",
+        "code": "TC25CNOT26",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lại Văn Duy",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "teal"
+      },
+      {
+        "id": "t25tkdh1-4",
         "code": "TC25TKDH17",
         "subject": "Hiệu ứng âm thanh với Adobe Audition",
         "teacher": "Trần Lệ Thủy",
@@ -43278,7 +36360,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25tkdh1-4",
+        "id": "t25tkdh1-5",
         "code": "TC25TKDH15",
         "subject": "Thực tế tại trung tâm in ấn quảng cáo",
         "teacher": "Trần Thị Thùy Dung",
@@ -43302,7 +36384,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "indigo"
       },
       {
-        "id": "t25tkdh1-5",
+        "id": "t25tkdh1-6",
         "code": "TC25TKDH17",
         "subject": "Hiệu ứng âm thanh với Adobe Audition",
         "teacher": "Trần Lệ Thủy",
@@ -43328,7 +36410,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "teal"
       },
       {
-        "id": "t25tkdh1-6",
+        "id": "t25tkdh1-7",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -43360,7 +36442,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-7",
+        "id": "t25tkdh1-8",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -43376,7 +36458,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-8",
+        "id": "t25tkdh1-9",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -43392,7 +36474,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-9",
+        "id": "t25tkdh1-10",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -43423,7 +36505,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-10",
+        "id": "t25tkdh1-11",
         "code": "TC25TKDH16",
         "subject": "Thiết kế hoạt hình Adobe Animation",
         "teacher": "Trần Phúc Minh Khoa",
@@ -43457,7 +36539,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25tkdh1-11",
+        "id": "t25tkdh1-12",
         "code": "TC25TKDH16",
         "subject": "Thiết kế hoạt hình Adobe Animation",
         "teacher": "Trần Phúc Minh Khoa",
@@ -43476,7 +36558,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25tkdh1-12",
+        "id": "t25tkdh1-13",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -43508,7 +36590,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-13",
+        "id": "t25tkdh1-14",
         "code": "T25VH02",
         "subject": "Ngữ văn",
         "teacher": "Nguyễn Hải Yến",
@@ -43524,7 +36606,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-14",
+        "id": "t25tkdh1-15",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -43540,7 +36622,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-15",
+        "id": "t25tkdh1-16",
         "code": "T25VH01",
         "subject": "Toán",
         "teacher": "Trần Thị Mỹ Hương",
@@ -43571,7 +36653,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-16",
+        "id": "t25tkdh1-17",
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "teacher": "Nguyễn Văn Hậu",
@@ -43597,7 +36679,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25tkdh1-17",
+        "id": "t25tkdh1-18",
         "code": "TC25TKDH08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -43620,7 +36702,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25tkdh1-18",
+        "id": "t25tkdh1-19",
         "code": "TC25TKDH08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -43637,7 +36719,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25tkdh1-19",
+        "id": "t25tkdh1-20",
         "code": "TC25TKDH08",
         "subject": "Tiếng Anh chuyên ngành",
         "teacher": "Nguyễn Thị Lan",
@@ -43653,7 +36735,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "blue"
       },
       {
-        "id": "t25tkdh1-20",
+        "id": "t25tkdh1-21",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Dương Tiến Thảo",
@@ -43678,7 +36760,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25tkdh1-21",
+        "id": "t25tkdh1-22",
         "code": "TC25TKDH16",
         "subject": "Thiết kế hoạt hình Adobe Animation",
         "teacher": "Trần Phúc Minh Khoa",
@@ -43694,7 +36776,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25tkdh1-22",
+        "id": "t25tkdh1-23",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Dương Tiến Thảo",
@@ -43712,7 +36794,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25tkdh1-23",
+        "id": "t25tkdh1-24",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -43738,7 +36820,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-24",
+        "id": "t25tkdh1-25",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -43756,7 +36838,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-25",
+        "id": "t25tkdh1-26",
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Dương Tiến Thảo",
@@ -43782,7 +36864,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "emerald"
       },
       {
-        "id": "t25tkdh1-26",
+        "id": "t25tkdh1-27",
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -43807,7 +36889,7 @@ const ALL_CLASSES_DATABASE = {
         "color": "violet"
       },
       {
-        "id": "t25tkdh1-27",
+        "id": "t25tkdh1-28",
         "code": "TC25CNOT26",
         "subject": "Tin học nâng cao",
         "teacher": "Lại Văn Duy",
@@ -43818,7 +36900,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           1,
           2,
@@ -43835,33 +36917,6 @@ const ALL_CLASSES_DATABASE = {
           14,
           15,
           16,
-          18
-        ],
-        "color": "teal"
-      },
-      {
-        "id": "t25tkdh1-28",
-        "code": "TC25CNOT26",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lại Văn Duy",
-        "dow": 7,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal"
@@ -43890,16 +36945,11 @@ const ALL_CLASSES_DATABASE = {
         "dow": 8,
         "periods": [
           1,
-          2,
-          3,
-          4
+          2
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8
+          9
         ],
         "color": "teal"
       },
@@ -43911,11 +36961,16 @@ const ALL_CLASSES_DATABASE = {
         "dow": 8,
         "periods": [
           1,
-          2
+          2,
+          3,
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          5,
+          6,
+          7,
+          8
         ],
         "color": "teal"
       },
@@ -43931,7 +36986,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           15,
           16
@@ -43950,7 +37005,7 @@ const ALL_CLASSES_DATABASE = {
           8,
           9
         ],
-        "room": "1X8.204.N",
+        "room": "P.G.MEET",
         "weeks": [
           15,
           16
@@ -44499,7 +37554,7 @@ const ALL_CLASSES_DATABASE = {
           3,
           4
         ],
-        "room": "2B.402(LAB5)",
+        "room": "2B.303(LAB4)",
         "weeks": [
           14,
           15,
