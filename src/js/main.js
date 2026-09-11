@@ -212,6 +212,103 @@ function bindEvents() {
   }, { passive: true });
 }
 
+let swipeToastTimeout = null;
+function showSwipeToast(message, direction) {
+  let toast = $('swipe-toast');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'swipe-toast';
+    toast.className = 'swipe-indicator-toast';
+    document.body.appendChild(toast);
+  }
+  const icon = direction === 'next' 
+    ? '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>'
+    : '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>';
+  
+  toast.innerHTML = direction === 'next' 
+    ? `<span>${escapeHtml(message)}</span> ${icon}`
+    : `${icon} <span>${escapeHtml(message)}</span>`;
+  
+  toast.classList.add('show');
+  if (swipeToastTimeout) clearTimeout(swipeToastTimeout);
+  swipeToastTimeout = setTimeout(() => {
+    if (toast) toast.classList.remove('show');
+  }, 850);
+}
+
+function initSwipeGestures() {
+  let startX = 0;
+  let startY = 0;
+  let startTime = 0;
+  let isTouching = false;
+
+  const appShell = document.querySelector('.app-shell') || document.body;
+
+  appShell.addEventListener('touchstart', (e) => {
+    if (e.touches.length !== 1) return;
+    const target = e.target;
+    // Don't trigger if interacting with form elements, buttons, modals, or picker
+    if (target.closest('select, input, textarea, button, .modal, .class-dropdown, .calendar-cell, .week-note-pill')) {
+      isTouching = false;
+      return;
+    }
+    startX = e.touches[0].clientX;
+    startY = e.touches[0].clientY;
+    startTime = Date.now();
+    isTouching = true;
+  }, { passive: true });
+
+  appShell.addEventListener('touchend', (e) => {
+    if (!isTouching || e.changedTouches.length !== 1) return;
+    isTouching = false;
+
+    const endX = e.changedTouches[0].clientX;
+    const endY = e.changedTouches[0].clientY;
+    const deltaX = endX - startX;
+    const deltaY = endY - startY;
+    const elapsed = Date.now() - startTime;
+
+    // Must be primarily horizontal gesture, fast enough (< 500ms), and distance >= 45px
+    if (elapsed < 500 && Math.abs(deltaX) >= 45 && Math.abs(deltaX) > Math.abs(deltaY) * 1.35) {
+      if (activeView === 'week') {
+        if (deltaX < 0) {
+          // Swipe Left -> Next Week
+          if (focusWeek < maxWeeks()) {
+            focusWeek = clampWeek(focusWeek + 1);
+            updateHeader();
+            renderWeek();
+            showSwipeToast(`Tuần ${focusWeek}`, 'next');
+          } else {
+            showSwipeToast(`Tuần ${focusWeek} (Tuần cuối)`, 'next');
+          }
+        } else {
+          // Swipe Right -> Previous Week
+          if (focusWeek > 1) {
+            focusWeek = clampWeek(focusWeek - 1);
+            updateHeader();
+            renderWeek();
+            showSwipeToast(`Tuần ${focusWeek}`, 'prev');
+          } else {
+            showSwipeToast(`Tuần 1 (Tuần đầu)`, 'prev');
+          }
+        }
+      } else if (activeView === 'month') {
+        if (deltaX < 0) {
+          // Swipe Left -> Next Month
+          focusMonth.setMonth(focusMonth.getMonth() + 1);
+          renderMonth();
+          showSwipeToast(`Tháng ${focusMonth.getMonth() + 1}/${focusMonth.getFullYear()}`, 'next');
+        } else {
+          // Swipe Right -> Prev Month
+          focusMonth.setMonth(focusMonth.getMonth() - 1);
+          renderMonth();
+          showSwipeToast(`Tháng ${focusMonth.getMonth() + 1}/${focusMonth.getFullYear()}`, 'prev');
+        }
+      }
+    }
+  }, { passive: true });
+}
+
 function init() {
   try {
     localStorage.removeItem('tkb-schedule-v4');
@@ -229,6 +326,7 @@ function init() {
   initClassPicker();
   bindEvents();
   initPdfUpload();
+  initSwipeGestures();
   updateHeader();
   updateClock();
   showView('week');
