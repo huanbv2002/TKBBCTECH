@@ -621,6 +621,10 @@
     align-items: stretch;
   }
 
+  .mvt-row.has-evening-cols {
+    grid-template-columns: 48px 1fr 1fr 1fr;
+  }
+
   .mvt-row:last-child {
     border-bottom: none;
   }
@@ -722,6 +726,30 @@
 
   .mvt-col-session:last-child {
     border-right: none;
+  }
+
+  .mvt-row.has-evening-cols .mvt-col-session {
+    padding: 4px 3px;
+    min-height: 54px;
+  }
+
+  .mvt-row.has-evening-cols .mvt-card {
+    padding: 4px 5px;
+    border-radius: 6px;
+  }
+
+  .mvt-row.has-evening-cols .mvt-card-title {
+    font-size: 10.5px;
+    line-height: 1.25;
+  }
+
+  .mvt-row.has-evening-cols .mvt-card-info {
+    font-size: 9px;
+    gap: 1px;
+  }
+
+  .mvt-row.has-evening-cols .mvt-card-teacher {
+    font-size: 9px;
   }
 
   .mvt-col-session.empty-session {

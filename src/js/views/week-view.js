@@ -234,8 +234,9 @@ function renderMobileAgendaFeed(events, isCurrentWeek, todayDate) {
 
   const morningEvents = dayEvents.filter((item) => item.session === 'morning');
   const afternoonEvents = dayEvents.filter((item) => item.session === 'afternoon');
+  const eveningEvents = dayEvents.filter((item) => item.session === 'evening');
 
-  if (morningEvents.length === 0 && afternoonEvents.length === 0 && !holiday) {
+  if (morningEvents.length === 0 && afternoonEvents.length === 0 && eveningEvents.length === 0 && !holiday) {
     html += `
       <div class="agenda-empty-state">
         <div class="agenda-empty-icon">
@@ -266,6 +267,18 @@ function renderMobileAgendaFeed(events, isCurrentWeek, todayDate) {
             <span>Buổi Chiều (12:55 – 17:00)</span>
           </div>
           ${afternoonEvents.map((item) => renderAgendaCard(item, holiday)).join('')}
+        </div>
+      `;
+    }
+
+    if (eveningEvents.length > 0) {
+      html += `
+        <div class="agenda-session-section">
+          <div class="agenda-session-label">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+            <span>Buổi Tối (17:55 – 21:00)</span>
+          </div>
+          ${eveningEvents.map((item) => renderAgendaCard(item, holiday)).join('')}
         </div>
       `;
     }
@@ -320,6 +333,8 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
   const mvtContainer = $('mobile-transposed-wrap');
   if (!mvtContainer) return;
 
+  const hasEvening = events.some((item) => item.session === 'evening');
+
   let html = '';
 
   if (weekHolidays.length > 0) {
@@ -333,11 +348,12 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
   }
 
   html += `
-    <div class="mvt-table">
-      <div class="mvt-row mvt-header-row">
+    <div class="mvt-table ${hasEvening ? 'has-evening-cols' : ''}">
+      <div class="mvt-row mvt-header-row ${hasEvening ? 'has-evening-cols' : ''}">
         <div class="mvt-col-day">Thứ</div>
         <div class="mvt-col-session">Sáng <small>07:25</small></div>
         <div class="mvt-col-session">Chiều <small>12:55</small></div>
+        ${hasEvening ? '<div class="mvt-col-session">Tối <small>17:55</small></div>' : ''}
       </div>
   `;
 
@@ -349,10 +365,12 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
     const dayNotes = notes[dateKey] || [];
     const morningEvents = events.filter((item) => item.dow === dow && item.session === 'morning');
     const afternoonEvents = events.filter((item) => item.dow === dow && item.session === 'afternoon');
-    const hasEvents = morningEvents.length > 0 || afternoonEvents.length > 0;
+    const eveningEvents = events.filter((item) => item.dow === dow && item.session === 'evening');
+    const hasEvents = morningEvents.length > 0 || afternoonEvents.length > 0 || eveningEvents.length > 0;
 
     const rowClass = [
       'mvt-row',
+      hasEvening ? 'has-evening-cols' : '',
       isToday ? 'is-today' : '',
       holiday ? 'is-holiday' : '',
       !hasEvents && !holiday ? 'is-empty-day' : ''
@@ -369,7 +387,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
         </div>
 
         ${holiday ? `
-          <div class="mvt-col-holiday-span" onclick="openNoteModal('${dateKey}')">
+          <div class="mvt-col-holiday-span" style="${hasEvening ? 'grid-column: 2 / span 3;' : 'grid-column: 2 / span 2;'}" onclick="openNoteModal('${dateKey}')">
             <strong>Nghỉ Lễ / Tết</strong>
             <span>${escapeHtml(holiday.name)}</span>
           </div>
@@ -399,6 +417,21 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
               </div>
             `).join('') : '<span class="mvt-empty-hint">—</span>'}
           </div>
+
+          ${hasEvening ? `
+            <div class="mvt-col-session ${eveningEvents.length ? 'has-classes' : 'empty-session'}" onclick="openNoteModal('${dateKey}')">
+              ${eveningEvents.length ? eveningEvents.map((item) => `
+                <div class="mvt-card ${item.color || 'blue'}">
+                  <strong class="mvt-card-title">${escapeHtml(item.subject)}</strong>
+                  <div class="mvt-card-info">
+                    <span>${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))})</span>
+                    <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
+                  </div>
+                  ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}
+                </div>
+              `).join('') : '<span class="mvt-empty-hint">—</span>'}
+            </div>
+          ` : ''}
         `}
       </div>
     `;
