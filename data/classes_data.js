@@ -1,6 +1,6361 @@
 /* Cơ sở dữ liệu TKB toàn trường - Trường CĐ Kỹ Thuật Công Nghệ BR-VT */
 const ALL_CLASSES_DATABASE = 
 {
+  "CD24CBMA1": {
+    "code": "CD24CBMA1",
+    "name": "Lớp CD24CBMA1",
+    "major": "Chế biến món ăn Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CBMA1)",
+    "dept": "Du lịch",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-1"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-2"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-3"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-4"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "DN",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cbma1-5"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-6"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-7"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-8"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-9"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-10"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-11"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-12"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-13"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-14"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-15"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-16"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-17"
+      },
+      {
+        "code": "CD24CBMA33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cbma1-18"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.102(X.B)",
+        "weeks": [
+          1
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-19"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-20"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-21"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-22"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-23"
+      },
+      {
+        "code": "CD24CBMA34",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Thị Thúy",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          1
+        ],
+        "color": "orange",
+        "id": "cd24cbma1-24"
+      }
+    ]
+  },
+  "CD24CDT1": {
+    "code": "CD24CDT1",
+    "name": "Lớp CD24CDT1",
+    "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CDT1)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-1"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-2"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-3"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-4"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-5"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-6"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-7"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-8"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-9"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt1-10"
+      }
+    ]
+  },
+  "CD24CDT2": {
+    "code": "CD24CDT2",
+    "name": "Lớp CD24CDT2",
+    "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CDT2)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-1"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-2"
+      },
+      {
+        "code": "CD24CDT23",
+        "subject": "Bảo trì hệ thống truyền động cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "emerald",
+        "id": "cd24cdt2-3"
+      },
+      {
+        "code": "CD24CDT32",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Trường Lam",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd24cdt2-4"
+      },
+      {
+        "code": "CD24CDT23",
+        "subject": "Bảo trì hệ thống truyền động cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "emerald",
+        "id": "cd24cdt2-5"
+      },
+      {
+        "code": "CD24CDT32",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Trường Lam",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd24cdt2-6"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-7"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-8"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-9"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-10"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-11"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-12"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-13"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-14"
+      },
+      {
+        "code": "CD24CDT31",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cdt2-15"
+      },
+      {
+        "code": "CD24CDT23",
+        "subject": "Bảo trì hệ thống truyền động cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          8
+        ],
+        "color": "emerald",
+        "id": "cd24cdt2-16"
+      },
+      {
+        "code": "CD24CDT23",
+        "subject": "Bảo trì hệ thống truyền động cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          7
+        ],
+        "color": "emerald",
+        "id": "cd24cdt2-17"
+      },
+      {
+        "code": "CD24CDT32",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "cd24cdt2-18"
+      },
+      {
+        "code": "CD24CDT32",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "cd24cdt2-19"
+      },
+      {
+        "code": "CD24CDT23",
+        "subject": "Bảo trì hệ thống truyền động cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          7
+        ],
+        "color": "emerald",
+        "id": "cd24cdt2-20"
+      },
+      {
+        "code": "CD24CDT32",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "cd24cdt2-21"
+      }
+    ]
+  },
+  "CD24CGKL1": {
+    "code": "CD24CGKL1",
+    "name": "Lớp CD24CGKL1",
+    "major": "Cắt gọt kim loại Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CGKL1)",
+    "dept": "Cơ khí chế tạo",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-1"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-2"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-3"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-4"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-5"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-6"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-7"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-8"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-9"
+      },
+      {
+        "code": "CD24CGKL33",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24cgkl1-10"
+      }
+    ]
+  },
+  "CD24CNOT1": {
+    "code": "CD24CNOT1",
+    "name": "Lớp CD24CNOT1",
+    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNOT1)",
+    "dept": "Cơ khí",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-1"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-2"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-3"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-4"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-5"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-6"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-7"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-8"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-9"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot1-10"
+      }
+    ]
+  },
+  "CD24CNOT3": {
+    "code": "CD24CNOT3",
+    "name": "Lớp CD24CNOT3",
+    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNOT3)",
+    "dept": "Cơ khí",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-1"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-2"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-3"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-4"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-5"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-6"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-7"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-8"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-9"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot3-10"
+      }
+    ]
+  },
+  "CD24CNOT4": {
+    "code": "CD24CNOT4",
+    "name": "Lớp CD24CNOT4",
+    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNOT4)",
+    "dept": "Cơ khí",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-1"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-2"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-3"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-4"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-5"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-6"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-7"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-8"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-9"
+      },
+      {
+        "code": "CD24CNOT32",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cnot4-10"
+      }
+    ]
+  },
+  "CD24CNTT1": {
+    "code": "CD24CNTT1",
+    "name": "Lớp CD24CNTT1",
+    "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNTT1)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-1"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-2"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-3"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-4"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-5"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-6"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-7"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-8"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-9"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-10"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-11"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-12"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-13"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-14"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-15"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-16"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-17"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-18"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-19"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-20"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-21"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-22"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-23"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt1-24"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-25"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt1-26"
+      }
+    ]
+  },
+  "CD24CNTT2": {
+    "code": "CD24CNTT2",
+    "name": "Lớp CD24CNTT2",
+    "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CNTT2)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-1"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-2"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-3"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-4"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-5"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-6"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-7"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-8"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-9"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-10"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-11"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-12"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-13"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-14"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-15"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-16"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-17"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-18"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-19"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1,
+          2
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-20"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-21"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-22"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          1
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-23"
+      },
+      {
+        "code": "CD24CNTT25",
+        "subject": "Đồ án tốt nghiệp",
+        "teacher": "Trịnh Quang Quất",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3
+        ],
+        "color": "orange",
+        "id": "cd24cntt2-24"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-25"
+      },
+      {
+        "code": "CD24CNTT26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24cntt2-26"
+      }
+    ]
+  },
+  "CD24CTCK1": {
+    "code": "CD24CTCK1",
+    "name": "Lớp CD24CTCK1",
+    "major": "Chế tạo Cơ khí Hệ: Cao đẳng - Khóa học 2024-2027 (CD24CTCK1)",
+    "dept": "Cơ khí",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-1"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-2"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-3"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-4"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-5"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-6"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-7"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-8"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-9"
+      },
+      {
+        "code": "CD24CTCK28",
+        "subject": "Thực tập sản xuất",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "cd24ctck1-10"
+      }
+    ]
+  },
+  "CD24DCN1": {
+    "code": "CD24DCN1",
+    "name": "Lớp CD24DCN1",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2024-2027 (CD24DCN1)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-1"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-2"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-3"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-4"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-5"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-6"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-7"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-8"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-9"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn1-10"
+      }
+    ]
+  },
+  "CD24DCN2": {
+    "code": "CD24DCN2",
+    "name": "Lớp CD24DCN2",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2024-2027 (CD24DCN2)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-1"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-2"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-3"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-4"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-5"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-6"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-7"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-8"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-9"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn2-10"
+      }
+    ]
+  },
+  "CD24DCN3": {
+    "code": "CD24DCN3",
+    "name": "Lớp CD24DCN3",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2024-2027 (CD24DCN3)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-1"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-2"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-3"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-4"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-5"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-6"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-7"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-8"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-9"
+      },
+      {
+        "code": "CD24DCN30",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24dcn3-10"
+      }
+    ]
+  },
+  "CD24KTML1": {
+    "code": "CD24KTML1",
+    "name": "Lớp CD24KTML1",
+    "major": "KTML&ĐHKK Hệ: Cao đẳng - Khóa học 2024-2027 (CD24KTML1)",
+    "dept": "Điện lạnh",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-1"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-2"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-3"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-4"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-5"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-6"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-7"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-8"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-9"
+      },
+      {
+        "code": "CD24KTML28",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24ktml1-10"
+      }
+    ]
+  },
+  "CD24TKDH1": {
+    "code": "CD24TKDH1",
+    "name": "Lớp CD24TKDH1",
+    "major": "Thiết kế đồ họa Hệ: Cao đẳng - Khóa học 2024-2027 (CD24TKDH1)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-1"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-2"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-3"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-4"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-5"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-6"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-7"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-8"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-9"
+      },
+      {
+        "code": "CD24TKDH26",
+        "subject": "Thực tập tốt nghiệp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd24tkdh1-10"
+      }
+    ]
+  },
   "CD25CBMA": {
     "code": "CD25CBMA",
     "name": "Lớp CD25CBMA",
@@ -90,22 +6445,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 2,
         "periods": [
           6,
-          7
-        ],
-        "room": "DN",
-        "weeks": [
-          16
-        ],
-        "color": "orange",
-        "id": "cd25cbma-5"
-      },
-      {
-        "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
-        "teacher": "Trần Thị Thúy",
-        "dow": 2,
-        "periods": [
-          6,
           7,
           8,
           9
@@ -118,6 +6457,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "orange",
+        "id": "cd25cbma-5"
+      },
+      {
+        "code": "CD25CBMA22",
+        "subject": "Chế biến món ăn á",
+        "teacher": "Trần Thị Thúy",
+        "dow": 2,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "DN",
+        "weeks": [
+          16
         ],
         "color": "orange",
         "id": "cd25cbma-6"
@@ -190,6 +6545,23 @@ const ALL_CLASSES_DATABASE =
         "periods": [
           6,
           7,
+          8
+        ],
+        "room": "DN",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "cd25cbma-10"
+      },
+      {
+        "code": "CD25CBMA23",
+        "subject": "Chế biến món ăn Âu",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
           8,
           9
         ],
@@ -206,23 +6578,6 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14
-        ],
-        "color": "teal",
-        "id": "cd25cbma-10"
-      },
-      {
-        "code": "CD25CBMA23",
-        "subject": "Chế biến món ăn Âu",
-        "teacher": "Trần Ngọc Minh",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "DN",
-        "weeks": [
-          15
         ],
         "color": "teal",
         "id": "cd25cbma-11"
@@ -509,17 +6864,12 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9
+          9,
+          10
         ],
         "room": "DN",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          16
         ],
         "color": "emerald",
         "id": "cd25cbma-26"
@@ -533,12 +6883,17 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "room": "DN",
         "weeks": [
-          16
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
         ],
         "color": "emerald",
         "id": "cd25cbma-27"
@@ -808,26 +7163,6 @@ const ALL_CLASSES_DATABASE =
     "maxWeeks": 19,
     "schedule": [
       {
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trần Thị Kim Thảo",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1A.108",
-        "weeks": [
-          16,
-          17,
-          18
-        ],
-        "color": "orange",
-        "id": "cd25cdt1-1"
-      },
-      {
         "code": "TC25CDT20",
         "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
         "teacher": "Nguyễn Văn Hoàng",
@@ -859,23 +7194,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "cd25cdt1-2"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lê Viết Huấn",
-        "dow": 2,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25cdt1-3"
+        "id": "cd25cdt1-1"
       },
       {
         "code": "CD25CDT29",
@@ -899,7 +7218,23 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "emerald",
-        "id": "cd25cdt1-4"
+        "id": "cd25cdt1-2"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 2,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "cd25cdt1-3"
       },
       {
         "code": "CD25MC01",
@@ -933,7 +7268,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25cdt1-5"
+        "id": "cd25cdt1-4"
       },
       {
         "code": "TC25CDT16",
@@ -964,7 +7299,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "blue",
-        "id": "cd25cdt1-6"
+        "id": "cd25cdt1-5"
       },
       {
         "code": "TC25CDT16",
@@ -980,7 +7315,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "cd25cdt1-7"
+        "id": "cd25cdt1-6"
       },
       {
         "code": "TC25CDT16",
@@ -996,7 +7331,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "cd25cdt1-8"
+        "id": "cd25cdt1-7"
       },
       {
         "code": "TC25CDT20",
@@ -1014,7 +7349,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "cd25cdt1-9"
+        "id": "cd25cdt1-8"
       },
       {
         "code": "CD25CDT25",
@@ -1040,7 +7375,7 @@ const ALL_CLASSES_DATABASE =
           9
         ],
         "color": "rose",
-        "id": "cd25cdt1-10"
+        "id": "cd25cdt1-9"
       },
       {
         "code": "CD25CDT24",
@@ -1065,7 +7400,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "blue",
-        "id": "cd25cdt1-11"
+        "id": "cd25cdt1-10"
       },
       {
         "code": "CD25CDT24",
@@ -1099,7 +7434,7 @@ const ALL_CLASSES_DATABASE =
           17
         ],
         "color": "blue",
-        "id": "cd25cdt1-12"
+        "id": "cd25cdt1-11"
       },
       {
         "code": "TC25CDT20",
@@ -1117,7 +7452,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "cd25cdt1-13"
+        "id": "cd25cdt1-12"
       },
       {
         "code": "TC25CDT21",
@@ -1149,7 +7484,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25cdt1-14"
+        "id": "cd25cdt1-13"
       },
       {
         "code": "SHL",
@@ -1182,23 +7517,7 @@ const ALL_CLASSES_DATABASE =
           19
         ],
         "color": "rose",
-        "id": "cd25cdt1-15"
-      },
-      {
-        "code": "CD25CDT24",
-        "subject": "Gia công trên máy CNC",
-        "teacher": "Nguyễn Quang Thu",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "blue",
-        "id": "cd25cdt1-16"
+        "id": "cd25cdt1-14"
       },
       {
         "code": "CD25CDT24",
@@ -1227,7 +7546,23 @@ const ALL_CLASSES_DATABASE =
           17
         ],
         "color": "blue",
-        "id": "cd25cdt1-17"
+        "id": "cd25cdt1-15"
+      },
+      {
+        "code": "CD25CDT24",
+        "subject": "Gia công trên máy CNC",
+        "teacher": "Nguyễn Quang Thu",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "cd25cdt1-16"
       },
       {
         "code": "CD25CDT29",
@@ -1259,7 +7594,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "cd25cdt1-18"
+        "id": "cd25cdt1-17"
       },
       {
         "code": "TC25CDT21",
@@ -1281,7 +7616,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25cdt1-19"
+        "id": "cd25cdt1-18"
       },
       {
         "code": "TC25CDT20",
@@ -1301,6 +7636,26 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "emerald",
+        "id": "cd25cdt1-19"
+      },
+      {
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.211",
+        "weeks": [
+          6,
+          7,
+          8
+        ],
+        "color": "orange",
         "id": "cd25cdt1-20"
       },
       {
@@ -2075,24 +8430,6 @@ const ALL_CLASSES_DATABASE =
         "id": "cd25cgkl-2"
       },
       {
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trần Thị Kim Thảo",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.210",
-        "weeks": [
-          19
-        ],
-        "color": "orange",
-        "id": "cd25cgkl-3"
-      },
-      {
         "code": "CD25CGKL27",
         "subject": "Gia công trên máy phay 2",
         "teacher": "Nguyễn Chí Thức",
@@ -2105,7 +8442,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "cd25cgkl-4"
+        "id": "cd25cgkl-3"
       },
       {
         "code": "CD25CGKL20",
@@ -2139,6 +8476,24 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "teal",
+        "id": "cd25cgkl-4"
+      },
+      {
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.210",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
         "id": "cd25cgkl-5"
       },
       {
@@ -2684,11 +9039,15 @@ const ALL_CLASSES_DATABASE =
         "dow": 7,
         "periods": [
           6,
-          7
+          7,
+          8,
+          9
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16
+          13,
+          14,
+          15
         ],
         "color": "orange",
         "id": "cd25cgkl-30"
@@ -2700,15 +9059,11 @@ const ALL_CLASSES_DATABASE =
         "dow": 7,
         "periods": [
           6,
-          7,
-          8,
-          9
+          7
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15
+          16
         ],
         "color": "orange",
         "id": "cd25cgkl-31"
@@ -3542,24 +9897,6 @@ const ALL_CLASSES_DATABASE =
         "id": "cd25cnot2-1"
       },
       {
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trần Thị Kim Thảo",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.210",
-        "weeks": [
-          19
-        ],
-        "color": "orange",
-        "id": "cd25cnot2-2"
-      },
-      {
         "code": "CD25CNOT21",
         "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
         "teacher": "Lê Hồng Bích",
@@ -3583,7 +9920,7 @@ const ALL_CLASSES_DATABASE =
           9
         ],
         "color": "teal",
-        "id": "cd25cnot2-3"
+        "id": "cd25cnot2-2"
       },
       {
         "code": "CD25CNOT21",
@@ -3602,6 +9939,24 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "teal",
+        "id": "cd25cnot2-3"
+      },
+      {
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.210",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
         "id": "cd25cnot2-4"
       },
       {
@@ -4692,22 +11047,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 5,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25cnot3-17"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 5,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -4721,6 +11060,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25cnot3-17"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25cnot3-18"
@@ -5434,22 +11789,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 5,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25cnot4-17"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Vũ Thị Tho",
-        "dow": 5,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -5463,6 +11802,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25cnot4-17"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25cnot4-18"
@@ -6054,13 +12409,11 @@ const ALL_CLASSES_DATABASE =
         "periods": [
           1,
           2,
-          3,
-          4
+          3
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15
+          16
         ],
         "color": "teal",
         "id": "cd25cntt1-12"
@@ -6073,14 +12426,32 @@ const ALL_CLASSES_DATABASE =
         "periods": [
           1,
           2,
-          3
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14,
+          15
+        ],
+        "color": "teal",
+        "id": "cd25cntt1-13"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
+        "dow": 8,
+        "periods": [
+          6,
+          7
         ],
         "room": "P.ONLINE",
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "cd25cntt1-13"
+        "color": "emerald",
+        "id": "cd25cntt1-14"
       },
       {
         "code": "CD25CDT29",
@@ -6102,22 +12473,6 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
-        ],
-        "color": "emerald",
-        "id": "cd25cntt1-14"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thị Hải Hà",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "emerald",
         "id": "cd25cntt1-15"
@@ -6463,13 +12818,11 @@ const ALL_CLASSES_DATABASE =
         "periods": [
           1,
           2,
-          3,
-          4
+          3
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15
+          16
         ],
         "color": "teal",
         "id": "cd25cntt2-12"
@@ -6482,14 +12835,32 @@ const ALL_CLASSES_DATABASE =
         "periods": [
           1,
           2,
-          3
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14,
+          15
+        ],
+        "color": "teal",
+        "id": "cd25cntt2-13"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Nguyễn Thị Hải Hà",
+        "dow": 8,
+        "periods": [
+          6,
+          7
         ],
         "room": "P.ONLINE",
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "cd25cntt2-13"
+        "color": "emerald",
+        "id": "cd25cntt2-14"
       },
       {
         "code": "CD25CDT29",
@@ -6511,22 +12882,6 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
-        ],
-        "color": "emerald",
-        "id": "cd25cntt2-14"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Nguyễn Thị Hải Hà",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "emerald",
         "id": "cd25cntt2-15"
@@ -6775,22 +13130,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 4,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25ctck1-9"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 4,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -6804,6 +13143,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25ctck1-9"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 4,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25ctck1-10"
@@ -7700,22 +14055,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 8,
         "periods": [
           6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25ctck2-23"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 8,
-        "periods": [
-          6,
           7,
           8,
           9
@@ -7729,6 +14068,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25ctck2-23"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25ctck2-24"
@@ -7774,26 +14129,6 @@ const ALL_CLASSES_DATABASE =
         "code": "CD25MC01",
         "subject": "Tiếng Anh",
         "teacher": "Trần Thị Kim Thảo",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1A.108",
-        "weeks": [
-          16,
-          17,
-          18
-        ],
-        "color": "orange",
-        "id": "cd25dcn1-1"
-      },
-      {
-        "code": "CD25MC01",
-        "subject": "Tiếng Anh",
-        "teacher": "Trần Thị Kim Thảo",
         "dow": 3,
         "periods": [
           1,
@@ -7822,7 +14157,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25dcn1-2"
+        "id": "cd25dcn1-1"
       },
       {
         "code": "CD25DCN18",
@@ -7853,7 +14188,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "teal",
-        "id": "cd25dcn1-3"
+        "id": "cd25dcn1-2"
       },
       {
         "code": "CD25DCN18",
@@ -7869,7 +14204,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "teal",
-        "id": "cd25dcn1-4"
+        "id": "cd25dcn1-3"
       },
       {
         "code": "CD25DCN18",
@@ -7885,7 +14220,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "teal",
-        "id": "cd25dcn1-5"
+        "id": "cd25dcn1-4"
       },
       {
         "code": "CD25DCN17",
@@ -7920,7 +14255,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25dcn1-6"
+        "id": "cd25dcn1-5"
       },
       {
         "code": "CD25DCN20",
@@ -7951,7 +14286,7 @@ const ALL_CLASSES_DATABASE =
           14
         ],
         "color": "blue",
-        "id": "cd25dcn1-7"
+        "id": "cd25dcn1-6"
       },
       {
         "code": "CD25DCN20",
@@ -7967,7 +14302,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "blue",
-        "id": "cd25dcn1-8"
+        "id": "cd25dcn1-7"
       },
       {
         "code": "CD25DCN17",
@@ -7987,7 +14322,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25dcn1-9"
+        "id": "cd25dcn1-8"
       },
       {
         "code": "CD25DCN20",
@@ -8003,7 +14338,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "blue",
-        "id": "cd25dcn1-10"
+        "id": "cd25dcn1-9"
       },
       {
         "code": "CD25DCN19",
@@ -8030,7 +14365,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "orange",
-        "id": "cd25dcn1-11"
+        "id": "cd25dcn1-10"
       },
       {
         "code": "CD25DCN17",
@@ -8048,7 +14383,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25dcn1-12"
+        "id": "cd25dcn1-11"
       },
       {
         "code": "CD25DCN19",
@@ -8065,7 +14400,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "cd25dcn1-13"
+        "id": "cd25dcn1-12"
       },
       {
         "code": "CD25DCN19",
@@ -8081,7 +14416,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "cd25dcn1-14"
+        "id": "cd25dcn1-13"
       },
       {
         "code": "CD25DCN21",
@@ -8112,7 +14447,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "blue",
-        "id": "cd25dcn1-15"
+        "id": "cd25dcn1-14"
       },
       {
         "code": "CD25DCN21",
@@ -8128,7 +14463,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "cd25dcn1-16"
+        "id": "cd25dcn1-15"
       },
       {
         "code": "CD25DCN17",
@@ -8144,7 +14479,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "cd25dcn1-17"
+        "id": "cd25dcn1-16"
       },
       {
         "code": "CD25DCN21",
@@ -8160,7 +14495,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "cd25dcn1-18"
+        "id": "cd25dcn1-17"
       },
       {
         "code": "CD25DCN26",
@@ -8187,7 +14522,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "rose",
-        "id": "cd25dcn1-19"
+        "id": "cd25dcn1-18"
       },
       {
         "code": "CD25DCN26",
@@ -8204,7 +14539,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "rose",
-        "id": "cd25dcn1-20"
+        "id": "cd25dcn1-19"
       },
       {
         "code": "CD25DCN26",
@@ -8220,6 +14555,26 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "rose",
+        "id": "cd25dcn1-20"
+      },
+      {
+        "code": "CD25MC01",
+        "subject": "Tiếng Anh",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.211",
+        "weeks": [
+          6,
+          7,
+          8
+        ],
+        "color": "orange",
         "id": "cd25dcn1-21"
       },
       {
@@ -9075,6 +15430,22 @@ const ALL_CLASSES_DATABASE =
         "dow": 3,
         "periods": [
           11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "cd25dcn3-8"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 3,
+        "periods": [
+          11,
           12,
           13,
           14
@@ -9088,22 +15459,6 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
-        ],
-        "color": "emerald",
-        "id": "cd25dcn3-8"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 3,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "emerald",
         "id": "cd25dcn3-9"
@@ -9348,11 +15703,16 @@ const ALL_CLASSES_DATABASE =
         "dow": 6,
         "periods": [
           6,
-          7
+          7,
+          8,
+          9
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          18
+          13,
+          14,
+          15,
+          16
         ],
         "color": "orange",
         "id": "cd25dcn3-21"
@@ -9364,16 +15724,11 @@ const ALL_CLASSES_DATABASE =
         "dow": 6,
         "periods": [
           6,
-          7,
-          8,
-          9
+          7
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          13,
-          14,
-          15,
-          16
+          18
         ],
         "color": "orange",
         "id": "cd25dcn3-22"
@@ -9539,22 +15894,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 2,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25ktml-3"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Lê Viết Huấn",
-        "dow": 2,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -9568,6 +15907,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25ktml-3"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Lê Viết Huấn",
+        "dow": 2,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25ktml-4"
@@ -10554,22 +16909,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 8,
         "periods": [
           6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25log-28"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Hoàng Thanh Bình",
-        "dow": 8,
-        "periods": [
-          6,
           7,
           8,
           9
@@ -10583,6 +16922,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25log-28"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25log-29"
@@ -10960,22 +17315,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 6,
         "periods": [
           6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "cd25tkdh-13"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "teacher": "Trần Lệ Thủy",
-        "dow": 6,
-        "periods": [
-          6,
           7,
           8,
           9
@@ -10989,6 +17328,22 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "cd25tkdh-13"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "teacher": "Trần Lệ Thủy",
+        "dow": 6,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "cd25tkdh-14"
@@ -11164,6 +17519,8319 @@ const ALL_CLASSES_DATABASE =
       }
     ]
   },
+  "CD26ANH": {
+    "code": "CD26ANH",
+    "name": "Lớp CD26ANH",
+    "major": "Tiếng Anh Hệ: Cao đẳng - Khóa học 2026-2029 (CD26ANH)",
+    "dept": "LTCB - VH",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26ANH08",
+        "subject": "Ngữ âm thực hành (*) (Pronunciation)",
+        "teacher": "Trần Thị Kim Thảo",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.303",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26anh-1"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26anh-2"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "2A.303",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26anh-3"
+      },
+      {
+        "code": "CD26ANH10",
+        "subject": "Nghe – Nói 1 (Listening-Speaking 1)",
+        "teacher": "Trương Lệ Minh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.201",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "violet",
+        "id": "cd26anh-4"
+      },
+      {
+        "code": "CD26ANH10",
+        "subject": "Nghe – Nói 1 (Listening-Speaking 1)",
+        "teacher": "Trương Lệ Minh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.201",
+        "weeks": [
+          14
+        ],
+        "color": "violet",
+        "id": "cd26anh-5"
+      },
+      {
+        "code": "CD26ANH14",
+        "subject": "Viết 1 (Writing 1)",
+        "teacher": "Trương Lệ Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.203",
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26anh-6"
+      },
+      {
+        "code": "CD26ANH14",
+        "subject": "Viết 1 (Writing 1)",
+        "teacher": "Trương Lệ Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.203",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26anh-7"
+      },
+      {
+        "code": "CD26ANH12",
+        "subject": "Đọc 1 (Reading 1) (*)",
+        "teacher": "Nguyễn Thị ái Nhi",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.303",
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26anh-8"
+      },
+      {
+        "code": "CD26ANH12",
+        "subject": "Đọc 1 (Reading 1) (*)",
+        "teacher": "Nguyễn Thị ái Nhi",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "2A.303",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "cd26anh-9"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26anh-10"
+      },
+      {
+        "code": "CD26ANH09",
+        "subject": "Ngữ pháp 1 (Grammar 1)",
+        "teacher": "Lê Thị Thúy Hằng",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "rose",
+        "id": "cd26anh-11"
+      },
+      {
+        "code": "CD26ANH09",
+        "subject": "Ngữ pháp 1 (Grammar 1)",
+        "teacher": "Lê Thị Thúy Hằng",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "2A.203",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26anh-12"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26anh-13"
+      }
+    ]
+  },
+  "CD26CBMA": {
+    "code": "CD26CBMA",
+    "name": "Lớp CD26CBMA",
+    "major": "Chế biến món ăn Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CBMA)",
+    "dept": "Du lịch",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.305",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "orange",
+        "id": "cd26cbma-1"
+      },
+      {
+        "code": "CD26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2A.305",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26cbma-2"
+      },
+      {
+        "code": "CD26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 2,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26cbma-3"
+      },
+      {
+        "code": "CD26CBMA16",
+        "subject": "Kỹ thuật cắt tỉa rau quả",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald",
+        "id": "cd26cbma-4"
+      },
+      {
+        "code": "CD26CBMA16",
+        "subject": "Kỹ thuật cắt tỉa rau quả",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26cbma-5"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cbma-6"
+      },
+      {
+        "code": "CD26CBMA16",
+        "subject": "Kỹ thuật cắt tỉa rau quả",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26cbma-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cbma-8"
+      },
+      {
+        "code": "CD26CBMA17",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "violet",
+        "id": "cd26cbma-9"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cbma-10"
+      },
+      {
+        "code": "CD26CBMA17",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "violet",
+        "id": "cd26cbma-11"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26cbma-12"
+      },
+      {
+        "code": "T26NHKS07",
+        "subject": "Tổng quan về du lịch và khách sạn (*)",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "blue",
+        "id": "cd26cbma-13"
+      },
+      {
+        "code": "CD26CBMA17",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "violet",
+        "id": "cd26cbma-14"
+      },
+      {
+        "code": "T26NHKS07",
+        "subject": "Tổng quan về du lịch và khách sạn (*)",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          10
+        ],
+        "color": "blue",
+        "id": "cd26cbma-15"
+      },
+      {
+        "code": "CD26CBMA17",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "violet",
+        "id": "cd26cbma-16"
+      }
+    ]
+  },
+  "CD26CDT1": {
+    "code": "CD26CDT1",
+    "name": "Lớp CD26CDT1",
+    "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CDT1)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Nguyễn Văn Hoàng",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26cdt1-1"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Nguyễn Văn Hoàng",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26cdt1-2"
+      },
+      {
+        "code": "CD26CDT15",
+        "subject": "Kỹ thuật cảm biến",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "emerald",
+        "id": "cd26cdt1-3"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "violet",
+        "id": "cd26cdt1-4"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          14
+        ],
+        "color": "violet",
+        "id": "cd26cdt1-5"
+      },
+      {
+        "code": "CD26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-6"
+      },
+      {
+        "code": "CD26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 3,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-8"
+      },
+      {
+        "code": "CD26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 3,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-9"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Trương Thiện Quân",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26cdt1-10"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-11"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Trương Thiện Quân",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26cdt1-12"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "orange",
+        "id": "cd26cdt1-13"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-14"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-15"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "cd26cdt1-16"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-17"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "orange",
+        "id": "cd26cdt1-18"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "orange",
+        "id": "cd26cdt1-19"
+      },
+      {
+        "code": "CD26CDT15",
+        "subject": "Kỹ thuật cảm biến",
+        "teacher": "Lê Minh Tân",
+        "dow": 7,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "emerald",
+        "id": "cd26cdt1-20"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "cd26cdt1-21"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "violet",
+        "id": "cd26cdt1-22"
+      },
+      {
+        "code": "CD26CDT15",
+        "subject": "Kỹ thuật cảm biến",
+        "teacher": "Lê Minh Tân",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          10,
+          12
+        ],
+        "color": "emerald",
+        "id": "cd26cdt1-23"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-24"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26cdt1-25"
+      }
+    ]
+  },
+  "CD26CDT2": {
+    "code": "CD26CDT2",
+    "name": "Lớp CD26CDT2",
+    "major": "Cơ điện tử Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CDT2)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.301(TĐH1)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "teal",
+        "id": "cd26cdt2-1"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X1.301(TĐH1)",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "cd26cdt2-2"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 2,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "cd26cdt2-3"
+      },
+      {
+        "code": "CD26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Trần Thị Thu",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-4"
+      },
+      {
+        "code": "CD26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Trần Thị Thu",
+        "dow": 2,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-5"
+      },
+      {
+        "code": "CD26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Trần Thị Thu",
+        "dow": 2,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-6"
+      },
+      {
+        "code": "CD26CDT15",
+        "subject": "Kỹ thuật cảm biến",
+        "teacher": "Lê Minh Tân",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.302(TĐH2)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "emerald",
+        "id": "cd26cdt2-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-8"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.302(TĐH2)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-9"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-10"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-11"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          10
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-12"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26cdt2-13"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-14"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26cdt2-15"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-16"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-17"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Lê Minh Tân",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "violet",
+        "id": "cd26cdt2-18"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-19"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-20"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-21"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-22"
+      },
+      {
+        "code": "CD26CDT15",
+        "subject": "Kỹ thuật cảm biến",
+        "teacher": "Lê Minh Tân",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "cd26cdt2-23"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Lê Minh Tân",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "violet",
+        "id": "cd26cdt2-24"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-25"
+      },
+      {
+        "code": "CD26CDT15",
+        "subject": "Kỹ thuật cảm biến",
+        "teacher": "Lê Minh Tân",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "cd26cdt2-26"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "cd26cdt2-27"
+      },
+      {
+        "code": "CD26CDT14",
+        "subject": "Kỹ thuật điện tử",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 8,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cdt2-28"
+      }
+    ]
+  },
+  "CD26CGKL": {
+    "code": "CD26CGKL",
+    "name": "Lớp CD26CGKL",
+    "major": "Cắt gọt kim loại Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CGKL)",
+    "dept": "Cơ khí chế tạo",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X4.PLT",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "orange",
+        "id": "cd26cgkl-1"
+      },
+      {
+        "code": "CD26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X4.PLT",
+        "weeks": [
+          10
+        ],
+        "color": "orange",
+        "id": "cd26cgkl-2"
+      },
+      {
+        "code": "CD26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          10
+        ],
+        "color": "orange",
+        "id": "cd26cgkl-3"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-4"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Phạm Thị Minh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "color": "teal",
+        "id": "cd26cgkl-5"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-6"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-7"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-8"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1B.203",
+        "weeks": [
+          13
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-9"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-10"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-11"
+      },
+      {
+        "code": "CD26CGKL13",
+        "subject": "Vẽ Autocad",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X4.P-MAY",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "cd26cgkl-12"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-13"
+      },
+      {
+        "code": "CD26CGKL13",
+        "subject": "Vẽ Autocad",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1X4.P-MAY",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "cd26cgkl-14"
+      },
+      {
+        "code": "CD26CGKL13",
+        "subject": "Vẽ Autocad",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "cd26cgkl-15"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Nguyễn Thanh Thảo",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "cd26cgkl-16"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-17"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Nguyễn Thanh Thảo",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1B.203",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "cd26cgkl-18"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-19"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-20"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "color": "teal",
+        "id": "cd26cgkl-21"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1B.203",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-22"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-23"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cgkl-24"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "1B.203",
+        "weeks": [
+          7
+        ],
+        "color": "teal",
+        "id": "cd26cgkl-25"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-26"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-27"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X4.NGUOI",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-28"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X4.NGUOI",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-29"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-30"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "cd26cgkl-31"
+      }
+    ]
+  },
+  "CD26CNOT1": {
+    "code": "CD26CNOT1",
+    "name": "Lớp CD26CNOT1",
+    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CNOT1)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-1"
+      },
+      {
+        "code": "CD26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot1-2"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-3"
+      },
+      {
+        "code": "CD26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot1-4"
+      },
+      {
+        "code": "CD26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-5"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26cnot1-6"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-7"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-8"
+      },
+      {
+        "code": "CD26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-9"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26cnot1-10"
+      },
+      {
+        "code": "CD23DCN20",
+        "subject": "Điện tử cơ bản",
+        "teacher": "Nguyễn Bình Trị",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "blue",
+        "id": "cd26cnot1-11"
+      },
+      {
+        "code": "CD23DCN20",
+        "subject": "Điện tử cơ bản",
+        "teacher": "Nguyễn Bình Trị",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "blue",
+        "id": "cd26cnot1-12"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-13"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "1A.402",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-14"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-15"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot1-16"
+      }
+    ]
+  },
+  "CD26CNOT2": {
+    "code": "CD26CNOT2",
+    "name": "Lớp CD26CNOT2",
+    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CNOT2)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-1"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "2X3.202(ĐCO)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-2"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot2-3"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot2-4"
+      },
+      {
+        "code": "CD26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot2-5"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-6"
+      },
+      {
+        "code": "CD26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot2-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-8"
+      },
+      {
+        "code": "CD26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-9"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-10"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-11"
+      },
+      {
+        "code": "CD26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-12"
+      },
+      {
+        "code": "CD23DCN20",
+        "subject": "Điện tử cơ bản",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.202(ĐCO)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "blue",
+        "id": "cd26cnot2-13"
+      },
+      {
+        "code": "CD23DCN20",
+        "subject": "Điện tử cơ bản",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "blue",
+        "id": "cd26cnot2-14"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot2-15"
+      }
+    ]
+  },
+  "CD26CNOT3": {
+    "code": "CD26CNOT3",
+    "name": "Lớp CD26CNOT3",
+    "major": "Công nghệ ô tô Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CNOT3)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "2X3.201(GAM)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-1"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-2"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-3"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot3-4"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot3-5"
+      },
+      {
+        "code": "CD26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot3-6"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-7"
+      },
+      {
+        "code": "CD26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "cd26cnot3-8"
+      },
+      {
+        "code": "CD26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-9"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-10"
+      },
+      {
+        "code": "CD26CNOT09",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-11"
+      },
+      {
+        "code": "CD26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-12"
+      },
+      {
+        "code": "CD23DCN20",
+        "subject": "Điện tử cơ bản",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.202(ĐCO)",
+        "weeks": [
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26cnot3-13"
+      },
+      {
+        "code": "CD23DCN20",
+        "subject": "Điện tử cơ bản",
+        "teacher": "Nguyễn Thanh Liêm",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26cnot3-14"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cnot3-15"
+      }
+    ]
+  },
+  "CD26CNTT": {
+    "code": "CD26CNTT",
+    "name": "Lớp CD26CNTT",
+    "major": "Công nghệ thông tin Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CNTT)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26MC02",
+        "subject": "Tin học",
+        "teacher": "Lại Văn Duy",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "color": "emerald",
+        "id": "cd26cntt-1"
+      },
+      {
+        "code": "CD26CNTT13",
+        "subject": "Quản trị mạng",
+        "teacher": "Lê Viết Huấn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "cd26cntt-2"
+      },
+      {
+        "code": "CD26CNTT10",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Phan Hữu Phước",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26cntt-3"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26cntt-4"
+      },
+      {
+        "code": "CD26CNTT13",
+        "subject": "Quản trị mạng",
+        "teacher": "Lê Viết Huấn",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "cd26cntt-5"
+      },
+      {
+        "code": "CD26CNTT11",
+        "subject": "Cơ sở dữ liệu",
+        "teacher": "Phùng Thị Nga",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "orange",
+        "id": "cd26cntt-6"
+      },
+      {
+        "code": "CD26CNTT11",
+        "subject": "Cơ sở dữ liệu",
+        "teacher": "Phùng Thị Nga",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26cntt-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cntt-8"
+      },
+      {
+        "code": "CD26CNTT11",
+        "subject": "Cơ sở dữ liệu",
+        "teacher": "Phùng Thị Nga",
+        "dow": 3,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26cntt-9"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cntt-10"
+      },
+      {
+        "code": "CD26MC02",
+        "subject": "Tin học",
+        "teacher": "Lại Văn Duy",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.306(LAB2)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald",
+        "id": "cd26cntt-11"
+      },
+      {
+        "code": "CD26CNTT13",
+        "subject": "Quản trị mạng",
+        "teacher": "Lê Viết Huấn",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "cd26cntt-12"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26cntt-13"
+      },
+      {
+        "code": "CD26MC02",
+        "subject": "Tin học",
+        "teacher": "Lại Văn Duy",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "cd26cntt-14"
+      },
+      {
+        "code": "CD26CNTT10",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Phan Hữu Phước",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "cd26cntt-15"
+      },
+      {
+        "code": "CD26CNTT10",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Phan Hữu Phước",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "blue",
+        "id": "cd26cntt-16"
+      },
+      {
+        "code": "CD26CNTT10",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Phan Hữu Phước",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "cd26cntt-17"
+      },
+      {
+        "code": "CD26CNTT13",
+        "subject": "Quản trị mạng",
+        "teacher": "Lê Viết Huấn",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.N",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "cd26cntt-18"
+      }
+    ]
+  },
+  "CD26CTCK": {
+    "code": "CD26CTCK",
+    "name": "Lớp CD26CTCK",
+    "major": "Chế tạo Cơ khí Hệ: Cao đẳng - Khóa học 2026-2029 (CD26CTCK)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26CTCK10",
+        "subject": "Dung sai và lắp ghép",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.306",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "cd26ctck-1"
+      },
+      {
+        "code": "CD26CTCK10",
+        "subject": "Dung sai và lắp ghép",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "cd26ctck-2"
+      },
+      {
+        "code": "CD26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26ctck-3"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ctck-4"
+      },
+      {
+        "code": "CD26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26ctck-5"
+      },
+      {
+        "code": "TC26CTCK11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.202",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "orange",
+        "id": "cd26ctck-6"
+      },
+      {
+        "code": "TC26CTCK11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "orange",
+        "id": "cd26ctck-7"
+      },
+      {
+        "code": "CD26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ctck-8"
+      },
+      {
+        "code": "CD26CTCK16",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "teacher": "Hồ Văn Ngữ",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26ctck-9"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          10
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26ctck-10"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ctck-11"
+      },
+      {
+        "code": "CD26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26ctck-12"
+      },
+      {
+        "code": "T26NHKS12",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "teacher": "Nguyễn Ngọc Sáng",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "cd26ctck-13"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ctck-14"
+      },
+      {
+        "code": "T26NHKS12",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "teacher": "Nguyễn Ngọc Sáng",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "blue",
+        "id": "cd26ctck-15"
+      },
+      {
+        "code": "CD26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26ctck-16"
+      },
+      {
+        "code": "CD26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ctck-17"
+      },
+      {
+        "code": "CD26CTCK16",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "teacher": "Hồ Văn Ngữ",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26ctck-18"
+      }
+    ]
+  },
+  "CD26DCN1": {
+    "code": "CD26DCN1",
+    "name": "Lớp CD26DCN1",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2026-2029 (CD26DCN1)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-1"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-2"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-3"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-4"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-5"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-6"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "T.H.Như-H.Q.Trung .",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "cd26dcn1-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-8"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-9"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "T.H.Như-H.Q.Trung .",
+        "dow": 5,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "cd26dcn1-10"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-11"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 5,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-12"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-13"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-14"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-15"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-16"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trần Quốc Anh",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15
+        ],
+        "color": "orange",
+        "id": "cd26dcn1-17"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-18"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-19"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-20"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn1-21"
+      }
+    ]
+  },
+  "CD26DCN2": {
+    "code": "CD26DCN2",
+    "name": "Lớp CD26DCN2",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2026-2029 (CD26DCN2)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-1"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "1X6.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-2"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-3"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-4"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-5"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-6"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-7"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-8"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26dcn2-9"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-10"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-11"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-12"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-13"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-14"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-15"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 6,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-16"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-17"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-18"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-19"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-20"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn2-21"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 7,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-22"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "cd26dcn2-23"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 8,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "teal",
+        "id": "cd26dcn2-24"
+      }
+    ]
+  },
+  "CD26DCN3": {
+    "code": "CD26DCN3",
+    "name": "Lớp CD26DCN3",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2026-2029 (CD26DCN3)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Võ Văn Thuận",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-1"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-2"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-3"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-4"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-5"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 3,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-6"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-7"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-8"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 3,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-9"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-10"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-11"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-12"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Lê Văn Mai",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.201(DNC)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26dcn3-13"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-14"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "cd26dcn3-15"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Lê Văn Mai",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26dcn3-16"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-17"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-18"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn3-19"
+      }
+    ]
+  },
+  "CD26DCN4": {
+    "code": "CD26DCN4",
+    "name": "Lớp CD26DCN4",
+    "major": "Điện công nghiệp Hệ: Cao đẳng - Khóa học 2026-2029 (CD26DCN4)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-1"
+      },
+      {
+        "code": "CD26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Võ Văn Thuận",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-2"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-3"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-4"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-5"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-6"
+      },
+      {
+        "code": "CD26DCN13",
+        "subject": "Cung cấp điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 3,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-7"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-8"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          13
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-9"
+      },
+      {
+        "code": "CD26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 4,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-10"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Lê Văn Mai",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.201(DNC)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26dcn4-11"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-12"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Lê Văn Mai",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26dcn4-13"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-14"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-15"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-16"
+      },
+      {
+        "code": "CD26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-17"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dcn4-18"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-19"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "cd26dcn4-20"
+      }
+    ]
+  },
+  "CD26DKTD": {
+    "code": "CD26DKTD",
+    "name": "Lớp CD26DKTD",
+    "major": "Công nghệ KTDK&TDH Hệ: Cao đẳng - Khóa học 2026-2029 (CD26DKTD)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "T26DKTD08",
+        "subject": "An toàn điện*",
+        "teacher": "Trương Thiện Quân",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dktd-1"
+      },
+      {
+        "code": "T26DKTD10",
+        "subject": "Vẽ điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "cd26dktd-2"
+      },
+      {
+        "code": "T26DKTD08",
+        "subject": "An toàn điện*",
+        "teacher": "Trương Thiện Quân",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "cd26dktd-3"
+      },
+      {
+        "code": "T26DKTD10",
+        "subject": "Vẽ điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "cd26dktd-4"
+      },
+      {
+        "code": "T26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26dktd-5"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dktd-6"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dktd-7"
+      },
+      {
+        "code": "T26DKTD14",
+        "subject": "Đo lường điện",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "orange",
+        "id": "cd26dktd-8"
+      },
+      {
+        "code": "T26DKTD14",
+        "subject": "Đo lường điện",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26dktd-9"
+      },
+      {
+        "code": "T26DKTD14",
+        "subject": "Đo lường điện",
+        "teacher": "Dương Ngọc Lan",
+        "dow": 5,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26dktd-10"
+      },
+      {
+        "code": "T26DKTD09",
+        "subject": "Mạch Điện*",
+        "teacher": "Bùi Nha Trang",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "rose",
+        "id": "cd26dktd-11"
+      },
+      {
+        "code": "T26DKTD09",
+        "subject": "Mạch Điện*",
+        "teacher": "Bùi Nha Trang",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dktd-12"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dktd-13"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Phạm T. T Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dktd-14"
+      },
+      {
+        "code": "T26DKTD09",
+        "subject": "Mạch Điện*",
+        "teacher": "Bùi Nha Trang",
+        "dow": 6,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "cd26dktd-15"
+      },
+      {
+        "code": "T26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26dktd-16"
+      },
+      {
+        "code": "T26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dktd-17"
+      },
+      {
+        "code": "T26DKTD15",
+        "subject": "Điện cơ bản",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26dktd-18"
+      }
+    ]
+  },
+  "CD26HAN": {
+    "code": "CD26HAN",
+    "name": "Lớp CD26HAN",
+    "major": "Hàn Hệ: Cao đẳng - Khóa học 2026-2029 (CD26HAN)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26han-1"
+      },
+      {
+        "code": "CD26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Lê Văn Tấn",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "orange",
+        "id": "cd26han-2"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26han-3"
+      },
+      {
+        "code": "CD26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "cd26han-4"
+      },
+      {
+        "code": "CD26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Lê Văn Tấn",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.101(CTCK)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "cd26han-5"
+      },
+      {
+        "code": "CD26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Lê Văn Tấn",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X3.101(CTCK)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15
+        ],
+        "color": "orange",
+        "id": "cd26han-6"
+      },
+      {
+        "code": "CD26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Lê Văn Tấn",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "cd26han-7"
+      },
+      {
+        "code": "CD26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26han-8"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26han-9"
+      },
+      {
+        "code": "CD26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26han-10"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26han-11"
+      },
+      {
+        "code": "T26NHKS12",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "teacher": "Nguyễn Ngọc Sáng",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "cd26han-12"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26han-13"
+      },
+      {
+        "code": "T26NHKS12",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "teacher": "Nguyễn Ngọc Sáng",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "blue",
+        "id": "cd26han-14"
+      },
+      {
+        "code": "CD26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26han-15"
+      }
+    ]
+  },
+  "CD26KTML": {
+    "code": "CD26KTML",
+    "name": "Lớp CD26KTML",
+    "major": "KTML&ĐHKK Hệ: Cao đẳng LT - Khóa học 2026-2029 (CD26KTML)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "CD26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.304",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "cd26ktml-1"
+      },
+      {
+        "code": "CD26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "2A.304",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26ktml-2"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ktml-3"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.301(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "cd26ktml-4"
+      },
+      {
+        "code": "CD26KTML09",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.301(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "rose",
+        "id": "cd26ktml-5"
+      },
+      {
+        "code": "CD26KTML09",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 3,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2X4.301(ĐL)",
+        "weeks": [
+          11
+        ],
+        "color": "rose",
+        "id": "cd26ktml-6"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "cd26ktml-7"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.301(ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26ktml-8"
+      },
+      {
+        "code": "CD26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "cd26ktml-9"
+      },
+      {
+        "code": "CD26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue",
+        "id": "cd26ktml-10"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "cd26ktml-11"
+      },
+      {
+        "code": "CD26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "cd26ktml-12"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "cd26ktml-13"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "cd26ktml-14"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ktml-15"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "cd26ktml-16"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26ktml-17"
+      },
+      {
+        "code": "CD26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "cd26ktml-18"
+      },
+      {
+        "code": "CD26KTML13",
+        "subject": "Điện cơ bản",
+        "teacher": "Hứa Mạnh Hải",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.402(LĐĐ)",
+        "weeks": [
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "cd26ktml-19"
+      },
+      {
+        "code": "CD26KTML13",
+        "subject": "Điện cơ bản",
+        "teacher": "Hứa Mạnh Hải",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.402(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "cd26ktml-20"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ktml-21"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "2X1.402(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26ktml-22"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Vòng Quốc Bảo",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.302",
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "blue",
+        "id": "cd26ktml-23"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Vòng Quốc Bảo",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.302",
+        "weeks": [
+          16
+        ],
+        "color": "blue",
+        "id": "cd26ktml-24"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Vòng Quốc Bảo",
+        "dow": 7,
+        "periods": [
+          6
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "blue",
+        "id": "cd26ktml-25"
+      },
+      {
+        "code": "CD26KTML09",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "color": "rose",
+        "id": "cd26ktml-26"
+      }
+    ]
+  },
+  "CD26LOG": {
+    "code": "CD26LOG",
+    "name": "Lớp CD26LOG",
+    "major": "Logistics Hệ: Cao đẳng - Khóa học 2026-2029 (CD26LOG)",
+    "dept": "Cơ khí chế tạo",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26MC09",
+        "subject": "Quản trị học",
+        "teacher": "Nguyễn Thị Thu Hà",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "orange",
+        "id": "cd26log-1"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26log-2"
+      },
+      {
+        "code": "TC26MC09",
+        "subject": "Quản trị học",
+        "teacher": "Nguyễn Thị Thu Hà",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "cd26log-3"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26log-4"
+      },
+      {
+        "code": "TC26LGT10",
+        "subject": "Nhập môn Logistics",
+        "teacher": "Vũ Thị Mai",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26log-5"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26log-6"
+      },
+      {
+        "code": "TC26LGT10",
+        "subject": "Nhập môn Logistics",
+        "teacher": "Vũ Thị Mai",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "cd26log-7"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Vũ Thị Mai",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "teal",
+        "id": "cd26log-8"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Vũ Thị Mai",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "cd26log-9"
+      },
+      {
+        "code": "TC26LGT11",
+        "subject": "Kinh tế Vi mô",
+        "teacher": "Bùi Thị Thu Ngà",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "cd26log-10"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26log-11"
+      },
+      {
+        "code": "TC26LGT11",
+        "subject": "Kinh tế Vi mô",
+        "teacher": "Bùi Thị Thu Ngà",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "blue",
+        "id": "cd26log-12"
+      }
+    ]
+  },
+  "CD26TKDH": {
+    "code": "CD26TKDH",
+    "name": "Lớp CD26TKDH",
+    "major": "Thiết kế đồ họa Hệ: Cao đẳng - Khóa học 2026-2029 (CD26TKDH)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26TKDH13",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "cd26tkdh-1"
+      },
+      {
+        "code": "CD26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.306",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-2"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-3"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-4"
+      },
+      {
+        "code": "CD26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-5"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-6"
+      },
+      {
+        "code": "CD26TKDH10",
+        "subject": "Tư duy thiết kế và phát triển ý tưởng",
+        "teacher": "Phùng Thị Nga",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal",
+        "id": "cd26tkdh-7"
+      },
+      {
+        "code": "CD26TKDH10",
+        "subject": "Tư duy thiết kế và phát triển ý tưởng",
+        "teacher": "Phùng Thị Nga",
+        "dow": 4,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          17
+        ],
+        "color": "teal",
+        "id": "cd26tkdh-8"
+      },
+      {
+        "code": "CD26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-9"
+      },
+      {
+        "code": "CD26TKDH10",
+        "subject": "Tư duy thiết kế và phát triển ý tưởng",
+        "teacher": "Phùng Thị Nga",
+        "dow": 4,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "teal",
+        "id": "cd26tkdh-10"
+      },
+      {
+        "code": "CD26MC02",
+        "subject": "Tin học",
+        "teacher": "Vũ Thị Tho",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26tkdh-11"
+      },
+      {
+        "code": "CD26MC02",
+        "subject": "Tin học",
+        "teacher": "Vũ Thị Tho",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26tkdh-12"
+      },
+      {
+        "code": "CD26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-13"
+      },
+      {
+        "code": "CD26TKDH13",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 5,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "cd26tkdh-14"
+      },
+      {
+        "code": "CD26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-15"
+      },
+      {
+        "code": "CD26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.306",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-16"
+      },
+      {
+        "code": "CD26TKDH13",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "cd26tkdh-17"
+      },
+      {
+        "code": "CD26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 6,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-18"
+      },
+      {
+        "code": "CD26MC02",
+        "subject": "Tin học",
+        "teacher": "Vũ Thị Tho",
+        "dow": 6,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "cd26tkdh-19"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "teacher": "Nguyễn T.Hồng Vũ",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "cd26tkdh-20"
+      }
+    ]
+  },
   "T25CBMA1": {
     "code": "T25CBMA1",
     "name": "Lớp T25CBMA1",
@@ -11215,7 +25883,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           1,
           2,
@@ -11539,7 +26207,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           16,
           17,
@@ -12200,7 +26868,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.403(LAB6)",
         "weeks": [
           1,
           2,
@@ -12752,6 +27420,26 @@ const ALL_CLASSES_DATABASE =
         "id": "t25cbma2-26"
       },
       {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "t25cbma2-27"
+      },
+      {
         "code": "T25VH05",
         "subject": "Hóa học",
         "teacher": "Hồ Ngọc Lệ Thanh",
@@ -12774,7 +27462,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "orange",
-        "id": "t25cbma2-27"
+        "id": "t25cbma2-28"
       },
       {
         "code": "T25VH05",
@@ -12790,7 +27478,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "t25cbma2-28"
+        "id": "t25cbma2-29"
       },
       {
         "code": "TC25CBMA17",
@@ -12817,7 +27505,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "teal",
-        "id": "t25cbma2-29"
+        "id": "t25cbma2-30"
       },
       {
         "code": "TC25CBMA17",
@@ -12833,7 +27521,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "teal",
-        "id": "t25cbma2-30"
+        "id": "t25cbma2-31"
       },
       {
         "code": "TC25CBMA20",
@@ -12851,7 +27539,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "t25cbma2-31"
+        "id": "t25cbma2-32"
       },
       {
         "code": "TC25CBMA17",
@@ -12868,7 +27556,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "teal",
-        "id": "t25cbma2-32"
+        "id": "t25cbma2-33"
       },
       {
         "code": "TC25CBMA11",
@@ -12888,7 +27576,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "t25cbma2-33"
+        "id": "t25cbma2-34"
       },
       {
         "code": "T25VH05",
@@ -12914,7 +27602,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "orange",
-        "id": "t25cbma2-34"
+        "id": "t25cbma2-35"
       },
       {
         "code": "TC25CBMA11",
@@ -12933,7 +27621,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "t25cbma2-35"
+        "id": "t25cbma2-36"
       },
       {
         "code": "T25VH03",
@@ -12958,7 +27646,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "violet",
-        "id": "t25cbma2-36"
+        "id": "t25cbma2-37"
       },
       {
         "code": "TC25CBMA11",
@@ -12978,7 +27666,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "t25cbma2-37"
+        "id": "t25cbma2-38"
       },
       {
         "code": "TC25CBMA11",
@@ -12993,7 +27681,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "t25cbma2-38"
+        "id": "t25cbma2-39"
       },
       {
         "code": "T25VH05",
@@ -13011,7 +27699,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "t25cbma2-39"
+        "id": "t25cbma2-40"
       },
       {
         "code": "TC25CBMA17",
@@ -13037,7 +27725,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "teal",
-        "id": "t25cbma2-40"
+        "id": "t25cbma2-41"
       },
       {
         "code": "TC25CBMA28",
@@ -13065,7 +27753,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "rose",
-        "id": "t25cbma2-41"
+        "id": "t25cbma2-42"
       },
       {
         "code": "TC25CBMA28",
@@ -13080,26 +27768,6 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "rose",
-        "id": "t25cbma2-42"
-      },
-      {
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          16,
-          17,
-          18
-        ],
-        "color": "emerald",
         "id": "t25cbma2-43"
       },
       {
@@ -13899,7 +28567,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2B.402(LAB5)",
         "weeks": [
           14,
           15,
@@ -13945,7 +28613,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.402(LAB5)",
         "weeks": [
           1,
           2,
@@ -14991,7 +29659,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           1,
           2,
@@ -15043,7 +29711,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           15,
           16
@@ -15062,7 +29730,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           15,
           16
@@ -15910,7 +30578,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2B.402(LAB5)",
         "weeks": [
           14,
           15,
@@ -15931,7 +30599,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.402(LAB5)",
         "weeks": [
           1,
           2,
@@ -16196,6 +30864,24 @@ const ALL_CLASSES_DATABASE =
         "id": "t25cgkl1-8"
       },
       {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t25cgkl1-9"
+      },
+      {
         "code": "T25VH03",
         "subject": "Lịch sử",
         "teacher": "Lê Đoàn Hoàng Anh",
@@ -16221,7 +30907,7 @@ const ALL_CLASSES_DATABASE =
           13
         ],
         "color": "violet",
-        "id": "t25cgkl1-9"
+        "id": "t25cgkl1-10"
       },
       {
         "code": "TC25CGKL14",
@@ -16241,7 +30927,7 @@ const ALL_CLASSES_DATABASE =
           17
         ],
         "color": "emerald",
-        "id": "t25cgkl1-10"
+        "id": "t25cgkl1-11"
       },
       {
         "code": "T25VH02",
@@ -16257,7 +30943,7 @@ const ALL_CLASSES_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "t25cgkl1-11"
+        "id": "t25cgkl1-12"
       },
       {
         "code": "TC25CGKL21",
@@ -16275,7 +30961,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "blue",
-        "id": "t25cgkl1-12"
+        "id": "t25cgkl1-13"
       },
       {
         "code": "T25VH01",
@@ -16291,7 +30977,7 @@ const ALL_CLASSES_DATABASE =
           19
         ],
         "color": "violet",
-        "id": "t25cgkl1-13"
+        "id": "t25cgkl1-14"
       },
       {
         "code": "T25VH04",
@@ -16316,7 +31002,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "orange",
-        "id": "t25cgkl1-14"
+        "id": "t25cgkl1-15"
       },
       {
         "code": "TC25CGKL17",
@@ -16344,7 +31030,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "teal",
-        "id": "t25cgkl1-15"
+        "id": "t25cgkl1-16"
       },
       {
         "code": "SHL",
@@ -16377,7 +31063,7 @@ const ALL_CLASSES_DATABASE =
           19
         ],
         "color": "rose",
-        "id": "t25cgkl1-16"
+        "id": "t25cgkl1-17"
       },
       {
         "code": "TC25CDT25",
@@ -16409,7 +31095,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "t25cgkl1-17"
+        "id": "t25cgkl1-18"
       },
       {
         "code": "TC25DCN23",
@@ -16426,24 +31112,6 @@ const ALL_CLASSES_DATABASE =
         "weeks": [
           17,
           18
-        ],
-        "color": "emerald",
-        "id": "t25cgkl1-18"
-      },
-      {
-        "code": "TC25CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "teacher": "Nguyễn Hàm Hòa",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          19
         ],
         "color": "emerald",
         "id": "t25cgkl1-19"
@@ -16484,6 +31152,24 @@ const ALL_CLASSES_DATABASE =
         "id": "t25cgkl1-20"
       },
       {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t25cgkl1-21"
+      },
+      {
         "code": "TC25CGKL09",
         "subject": "Cơ kỹ thuật",
         "teacher": "Nguyễn Thị Bích",
@@ -16502,7 +31188,7 @@ const ALL_CLASSES_DATABASE =
           4
         ],
         "color": "violet",
-        "id": "t25cgkl1-21"
+        "id": "t25cgkl1-22"
       },
       {
         "code": "TC25CGKL17",
@@ -16532,7 +31218,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "teal",
-        "id": "t25cgkl1-22"
+        "id": "t25cgkl1-23"
       },
       {
         "code": "TC25CGKL14",
@@ -16550,7 +31236,7 @@ const ALL_CLASSES_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "t25cgkl1-23"
+        "id": "t25cgkl1-24"
       },
       {
         "code": "TC25CGKL09",
@@ -16570,7 +31256,7 @@ const ALL_CLASSES_DATABASE =
           3
         ],
         "color": "violet",
-        "id": "t25cgkl1-24"
+        "id": "t25cgkl1-25"
       },
       {
         "code": "TC25CGKL17",
@@ -16599,7 +31285,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "teal",
-        "id": "t25cgkl1-25"
+        "id": "t25cgkl1-26"
       },
       {
         "code": "TC25CGKL09",
@@ -16618,7 +31304,7 @@ const ALL_CLASSES_DATABASE =
           4
         ],
         "color": "violet",
-        "id": "t25cgkl1-26"
+        "id": "t25cgkl1-27"
       },
       {
         "code": "TC25CGKL17",
@@ -16634,24 +31320,6 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "teal",
-        "id": "t25cgkl1-27"
-      },
-      {
-        "code": "TC25CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "teacher": "Nguyễn Hàm Hòa",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
         "id": "t25cgkl1-28"
       },
       {
@@ -17182,7 +31850,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.403(LAB6)",
         "weeks": [
           1,
           2,
@@ -17675,6 +32343,26 @@ const ALL_CLASSES_DATABASE =
         "id": "t25cgkl2-22"
       },
       {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "teacher": "Phạm Thị Trang",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "t25cgkl2-23"
+      },
+      {
         "code": "TC25CGKL21",
         "subject": "Gia công trên máy mài 1",
         "teacher": "Từ Thị Tuyết",
@@ -17691,7 +32379,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "blue",
-        "id": "t25cgkl2-23"
+        "id": "t25cgkl2-24"
       },
       {
         "code": "TC25CGKL17",
@@ -17719,7 +32407,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "teal",
-        "id": "t25cgkl2-24"
+        "id": "t25cgkl2-25"
       },
       {
         "code": "TC25CGKL18",
@@ -17741,7 +32429,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "rose",
-        "id": "t25cgkl2-25"
+        "id": "t25cgkl2-26"
       },
       {
         "code": "TC25CGKL14",
@@ -17765,7 +32453,7 @@ const ALL_CLASSES_DATABASE =
           7
         ],
         "color": "emerald",
-        "id": "t25cgkl2-26"
+        "id": "t25cgkl2-27"
       },
       {
         "code": "TC25CGKL14",
@@ -17782,7 +32470,7 @@ const ALL_CLASSES_DATABASE =
           8
         ],
         "color": "emerald",
-        "id": "t25cgkl2-27"
+        "id": "t25cgkl2-28"
       },
       {
         "code": "TC25CGKL14",
@@ -17798,7 +32486,7 @@ const ALL_CLASSES_DATABASE =
           8
         ],
         "color": "emerald",
-        "id": "t25cgkl2-28"
+        "id": "t25cgkl2-29"
       },
       {
         "code": "TC25CGKL18",
@@ -17819,7 +32507,7 @@ const ALL_CLASSES_DATABASE =
           16
         ],
         "color": "rose",
-        "id": "t25cgkl2-29"
+        "id": "t25cgkl2-30"
       },
       {
         "code": "TC25DCN08",
@@ -17842,7 +32530,7 @@ const ALL_CLASSES_DATABASE =
           10
         ],
         "color": "orange",
-        "id": "t25cgkl2-30"
+        "id": "t25cgkl2-31"
       },
       {
         "code": "TC25CGKL18",
@@ -17861,7 +32549,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "rose",
-        "id": "t25cgkl2-31"
+        "id": "t25cgkl2-32"
       },
       {
         "code": "TC25DCN08",
@@ -17878,7 +32566,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "t25cgkl2-32"
+        "id": "t25cgkl2-33"
       },
       {
         "code": "TC25DCN08",
@@ -17894,7 +32582,7 @@ const ALL_CLASSES_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "t25cgkl2-33"
+        "id": "t25cgkl2-34"
       },
       {
         "code": "TC25CGKL14",
@@ -17914,7 +32602,7 @@ const ALL_CLASSES_DATABASE =
           7
         ],
         "color": "emerald",
-        "id": "t25cgkl2-34"
+        "id": "t25cgkl2-35"
       },
       {
         "code": "TC25CGKL18",
@@ -17932,7 +32620,7 @@ const ALL_CLASSES_DATABASE =
           18
         ],
         "color": "rose",
-        "id": "t25cgkl2-35"
+        "id": "t25cgkl2-36"
       },
       {
         "code": "TC25CBTP24",
@@ -17958,7 +32646,7 @@ const ALL_CLASSES_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "t25cgkl2-36"
+        "id": "t25cgkl2-37"
       },
       {
         "code": "TC25CGKL09",
@@ -17978,7 +32666,7 @@ const ALL_CLASSES_DATABASE =
           6
         ],
         "color": "violet",
-        "id": "t25cgkl2-37"
+        "id": "t25cgkl2-38"
       },
       {
         "code": "TC25CGKL09",
@@ -17997,26 +32685,6 @@ const ALL_CLASSES_DATABASE =
           7
         ],
         "color": "violet",
-        "id": "t25cgkl2-38"
-      },
-      {
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "teacher": "Phạm Thị Trang",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          16,
-          17,
-          18
-        ],
-        "color": "emerald",
         "id": "t25cgkl2-39"
       },
       {
@@ -19829,7 +34497,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           1,
           2,
@@ -19899,7 +34567,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           15,
           16
@@ -19963,7 +34631,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           15,
           16
@@ -21428,7 +36096,7 @@ const ALL_CLASSES_DATABASE =
       {
         "code": "T25VH04",
         "subject": "Vật lý",
-        "teacher": "Bùi Quang Đạt",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 4,
         "periods": [
           6,
@@ -21454,7 +36122,7 @@ const ALL_CLASSES_DATABASE =
       {
         "code": "T25VH04",
         "subject": "Vật lý",
-        "teacher": "Bùi Quang Đạt",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 4,
         "periods": [
           8,
@@ -21548,7 +36216,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
@@ -21629,7 +36297,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
@@ -21755,7 +36423,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           1,
           2,
@@ -21822,7 +36490,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
@@ -22001,7 +36669,7 @@ const ALL_CLASSES_DATABASE =
       {
         "code": "T25VH04",
         "subject": "Vật lý",
-        "teacher": "Bùi Quang Đạt",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 8,
         "periods": [
           2
@@ -22349,7 +37017,7 @@ const ALL_CLASSES_DATABASE =
       {
         "code": "T25VH04",
         "subject": "Vật lý",
-        "teacher": "Bùi Quang Đạt",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 4,
         "periods": [
           6,
@@ -22415,7 +37083,7 @@ const ALL_CLASSES_DATABASE =
       {
         "code": "T25VH04",
         "subject": "Vật lý",
-        "teacher": "Bùi Quang Đạt",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 4,
         "periods": [
           8,
@@ -22915,7 +37583,7 @@ const ALL_CLASSES_DATABASE =
       {
         "code": "T25VH04",
         "subject": "Vật lý",
-        "teacher": "Bùi Quang Đạt",
+        "teacher": "Võ Thị Thu Thảo",
         "dow": 8,
         "periods": [
           2
@@ -23465,7 +38133,7 @@ const ALL_CLASSES_DATABASE =
           13,
           14
         ],
-        "room": "1X5.101(PMAY)",
+        "room": "P.ONLINE",
         "weeks": [
           8,
           9,
@@ -23691,13 +38359,12 @@ const ALL_CLASSES_DATABASE =
           1,
           2,
           3,
-          4
+          4,
+          5
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          17
+          18
         ],
         "color": "teal",
         "id": "t25cntt1-28"
@@ -23711,12 +38378,13 @@ const ALL_CLASSES_DATABASE =
           1,
           2,
           3,
-          4,
-          5
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18
+          15,
+          16,
+          17
         ],
         "color": "teal",
         "id": "t25cntt1-29"
@@ -24810,6 +39478,22 @@ const ALL_CLASSES_DATABASE =
         "dow": 3,
         "periods": [
           11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "t25ctck1-9"
+      },
+      {
+        "code": "TC25CTCK16",
+        "subject": "Chế tạo khung nhà công nghiệp",
+        "teacher": "Lê Đình Sen",
+        "dow": 3,
+        "periods": [
+          11,
           12,
           13,
           14
@@ -24824,22 +39508,6 @@ const ALL_CLASSES_DATABASE =
           15,
           16,
           17
-        ],
-        "color": "orange",
-        "id": "t25ctck1-9"
-      },
-      {
-        "code": "TC25CTCK16",
-        "subject": "Chế tạo khung nhà công nghiệp",
-        "teacher": "Lê Đình Sen",
-        "dow": 3,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
         ],
         "color": "orange",
         "id": "t25ctck1-10"
@@ -25310,6 +39978,22 @@ const ALL_CLASSES_DATABASE =
         "dow": 8,
         "periods": [
           11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "t25ctck1-29"
+      },
+      {
+        "code": "TC25CTCK13",
+        "subject": "Gia công các chi tiết bằng tay",
+        "teacher": "Hồ Văn Ngữ",
+        "dow": 8,
+        "periods": [
+          11,
           12,
           13,
           14
@@ -25323,22 +40007,6 @@ const ALL_CLASSES_DATABASE =
           12,
           13,
           14
-        ],
-        "color": "emerald",
-        "id": "t25ctck1-29"
-      },
-      {
-        "code": "TC25CTCK13",
-        "subject": "Gia công các chi tiết bằng tay",
-        "teacher": "Hồ Văn Ngữ",
-        "dow": 8,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15
         ],
         "color": "emerald",
         "id": "t25ctck1-30"
@@ -25670,7 +40338,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
@@ -25784,12 +40452,28 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
         "color": "emerald",
         "id": "t25ctck2-17"
+      },
+      {
+        "code": "TC25CTCK16",
+        "subject": "Chế tạo khung nhà công nghiệp",
+        "teacher": "Lê Đình Sen",
+        "dow": 5,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "t25ctck2-18"
       },
       {
         "code": "TC25CTCK16",
@@ -25814,22 +40498,6 @@ const ALL_CLASSES_DATABASE =
           17
         ],
         "color": "orange",
-        "id": "t25ctck2-18"
-      },
-      {
-        "code": "TC25CTCK16",
-        "subject": "Chế tạo khung nhà công nghiệp",
-        "teacher": "Lê Đình Sen",
-        "dow": 5,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "orange",
         "id": "t25ctck2-19"
       },
       {
@@ -25843,7 +40511,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           1,
           2,
@@ -25877,7 +40545,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
@@ -26206,7 +40874,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           1,
           2,
@@ -26510,7 +41178,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           16,
           17,
@@ -26528,15 +41196,12 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9
+          9,
+          10
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11
+          12
         ],
         "color": "orange",
         "id": "t25dcn1-19"
@@ -26570,12 +41235,15 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12
+          7,
+          8,
+          9,
+          10,
+          11
         ],
         "color": "orange",
         "id": "t25dcn1-21"
@@ -26847,25 +41515,6 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "violet",
-        "id": "t25dcn1-31"
-      },
-      {
-        "code": "TC25DCN16",
-        "subject": "Trang bị điện 1",
-        "teacher": "Hà Thị Thu Phương",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
           9
         ],
         "room": "P.ONLINE",
@@ -26880,6 +41529,25 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "violet",
+        "id": "t25dcn1-31"
+      },
+      {
+        "code": "TC25DCN16",
+        "subject": "Trang bị điện 1",
+        "teacher": "Hà Thị Thu Phương",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "violet",
         "id": "t25dcn1-32"
@@ -28189,6 +42857,25 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "t25dcn3-21"
+      },
+      {
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
           9
         ],
         "room": "2X1.202(MD)",
@@ -28208,25 +42895,6 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16
-        ],
-        "color": "orange",
-        "id": "t25dcn3-21"
-      },
-      {
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "teacher": "Trương Xuân Linh",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
         ],
         "color": "orange",
         "id": "t25dcn3-22"
@@ -28974,6 +43642,25 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "t25dcn4-24"
+      },
+      {
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "teacher": "Trương Xuân Linh",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
           9
         ],
         "room": "2X1.202(MD)",
@@ -28993,25 +43680,6 @@ const ALL_CLASSES_DATABASE =
           14,
           15,
           16
-        ],
-        "color": "orange",
-        "id": "t25dcn4-24"
-      },
-      {
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "teacher": "Trương Xuân Linh",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
         ],
         "color": "orange",
         "id": "t25dcn4-25"
@@ -29418,22 +44086,6 @@ const ALL_CLASSES_DATABASE =
         "dow": 3,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "teal",
-        "id": "t25han1-12"
-      },
-      {
-        "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao",
-        "teacher": "Trần Ngọc Thủy",
-        "dow": 3,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -29448,6 +44100,22 @@ const ALL_CLASSES_DATABASE =
           15,
           16,
           17
+        ],
+        "color": "teal",
+        "id": "t25han1-12"
+      },
+      {
+        "code": "TC25HAN13",
+        "subject": "Hàn hồ quang nâng cao",
+        "teacher": "Trần Ngọc Thủy",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
         ],
         "color": "teal",
         "id": "t25han1-13"
@@ -31157,9 +45825,15 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "1X7.101(X.ĐL)",
         "weeks": [
-          18
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
         ],
         "color": "teal",
         "id": "t25ktml1-5"
@@ -31175,15 +45849,9 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "1X7.101(X.ĐL)",
+        "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
+          18
         ],
         "color": "teal",
         "id": "t25ktml1-6"
@@ -31645,6 +46313,22 @@ const ALL_CLASSES_DATABASE =
         "dow": 6,
         "periods": [
           6,
+          7
+        ],
+        "room": "1X6.101(X.ĐL)",
+        "weeks": [
+          16
+        ],
+        "color": "violet",
+        "id": "t25ktml1-24"
+      },
+      {
+        "code": "TC25KTML18",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 6,
+        "periods": [
+          6,
           7,
           8,
           9
@@ -31657,22 +46341,6 @@ const ALL_CLASSES_DATABASE =
           13,
           14,
           15
-        ],
-        "color": "violet",
-        "id": "t25ktml1-24"
-      },
-      {
-        "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng",
-        "teacher": "Bùi Văn Vinh",
-        "dow": 6,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "1X6.101(X.ĐL)",
-        "weeks": [
-          16
         ],
         "color": "violet",
         "id": "t25ktml1-25"
@@ -32186,16 +46854,9 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "1X7.101(X.ĐL)",
+        "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          17
         ],
         "color": "teal",
         "id": "t25ktml2-9"
@@ -32211,9 +46872,16 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "1X7.101(X.ĐL)",
         "weeks": [
-          17
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16
         ],
         "color": "teal",
         "id": "t25ktml2-10"
@@ -33822,12 +48490,14 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18
+          13,
+          14,
+          15,
+          16
         ],
         "color": "violet",
         "id": "t25ktml3-35"
@@ -33841,14 +48511,12 @@ const ALL_CLASSES_DATABASE =
           6,
           7,
           8,
-          9
+          9,
+          10
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16
+          18
         ],
         "color": "violet",
         "id": "t25ktml3-36"
@@ -35232,7 +49900,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           1,
           2,
@@ -35318,7 +49986,7 @@ const ALL_CLASSES_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           15,
           16
@@ -35337,7 +50005,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "P.G.MEET",
+        "room": "1X8.204.N",
         "weeks": [
           15,
           16
@@ -35525,7 +50193,7 @@ const ALL_CLASSES_DATABASE =
           8,
           9
         ],
-        "room": "2B.402(LAB5)",
+        "room": "2B.303(LAB4)",
         "weeks": [
           1,
           2,
@@ -35556,7 +50224,7 @@ const ALL_CLASSES_DATABASE =
         "periods": [
           10
         ],
-        "room": "2B.402(LAB5)",
+        "room": "2B.303(LAB4)",
         "weeks": [
           1,
           2,
@@ -36045,6 +50713,8119 @@ const ALL_CLASSES_DATABASE =
         ],
         "color": "orange",
         "id": "t25tkdh2-28"
+      }
+    ]
+  },
+  "T26CBMA1": {
+    "code": "T26CBMA1",
+    "name": "Lớp T26CBMA1",
+    "major": "Kỹ thuật chế biến món ăn - Hệ TC - Khóa học: 2026-2028 (T26CBMA1)",
+    "dept": "Du lịch",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CBMA15",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.102(CBMA)",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "violet",
+        "id": "t26cbma1-1"
+      },
+      {
+        "code": "TC26CBMA10",
+        "subject": "Văn hóa ẩm thực",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "teal",
+        "id": "t26cbma1-2"
+      },
+      {
+        "code": "TC26CBMA10",
+        "subject": "Văn hóa ẩm thực",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          9
+        ],
+        "color": "teal",
+        "id": "t26cbma1-3"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          10
+        ],
+        "room": "1A.402",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cbma1-4"
+      },
+      {
+        "code": "TC26CBMA15",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.102(CBMA)",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "violet",
+        "id": "t26cbma1-5"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.101(CBTP)",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "t26cbma1-6"
+      },
+      {
+        "code": "TC26CBMA10",
+        "subject": "Văn hóa ẩm thực",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "teal",
+        "id": "t26cbma1-7"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.101(CBTP)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "t26cbma1-8"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 5,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1B.101(CBTP)",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "t26cbma1-9"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 5,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "t26cbma1-10"
+      },
+      {
+        "code": "TC26CBMA15",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Trần Thị Thúy",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "violet",
+        "id": "t26cbma1-11"
+      }
+    ]
+  },
+  "T26CBMA2": {
+    "code": "T26CBMA2",
+    "name": "Lớp T26CBMA2",
+    "major": "Kỹ thuật chế biến món ăn - Hệ TC - Khóa học: 2026-2028 (T26CBMA2)",
+    "dept": "Du lịch",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "t26cbma2-1"
+      },
+      {
+        "code": "TC26CBMA15",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Phan Thị Xuân Trang",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "t26cbma2-2"
+      },
+      {
+        "code": "TC26CBMA10",
+        "subject": "Văn hóa ẩm thực",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "teal",
+        "id": "t26cbma2-3"
+      },
+      {
+        "code": "TC26CBMA10",
+        "subject": "Văn hóa ẩm thực",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          9
+        ],
+        "color": "teal",
+        "id": "t26cbma2-4"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "t26cbma2-5"
+      },
+      {
+        "code": "TC26CBMA15",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Phan Thị Xuân Trang",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "t26cbma2-6"
+      },
+      {
+        "code": "TC26CBMA10",
+        "subject": "Văn hóa ẩm thực",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "teal",
+        "id": "t26cbma2-7"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "orange",
+        "id": "t26cbma2-8"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 6,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "t26cbma2-9"
+      },
+      {
+        "code": "TC26CBMA15",
+        "subject": "Chế biến món ăn Việt 1",
+        "teacher": "Phan Thị Xuân Trang",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "t26cbma2-10"
+      },
+      {
+        "code": "TC26CBMA12",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "teacher": "Phan Văn Mẫn",
+        "dow": 6,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "t26cbma2-11"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "2B.201(CBMA)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cbma2-12"
+      }
+    ]
+  },
+  "T26CDT1": {
+    "code": "T26CDT1",
+    "name": "Lớp T26CDT1",
+    "major": "Cơ Điện tử - Hệ TC - Khóa học: 2026-2028 (T26CDT1)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Nguyễn Văn Hoàng",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "t26cdt1-1"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Nguyễn Văn Hoàng",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "t26cdt1-2"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "violet",
+        "id": "t26cdt1-3"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X8.202(X.ĐT)",
+        "weeks": [
+          14
+        ],
+        "color": "violet",
+        "id": "t26cdt1-4"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Trương Thiện Quân",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "t26cdt1-5"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Trương Thiện Quân",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "t26cdt1-6"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "orange",
+        "id": "t26cdt1-7"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cdt1-8"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "t26cdt1-9"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "orange",
+        "id": "t26cdt1-10"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "orange",
+        "id": "t26cdt1-11"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "t26cdt1-12"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Bùi Nha Trang",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "violet",
+        "id": "t26cdt1-13"
+      }
+    ]
+  },
+  "T26CDT2": {
+    "code": "T26CDT2",
+    "name": "Lớp T26CDT2",
+    "major": "Cơ Điện tử - Hệ TC - Khóa học: 2026-2028 (T26CDT2)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.301(TĐH1)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "teal",
+        "id": "t26cdt2-1"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X1.301(TĐH1)",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "t26cdt2-2"
+      },
+      {
+        "code": "TC26CDT10",
+        "subject": "Dung sai lắp ghép và đo lường kỹ thuật",
+        "teacher": "Trần Trường Lam",
+        "dow": 2,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "t26cdt2-3"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.302(TĐH2)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "t26cdt2-4"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cdt2-5"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "t26cdt2-6"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "t26cdt2-7"
+      },
+      {
+        "code": "TC26CDT09",
+        "subject": "An toàn lao động",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "t26cdt2-8"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "t26cdt2-9"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Lê Minh Tân",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "violet",
+        "id": "t26cdt2-10"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "t26cdt2-11"
+      },
+      {
+        "code": "TC26CDT11",
+        "subject": "Kỹ thuật điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "t26cdt2-12"
+      },
+      {
+        "code": "TC26CDT12",
+        "subject": "Đo lường điện - điện tử",
+        "teacher": "Lê Minh Tân",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "violet",
+        "id": "t26cdt2-13"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "t26cdt2-14"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "teacher": "Trần Trường Lam",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "t26cdt2-15"
+      }
+    ]
+  },
+  "T26CGKL1": {
+    "code": "T26CGKL1",
+    "name": "Lớp T26CGKL1",
+    "major": "Cắt gọt kim loại - Hệ TC - Khóa học: 2026-2028 (T26CGKL1)",
+    "dept": "Cơ khí chế tạo",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "CD26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X4.PLT",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "orange",
+        "id": "t26cgkl1-1"
+      },
+      {
+        "code": "CD26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X4.PLT",
+        "weeks": [
+          10
+        ],
+        "color": "orange",
+        "id": "t26cgkl1-2"
+      },
+      {
+        "code": "CD26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          10
+        ],
+        "color": "orange",
+        "id": "t26cgkl1-3"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-4"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Phạm Thị Minh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "color": "teal",
+        "id": "t26cgkl1-5"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-6"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-7"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-8"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1B.203",
+        "weeks": [
+          13
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-9"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Lê Tiến Thành",
+        "dow": 4,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-10"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-11"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Nguyễn Thanh Thảo",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "t26cgkl1-12"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-13"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Nguyễn Thanh Thảo",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1B.203",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26cgkl1-14"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-15"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1B.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "color": "teal",
+        "id": "t26cgkl1-16"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1B.203",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-17"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-18"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26cgkl1-19"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Phạm Thị Minh",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "1B.203",
+        "weeks": [
+          7
+        ],
+        "color": "teal",
+        "id": "t26cgkl1-20"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-21"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 6,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-22"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X4.NGUOI",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-23"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X4.NGUOI",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-24"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 7,
+        "periods": [
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-25"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Nguyễn Hàm Hòa",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26cgkl1-26"
+      }
+    ]
+  },
+  "T26CGKL2": {
+    "code": "T26CGKL2",
+    "name": "Lớp T26CGKL2",
+    "major": "Cắt gọt kim loại - Hệ TC - Khóa học: 2026-2028 (T26CGKL2)",
+    "dept": "Cơ khí chế tạo",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Nguyễn Thị Bích",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "teal",
+        "id": "t26cgkl2-1"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-2"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-3"
+      },
+      {
+        "code": "TC26CGKL16",
+        "subject": "Cơ sở công nghệ gia công kim loại",
+        "teacher": "Nguyễn Thị Bích",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "teal",
+        "id": "t26cgkl2-4"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "rose",
+        "id": "t26cgkl2-5"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-6"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 3,
+        "periods": [
+          1
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-7"
+      },
+      {
+        "code": "TC26CGKL12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Từ Thị Tuyết",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26cgkl2-8"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Phạm Thị Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X5.301(NGUOI)",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-9"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Phạm Thị Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2X5.301(NGUOI)",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-10"
+      },
+      {
+        "code": "TC26CGKL15",
+        "subject": "Gia công nguội cơ bản",
+        "teacher": "Phạm Thị Minh",
+        "dow": 4,
+        "periods": [
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "t26cgkl2-11"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "2X5.301(NGUOI)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cgkl2-12"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "color": "rose",
+        "id": "t26cgkl2-13"
+      },
+      {
+        "code": "TC26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Phạm Thị Minh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "t26cgkl2-14"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 5,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          8
+        ],
+        "color": "rose",
+        "id": "t26cgkl2-15"
+      },
+      {
+        "code": "TC26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Phạm Thị Minh",
+        "dow": 5,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "t26cgkl2-16"
+      },
+      {
+        "code": "TC26CGKL10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Phạm Thị Minh",
+        "dow": 5,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8
+        ],
+        "color": "rose",
+        "id": "t26cgkl2-17"
+      },
+      {
+        "code": "TC26CGKL11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Phạm Thị Minh",
+        "dow": 5,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "t26cgkl2-18"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "teal",
+        "id": "t26cgkl2-19"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Nguyễn Chí Thức",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26cgkl2-20"
+      }
+    ]
+  },
+  "T26CNOT1": {
+    "code": "T26CNOT1",
+    "name": "Lớp T26CNOT1",
+    "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2026-2028 (T26CNOT1)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26cnot1-1"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "t26cnot1-2"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "violet",
+        "id": "t26cnot1-3"
+      },
+      {
+        "code": "TC26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26cnot1-4"
+      },
+      {
+        "code": "TC26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26cnot1-5"
+      },
+      {
+        "code": "TC26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26cnot1-6"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "violet",
+        "id": "t26cnot1-7"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cnot1-8"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "t26cnot1-9"
+      },
+      {
+        "code": "TC26CNOT14",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cnot1-10"
+      },
+      {
+        "code": "TC26CNOT14",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cnot1-11"
+      }
+    ]
+  },
+  "T26CNOT2": {
+    "code": "T26CNOT2",
+    "name": "Lớp T26CNOT2",
+    "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2026-2028 (T26CNOT2)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26cnot2-1"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 2,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "t26cnot2-2"
+      },
+      {
+        "code": "TC26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Lê Đình Giang",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26cnot2-3"
+      },
+      {
+        "code": "TC26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26cnot2-4"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "t26cnot2-5"
+      },
+      {
+        "code": "TC26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26cnot2-6"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "t26cnot2-7"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Vũ Quang Thoại",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "violet",
+        "id": "t26cnot2-8"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cnot2-9"
+      },
+      {
+        "code": "TC26CNOT14",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cnot2-10"
+      },
+      {
+        "code": "TC26CNOT14",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cnot2-11"
+      }
+    ]
+  },
+  "T26CNOT3": {
+    "code": "T26CNOT3",
+    "name": "Lớp T26CNOT3",
+    "major": "Công nghệ ô tô - Hệ TC - Khóa học: 2026-2028 (T26CNOT3)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CNOT14",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cnot3-1"
+      },
+      {
+        "code": "TC26CNOT14",
+        "subject": "Cấu tạo ô tô",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cnot3-2"
+      },
+      {
+        "code": "TC26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Lê Đình Giang",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26cnot3-3"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Lê Văn Minh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "violet",
+        "id": "t26cnot3-4"
+      },
+      {
+        "code": "TC26CNOT10",
+        "subject": "Dung sai lắp ghép và đo lường",
+        "teacher": "Lê Đình Giang",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26cnot3-5"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Lê Văn Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "violet",
+        "id": "t26cnot3-6"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Lê Văn Minh",
+        "dow": 4,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          18
+        ],
+        "color": "violet",
+        "id": "t26cnot3-7"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cnot3-8"
+      },
+      {
+        "code": "TC26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.203",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26cnot3-9"
+      },
+      {
+        "code": "TC26CNOT08",
+        "subject": "Kỹ thuật an toàn lao động",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26cnot3-10"
+      },
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "teacher": "Lê Văn Minh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "violet",
+        "id": "t26cnot3-11"
+      }
+    ]
+  },
+  "T26CNTT1": {
+    "code": "T26CNTT1",
+    "name": "Lớp T26CNTT1",
+    "major": "Công nghệ thông tin - Hệ TC - Khóa học: 2026-2028 (T26CNTT1)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt1-1"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal",
+        "id": "t26cntt1-2"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "t26cntt1-3"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "emerald",
+        "id": "t26cntt1-4"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26cntt1-5"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          13
+        ],
+        "color": "emerald",
+        "id": "t26cntt1-6"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 4,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "emerald",
+        "id": "t26cntt1-7"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "blue",
+        "id": "t26cntt1-8"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt1-9"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cntt1-10"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "t26cntt1-11"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "t26cntt1-12"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "t26cntt1-13"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt1-14"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "t26cntt1-15"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Phạm Đình Trịnh",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt1-16"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "t26cntt1-17"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Trần T.Thanh Hương",
+        "dow": 7,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "t26cntt1-18"
+      }
+    ]
+  },
+  "T26CNTT2": {
+    "code": "T26CNTT2",
+    "name": "Lớp T26CNTT2",
+    "major": "Công nghệ thông tin - Hệ TC - Khóa học: 2026-2028 (T26CNTT2)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Vũ Thị Tho",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "emerald",
+        "id": "t26cntt2-1"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Nguyễn Bá Thủy",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          17
+        ],
+        "color": "blue",
+        "id": "t26cntt2-2"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Vũ Thị Tho",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2B.403(LAB6)",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cntt2-3"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Vũ Thị Tho",
+        "dow": 2,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26cntt2-4"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Nguyễn Bá Thủy",
+        "dow": 2,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "blue",
+        "id": "t26cntt2-5"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt2-6"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần Lệ Thủy",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal",
+        "id": "t26cntt2-7"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26cntt2-8"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Nguyễn Bá Thủy",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "blue",
+        "id": "t26cntt2-9"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần Lệ Thủy",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "t26cntt2-10"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần Lệ Thủy",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "t26cntt2-11"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt2-12"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "teacher": "Nguyễn Bá Thủy",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "t26cntt2-13"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt2-14"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "teacher": "Trần Lệ Thủy",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "t26cntt2-15"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26cntt2-16"
+      }
+    ]
+  },
+  "T26CTCK": {
+    "code": "T26CTCK",
+    "name": "Lớp T26CTCK",
+    "major": "Chế tạo thiết bị cơ khí - Hệ TC - Khóa học: 2026-2028 (T26CTCK)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "TC26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Trần Thị Hằng",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.302",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "teal",
+        "id": "t26ctck-1"
+      },
+      {
+        "code": "TC26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Trần Thị Hằng",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2A.302",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26ctck-2"
+      },
+      {
+        "code": "TC26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.204",
+        "weeks": [
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26ctck-3"
+      },
+      {
+        "code": "TC26CTCK09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Trần Thị Hằng",
+        "dow": 2,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26ctck-4"
+      },
+      {
+        "code": "TC26CTCK11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.202",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "orange",
+        "id": "t26ctck-5"
+      },
+      {
+        "code": "TC26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.204",
+        "weeks": [
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26ctck-6"
+      },
+      {
+        "code": "TC26CTCK11",
+        "subject": "Vật liệu cơ khí",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "orange",
+        "id": "t26ctck-7"
+      },
+      {
+        "code": "TC26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26ctck-8"
+      },
+      {
+        "code": "TC26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.205",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26ctck-9"
+      },
+      {
+        "code": "TC26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.204",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26ctck-10"
+      },
+      {
+        "code": "TC26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "teacher": "Nguyễn Văn Dũng",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26ctck-11"
+      },
+      {
+        "code": "TC26CTCK14",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "teacher": "Lê Đình Sen",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "emerald",
+        "id": "t26ctck-12"
+      },
+      {
+        "code": "TC26CTCK14",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "teacher": "Lê Đình Sen",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "emerald",
+        "id": "t26ctck-13"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26ctck-14"
+      },
+      {
+        "code": "TC26CTCK14",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "teacher": "Lê Đình Sen",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.102(TIG)",
+        "weeks": [
+          16,
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ctck-15"
+      },
+      {
+        "code": "TC26CTCK14",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "teacher": "Lê Đình Sen",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ctck-16"
+      }
+    ]
+  },
+  "T26DCN1": {
+    "code": "T26DCN1",
+    "name": "Lớp T26DCN1",
+    "major": "Điện công nghiệp - Hệ TC - Khóa học: 2026-2028 (T26DCN1)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "rose",
+        "id": "t26dcn1-1"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn1-2"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26dcn1-3"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn1-4"
+      },
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn1-5"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "t26dcn1-6"
+      },
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn1-7"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "t26dcn1-8"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26dcn1-9"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26dcn1-10"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26dcn1-11"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "orange",
+        "id": "t26dcn1-12"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26dcn1-13"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 6,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26dcn1-14"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26dcn1-15"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Đoàn Trung Tắng",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "rose",
+        "id": "t26dcn1-16"
+      }
+    ]
+  },
+  "T26DCN2": {
+    "code": "T26DCN2",
+    "name": "Lớp T26DCN2",
+    "major": "Điện công nghiệp - Hệ TC - Khóa học: 2026-2028 (T26DCN2)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "color": "rose",
+        "id": "t26dcn2-1"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn2-2"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Minh Tân",
+        "dow": 2,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn2-3"
+      },
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.203(X.ĐKN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn2-4"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Trần Quốc Anh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "t26dcn2-5"
+      },
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Trương Thiện Quân",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn2-6"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Trần Quốc Anh",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "t26dcn2-7"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Hà Thị Thu Phương",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.201(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26dcn2-8"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "1X7.201(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26dcn2-9"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Hà Thị Thu Phương",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.201(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26dcn2-10"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "orange",
+        "id": "t26dcn2-11"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X6.203(X.TĐH)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26dcn2-12"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Đào Danh Tài",
+        "dow": 7,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26dcn2-13"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Hà Thị Thu Phương",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26dcn2-14"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Hà Thị Thu Phương",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26dcn2-15"
+      }
+    ]
+  },
+  "T26DCN3": {
+    "code": "T26DCN3",
+    "name": "Lớp T26DCN3",
+    "major": "Điện công nghiệp - Hệ TC - Khóa học: 2026-2028 (T26DCN3)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn3-1"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X6.201(CCĐ)",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "teal",
+        "id": "t26dcn3-2"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Lê Thanh Thịnh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26dcn3-3"
+      },
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn3-4"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16,
+          17
+        ],
+        "color": "teal",
+        "id": "t26dcn3-5"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Lê Thanh Thịnh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26dcn3-6"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Lê Thanh Thịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26dcn3-7"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26dcn3-8"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "orange",
+        "id": "t26dcn3-9"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26dcn3-10"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 5,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26dcn3-11"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "rose",
+        "id": "t26dcn3-12"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn3-13"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 6,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn3-14"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Lê Thanh Thịnh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "rose",
+        "id": "t26dcn3-15"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Lê Thanh Thịnh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15
+        ],
+        "color": "rose",
+        "id": "t26dcn3-16"
+      }
+    ]
+  },
+  "T26DCN4": {
+    "code": "T26DCN4",
+    "name": "Lớp T26DCN4",
+    "major": "Điện công nghiệp - Hệ TC - Khóa học: 2026-2028 (T26DCN4)",
+    "dept": "Điện",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn4-1"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.402(LĐĐ)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "t26dcn4-2"
+      },
+      {
+        "code": "TC26DCN09",
+        "subject": "An toàn điện",
+        "teacher": "Nguyễn T. Thu Hương",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "rose",
+        "id": "t26dcn4-3"
+      },
+      {
+        "code": "TC26DCN11",
+        "subject": "Vẽ điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "t26dcn4-4"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X6.201(CCĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26dcn4-5"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "color": "orange",
+        "id": "t26dcn4-6"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2X1.401(TBĐ)",
+        "weeks": [
+          13
+        ],
+        "color": "orange",
+        "id": "t26dcn4-7"
+      },
+      {
+        "code": "TC26DCN12",
+        "subject": "Đo lường điện",
+        "teacher": "Trần Thị Thu",
+        "dow": 4,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "orange",
+        "id": "t26dcn4-8"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X6.201(CCĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26dcn4-9"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "2X1.402(LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "color": "rose",
+        "id": "t26dcn4-10"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "rose",
+        "id": "t26dcn4-11"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn4-12"
+      },
+      {
+        "code": "TC26DCN10",
+        "subject": "Mạch Điện",
+        "teacher": "Lê Thị Diệp",
+        "dow": 6,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "rose",
+        "id": "t26dcn4-13"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "rose",
+        "id": "t26dcn4-14"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "teacher": "Nguyễn Thị Hiên",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15
+        ],
+        "color": "rose",
+        "id": "t26dcn4-15"
+      }
+    ]
+  },
+  "T26HAN1": {
+    "code": "T26HAN1",
+    "name": "Lớp T26HAN1",
+    "major": "Hàn - Hệ TC - Khóa học: 2026-2028 (T26HAN1)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Trần Ngọc Thủy",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "t26han1-1"
+      },
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Trần Ngọc Thủy",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "t26han1-2"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26han1-3"
+      },
+      {
+        "code": "TC26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.109",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26han1-4"
+      },
+      {
+        "code": "TC26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26han1-5"
+      },
+      {
+        "code": "TC26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.109",
+        "weeks": [
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26han1-6"
+      },
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Trần Ngọc Thủy",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "t26han1-7"
+      },
+      {
+        "code": "TC26HAN09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.210",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "t26han1-8"
+      },
+      {
+        "code": "TC26HAN09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1A.210",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26han1-9"
+      },
+      {
+        "code": "TC26HAN09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Huỳnh Minh Tuấn",
+        "dow": 7,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26han1-10"
+      }
+    ]
+  },
+  "T26HAN2": {
+    "code": "T26HAN2",
+    "name": "Lớp T26HAN2",
+    "major": "Hàn - Hệ TC - Khóa học: 2026-2028 (T26HAN2)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Nguyễn Công Tâm",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "t26han2-1"
+      },
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Nguyễn Công Tâm",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "t26han2-2"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26han2-3"
+      },
+      {
+        "code": "TC26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.204",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26han2-4"
+      },
+      {
+        "code": "TC26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26han2-5"
+      },
+      {
+        "code": "TC26HAN09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.205",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "teal",
+        "id": "t26han2-6"
+      },
+      {
+        "code": "TC26HAN09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2A.205",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26han2-7"
+      },
+      {
+        "code": "TC26HAN09",
+        "subject": "Kỹ thuật an toàn và bảo hộ lao động",
+        "teacher": "Chu Minh Cẩn",
+        "dow": 5,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26han2-8"
+      },
+      {
+        "code": "TC26HAN10",
+        "subject": "Vẽ Kỹ Thuật",
+        "teacher": "Lê Đình Giang",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.204",
+        "weeks": [
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26han2-9"
+      },
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "teacher": "Nguyễn Công Tâm",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "t26han2-10"
+      }
+    ]
+  },
+  "T26KTML1": {
+    "code": "T26KTML1",
+    "name": "Lớp T26KTML1",
+    "major": "KTML&ĐHKK - Hệ TC - Khóa học: 2026-2028 (T26KTML1)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue",
+        "id": "t26ktml1-1"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "t26ktml1-2"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml1-3"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.101(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "t26ktml1-4"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 3,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X6.101(X.ĐL)",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ktml1-5"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 3,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ktml1-6"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml1-7"
+      },
+      {
+        "code": "TC26MC08",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Trần Văn Quốc",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.102(X.ĐL)",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26ktml1-8"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml1-9"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "rose",
+        "id": "t26ktml1-10"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "rose",
+        "id": "t26ktml1-11"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          10
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26ktml1-12"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue",
+        "id": "t26ktml1-13"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml1-14"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 6,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "t26ktml1-15"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 6,
+        "periods": [
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "t26ktml1-16"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "rose",
+        "id": "t26ktml1-17"
+      },
+      {
+        "code": "TC26MC08",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Trần Văn Quốc",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26ktml1-18"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "t26ktml1-19"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ktml1-20"
+      }
+    ]
+  },
+  "T26KTML2": {
+    "code": "T26KTML2",
+    "name": "Lớp T26KTML2",
+    "major": "KTML&ĐHKK - Hệ TC - Khóa học: 2026-2028 (T26KTML2)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue",
+        "id": "t26ktml2-1"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "t26ktml2-2"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml2-3"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26ktml2-4"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          19
+        ],
+        "color": "emerald",
+        "id": "t26ktml2-5"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml2-6"
+      },
+      {
+        "code": "TC26MC08",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Trần Văn Quốc",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.102(X.ĐL)",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26ktml2-7"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 4,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26ktml2-8"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 4,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26ktml2-9"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml2-10"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "rose",
+        "id": "t26ktml2-11"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "rose",
+        "id": "t26ktml2-12"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue",
+        "id": "t26ktml2-13"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml2-14"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 6,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "t26ktml2-15"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 6,
+        "periods": [
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "t26ktml2-16"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Bùi Văn Vinh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "rose",
+        "id": "t26ktml2-17"
+      },
+      {
+        "code": "TC26MC08",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Trần Văn Quốc",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26ktml2-18"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "t26ktml2-19"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Lê Văn Thịnh",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ktml2-20"
+      }
+    ]
+  },
+  "T26KTML3": {
+    "code": "T26KTML3",
+    "name": "Lớp T26KTML3",
+    "major": "KTML&ĐHKK - Hệ TC - Khóa học: 2026-2028 (T26KTML3)",
+    "dept": "",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 2,
+        "periods": [
+          10
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26ktml3-1"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Cao Danh",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          19
+        ],
+        "color": "emerald",
+        "id": "t26ktml3-2"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26ktml3-3"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26ktml3-4"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "t26ktml3-5"
+      },
+      {
+        "code": "TC26KTML11",
+        "subject": "Cơ sở kỹ thuật nhiệt - lạnh và điều hoà không khí",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26ktml3-6"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          10
+        ],
+        "color": "teal",
+        "id": "t26ktml3-7"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 4,
+        "periods": [
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          10
+        ],
+        "color": "teal",
+        "id": "t26ktml3-8"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "blue",
+        "id": "t26ktml3-9"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml3-10"
+      },
+      {
+        "code": "TC26MC08",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14
+        ],
+        "color": "rose",
+        "id": "t26ktml3-11"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Cao Danh",
+        "dow": 5,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2X4.201(ĐL)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26ktml3-12"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Cao Danh",
+        "dow": 5,
+        "periods": [
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "t26ktml3-13"
+      },
+      {
+        "code": "TC26MC08",
+        "subject": "Đo lường điện lạnh",
+        "teacher": "Nguyễn Trọng Công",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.301(ĐL)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "rose",
+        "id": "t26ktml3-14"
+      },
+      {
+        "code": "TC26KTML10",
+        "subject": "An toàn điện lạnh",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "blue",
+        "id": "t26ktml3-15"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Vòng Quốc Bảo",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.302",
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "blue",
+        "id": "t26ktml3-16"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Vòng Quốc Bảo",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.302",
+        "weeks": [
+          16
+        ],
+        "color": "blue",
+        "id": "t26ktml3-17"
+      },
+      {
+        "code": "TC26KTML12",
+        "subject": "Cơ sở kỹ thuật điện",
+        "teacher": "Vòng Quốc Bảo",
+        "dow": 7,
+        "periods": [
+          6
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "blue",
+        "id": "t26ktml3-18"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "teacher": "Nguyễn Cao Danh",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "emerald",
+        "id": "t26ktml3-19"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Đỗ Hồng Kiên",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "t26ktml3-20"
+      }
+    ]
+  },
+  "T26LOG": {
+    "code": "T26LOG",
+    "name": "Lớp T26LOG",
+    "major": "Logistics - Hệ TC - Khóa học: 2026-2028 (T26LOG)",
+    "dept": "Cơ khí chế tạo",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26MC09",
+        "subject": "Quản trị học",
+        "teacher": "Nguyễn Thị Thu Hà",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ],
+        "color": "orange",
+        "id": "t26log-1"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26log-2"
+      },
+      {
+        "code": "TC26MC09",
+        "subject": "Quản trị học",
+        "teacher": "Nguyễn Thị Thu Hà",
+        "dow": 3,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "orange",
+        "id": "t26log-3"
+      },
+      {
+        "code": "TC26LGT10",
+        "subject": "Nhập môn Logistics",
+        "teacher": "Vũ Thị Mai",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "blue",
+        "id": "t26log-4"
+      },
+      {
+        "code": "TC26LGT10",
+        "subject": "Nhập môn Logistics",
+        "teacher": "Vũ Thị Mai",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "t26log-5"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Vũ Thị Mai",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "teal",
+        "id": "t26log-6"
+      },
+      {
+        "code": "TC15QTM24",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả",
+        "teacher": "Vũ Thị Mai",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "teal",
+        "id": "t26log-7"
+      },
+      {
+        "code": "TC26LGT11",
+        "subject": "Kinh tế Vi mô",
+        "teacher": "Bùi Thị Thu Ngà",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "t26log-8"
+      },
+      {
+        "code": "TC26LGT11",
+        "subject": "Kinh tế Vi mô",
+        "teacher": "Bùi Thị Thu Ngà",
+        "dow": 6,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "blue",
+        "id": "t26log-9"
+      }
+    ]
+  },
+  "T26NHKS": {
+    "code": "T26NHKS",
+    "name": "Lớp T26NHKS",
+    "major": "Nghiệp vụ nhà hàng khách sạn - Hệ TC - Khóa học: 2026-2028 (T26NHKS)",
+    "dept": "Du lịch",
+    "startDate": "2026-09-07",
+    "maxWeeks": 19,
+    "schedule": [
+      {
+        "code": "T26NHKS08",
+        "subject": "Marketing nhà hàng, khách sạn (*)",
+        "teacher": "Phạm Thị Trang",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26nhks-1"
+      },
+      {
+        "code": "T26NHKS19",
+        "subject": "Nghiệp vụ buồng phòng",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26nhks-2"
+      },
+      {
+        "code": "T26NHKS19",
+        "subject": "Nghiệp vụ buồng phòng",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26nhks-3"
+      },
+      {
+        "code": "T26NHKS08",
+        "subject": "Marketing nhà hàng, khách sạn (*)",
+        "teacher": "Phạm Thị Trang",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9
+        ],
+        "color": "emerald",
+        "id": "t26nhks-4"
+      },
+      {
+        "code": "T26NHKS19",
+        "subject": "Nghiệp vụ buồng phòng",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "t26nhks-5"
+      },
+      {
+        "code": "T26NHKS18",
+        "subject": "Nghiệp vụ lễ tân",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "t26nhks-6"
+      },
+      {
+        "code": "T26NHKS19",
+        "subject": "Nghiệp vụ buồng phòng",
+        "teacher": "Nguyễn Thị Thu Huệ",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "rose",
+        "id": "t26nhks-7"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "rose",
+        "id": "t26nhks-8"
+      },
+      {
+        "code": "T26NHKS18",
+        "subject": "Nghiệp vụ lễ tân",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "t26nhks-9"
+      },
+      {
+        "code": "T26NHKS18",
+        "subject": "Nghiệp vụ lễ tân",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "orange",
+        "id": "t26nhks-10"
+      },
+      {
+        "code": "T26NHKS15",
+        "subject": "Tổ chức phục vụ nhà hàng",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "violet",
+        "id": "t26nhks-11"
+      },
+      {
+        "code": "T26NHKS15",
+        "subject": "Tổ chức phục vụ nhà hàng",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          16
+        ],
+        "color": "violet",
+        "id": "t26nhks-12"
+      },
+      {
+        "code": "T26NHKS07",
+        "subject": "Tổng quan về du lịch và khách sạn (*)",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "blue",
+        "id": "t26nhks-13"
+      },
+      {
+        "code": "T26NHKS15",
+        "subject": "Tổ chức phục vụ nhà hàng",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          16
+        ],
+        "color": "violet",
+        "id": "t26nhks-14"
+      },
+      {
+        "code": "T26NHKS07",
+        "subject": "Tổng quan về du lịch và khách sạn (*)",
+        "teacher": "Nguyễn Thị Lương",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          10
+        ],
+        "color": "blue",
+        "id": "t26nhks-15"
+      },
+      {
+        "code": "T26NHKS15",
+        "subject": "Tổ chức phục vụ nhà hàng",
+        "teacher": "Trần Ngọc Minh",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "violet",
+        "id": "t26nhks-16"
+      }
+    ]
+  },
+  "T26TKDH": {
+    "code": "T26TKDH",
+    "name": "Lớp T26TKDH",
+    "major": "Thiết kế đồ họa - Hệ TC - Khóa học: 2026-2028 (T26TKDH)",
+    "dept": "Công nghệ thông tin",
+    "startDate": "2026-09-07",
+    "maxWeeks": 20,
+    "schedule": [
+      {
+        "code": "TC26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.303",
+        "weeks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "color": "rose",
+        "id": "t26tkdh-1"
+      },
+      {
+        "code": "TC26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "rose",
+        "id": "t26tkdh-2"
+      },
+      {
+        "code": "TC26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.303",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26tkdh-3"
+      },
+      {
+        "code": "TC26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26tkdh-4"
+      },
+      {
+        "code": "TC26TKDH13",
+        "subject": "Đồ họa ứng dụng Photoshop",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          18
+        ],
+        "color": "teal",
+        "id": "t26tkdh-5"
+      },
+      {
+        "code": "TC26TKDH13",
+        "subject": "Đồ họa ứng dụng Photoshop",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 4,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "t26tkdh-6"
+      },
+      {
+        "code": "TC26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "rose",
+        "id": "t26tkdh-7"
+      },
+      {
+        "code": "TC26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26tkdh-8"
+      },
+      {
+        "code": "SHL",
+        "subject": "Sinh hoạt lớp",
+        "teacher": "",
+        "dow": 5,
+        "periods": [
+          5
+        ],
+        "room": "2B.402(LAB5)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "t26tkdh-9"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Nguyễn Thị Mai",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.302(LAB3)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "color": "emerald",
+        "id": "t26tkdh-10"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Nguyễn Thị Mai",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2B.302(LAB3)",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26tkdh-11"
+      },
+      {
+        "code": "TC26MC02",
+        "subject": "Tin học",
+        "teacher": "Nguyễn Thị Mai",
+        "dow": 6,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14
+        ],
+        "color": "emerald",
+        "id": "t26tkdh-12"
+      },
+      {
+        "code": "TC26TKDH13",
+        "subject": "Đồ họa ứng dụng Photoshop",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "teal",
+        "id": "t26tkdh-13"
+      },
+      {
+        "code": "TC26TKDH13",
+        "subject": "Đồ họa ứng dụng Photoshop",
+        "teacher": "Trần Thị Thùy Dung",
+        "dow": 7,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "t26tkdh-14"
+      },
+      {
+        "code": "TC26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "rose",
+        "id": "t26tkdh-15"
+      },
+      {
+        "code": "TC26TKDH09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "teacher": "Hoàng Thanh Bình",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "rose",
+        "id": "t26tkdh-16"
+      },
+      {
+        "code": "TC26TKDH11",
+        "subject": "Mỹ thuật căn bản",
+        "teacher": "Hoàng Trần Hồng Nhã",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "rose",
+        "id": "t26tkdh-17"
       }
     ]
   }
