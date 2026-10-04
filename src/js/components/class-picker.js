@@ -101,10 +101,13 @@ function renderClassPickerOptions(filterText = '') {
     return;
   }
 
-  const k25 = [], k24 = [], t25 = [], others = [];
+  const cd26 = [], cd25 = [], cd24 = [], t26 = [], t25 = [], vh = [], others = [];
   filtered.forEach((k) => {
-    if (k.startsWith('CD25')) k25.push(k);
-    else if (k.startsWith('CD24')) k24.push(k);
+    if (k.startsWith('CD26')) cd26.push(k);
+    else if (k.startsWith('CD25')) cd25.push(k);
+    else if (k.startsWith('CD24')) cd24.push(k);
+    else if (k.includes('VH')) vh.push(k);
+    else if (k.startsWith('T26')) t26.push(k);
     else if (k.startsWith('T25')) t25.push(k);
     else others.push(k);
   });
@@ -141,9 +144,12 @@ function renderClassPickerOptions(filterText = '') {
     return gHtml;
   }
 
-  html += renderGroup('Cao Đẳng · Khóa 2025 (K25)', k25);
-  html += renderGroup('Cao Đẳng · Khóa 2024 (K24)', k24);
+  html += renderGroup('Trung Cấp · Khóa 2026 (T26 - Kèm Văn Hóa)', t26);
+  html += renderGroup('Cao Đẳng · Khóa 2026 (CD26)', cd26);
+  html += renderGroup('Cao Đẳng · Khóa 2025 (CD25)', cd25);
   html += renderGroup('Trung Cấp · Khóa 2025 (T25)', t25);
+  html += renderGroup('Cao Đẳng · Khóa 2024 (CD24)', cd24);
+  html += renderGroup('Lớp Văn Hóa THPT (T25VH / T26VH)', vh);
   html += renderGroup('Khác', others);
 
   listContainer.innerHTML = html;

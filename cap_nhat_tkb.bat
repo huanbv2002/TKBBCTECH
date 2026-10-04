@@ -4,4 +4,5 @@ echo ========================================================
 echo   CAP NHAT THOI KHOA BIEU TU DONG TU FILE PDF
 echo ========================================================
 python "%~dp0scripts\update_tkb.py" %*
+python "%~dp0scripts\merge_t26_vanhoa.py"
 pause
