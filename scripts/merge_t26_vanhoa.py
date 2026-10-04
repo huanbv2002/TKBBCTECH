@@ -209,26 +209,26 @@ T26_MAPPING = {
     'T26NHKS': {
         'type': 'single',
         'vocational': 'T26NHKS',
-        'cultural': 'T26VH15',
+        'cultural': 'T26VH16',
         'campus': 'CS2',
         'campusName': 'CS2 - Vũng Tàu',
-        'desc': 'Nhà hàng khách sạn + VH15 (CS2 - Vũng Tàu)'
+        'desc': 'Nhà hàng khách sạn + VH16 (CS2 - Vũng Tàu)'
     },
     'T26TKDH': {
         'type': 'single',
         'vocational': 'T26TKDH',
-        'cultural': 'T26VH16',
+        'cultural': 'T26VH15',
         'campus': 'CS2',
         'campusName': 'CS2 - Vũng Tàu',
-        'desc': 'Thiết kế đồ họa + VH16 (CS2 - Vũng Tàu)'
+        'desc': 'Thiết kế đồ họa + VH15 (CS2 - Vũng Tàu)'
     },
     'T26CNTT2': {
         'type': 'single',
         'vocational': 'T26CNTT2',
-        'cultural': 'T26VH16',
+        'cultural': 'T26VH15',
         'campus': 'CS2',
         'campusName': 'CS2 - Vũng Tàu',
-        'desc': 'CNTT + VH16 (CS2 - Vũng Tàu)'
+        'desc': 'CNTT + VH15 (CS2 - Vũng Tàu)'
     },
     'T26CBMA2': {
         'type': 'single',
@@ -296,10 +296,10 @@ T26_MAPPING = {
                 'code': 'T26LOG-N1',
                 'name': 'Lớp T26LOG (Nhóm 1)',
                 'vocational': 'T26LOG',
-                'cultural': 'T26VH15',
+                'cultural': 'T26VH16',
                 'campus': 'CS2',
                 'campusName': 'CS2 - Vũng Tàu',
-                'desc': 'Logistics (Nhóm 1 + VH15 · CS2)'
+                'desc': 'Logistics (Nhóm 1 + VH16 · CS2)'
             },
             {
                 'code': 'T26LOG-N2',
