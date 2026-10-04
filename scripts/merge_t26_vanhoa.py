@@ -403,6 +403,10 @@ def run_merge():
                     print(f"[NHÓM] {grp_code:12s} (+ {vh_code:8s}) -> {len(combined_sch)} tiết ({grp['desc']})")
                     merged_count += 1
 
+            # Xóa lớp gốc "chỉ môn nghề" để tránh trùng lặp và gây nhầm lẫn cho học sinh
+            database.pop(base_code, None)
+            print(f"[TINH GỌN] Đã ẩn lớp gốc '{base_code}' để học sinh chọn đúng nhóm có đủ Văn hóa")
+
     # Lưu ngược vào file json và file js
     with open(db_path, "w", encoding="utf-8") as f:
         json.dump(database, f, ensure_ascii=False, indent=2)
