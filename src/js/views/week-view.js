@@ -170,7 +170,7 @@ function renderDesktopGrid(events, weekHolidays, isCurrentWeek, todayDate) {
             <div class="event-list">${cell.map((item) => `
               <div class="event ${item.color || ''} ${holiday ? 'holiday-cancelled' : ''}">
                 <strong>${escapeHtml(item.subject)}</strong>
-                <small>${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))})</small>
+                <small>${escapeHtml(periodLabel(item.periods))}</small>
                 <small>Phòng: <b>${escapeHtml(item.room)}</b></small>
                 ${holiday ? `<span class="event-holiday-tag">Nghỉ Lễ: ${escapeHtml(holiday.name)}</span>` : (item.teacher ? `<small class="teacher-name">${escapeHtml(item.teacher)}</small>` : '')}
               </div>`).join('')}
@@ -312,7 +312,7 @@ function renderAgendaCard(item, holiday) {
       <div class="agenda-meta-row">
         <span class="agenda-badge">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-          ${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))})
+          ${escapeHtml(periodLabel(item.periods))}
         </span>
         <span class="agenda-badge agenda-room-badge">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
@@ -397,7 +397,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
               <div class="mvt-card ${item.color || 'blue'}">
                 <strong class="mvt-card-title">${escapeHtml(item.subject)}</strong>
                 <div class="mvt-card-info">
-                  <span>${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))})</span>
+                  <span>${escapeHtml(periodLabel(item.periods))}</span>
                   <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
                 </div>
                 ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}
@@ -410,7 +410,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
               <div class="mvt-card ${item.color || 'blue'}">
                 <strong class="mvt-card-title">${escapeHtml(item.subject)}</strong>
                 <div class="mvt-card-info">
-                  <span>${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))})</span>
+                  <span>${escapeHtml(periodLabel(item.periods))}</span>
                   <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
                 </div>
                 ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}
@@ -424,7 +424,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
                 <div class="mvt-card ${item.color || 'blue'}">
                   <strong class="mvt-card-title">${escapeHtml(item.subject)}</strong>
                   <div class="mvt-card-info">
-                    <span>${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))})</span>
+                    <span>${escapeHtml(periodLabel(item.periods))}</span>
                     <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
                   </div>
                   ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}

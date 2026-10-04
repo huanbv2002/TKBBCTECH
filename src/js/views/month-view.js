@@ -70,7 +70,7 @@ function renderMonth() {
               <strong>Nghỉ toàn trường</strong>
               <small>${escapeHtml(holiday.name)}</small>
             </div>
-          ` : items.map((item) => `<div class="cal-event ${item.color || ''}" title="${escapeHtml(item.subject)} · ${escapeHtml(item.room)}">${escapeHtml(displayTime(item.periods).split('–')[0])} ${escapeHtml(item.subject)}</div>`).join('')}
+          ` : items.map((item) => `<div class="cal-event ${item.color || ''}" title="${escapeHtml(item.subject)} · ${escapeHtml(item.room)}">${escapeHtml(periodLabel(item.periods))} · ${escapeHtml(item.subject)}</div>`).join('')}
         </div>
       </div>`;
   }

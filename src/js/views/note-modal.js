@@ -26,7 +26,7 @@ function openNoteModal(dateKey) {
     classesHtml += items.map((item) => `
       <div class="modal-day-class-card ${holiday ? 'holiday-cancelled' : ''}">
         <strong>${escapeHtml(item.subject)}</strong>
-        <span>${escapeHtml(periodLabel(item.periods))} (${escapeHtml(displayTime(item.periods))}) · Phòng <b>${escapeHtml(item.room)}</b> · ${escapeHtml(item.teacher || 'Chưa có GV')}</span>
+        <span>${escapeHtml(periodLabel(item.periods))} · Phòng <b>${escapeHtml(item.room)}</b> · ${escapeHtml(item.teacher || 'Chưa có GV')}</span>
         ${holiday ? `<span class="event-holiday-tag" style="margin-top:4px;">Nghỉ Lễ Toàn Trường: ${escapeHtml(holiday.name)}</span>` : ''}
       </div>
     `).join('');
