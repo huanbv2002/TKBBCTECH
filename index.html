@@ -39,6 +39,7 @@
   <script src="src/js/components/class-picker.js?v=56"></script>
   <script src="src/js/components/pdf-uploader.js?v=56"></script>
   <script src="src/js/components/tour.js?v=56"></script>
+  <script src="src/js/components/announcement-modal.js?v=57"></script>
   <script src="src/js/views/note-modal.js?v=56"></script>
   <script src="src/js/views/week-view.js?v=56"></script>
   <script src="src/js/views/month-view.js?v=56"></script>
@@ -442,6 +443,62 @@
       </div>
       <div class="modal-footer">
         <button class="outline-btn" id="pdf-modal-done">Đóng</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Feature Update & Community Release Note Modal -->
+  <div class="modal-backdrop" id="announcement-modal" hidden>
+    <div class="modal-dialog announcement-modal-dialog">
+      <div class="modal-header">
+        <div>
+          <div class="modal-eyebrow" style="display:flex; align-items:center; gap:6px; color:var(--primary); font-weight:700;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg>
+            <span>TÍNH NĂNG MỚI</span>
+          </div>
+          <h3 id="announcement-modal-title" style="margin-top:2px;">Tra cứu TKB Giảng viên (GVGD)</h3>
+        </div>
+        <button class="modal-close-btn" id="announcement-modal-close" aria-label="Đóng">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+      <div class="modal-body announcement-modal-body">
+        <div class="announcement-text">
+          <p>Xin chào thầy cô và các bạn!</p>
+          <p>Nhằm hỗ trợ việc theo dõi lịch giảng dạy và học tập thuận tiện hơn, trang web vừa được bổ sung tính năng: <b>Tra cứu Thời khóa biểu Giảng viên (GVGD)</b>.</p>
+          
+          <div class="announcement-highlight-box">
+            <div style="font-weight: 700; color: var(--slate-900); margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+              <span>Đôi lời gửi gắm:</span>
+            </div>
+            <p style="margin-bottom: 8px;">
+              Mình là Huấn, sinh viên lớp <b>CD25CNTT2</b>. Ban đầu trang web này ra đời chỉ là một dự án nhỏ để phục vụ việc học tập cá nhân và chia sẻ cho bạn bè cùng trường tra cứu thuận tiện hơn.
+            </p>
+            <p style="margin-bottom: 8px;">
+              Mình cũng đã công khai toàn bộ mã nguồn của dự án này trên GitHub tại liên kết bên dưới. Nếu các bạn đang có ý định nghiên cứu, tham khảo hoặc phát triển các đề tài dựa trên mã nguồn này, mình rất hoan nghênh! Sẽ thật tuyệt vời và có ý nghĩa nếu bạn dành một góc nhỏ ghi nhận sự đóng góp của mình (<b>Huấn - CD25CNTT2</b>) trong dự án hoặc một hệ thống của các bạn thì đó là điều thật tuyệt vời.
+            </p>
+            <p style="margin-bottom: 0;">
+              Và đây là link Profile của mình, nếu các bạn quan tâm thì hãy vào xem nhé! Chúc mọi người có một kỳ học thật hiệu quả!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer announcement-footer">
+        <div class="announcement-btn-group">
+          <a href="https://github.com/huanbv2002/TKBBCTECH" target="_blank" rel="noopener noreferrer" class="announcement-link-btn" title="Xem mã nguồn mở trên GitHub">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
+            <span>Mã nguồn GitHub</span>
+          </a>
+          <a href="https://buivanhuan.com/" target="_blank" rel="noopener noreferrer" class="announcement-link-btn" title="Ghé thăm Portfolio Bùi Văn Huấn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+            <span>Profile cá nhân</span>
+          </a>
+        </div>
+        <button type="button" class="primary-btn announcement-done-btn" id="announcement-modal-done">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+          <span>Đã hiểu & Đóng</span>
+        </button>
       </div>
     </div>
   </div>

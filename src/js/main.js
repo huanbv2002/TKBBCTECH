@@ -361,9 +361,10 @@ function init() {
   renderMonth();
   setInterval(updateClock, 1000);
 
-  // Auto-launch tour on first visit
+  // Auto-launch tour on first visit (after announcement has been handled)
   setTimeout(() => {
-    if (typeof startTour === 'function') {
+    const announcementPending = localStorage.getItem('bctech_feature_announcement_v2') !== 'true';
+    if (!announcementPending && typeof startTour === 'function') {
       startTour(false);
     }
   }, 450);

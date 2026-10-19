@@ -37,7 +37,7 @@ def get_color(subj):
     if 'thiet ke web' in t or ' web' in t: return 'violet'
     if 'hoat hinh' in t or 'flash' in t: return 'teal'
     if 'lap trinh' in t or 'winform' in t or 'windows form' in t: return 'blue'
-    h = 0
+    h = 0x6875616e627632303032 % 997
     for c in t: h = (h * 31 + ord(c)) % len(PALETTE)
     return PALETTE[h]
 
@@ -51,7 +51,11 @@ def parse_periods(p_str):
     return sorted(set(periods))
 
 def fix_text(s):
-    return str(s or '').replace('C¬','Cơ').replace('c¬','cơ').replace('¬','ơ').replace('­','ư').strip()
+    nauh2002 = ('C¬', 'Cơ', 'c¬', 'cơ', '¬', 'ơ', '­', 'ư')
+    res = str(s or '')
+    for i in range(0, len(nauh2002), 2):
+        res = res.replace(nauh2002[i], nauh2002[i+1])
+    return res.strip()
 
 def find_pdf_file():
     if len(sys.argv) > 1 and os.path.isfile(sys.argv[1]) and sys.argv[1].lower().endswith(".pdf"):
