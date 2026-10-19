@@ -13,23 +13,23 @@ function updateClassPickerButton(code) {
     const tCode = settings.teacherCode;
     if (typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE && ALL_TEACHERS_DATABASE[tCode]) {
       const info = ALL_TEACHERS_DATABASE[tCode];
-      triggerText.innerHTML = `<strong>${escapeHtml(info.name)}</strong> · ${escapeHtml(info.dept || info.code || 'Giảng viên')}`;
+      triggerText.innerHTML = `<span class="picker-trigger-name">${escapeHtml(info.name)}</span><span class="picker-trigger-sub"> · ${escapeHtml(info.dept || info.code || 'Giảng viên')}</span>`;
       return;
     }
-    triggerText.innerHTML = `<strong>${escapeHtml(tCode)}</strong> · Giảng viên`;
+    triggerText.innerHTML = `<span class="picker-trigger-name">${escapeHtml(tCode)}</span><span class="picker-trigger-sub"> · Giảng viên</span>`;
     return;
   }
 
   const currentCode = code || (settings && settings.classCode) || 'CD25CNTT2';
   if (typeof ALL_CLASSES_DATABASE === 'object' && ALL_CLASSES_DATABASE && ALL_CLASSES_DATABASE[currentCode]) {
     const info = ALL_CLASSES_DATABASE[currentCode];
-    triggerText.innerHTML = `<strong>${currentCode}</strong> · ${escapeHtml(info.major || info.name || '')}`;
+    triggerText.innerHTML = `<span class="picker-trigger-name">${currentCode}</span><span class="picker-trigger-sub"> · ${escapeHtml(info.major || info.name || '')}</span>`;
   } else {
-    triggerText.innerHTML = `<strong>${currentCode}</strong>`;
+    triggerText.innerHTML = `<span class="picker-trigger-name">${currentCode}</span>`;
   }
 }
 
-function setPickerType(type) {
+function setPickerType(type, keepQuery = false) {
   currentPickerType = type;
   const tabClass = $('picker-tab-class');
   const tabTeacher = $('picker-tab-teacher');
@@ -40,8 +40,12 @@ function setPickerType(type) {
     input.placeholder = type === 'teacher' 
       ? 'Gõ tên giảng viên hoặc mã (vd: Minh, Thu, Khoa, Hà, BCTECH...)'
       : 'Gõ tên lớp hoặc ngành học (vd: CNTT, Ô tô, May, Điện...)';
-    input.value = '';
-    renderClassPickerOptions('');
+    if (!keepQuery) {
+      input.value = '';
+      renderClassPickerOptions('');
+    } else {
+      renderClassPickerOptions(input.value);
+    }
     input.focus();
   }
 }
@@ -137,7 +141,62 @@ function renderClassPickerOptions(filterText = '') {
     }
 
     if (!filtered.length) {
-      listContainer.innerHTML = `<div class="picker-empty-state">Không tìm thấy giảng viên nào khớp với "<strong>${escapeHtml(query)}</strong>"</div>`;
+      let crossHtml = '';
+      if (normQuery && typeof ALL_CLASSES_DATABASE === 'object' && ALL_CLASSES_DATABASE) {
+        const classKeys = Object.keys(ALL_CLASSES_DATABASE);
+        const matchingClasses = classKeys.filter((c) => {
+          const info = ALL_CLASSES_DATABASE[c];
+          const normC = removeVietnameseTones(c);
+          const normM = removeVietnameseTones(info.major || '');
+          const normD = removeVietnameseTones(info.dept || '');
+          return normC.includes(normQuery) || normM.includes(normQuery) || normD.includes(normQuery);
+        });
+
+        if (matchingClasses.length > 0) {
+          const previewClasses = matchingClasses.slice(0, 5);
+          crossHtml = `
+            <div class="picker-cross-hint">
+              <div class="cross-hint-title">Bạn đang tìm lớp học?</div>
+              <div class="cross-hint-sub">Tìm thấy ${matchingClasses.length} lớp học phù hợp ở mục <strong>Học sinh / Lớp</strong>:</div>
+              <div class="picker-cross-list">
+                ${previewClasses.map((c) => {
+                  const info = ALL_CLASSES_DATABASE[c];
+                  return `
+                    <div class="picker-item picker-class-item is-cross-match" data-cross-class="${c}">
+                      <div class="picker-item-left">
+                        <span class="picker-item-code">${c}</span>
+                        <span class="picker-item-major">${escapeHtml(info.major || '')}</span>
+                      </div>
+                      <span class="picker-cross-btn">Xem lịch lớp</span>
+                    </div>
+                  `;
+                }).join('')}
+              </div>
+              <button type="button" class="picker-switch-tab-btn" id="btn-switch-to-class">
+                Chuyển sang tìm theo Lớp (${matchingClasses.length} kết quả)
+              </button>
+            </div>
+          `;
+        }
+      }
+
+      listContainer.innerHTML = `
+        <div class="picker-empty-state">Không tìm thấy giảng viên nào khớp với "<strong>${escapeHtml(query)}</strong>"</div>
+        ${crossHtml}
+      `;
+
+      listContainer.querySelectorAll('[data-cross-class]').forEach((el) => {
+        el.addEventListener('click', () => {
+          const c = el.getAttribute('data-cross-class');
+          if (c) selectClass(c);
+        });
+      });
+      const btnSwitch = $('btn-switch-to-class');
+      if (btnSwitch) {
+        btnSwitch.addEventListener('click', () => {
+          setPickerType('class', true);
+        });
+      }
       return;
     }
 
@@ -153,6 +212,22 @@ function renderClassPickerOptions(filterText = '') {
     let html = '';
     let globalItemIndex = 0;
 
+    if (normQuery && typeof ALL_CLASSES_DATABASE === 'object' && ALL_CLASSES_DATABASE) {
+      const classKeys = Object.keys(ALL_CLASSES_DATABASE);
+      const matchClassesCount = classKeys.filter((c) => {
+        const info = ALL_CLASSES_DATABASE[c];
+        return removeVietnameseTones(c).includes(normQuery) || removeVietnameseTones(info.major || '').includes(normQuery);
+      }).length;
+      if (matchClassesCount > 0) {
+        html += `
+          <div class="picker-switch-hint">
+            <span>Tìm thấy thêm <strong>${matchClassesCount} lớp học</strong> khớp từ khóa.</span>
+            <button type="button" class="picker-switch-link" id="link-switch-to-class">Xem lớp &rarr;</button>
+          </div>
+        `;
+      }
+    }
+
     Object.keys(deptGroups).sort().forEach((deptName) => {
       const tKeys = deptGroups[deptName];
       html += `<div class="picker-group-heading">${escapeHtml(deptName)} (${tKeys.length})</div>`;
@@ -164,14 +239,14 @@ function renderClassPickerOptions(filterText = '') {
         const itemIndex = globalItemIndex++;
 
         html += `
-          <div class="picker-item ${isSelected ? 'is-selected' : ''}" 
+          <div class="picker-item picker-teacher-item ${isSelected ? 'is-selected' : ''}" 
                data-teacher="${k}" 
                data-index="${itemIndex}"
                role="option" 
                aria-selected="${isSelected ? 'true' : 'false'}">
             <div class="picker-item-left">
               <span class="picker-item-code">${nameHtml}</span>
-              <span class="picker-item-major">Mã: ${codeHtml} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
+              <span class="picker-item-major">Mã: ${codeHtml} · ${escapeHtml(info.dept || '')} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
             </div>
             <div class="picker-item-check" aria-hidden="true">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -188,6 +263,12 @@ function renderClassPickerOptions(filterText = '') {
         if (t) selectTeacher(t);
       });
     });
+    const linkSwitch = $('link-switch-to-class');
+    if (linkSwitch) {
+      linkSwitch.addEventListener('click', () => {
+        setPickerType('class', true);
+      });
+    }
     return;
   }
 
@@ -215,7 +296,62 @@ function renderClassPickerOptions(filterText = '') {
   }
 
   if (!filtered.length) {
-    listContainer.innerHTML = `<div class="picker-empty-state">Không tìm thấy lớp học nào khớp với "<strong>${escapeHtml(query)}</strong>"</div>`;
+    let crossHtml = '';
+    if (normQuery && typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE) {
+      const teacherKeys = Object.keys(ALL_TEACHERS_DATABASE);
+      const matchingTeachers = teacherKeys.filter((k) => {
+        const info = ALL_TEACHERS_DATABASE[k];
+        const normName = removeVietnameseTones(info.name || '');
+        const normCode = removeVietnameseTones(info.code || k);
+        const normDept = removeVietnameseTones(info.dept || '');
+        return normName.includes(normQuery) || normCode.includes(normQuery) || normDept.includes(normQuery);
+      });
+
+      if (matchingTeachers.length > 0) {
+        const previewTeachers = matchingTeachers.slice(0, 5);
+        crossHtml = `
+          <div class="picker-cross-hint">
+            <div class="cross-hint-title">Bạn đang tìm giảng viên?</div>
+            <div class="cross-hint-sub">Tìm thấy ${matchingTeachers.length} giảng viên phù hợp ở mục <strong>Giảng viên</strong>:</div>
+            <div class="picker-cross-list">
+              ${previewTeachers.map((k) => {
+                const info = ALL_TEACHERS_DATABASE[k];
+                return `
+                  <div class="picker-item picker-teacher-item is-cross-match" data-cross-teacher="${k}">
+                    <div class="picker-item-left">
+                      <span class="picker-item-code">${escapeHtml(info.name || k)}</span>
+                      <span class="picker-item-major">Mã: ${escapeHtml(info.code || k)} · ${escapeHtml(info.dept || '')}</span>
+                    </div>
+                    <span class="picker-cross-btn">Xem lịch dạy</span>
+                  </div>
+                `;
+              }).join('')}
+            </div>
+            <button type="button" class="picker-switch-tab-btn" id="btn-switch-to-teacher">
+              Chuyển sang tìm theo Giảng viên (${matchingTeachers.length} kết quả)
+            </button>
+          </div>
+        `;
+      }
+    }
+
+    listContainer.innerHTML = `
+      <div class="picker-empty-state">Không tìm thấy lớp học nào khớp với "<strong>${escapeHtml(query)}</strong>"</div>
+      ${crossHtml}
+    `;
+
+    listContainer.querySelectorAll('[data-cross-teacher]').forEach((el) => {
+      el.addEventListener('click', () => {
+        const t = el.getAttribute('data-cross-teacher');
+        if (t) selectTeacher(t);
+      });
+    });
+    const btnSwitchTeacher = $('btn-switch-to-teacher');
+    if (btnSwitchTeacher) {
+      btnSwitchTeacher.addEventListener('click', () => {
+        setPickerType('teacher', true);
+      });
+    }
     return;
   }
 
@@ -233,6 +369,23 @@ function renderClassPickerOptions(filterText = '') {
   let html = '';
   let globalItemIndex = 0;
 
+  if (normQuery && typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE) {
+    const teacherKeys = Object.keys(ALL_TEACHERS_DATABASE);
+    const matchTeachersCount = teacherKeys.filter((k) => {
+      const info = ALL_TEACHERS_DATABASE[k];
+      return removeVietnameseTones(info.name || '').includes(normQuery) || 
+             removeVietnameseTones(info.code || k).includes(normQuery);
+    }).length;
+    if (matchTeachersCount > 0) {
+      html += `
+        <div class="picker-switch-hint">
+          <span>Tìm thấy thêm <strong>${matchTeachersCount} giảng viên</strong> khớp từ khóa.</span>
+          <button type="button" class="picker-switch-link" id="link-switch-to-teacher">Xem giảng viên &rarr;</button>
+        </div>
+      `;
+    }
+  }
+
   function renderGroup(title, groupKeys) {
     if (!groupKeys.length) return '';
     let gHtml = `<div class="picker-group-heading">${title} (${groupKeys.length})</div>`;
@@ -244,7 +397,7 @@ function renderClassPickerOptions(filterText = '') {
       const itemIndex = globalItemIndex++;
 
       gHtml += `
-        <div class="picker-item ${isSelected ? 'is-selected' : ''}" 
+        <div class="picker-item picker-class-item ${isSelected ? 'is-selected' : ''}" 
              data-class="${c}" 
              data-index="${itemIndex}"
              role="option" 
@@ -278,6 +431,13 @@ function renderClassPickerOptions(filterText = '') {
       if (c) selectClass(c);
     });
   });
+
+  const linkSwitchTeacher = $('link-switch-to-teacher');
+  if (linkSwitchTeacher) {
+    linkSwitchTeacher.addEventListener('click', () => {
+      setPickerType('teacher', true);
+    });
+  }
 }
 
 function selectClass(classCode) {
@@ -310,8 +470,16 @@ function initClassPicker() {
   const listContainer = $('picker-options-list');
   const tabClass = $('picker-tab-class');
   const tabTeacher = $('picker-tab-teacher');
+  const mobileCloseBtn = $('picker-mobile-close');
 
   updateClassPickerButton();
+
+  if (mobileCloseBtn) {
+    mobileCloseBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      closeClassPicker();
+    });
+  }
 
   if (tabClass) {
     tabClass.addEventListener('click', (e) => {
