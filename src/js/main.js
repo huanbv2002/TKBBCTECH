@@ -12,7 +12,14 @@ let lastClockKey = '';
 
 function updateHeader() {
   const week = currentWeek();
-  if ($('brand-class')) $('brand-class').textContent = settings.classCode || 'Lớp học';
+  if ($('brand-class')) {
+    if (settings.viewMode === 'teacher' && settings.teacherCode) {
+      const t = typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE && ALL_TEACHERS_DATABASE[settings.teacherCode];
+      $('brand-class').textContent = t ? t.name : 'Giảng viên';
+    } else {
+      $('brand-class').textContent = settings.classCode || 'Lớp học';
+    }
+  }
   if ($('semester-progress-label')) $('semester-progress-label').textContent = `Tuần ${week} / ${maxWeeks()}`;
   
   const statusEl = $('top-status-badge');
@@ -79,6 +86,7 @@ function showView(view) {
 function switchClass(classCode) {
   if (typeof ALL_CLASSES_DATABASE === 'object' && ALL_CLASSES_DATABASE && ALL_CLASSES_DATABASE[classCode]) {
     const classData = ALL_CLASSES_DATABASE[classCode];
+    settings.viewMode = 'class';
     settings.classCode = classData.code || classCode;
     settings.semesterStart = classData.startDate || '2026-09-07';
     settings.maxWeeks = classData.maxWeeks || 18;
@@ -86,7 +94,26 @@ function switchClass(classCode) {
 
     schedule = (classData.schedule || []).map(normalizeScheduleRow);
 
-    updateClassPickerButton(settings.classCode);
+    updateClassPickerButton();
+    focusWeek = currentWeek();
+    renderWeek();
+    renderMonth();
+    updateHeader();
+  }
+}
+
+function switchTeacher(teacherCode) {
+  if (typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE && ALL_TEACHERS_DATABASE[teacherCode]) {
+    const tData = ALL_TEACHERS_DATABASE[teacherCode];
+    settings.viewMode = 'teacher';
+    settings.teacherCode = teacherCode;
+    settings.semesterStart = tData.startDate || '2026-09-07';
+    settings.maxWeeks = tData.maxWeeks || 22;
+    saveSettings();
+
+    schedule = (tData.schedule || []).map(normalizeScheduleRow);
+
+    updateClassPickerButton();
     focusWeek = currentWeek();
     renderWeek();
     renderMonth();

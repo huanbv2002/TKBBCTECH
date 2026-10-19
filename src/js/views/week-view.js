@@ -172,7 +172,7 @@ function renderDesktopGrid(events, weekHolidays, isCurrentWeek, todayDate) {
                 <strong>${escapeHtml(item.subject)}</strong>
                 <small>${escapeHtml(periodLabel(item.periods))}</small>
                 <small>Phòng: <b>${escapeHtml(item.room)}</b></small>
-                ${holiday ? `<span class="event-holiday-tag">Nghỉ Lễ: ${escapeHtml(holiday.name)}</span>` : (item.teacher ? `<small class="teacher-name">${escapeHtml(item.teacher)}</small>` : '')}
+                ${holiday ? `<span class="event-holiday-tag">Nghỉ Lễ: ${escapeHtml(holiday.name)}</span>` : (item.className ? `<small class="teacher-name">Lớp: ${escapeHtml(item.className)}</small>` : (item.teacher ? `<small class="teacher-name">${escapeHtml(item.teacher)}</small>` : ''))}
               </div>`).join('')}
             </div>` : (holiday ? `
             <div class="holiday-empty-slot">
@@ -318,13 +318,17 @@ function renderAgendaCard(item, holiday) {
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
           Phòng: ${escapeHtml(item.room)}
         </span>
-      </div>
-      ${item.teacher ? `
+      ${item.className ? `
+        <div class="agenda-teacher-row">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+          <span>Lớp học: <b>${escapeHtml(item.className)}</b></span>
+        </div>
+      ` : (item.teacher ? `
         <div class="agenda-teacher-row">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
           <span>Giảng viên: <b>${escapeHtml(item.teacher)}</b></span>
         </div>
-      ` : ''}
+      ` : '')}
     </div>
   `;
 }
@@ -400,7 +404,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
                   <span>${escapeHtml(periodLabel(item.periods))}</span>
                   <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
                 </div>
-                ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}
+                ${item.className ? `<div class="mvt-card-teacher">Lớp: ${escapeHtml(item.className)}</div>` : (item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : '')}
               </div>
             `).join('') : '<span class="mvt-empty-hint">—</span>'}
           </div>
@@ -413,7 +417,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
                   <span>${escapeHtml(periodLabel(item.periods))}</span>
                   <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
                 </div>
-                ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}
+                ${item.className ? `<div class="mvt-card-teacher">Lớp: ${escapeHtml(item.className)}</div>` : (item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : '')}
               </div>
             `).join('') : '<span class="mvt-empty-hint">—</span>'}
           </div>
@@ -427,7 +431,7 @@ function renderMobileVerticalTable(events, weekHolidays, isCurrentWeek, todayDat
                     <span>${escapeHtml(periodLabel(item.periods))}</span>
                     <span>Phòng: <b>${escapeHtml(item.room)}</b></span>
                   </div>
-                  ${item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : ''}
+                  ${item.className ? `<div class="mvt-card-teacher">Lớp: ${escapeHtml(item.className)}</div>` : (item.teacher ? `<div class="mvt-card-teacher">${escapeHtml(item.teacher)}</div>` : '')}
                 </div>
               `).join('') : '<span class="mvt-empty-hint">—</span>'}
             </div>

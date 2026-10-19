@@ -29,7 +29,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="src/css/main.css?v=56" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-  <script src="data/classes_data.js?v=56"></script>
+  <script src="data/classes_data.js?v=57"></script>
+  <script src="data/teachers_data.js?v=57"></script>
   <script src="src/js/config.js?v=56"></script>
   <script src="src/js/utils.js?v=56"></script>
   <script src="src/js/storage.js?v=56"></script>
@@ -97,6 +98,10 @@
 
             <!-- Search Dropdown Popover -->
             <div class="class-picker-dropdown" id="class-picker-dropdown" hidden>
+              <div class="picker-type-toggle" id="picker-type-toggle">
+                <button type="button" class="picker-type-btn active" data-type="class" id="picker-tab-class">Học sinh / Lớp</button>
+                <button type="button" class="picker-type-btn" data-type="teacher" id="picker-tab-teacher">Giảng viên</button>
+              </div>
               <div class="picker-search-box">
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                 <input type="text" id="class-search-input" placeholder="Gõ tên lớp hoặc ngành học (vd: CNTT, Ô tô, May, Điện...)" autocomplete="off" spellcheck="false" />

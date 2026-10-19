@@ -19,7 +19,15 @@ function loadSettings() {
 }
 
 function loadSchedule() {
-  const currentCode = settings.classCode || 'CD25CNTT2';
+  if (settings && settings.viewMode === 'teacher' && settings.teacherCode) {
+    if (typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE && ALL_TEACHERS_DATABASE[settings.teacherCode]) {
+      const tData = ALL_TEACHERS_DATABASE[settings.teacherCode];
+      if (Array.isArray(tData.schedule) && tData.schedule.length) {
+        return tData.schedule.map(normalizeScheduleRow);
+      }
+    }
+  }
+  const currentCode = (settings && settings.classCode) || 'CD25CNTT2';
   if (typeof ALL_CLASSES_DATABASE === 'object' && ALL_CLASSES_DATABASE && ALL_CLASSES_DATABASE[currentCode]) {
     const classData = ALL_CLASSES_DATABASE[currentCode];
     if (Array.isArray(classData.schedule) && classData.schedule.length) {

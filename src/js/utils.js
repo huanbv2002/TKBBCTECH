@@ -120,6 +120,7 @@ function normalizeScheduleRow(item) {
     code: normalizeCode(item.code),
     subject: cleanText(item.subject),
     teacher: cleanText(item.teacher),
+    className: cleanText(item.className || item.class || ''),
     dow: Number.isInteger(dow) ? dow : 0,
     periods: normalizePeriods(item.periods || item.period || ''),
     room: normalizeRoom(item.room),
