@@ -25,8 +25,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "blue",
         "id": "bctech001-1"
@@ -44,7 +43,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.203",
         "weeks": [
-          17,
           19
         ],
         "color": "rose",
@@ -66,8 +64,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "blue",
         "id": "bctech001-3"
@@ -86,11 +83,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.MAI",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           17
         ],
         "color": "blue",
@@ -129,17 +121,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          8
         ],
         "color": "teal",
         "id": "bctech001-6"
@@ -167,8 +149,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech001-7"
@@ -186,16 +167,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PLT)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
           18
         ],
         "color": "emerald",
@@ -224,8 +195,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           13,
-          14,
-          18
+          14
         ],
         "color": "rose",
         "id": "bctech001-9"
@@ -241,7 +211,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17,
           18
         ],
         "color": "emerald",
@@ -260,7 +229,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
           17
         ],
         "color": "blue",
@@ -276,13 +244,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           14
         ],
         "color": "rose",
@@ -307,17 +268,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19
+          7
         ],
         "color": "violet",
         "id": "bctech001-13"
@@ -335,11 +286,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.203",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9,
           10,
@@ -371,8 +317,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          19
+          7
         ],
         "color": "teal",
         "id": "bctech001-15"
@@ -387,16 +332,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           19
         ],
         "color": "rose",
@@ -440,9 +375,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
           18
         ],
         "color": "orange",
@@ -463,8 +395,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           4,
           5,
-          6,
-          7
+          6
         ],
         "color": "violet",
         "id": "bctech001-19"
@@ -518,8 +449,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "color": "rose",
         "id": "bctech002-1"
@@ -538,15 +468,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X5.101(TCNC)",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          10
         ],
         "color": "rose",
         "id": "bctech002-2"
@@ -564,16 +486,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X5.101(PCNC)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           11,
           12,
           13,
@@ -615,8 +527,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "blue",
         "id": "bctech002-4"
@@ -632,18 +543,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "blue",
@@ -662,11 +561,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -737,8 +631,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "blue",
         "id": "bctech002-8"
@@ -754,18 +647,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
           14
         ],
         "color": "blue",
@@ -840,10 +721,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.NGUOI",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -887,8 +764,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech003-2"
@@ -904,7 +780,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.NGUOI",
         "weeks": [
-          16,
           17
         ],
         "color": "emerald",
@@ -920,10 +795,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X5.102(PHAY)",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "orange",
@@ -946,8 +817,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "emerald",
         "id": "bctech003-5"
@@ -966,16 +836,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           17
         ],
         "color": "emerald",
@@ -1019,18 +879,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15
+          14
         ],
         "color": "rose",
         "id": "bctech003-8"
@@ -1079,8 +928,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech003-10"
@@ -1096,7 +944,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
           16
         ],
         "color": "orange",
@@ -1149,8 +996,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech004-1"
@@ -1185,13 +1031,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "orange",
@@ -1268,24 +1107,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          14
         ],
         "color": "teal",
         "id": "bctech005-2"
@@ -1338,7 +1160,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
           2,
           3,
           4,
@@ -1395,8 +1216,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1,
           2,
-          3,
-          4
+          3
         ],
         "color": "violet",
         "id": "bctech005-6"
@@ -1415,18 +1235,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.PLT",
         "weeks": [
-          4,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          4
         ],
         "color": "violet",
         "id": "bctech005-7"
@@ -1444,9 +1253,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.101(TIEN)",
         "weeks": [
-          1,
-          2,
-          3,
           6,
           7,
           8,
@@ -1512,8 +1318,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "color": "rose",
         "id": "bctech006-1"
@@ -1532,23 +1337,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.TIEN",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          10
         ],
         "color": "rose",
         "id": "bctech006-2"
@@ -1599,16 +1388,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.PHAY",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           18
         ],
         "color": "teal",
@@ -1636,8 +1415,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          18
+          13
         ],
         "color": "rose",
         "id": "bctech006-5"
@@ -1655,7 +1433,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
           18
         ],
         "color": "teal",
@@ -1675,10 +1452,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.203",
         "weeks": [
-          13,
-          14,
-          15,
-          16
+          14
         ],
         "color": "rose",
         "id": "bctech006-7"
@@ -1721,8 +1495,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "rose",
         "id": "bctech006-9"
@@ -1741,7 +1514,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(TCNC)",
         "weeks": [
-          10,
           18
         ],
         "color": "rose",
@@ -1760,8 +1532,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          18
+          10
         ],
         "color": "rose",
         "id": "bctech006-11"
@@ -1818,8 +1589,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           12,
-          13,
-          14
+          13
         ],
         "color": "violet",
         "id": "bctech174-1"
@@ -1850,16 +1620,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           14
         ],
         "color": "violet",
@@ -1887,8 +1647,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "violet",
         "id": "bctech174-4"
@@ -1920,10 +1679,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
           12
         ],
         "color": "violet",
@@ -1945,10 +1700,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          12,
-          13
+          10
         ],
         "color": "violet",
         "id": "bctech174-7"
@@ -1998,8 +1750,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           15,
-          16,
-          17
+          16
         ],
         "color": "rose",
         "id": "bctech008-1"
@@ -2015,15 +1766,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           17
         ],
         "color": "rose",
@@ -2050,8 +1792,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
         "color": "teal",
         "id": "bctech008-3"
@@ -2070,15 +1811,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           10
         ],
         "color": "teal",
@@ -2106,12 +1838,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          10
         ],
         "color": "teal",
         "id": "bctech008-5"
@@ -2175,8 +1902,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech008-7"
@@ -2208,8 +1934,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "rose",
         "id": "bctech008-8"
@@ -2228,21 +1953,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.101(X.GAM)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "rose",
@@ -2293,7 +2003,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
           13,
           14,
           15
@@ -2314,8 +2023,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          16
+          10
         ],
         "color": "teal",
         "id": "bctech008-12"
@@ -2332,7 +2040,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
           16
         ],
         "color": "violet",
@@ -2352,8 +2059,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          15
+          10
         ],
         "color": "teal",
         "id": "bctech008-14"
@@ -2369,13 +2075,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15
         ],
         "color": "emerald",
@@ -2436,8 +2135,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "teal",
         "id": "bctech009-1"
@@ -2456,8 +2154,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2.STRG",
         "weeks": [
-          11,
-          18
+          11
         ],
         "color": "teal",
         "id": "bctech009-2"
@@ -2476,11 +2173,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -2499,13 +2191,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           13,
           14,
           15,
@@ -2534,8 +2219,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          18
+          9
         ],
         "color": "emerald",
         "id": "bctech009-5"
@@ -2552,11 +2236,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -2575,8 +2254,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          8,
-          9,
           13,
           14,
           15,
@@ -2596,21 +2273,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "emerald",
         "id": "bctech009-8"
@@ -2674,8 +2338,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "teal",
         "id": "bctech009-10"
@@ -2693,14 +2356,9 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech009-11"
@@ -2718,13 +2376,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           10,
           12,
           13,
@@ -2755,9 +2406,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          16,
-          18
+          9
         ],
         "color": "blue",
         "id": "bctech009-13"
@@ -2772,8 +2421,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
           16,
           18
         ],
@@ -2790,21 +2437,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "blue",
         "id": "bctech009-15"
@@ -2852,9 +2486,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
           16
         ],
         "color": "teal",
@@ -2875,8 +2506,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "teal",
         "id": "bctech009-18"
@@ -2893,13 +2523,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          11
         ],
         "color": "teal",
         "id": "bctech009-19"
@@ -2959,8 +2583,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "teal",
         "id": "bctech010-1"
@@ -2993,14 +2616,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
+          11
         ],
         "color": "teal",
         "id": "bctech010-3"
@@ -3018,16 +2634,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
           13,
           14,
           15,
@@ -3086,16 +2692,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.101(ĐIOT1)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13,
           14,
@@ -3164,8 +2760,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech010-8"
@@ -3210,7 +2805,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          11,
           14,
           15,
           16,
@@ -3232,22 +2826,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17
+          11
         ],
         "color": "blue",
         "id": "bctech011-2"
@@ -3307,8 +2886,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "blue",
         "id": "bctech011-4"
@@ -3326,16 +2904,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           11
         ],
         "color": "blue",
@@ -3363,8 +2931,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          17
+          10
         ],
         "color": "blue",
         "id": "bctech011-6"
@@ -3382,10 +2949,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "blue",
@@ -3404,7 +2967,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X.ĐIOTO2(EV)",
         "weeks": [
-          11,
           13,
           14,
           15,
@@ -3424,22 +2986,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
+          11
         ],
         "color": "blue",
         "id": "bctech011-9"
@@ -3472,8 +3019,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "blue",
         "id": "bctech011-10"
@@ -3525,23 +3071,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          17
         ],
         "color": "blue",
         "id": "bctech011-13"
@@ -3605,8 +3135,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech011-15"
@@ -3638,22 +3167,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          16
         ],
         "color": "teal",
         "id": "bctech011-17"
@@ -3686,7 +3200,6 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
           18
         ],
         "color": "teal",
@@ -3705,10 +3218,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
           17
         ],
         "color": "blue",
@@ -3727,16 +3236,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13,
           14,
@@ -3767,8 +3266,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          16
+          10
         ],
         "color": "teal",
         "id": "bctech011-21"
@@ -3784,8 +3282,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          16,
-          17
+          16
         ],
         "color": "teal",
         "id": "bctech011-22"
@@ -3801,7 +3298,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
           17
         ],
         "color": "blue",
@@ -3820,7 +3316,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
           16
         ],
         "color": "teal",
@@ -3886,8 +3381,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "violet",
         "id": "bctech012-1"
@@ -3919,23 +3413,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.102(X.ĐCƠ)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "violet",
@@ -3970,8 +3447,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech012-4"
@@ -3989,12 +3465,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "violet",
@@ -4013,13 +3483,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.102(X.ĐCƠ)",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
           13,
           14,
           15,
@@ -4055,8 +3518,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "rose",
         "id": "bctech012-7"
@@ -4074,21 +3536,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "violet",
@@ -4152,8 +3599,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech012-10"
@@ -4219,21 +3665,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          9
         ],
         "color": "blue",
         "id": "bctech013-2"
@@ -4328,8 +3761,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech013-5"
@@ -4347,20 +3779,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "teal",
@@ -4459,13 +3877,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "emerald",
         "id": "bctech014-2"
@@ -4490,8 +3902,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "teal",
         "id": "bctech014-3"
@@ -4523,13 +3934,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           17
         ],
         "color": "teal",
@@ -4569,11 +3973,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -4599,16 +3998,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
+          9
         ],
         "color": "rose",
         "id": "bctech014-8"
@@ -4626,8 +4016,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.103(X.ĐCƠ)",
         "weeks": [
-          8,
-          9,
           10,
           11,
           13,
@@ -4651,21 +4039,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          9
         ],
         "color": "rose",
         "id": "bctech014-10"
@@ -4721,8 +4096,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          19
+          9
         ],
         "color": "teal",
         "id": "bctech014-12"
@@ -4740,7 +4114,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.103(X.ĐCƠ)",
         "weeks": [
-          17,
           19
         ],
         "color": "emerald",
@@ -4760,8 +4133,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
           17
         ],
         "color": "rose",
@@ -4777,11 +4148,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -4807,8 +4173,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          19
+          9
         ],
         "color": "rose",
         "id": "bctech014-16"
@@ -4841,8 +4206,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
           19
         ],
         "color": "emerald",
@@ -4859,9 +4222,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          15,
-          16
+          9
         ],
         "color": "rose",
         "id": "bctech014-19"
@@ -4879,8 +4240,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
           15,
           16
         ],
@@ -4900,17 +4259,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.202(ĐCO)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
           13,
           14,
           15,
@@ -4998,13 +4346,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          14
         ],
         "color": "emerald",
         "id": "bctech015-2"
@@ -5046,13 +4388,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           12,
           13,
           14,
@@ -5099,8 +4434,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          18
+          9
         ],
         "color": "emerald",
         "id": "bctech015-6"
@@ -5116,22 +4450,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -5208,11 +4526,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18
+          14
         ],
         "color": "emerald",
         "id": "bctech015-10"
@@ -5230,13 +4544,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           13,
           14,
           15,
@@ -5281,12 +4588,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18
+          9
         ],
         "color": "teal",
         "id": "bctech015-13"
@@ -5327,13 +4629,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -5391,8 +4686,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          19
+          9
         ],
         "color": "rose",
         "id": "bctech016-1"
@@ -5410,8 +4704,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.103(X.ĐCƠ)",
         "weeks": [
-          8,
-          9,
           19
         ],
         "color": "rose",
@@ -5427,11 +4719,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -5457,16 +4744,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
+          9
         ],
         "color": "emerald",
         "id": "bctech016-4"
@@ -5484,8 +4762,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.103(X.ĐCƠ)",
         "weeks": [
-          8,
-          9,
           10,
           11,
           13,
@@ -5509,11 +4785,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -5539,8 +4810,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          19
+          9
         ],
         "color": "rose",
         "id": "bctech016-7"
@@ -5573,8 +4843,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
           19
         ],
         "color": "rose",
@@ -5590,21 +4858,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          9
         ],
         "color": "rose",
         "id": "bctech016-10"
@@ -5636,8 +4891,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "rose",
         "id": "bctech016-11"
@@ -5656,15 +4910,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "rose",
@@ -5711,8 +4956,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17,
-          19
+          17
         ],
         "color": "rose",
         "id": "bctech016-14"
@@ -5745,20 +4989,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           19
         ],
         "color": "rose",
@@ -5809,9 +5039,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
           9,
           10
         ],
@@ -5835,8 +5062,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          19
+          10
         ],
         "color": "emerald",
         "id": "bctech016-19"
@@ -5855,11 +5081,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18,
           19
         ],
         "color": "rose",
@@ -5909,21 +5130,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          11
         ],
         "color": "blue",
         "id": "bctech017-1"
@@ -5955,8 +5162,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech017-2"
@@ -5975,21 +5181,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "teal",
@@ -6019,7 +5210,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -6047,8 +5237,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech017-5"
@@ -6064,7 +5253,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
           16
         ],
         "color": "emerald",
@@ -6099,12 +5287,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          13,
-          14,
-          15,
-          16,
-          18
+          11
         ],
         "color": "blue",
         "id": "bctech017-8"
@@ -6122,16 +5305,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           13,
           14,
           15,
@@ -6163,12 +5336,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          13,
-          14,
-          15,
-          16,
-          18
+          10
         ],
         "color": "blue",
         "id": "bctech017-10"
@@ -6186,16 +5354,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           13,
           14,
           15,
@@ -6254,18 +5412,10 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X1.GAM",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -6303,8 +5453,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech019-2"
@@ -6323,21 +5472,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "rose",
@@ -6370,8 +5504,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "violet",
         "id": "bctech019-4"
@@ -6431,7 +5564,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -6460,8 +5592,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech019-7"
@@ -6477,8 +5608,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech019-8"
@@ -6496,10 +5626,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           18
         ],
         "color": "teal",
@@ -6522,9 +5648,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          14,
-          15
+          5
         ],
         "color": "teal",
         "id": "bctech019-10"
@@ -6543,8 +5667,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech019-11"
@@ -6560,10 +5683,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           16
         ],
         "color": "rose",
@@ -6585,8 +5704,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2,
           3,
-          4,
-          5
+          4
         ],
         "color": "teal",
         "id": "bctech019-13"
@@ -6605,8 +5723,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.201(GAM)",
         "weeks": [
-          5,
-          15
+          5
         ],
         "color": "teal",
         "id": "bctech019-14"
@@ -6623,9 +5740,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
           15
         ],
         "color": "violet",
@@ -6644,7 +5758,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
           12,
           13,
           14
@@ -6692,13 +5805,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           17,
           18,
           19
@@ -6741,9 +5847,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          16,
-          17
+          9
         ],
         "color": "teal",
         "id": "bctech021-3"
@@ -6761,13 +5865,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           16,
           17
         ],
@@ -6793,10 +5890,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          17,
-          18,
-          19
+          9
         ],
         "color": "orange",
         "id": "bctech021-5"
@@ -6814,8 +5908,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          8,
-          9,
           17,
           18,
           19
@@ -6834,8 +5926,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          19
+          9
         ],
         "color": "orange",
         "id": "bctech021-7"
@@ -6850,11 +5941,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
           19
         ],
         "color": "rose",
@@ -6877,12 +5963,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17
+          11
         ],
         "color": "teal",
         "id": "bctech021-9"
@@ -6900,16 +5981,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
           13,
           14,
           15,
@@ -6946,8 +6017,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "rose",
         "id": "bctech021-11"
@@ -6980,13 +6050,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           19
         ],
         "color": "rose",
@@ -7027,9 +6090,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          10,
-          11
+          9
         ],
         "color": "emerald",
         "id": "bctech021-15"
@@ -7077,8 +6138,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech022-1"
@@ -7096,14 +6156,11 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X5.102(TIEN)",
         "weeks": [
-          5,
-          6,
           7,
           8,
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -7139,8 +6196,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "teal",
         "id": "bctech022-3"
@@ -7158,18 +6214,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           19
         ],
         "color": "emerald",
@@ -7199,8 +6243,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "teal",
         "id": "bctech022-5"
@@ -7232,14 +6275,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           18
         ],
         "color": "teal",
@@ -7291,8 +6326,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "violet",
         "id": "bctech022-9"
@@ -7327,13 +6361,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          9
         ],
         "color": "violet",
         "id": "bctech022-11"
@@ -7356,8 +6384,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech022-12"
@@ -7376,14 +6403,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "emerald",
@@ -7436,21 +6455,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.102(HAN)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16,
           17
         ],
@@ -7486,8 +6490,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech024-2"
@@ -7503,22 +6506,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -7571,7 +6558,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
           4,
           5,
           6,
@@ -7618,8 +6604,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech024-6"
@@ -7635,16 +6620,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.102(HAN)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           18
         ],
         "color": "emerald",
@@ -7672,8 +6647,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "emerald",
         "id": "bctech024-8"
@@ -7711,8 +6685,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          18
+          11
         ],
         "color": "emerald",
         "id": "bctech024-10"
@@ -7728,10 +6701,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X2.HAN",
         "weeks": [
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -7750,23 +6719,10 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X2.HAN",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech024-12"
@@ -7889,8 +6845,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          18
+          10
         ],
         "color": "emerald",
         "id": "bctech024-16"
@@ -7908,16 +6863,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           18
         ],
         "color": "teal",
@@ -7981,8 +6926,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "violet",
         "id": "bctech025-1"
@@ -7999,13 +6943,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           11
         ],
         "color": "violet",
@@ -8030,15 +6967,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          7
         ],
         "color": "violet",
         "id": "bctech025-3"
@@ -8070,10 +6999,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech025-4"
@@ -8137,8 +7063,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech025-6"
@@ -8154,12 +7079,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          13
         ],
         "color": "orange",
         "id": "bctech025-7"
@@ -8177,14 +7097,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
           14,
           15,
           16,
@@ -8207,11 +7119,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -8251,8 +7158,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech025-10"
@@ -8268,21 +7174,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.102(HAN)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          13
         ],
         "color": "orange",
         "id": "bctech025-11"
@@ -8330,18 +7222,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
+          11
         ],
         "color": "violet",
         "id": "bctech025-13"
@@ -8413,19 +7294,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          5
         ],
         "color": "orange",
         "id": "bctech025-16"
@@ -8484,8 +7353,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech025-18"
@@ -8552,17 +7420,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
           13,
           14,
           15,
@@ -8597,7 +7454,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -8621,11 +7477,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -8701,8 +7552,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech026-6"
@@ -8720,10 +7570,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "teal",
@@ -8746,8 +7592,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "rose",
         "id": "bctech026-8"
@@ -8764,21 +7609,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "rose",
@@ -8857,8 +7687,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "rose",
         "id": "bctech026-12"
@@ -8875,11 +7704,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -8943,8 +7767,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          20
+          17
         ],
         "color": "orange",
         "id": "bctech027-1"
@@ -8962,7 +7785,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          18,
           20
         ],
         "color": "teal",
@@ -8982,11 +7804,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.102(HAN)",
         "weeks": [
-          11,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -9009,8 +7826,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          20
+          15
         ],
         "color": "orange",
         "id": "bctech027-4"
@@ -9028,18 +7844,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           20
         ],
         "color": "teal",
@@ -9070,8 +7874,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          20
+          16
         ],
         "color": "orange",
         "id": "bctech027-6"
@@ -9089,18 +7892,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.101(CTCK)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           20
         ],
         "color": "teal",
@@ -9130,8 +7921,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech027-8"
@@ -9150,8 +7940,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
-          20
+          16
         ],
         "color": "orange",
         "id": "bctech027-9"
@@ -9221,17 +8010,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           20
         ],
         "color": "teal",
@@ -9250,10 +8028,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X3.102(HAN)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -9261,12 +8035,10 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech027-14"
@@ -9299,7 +8071,6 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
           18
         ],
         "color": "teal",
@@ -9359,12 +8130,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
+          14
         ],
         "color": "orange",
         "id": "bctech028-1"
@@ -9382,7 +8148,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PLT)",
         "weeks": [
-          14,
           15,
           16,
           17,
@@ -9402,20 +8167,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17
+          14
         ],
         "color": "orange",
         "id": "bctech028-3"
@@ -9446,8 +8198,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "rose",
         "id": "bctech028-4"
@@ -9463,8 +8214,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PLT)",
         "weeks": [
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech028-5"
@@ -9482,7 +8232,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PLT)",
         "weeks": [
-          18,
           19
         ],
         "color": "emerald",
@@ -9499,8 +8248,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech028-7"
@@ -9518,16 +8266,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PLT)",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           19
         ],
         "color": "emerald",
@@ -9571,16 +8309,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "violet",
@@ -9608,8 +8336,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech028-11"
@@ -9642,14 +8369,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           16
         ],
         "color": "teal",
@@ -9675,8 +8394,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "blue",
         "id": "bctech028-14"
@@ -9693,9 +8411,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.101(TIEN)",
         "weeks": [
-          9,
-          15,
-          16
+          9
         ],
         "color": "blue",
         "id": "bctech028-15"
@@ -9713,7 +8429,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PLT)",
         "weeks": [
-          9,
           15,
           16
         ],
@@ -9731,8 +8446,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          19
+          9
         ],
         "color": "blue",
         "id": "bctech028-17"
@@ -9783,8 +8497,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
           19
         ],
         "color": "emerald",
@@ -9844,8 +8556,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "rose",
         "id": "bctech029-1"
@@ -9877,18 +8588,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "rose",
@@ -9907,10 +8606,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X4.P-MAY",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -9946,8 +8641,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          8
+          7
         ],
         "color": "emerald",
         "id": "bctech029-5"
@@ -9964,8 +8658,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          8,
-          16
+          8
         ],
         "color": "emerald",
         "id": "bctech029-6"
@@ -9981,7 +8674,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
           16
         ],
         "color": "orange",
@@ -9998,9 +8690,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
           8
         ],
         "color": "emerald",
@@ -10061,8 +8750,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech031-1"
@@ -10107,16 +8795,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16
         ],
         "color": "teal",
@@ -10145,8 +8823,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech031-4"
@@ -10164,19 +8841,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
           14,
           15,
           16,
@@ -10212,10 +8876,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "teal",
         "id": "bctech031-6"
@@ -10233,21 +8894,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X3.HAN",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16,
           17,
           18
@@ -10282,10 +8928,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "teal",
         "id": "bctech031-8"
@@ -10365,8 +9008,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          16
+          10
         ],
         "color": "teal",
         "id": "bctech031-11"
@@ -10382,10 +9024,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "teal",
@@ -10408,8 +9046,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech031-13"
@@ -10428,9 +9065,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
           17
         ],
         "color": "orange",
@@ -10532,7 +9166,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X2.HAN",
         "weeks": [
-          5,
           6,
           7,
           8,
@@ -10573,7 +9206,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -10670,8 +9302,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech203-5"
@@ -10687,16 +9318,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           16
         ],
         "color": "emerald",
@@ -10740,8 +9361,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          16
+          14
         ],
         "color": "emerald",
         "id": "bctech203-8"
@@ -10757,14 +9377,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "orange",
@@ -10783,10 +9395,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
           8,
           9,
           10,
@@ -10839,13 +9447,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15
         ],
         "color": "emerald",
@@ -10946,8 +9547,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech034-2"
@@ -10965,23 +9565,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -11016,8 +9599,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech034-4"
@@ -11052,10 +9634,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -11077,8 +9655,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech034-7"
@@ -11094,8 +9671,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -11115,8 +9690,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech034-9"
@@ -11174,9 +9748,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech039-1"
@@ -11194,11 +9766,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.402(LAB5)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           17,
           18
         ],
@@ -11222,14 +9789,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          5
         ],
         "color": "emerald",
         "id": "bctech039-3"
@@ -11253,8 +9813,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech039-4"
@@ -11270,16 +9829,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          16
         ],
         "color": "emerald",
         "id": "bctech039-5"
@@ -11297,11 +9847,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9,
           10,
@@ -11342,7 +9887,6 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
           19
         ],
         "color": "rose",
@@ -11361,21 +9905,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.402(LAB5)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "rose",
@@ -11424,13 +9953,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -11449,20 +9971,13 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech039-11"
@@ -11493,8 +10008,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "rose",
         "id": "bctech039-12"
@@ -11512,7 +10026,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
           18
         ],
         "color": "rose",
@@ -11529,13 +10042,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -11560,10 +10066,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          18,
-          19
+          15
         ],
         "color": "emerald",
         "id": "bctech039-15"
@@ -11581,11 +10084,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.202(LAB1)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           15,
           16,
           18,
@@ -11611,17 +10109,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          5
         ],
         "color": "emerald",
         "id": "bctech039-17"
@@ -11648,8 +10136,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          19
+          16
         ],
         "color": "emerald",
         "id": "bctech039-18"
@@ -11668,10 +10155,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.402(LAB5)",
         "weeks": [
-          14,
-          15,
-          16,
-          18,
           19
         ],
         "color": "rose",
@@ -11690,18 +10173,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.402(LAB5)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14,
           15,
           16,
@@ -11738,8 +10209,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech039-21"
@@ -11755,7 +10225,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18,
           19
         ],
         "color": "rose",
@@ -11831,8 +10300,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "blue",
         "id": "bctech040-1"
@@ -11867,13 +10335,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "blue",
@@ -11892,22 +10353,13 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           10,
           11,
-          12,
           13,
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "blue",
         "id": "bctech040-4"
@@ -11958,18 +10410,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14,
           15,
           16,
@@ -12024,8 +10464,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          13,
-          14,
           15,
           16,
           18
@@ -12049,8 +10487,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "blue",
         "id": "bctech040-9"
@@ -12067,7 +10504,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17,
           18
         ],
         "color": "blue",
@@ -12084,16 +10520,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "blue",
@@ -12157,9 +10583,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech041-1"
@@ -12177,18 +10601,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
           14,
           15,
           16,
@@ -12222,7 +10634,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -12277,9 +10688,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
-          16,
           17,
           18
         ],
@@ -12299,18 +10707,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14,
           15,
           16
@@ -12341,7 +10737,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -12370,8 +10765,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech041-8"
@@ -12418,8 +10812,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          19
+          10
         ],
         "color": "teal",
         "id": "bctech042-1"
@@ -12437,23 +10830,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "emerald",
@@ -12488,8 +10864,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "teal",
         "id": "bctech042-3"
@@ -12507,13 +10882,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           19
         ],
         "color": "emerald",
@@ -12538,8 +10906,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech042-5"
@@ -12555,15 +10922,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -12581,11 +10939,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -12627,8 +10980,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          19
+          16
         ],
         "color": "emerald",
         "id": "bctech042-8"
@@ -12646,8 +10998,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          17,
-          18,
           19
         ],
         "color": "emerald",
@@ -12666,22 +11016,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.204.T",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           17,
           18
         ],
@@ -12718,8 +11052,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech042-11"
@@ -12737,16 +11070,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           19
         ],
         "color": "emerald",
@@ -12765,12 +11088,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -12812,8 +11129,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          19
+          16
         ],
         "color": "emerald",
         "id": "bctech042-14"
@@ -12831,22 +11147,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           19
         ],
         "color": "emerald",
@@ -12880,8 +11180,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech042-16"
@@ -12899,16 +11198,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           19
         ],
         "color": "emerald",
@@ -12936,9 +11225,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18,
-          19
+          16
         ],
         "color": "emerald",
         "id": "bctech042-18"
@@ -12956,12 +11243,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14,
           15,
           16,
@@ -12988,7 +11269,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -13041,9 +11321,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -13064,8 +11341,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "teal",
         "id": "bctech042-23"
@@ -13128,20 +11404,10 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.308(LAB4)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "blue",
         "id": "bctech043-1"
@@ -13172,8 +11438,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech043-2"
@@ -13192,23 +11457,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.308(LAB4)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -13275,8 +11523,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "blue",
         "id": "bctech043-5"
@@ -13297,8 +11544,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "blue",
         "id": "bctech043-6"
@@ -13317,14 +11563,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.308(LAB4)",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           19
         ],
         "color": "blue",
@@ -13350,11 +11588,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14,
-          15,
-          16,
-          18
+          13
         ],
         "color": "teal",
         "id": "bctech043-8"
@@ -13391,8 +11625,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18,
-          19
+          18
         ],
         "color": "teal",
         "id": "bctech043-10"
@@ -13408,7 +11641,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18,
           19
         ],
         "color": "blue",
@@ -13452,12 +11684,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -13467,9 +11693,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech045-1"
@@ -13550,20 +11774,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15,
           16,
           17,
@@ -13601,8 +11811,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech046-2"
@@ -13621,23 +11830,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.202(LAB1)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -13672,8 +11864,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech046-4"
@@ -13692,16 +11883,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           18
         ],
         "color": "teal",
@@ -13729,8 +11910,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "emerald",
         "id": "bctech046-6"
@@ -13763,22 +11943,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          14
         ],
         "color": "emerald",
         "id": "bctech046-8"
@@ -13843,16 +12008,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
           18
         ],
         "color": "teal",
@@ -13943,16 +12098,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
           20
         ],
         "color": "emerald",
@@ -13980,8 +12125,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          20
+          13
         ],
         "color": "orange",
         "id": "bctech047-4"
@@ -13999,7 +12143,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          14,
           20
         ],
         "color": "emerald",
@@ -14033,20 +12176,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
+          14
         ],
         "color": "orange",
         "id": "bctech047-7"
@@ -14077,8 +12207,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          19
+          16
         ],
         "color": "teal",
         "id": "bctech047-8"
@@ -14096,7 +12225,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          17,
           19
         ],
         "color": "rose",
@@ -14129,24 +12257,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech047-11"
@@ -14200,13 +12311,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9,
           10,
@@ -14216,8 +12320,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech047-13"
@@ -14323,8 +12426,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           15,
-          16,
-          19
+          16
         ],
         "color": "blue",
         "id": "bctech047-17"
@@ -14342,10 +12444,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
           19
         ],
         "color": "rose",
@@ -14367,8 +12465,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          19
+          16
         ],
         "color": "emerald",
         "id": "bctech047-19"
@@ -14402,16 +12499,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "rose",
@@ -14475,8 +12562,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          14
+          13
         ],
         "color": "emerald",
         "id": "bctech049-1"
@@ -14509,21 +12595,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          14
         ],
         "color": "emerald",
         "id": "bctech049-3"
@@ -14555,9 +12627,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech049-4"
@@ -14586,14 +12656,12 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "teal",
         "id": "bctech049-5"
@@ -14646,7 +12714,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.303(LAB4)",
         "weeks": [
-          16,
           19
         ],
         "color": "emerald",
@@ -14663,13 +12730,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -14694,8 +12754,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          19
+          15
         ],
         "color": "emerald",
         "id": "bctech049-9"
@@ -14711,11 +12770,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18,
           19
         ],
         "color": "emerald",
@@ -14738,7 +12792,6 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
           18
         ],
         "color": "teal",
@@ -14759,8 +12812,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech049-12"
@@ -14815,11 +12867,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           13,
-          14,
-          15,
-          16,
-          17,
-          18
+          14
         ],
         "color": "orange",
         "id": "bctech050-1"
@@ -14861,7 +12909,6 @@ const ALL_TEACHERS_DATABASE =
           1,
           2,
           3,
-          16,
           18
         ],
         "color": "orange",
@@ -14878,13 +12925,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -14903,14 +12943,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -14969,14 +13001,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          9
         ],
         "color": "orange",
         "id": "bctech050-7"
@@ -14994,16 +13019,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.203(LAB2)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           11,
-          12,
           13,
           14,
           15,
@@ -15041,8 +13057,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "teal",
         "id": "bctech050-9"
@@ -15077,22 +13092,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "teal",
@@ -15159,8 +13158,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech050-13"
@@ -15194,10 +13192,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -15219,8 +13213,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech050-16"
@@ -15236,10 +13229,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -15258,7 +13247,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
           13,
           14,
           15,
@@ -15278,10 +13266,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
           9
         ],
         "color": "orange",
@@ -15347,19 +13331,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "blue",
@@ -15456,8 +13427,6 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18,
           19
         ],
         "color": "rose",
@@ -15476,18 +13445,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16,
           17,
           18,
@@ -15518,7 +13475,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -15552,10 +13508,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          16,
-          17,
-          18
+          12
         ],
         "color": "emerald",
         "id": "bctech052-4"
@@ -15573,7 +13526,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          13,
           16,
           17,
           18
@@ -15593,8 +13545,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.204.T",
         "weeks": [
-          13,
-          19
+          13
         ],
         "color": "emerald",
         "id": "bctech052-6"
@@ -15612,7 +13563,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.402(LAB5)",
         "weeks": [
-          13,
           19
         ],
         "color": "rose",
@@ -15629,21 +13579,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          13
         ],
         "color": "emerald",
         "id": "bctech052-8"
@@ -15675,8 +13611,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech052-9"
@@ -15844,21 +13779,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           17,
           18
         ],
@@ -15923,7 +13843,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -16017,11 +13936,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13,
           14,
@@ -16044,10 +13958,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.302(LAB3)",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -16073,8 +13983,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          18
+          5
         ],
         "color": "blue",
         "id": "bctech053-9"
@@ -16150,8 +14059,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.202(LAB1)",
         "weeks": [
           1,
-          2,
-          3
+          2
         ],
         "color": "orange",
         "id": "bctech056-1"
@@ -16169,7 +14077,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16189,8 +14096,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.303(LAB4)",
         "weeks": [
           1,
-          2,
-          3
+          2
         ],
         "color": "orange",
         "id": "bctech056-3"
@@ -16208,7 +14114,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16228,8 +14133,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.202(LAB1)",
         "weeks": [
           1,
-          2,
-          3
+          2
         ],
         "color": "orange",
         "id": "bctech056-5"
@@ -16247,7 +14151,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16267,8 +14170,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.202(LAB1)",
         "weeks": [
           1,
-          2,
-          3
+          2
         ],
         "color": "orange",
         "id": "bctech056-7"
@@ -16286,7 +14188,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16306,8 +14207,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.303(LAB4)",
         "weeks": [
           1,
-          2,
-          3
+          2
         ],
         "color": "orange",
         "id": "bctech056-9"
@@ -16325,7 +14225,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16345,18 +14244,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.202(LAB1)",
         "weeks": [
           1,
-          2,
-          3,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
+          2
         ],
         "color": "orange",
         "id": "bctech056-11"
@@ -16374,7 +14262,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16393,7 +14280,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
           7,
           8,
           9,
@@ -16422,8 +14308,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.202(LAB1)",
         "weeks": [
           1,
-          2,
-          3
+          2
         ],
         "color": "orange",
         "id": "bctech056-14"
@@ -16441,7 +14326,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           3
         ],
         "color": "orange",
@@ -16460,8 +14344,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.202(LAB1)",
         "weeks": [
-          1,
-          3
+          1
         ],
         "color": "orange",
         "id": "bctech056-16"
@@ -16477,12 +14360,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          6,
-          7,
-          8,
-          9,
-          10
+          3
         ],
         "color": "orange",
         "id": "bctech056-17"
@@ -16500,21 +14378,11 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.402(LAB5)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "emerald",
         "id": "bctech056-18"
@@ -16574,16 +14442,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
+          9
         ],
         "color": "rose",
         "id": "bctech150-1"
@@ -16610,8 +14469,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "rose",
         "id": "bctech150-2"
@@ -16643,10 +14501,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
           11
         ],
         "color": "rose",
@@ -16665,12 +14519,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -16745,12 +14593,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -16781,8 +14623,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "emerald",
         "id": "bctech156-2"
@@ -16841,11 +14682,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
           14,
           15,
           16,
@@ -16868,10 +14704,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
           7,
           8,
           9,
@@ -16894,23 +14726,10 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.305(LAB1)",
         "weeks": [
-          1,
           2,
           3,
           4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          5
         ],
         "color": "emerald",
         "id": "bctech061-3"
@@ -16944,8 +14763,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-4"
@@ -16963,16 +14781,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "emerald",
@@ -17022,8 +14830,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-7"
@@ -17041,7 +14848,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          18,
           19
         ],
         "color": "emerald",
@@ -17060,10 +14866,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -17082,19 +14884,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
           14,
           15,
           16,
@@ -17134,8 +14923,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-11"
@@ -17153,19 +14941,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           19
         ],
         "color": "emerald",
@@ -17196,10 +14971,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "emerald",
         "id": "bctech061-13"
@@ -17219,8 +14991,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-14"
@@ -17238,11 +15009,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "emerald",
@@ -17284,8 +15050,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "1A.305(LAB1)",
         "weeks": [
           16,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-17"
@@ -17303,22 +15068,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           19
         ],
         "color": "emerald",
@@ -17352,8 +15101,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-19"
@@ -17371,16 +15119,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "emerald",
@@ -17425,8 +15163,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          19
+          15
         ],
         "color": "emerald",
         "id": "bctech061-22"
@@ -17462,7 +15199,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
-          18,
           19
         ],
         "color": "emerald",
@@ -17481,16 +15217,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "emerald",
@@ -17508,11 +15234,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -17522,8 +15243,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech061-26"
@@ -17555,8 +15275,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech061-27"
@@ -17584,13 +15303,11 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
           18
         ],
         "color": "emerald",
@@ -17655,14 +15372,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.204.N",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15,
           16
         ],
@@ -17727,8 +15436,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "rose",
         "id": "bctech062-1"
@@ -17760,10 +15468,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
           11
         ],
         "color": "rose",
@@ -17833,23 +15537,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          9
         ],
         "color": "emerald",
         "id": "bctech063-2"
@@ -17878,7 +15567,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -17911,8 +15599,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech063-4"
@@ -17985,8 +15672,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          11
+          10
         ],
         "color": "orange",
         "id": "bctech158-2"
@@ -18032,12 +15718,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -18068,8 +15748,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "teal",
         "id": "bctech175-2"
@@ -18128,13 +15807,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2.HTC2",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           10,
           11,
           12,
@@ -18169,8 +15841,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
-          18
+          12
         ],
         "color": "rose",
         "id": "bctech201-2"
@@ -18189,7 +15860,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17,
           18
         ],
         "color": "blue",
@@ -18208,7 +15878,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
           17
         ],
         "color": "blue",
@@ -18228,7 +15897,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
           12
         ],
         "color": "rose",
@@ -18284,8 +15952,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           13,
-          14,
-          15
+          14
         ],
         "color": "teal",
         "id": "bctech023-1"
@@ -18317,14 +15984,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           15
         ],
         "color": "teal",
@@ -18350,16 +16009,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          8
         ],
         "color": "emerald",
         "id": "bctech023-4"
@@ -18377,14 +16027,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN_RENZE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -18418,16 +16060,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          8
         ],
         "color": "emerald",
         "id": "bctech023-6"
@@ -18445,16 +16078,9 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN_RENZE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -18510,8 +16136,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.201(X.TĐH)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -18550,8 +16174,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech023-10"
@@ -18602,8 +16225,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "orange",
         "id": "bctech023-12"
@@ -18620,9 +16242,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          12,
-          13
+          11
         ],
         "color": "orange",
         "id": "bctech023-13"
@@ -18640,10 +16260,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
           12,
           13
         ],
@@ -18667,8 +16283,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech023-15"
@@ -18684,8 +16299,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          17
+          13
         ],
         "color": "orange",
         "id": "bctech023-16"
@@ -18703,7 +16317,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
           17
         ],
         "color": "orange",
@@ -18721,7 +16334,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN_RENZE",
         "weeks": [
-          7,
           8
         ],
         "color": "emerald",
@@ -18740,8 +16352,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN_RENZE",
         "weeks": [
-          7,
-          18
+          7
         ],
         "color": "emerald",
         "id": "bctech023-19"
@@ -18757,8 +16368,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN_RENZE",
         "weeks": [
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -18794,7 +16403,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
           17
         ],
         "color": "orange",
@@ -18813,9 +16421,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN_RENZE",
         "weeks": [
-          7,
-          16,
-          17
+          7
         ],
         "color": "emerald",
         "id": "bctech023-23"
@@ -18870,8 +16476,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          14
+          13
         ],
         "color": "violet",
         "id": "bctech064-1"
@@ -18890,16 +16495,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.202(X.ĐT)",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17
+          14
         ],
         "color": "violet",
         "id": "bctech064-2"
@@ -18926,8 +16522,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "rose",
         "id": "bctech064-3"
@@ -18960,15 +16555,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           18
         ],
         "color": "rose",
@@ -18995,12 +16581,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14
+          9
         ],
         "color": "rose",
         "id": "bctech064-6"
@@ -19031,8 +16612,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "blue",
         "id": "bctech064-7"
@@ -19064,16 +16644,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           15
         ],
         "color": "blue",
@@ -19101,11 +16671,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          15,
-          16,
-          17,
-          18
+          10
         ],
         "color": "orange",
         "id": "bctech064-10"
@@ -19123,7 +16689,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.202(X.ĐT)",
         "weeks": [
-          12,
           15,
           16,
           17,
@@ -19160,16 +16725,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech064-13"
@@ -19196,8 +16752,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "rose",
         "id": "bctech064-14"
@@ -19230,20 +16785,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          14
         ],
         "color": "rose",
         "id": "bctech064-16"
@@ -19301,8 +16843,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "rose",
         "id": "bctech064-18"
@@ -19352,9 +16893,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
           14
         ],
         "color": "violet",
@@ -19374,8 +16912,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           7,
           8,
-          9,
-          18
+          9
         ],
         "color": "rose",
         "id": "bctech064-22"
@@ -19391,12 +16928,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -19534,7 +17065,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
           17,
           18
         ],
@@ -19555,11 +17085,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
           12
         ],
         "color": "orange",
@@ -19578,9 +17103,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          4,
-          5,
-          6,
           7,
           8,
           9,
@@ -19603,22 +17125,9 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.102(X.MĐ)",
         "weeks": [
-          1,
-          2,
-          3,
           4,
           5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          6
         ],
         "color": "orange",
         "id": "bctech065-7"
@@ -19703,9 +17212,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
           16
         ],
         "color": "orange",
@@ -19825,8 +17331,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "rose",
         "id": "bctech066-3"
@@ -19842,8 +17347,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.301(ĐL)",
         "weeks": [
-          11,
-          19
+          11
         ],
         "color": "rose",
         "id": "bctech066-4"
@@ -19861,14 +17365,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.301(ĐL)",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "emerald",
@@ -19887,15 +17383,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           10,
           11,
           12,
@@ -19937,8 +17424,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech066-7"
@@ -19970,8 +17456,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
           18
         ],
         "color": "violet",
@@ -19989,13 +17473,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           13,
           14
         ],
@@ -20021,8 +17498,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          19
+          7
         ],
         "color": "violet",
         "id": "bctech066-11"
@@ -20039,9 +17515,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
-          17,
-          18,
           19
         ],
         "color": "emerald",
@@ -20060,17 +17533,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
           16,
           17,
           18
@@ -20099,7 +17561,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14
@@ -20159,8 +17620,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          14
+          13
         ],
         "color": "rose",
         "id": "bctech067-1"
@@ -20193,16 +17653,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14
         ],
         "color": "rose",
@@ -20230,8 +17680,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "rose",
         "id": "bctech067-4"
@@ -20291,17 +17740,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
           13,
           14
         ],
@@ -20332,7 +17770,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14
         ],
@@ -20412,9 +17849,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14
+          12
         ],
         "color": "emerald",
         "id": "bctech069-5"
@@ -20432,7 +17867,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
           13,
           14
         ],
@@ -20479,17 +17913,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.402(LĐĐ)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
           15,
           16
         ],
@@ -20569,18 +17992,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16,
           17
         ],
@@ -20635,8 +18046,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech071-4"
@@ -20655,21 +18065,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          16
         ],
         "color": "rose",
         "id": "bctech071-5"
@@ -20735,8 +18131,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "orange",
         "id": "bctech071-7"
@@ -20754,8 +18149,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X6.201(CCĐ)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -20798,8 +18191,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "rose",
         "id": "bctech071-9"
@@ -20816,8 +18208,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X6.201(CCĐ)",
         "weeks": [
-          11,
-          17
+          11
         ],
         "color": "rose",
         "id": "bctech071-10"
@@ -20836,9 +18227,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
-          16,
           17
         ],
         "color": "orange",
@@ -20857,7 +18245,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
           14,
           15,
           16
@@ -20876,21 +18263,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          11
         ],
         "color": "rose",
         "id": "bctech071-13"
@@ -20921,8 +18294,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "violet",
         "id": "bctech071-14"
@@ -21002,21 +18374,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           17,
           18
         ],
@@ -21083,8 +18440,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech072-4"
@@ -21116,8 +18472,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
-          18
+          16
         ],
         "color": "teal",
         "id": "bctech072-6"
@@ -21135,20 +18490,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           18
         ],
         "color": "emerald",
@@ -21180,8 +18521,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "teal",
         "id": "bctech072-8"
@@ -21213,8 +18553,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          18
+          15
         ],
         "color": "teal",
         "id": "bctech072-10"
@@ -21232,9 +18571,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          12,
           18
         ],
         "color": "emerald",
@@ -21255,8 +18591,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9,
           10,
-          12,
-          18
+          12
         ],
         "color": "emerald",
         "id": "bctech072-12"
@@ -21347,9 +18682,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech073-2"
@@ -21367,7 +18700,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          9,
           17,
           18
         ],
@@ -21384,11 +18716,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           9
         ],
         "color": "orange",
@@ -21411,20 +18738,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          5
         ],
         "color": "emerald",
         "id": "bctech073-5"
@@ -21481,9 +18795,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          15,
-          16
+          8
         ],
         "color": "orange",
         "id": "bctech073-7"
@@ -21502,14 +18814,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           15,
           16
         ],
@@ -21552,14 +18856,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9
         ],
         "color": "orange",
@@ -21585,8 +18881,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          18
+          8
         ],
         "color": "orange",
         "id": "bctech073-11"
@@ -21602,10 +18897,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.302(TĐH2)",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -21627,8 +18918,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech073-13"
@@ -21646,7 +18936,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
           18
         ],
         "color": "orange",
@@ -21663,8 +18952,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -21711,8 +18998,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.202(MD)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -21756,7 +19041,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -21787,8 +19071,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech074-3"
@@ -21826,8 +19109,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.202(MD)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -21873,8 +19154,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech074-6"
@@ -21912,9 +19192,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -22006,7 +19283,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -22029,12 +19305,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -22082,11 +19352,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -22127,16 +19392,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15
+          9
         ],
         "color": "teal",
         "id": "bctech075-7"
@@ -22191,8 +19448,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech075-9"
@@ -22257,8 +19513,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech077-1"
@@ -22291,11 +19546,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          11,
-          13,
-          14,
-          15,
           16
         ],
         "color": "orange",
@@ -22314,8 +19564,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.203(X.TBĐ)",
         "weeks": [
-          3,
-          4,
           10,
           11,
           13,
@@ -22390,10 +19638,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.201(X.LĐĐ)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -22471,8 +19715,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "violet",
         "id": "bctech077-9"
@@ -22491,9 +19734,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -22533,16 +19773,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "violet",
@@ -22597,10 +19827,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          11,
-          13,
-          14,
-          15,
           16,
           17,
           18
@@ -22642,22 +19868,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           17,
           18
         ],
@@ -22712,16 +19922,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16,
           17,
           18
@@ -22742,9 +19942,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -22783,8 +19980,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "orange",
         "id": "bctech078-7"
@@ -22801,8 +19997,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          14,
-          18
+          14
         ],
         "color": "orange",
         "id": "bctech078-8"
@@ -22820,7 +20015,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          14,
           18
         ],
         "color": "orange",
@@ -22837,16 +20031,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           14
         ],
         "color": "orange",
@@ -22874,8 +20058,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "orange",
         "id": "bctech078-11"
@@ -22892,8 +20075,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.203(X.TĐH)",
         "weeks": [
-          14,
-          18
+          14
         ],
         "color": "orange",
         "id": "bctech078-12"
@@ -22909,7 +20091,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
           18
         ],
         "color": "orange",
@@ -22926,11 +20107,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18
+          14
         ],
         "color": "orange",
         "id": "bctech078-14"
@@ -22970,16 +20147,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
           18
         ],
         "color": "orange",
@@ -23007,8 +20174,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "orange",
         "id": "bctech078-17"
@@ -23041,8 +20207,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
-          18
+          14
         ],
         "color": "orange",
         "id": "bctech078-19"
@@ -23103,17 +20268,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
           15,
           16,
           17
@@ -23147,8 +20301,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "rose",
         "id": "bctech079-2"
@@ -23164,20 +20317,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "rose",
@@ -23209,8 +20348,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "rose",
         "id": "bctech079-4"
@@ -23228,7 +20366,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18,
           19
         ],
         "color": "rose",
@@ -23261,21 +20398,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -23332,14 +20454,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          9
         ],
         "color": "teal",
         "id": "bctech079-9"
@@ -23357,8 +20472,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -23403,8 +20516,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "blue",
         "id": "bctech079-11"
@@ -23436,13 +20548,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          16
         ],
         "color": "blue",
         "id": "bctech079-13"
@@ -23460,7 +20566,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          9,
           10,
           12,
           13,
@@ -23483,10 +20588,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          15,
-          16,
-          17
+          9
         ],
         "color": "teal",
         "id": "bctech079-15"
@@ -23557,8 +20659,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "blue",
         "id": "bctech080-1"
@@ -23577,19 +20678,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.103(X.ĐL)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "blue",
         "id": "bctech080-2"
@@ -23635,15 +20724,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14
+          9
         ],
         "color": "blue",
         "id": "bctech080-4"
@@ -23669,8 +20750,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "rose",
         "id": "bctech080-5"
@@ -23687,8 +20767,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          19
+          15
         ],
         "color": "rose",
         "id": "bctech080-6"
@@ -23719,7 +20798,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
           19
         ],
         "color": "emerald",
@@ -23735,24 +20813,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          9
         ],
         "color": "blue",
         "id": "bctech080-9"
@@ -23875,8 +20936,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "blue",
         "id": "bctech080-13"
@@ -23895,14 +20955,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.103(X.ĐL)",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "blue",
         "id": "bctech080-14"
@@ -23927,8 +20980,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "violet",
         "id": "bctech080-15"
@@ -23944,12 +20996,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.103(X.ĐL)",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "violet",
@@ -23973,8 +21019,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "violet",
         "id": "bctech080-17"
@@ -23990,9 +21035,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -24062,20 +21104,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18,
           19
         ],
@@ -24108,8 +21136,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "rose",
         "id": "bctech082-3"
@@ -24141,22 +21168,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -24218,8 +21229,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          14
+          13
         ],
         "color": "orange",
         "id": "bctech082-7"
@@ -24252,16 +21262,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
           14
         ],
         "color": "orange",
@@ -24289,8 +21289,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech082-10"
@@ -24323,16 +21322,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
           13
         ],
         "color": "orange",
@@ -24360,8 +21349,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          13
+          12
         ],
         "color": "orange",
         "id": "bctech082-13"
@@ -24394,15 +21382,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
           13
         ],
         "color": "orange",
@@ -24430,8 +21409,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "orange",
         "id": "bctech082-16"
@@ -24464,21 +21442,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          14
         ],
         "color": "orange",
         "id": "bctech082-18"
@@ -24510,8 +21474,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "violet",
         "id": "bctech082-19"
@@ -24530,14 +21493,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -24590,21 +21545,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.103(X.MĐ)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18,
           19
         ],
@@ -24624,8 +21564,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.103(X.MĐ)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -24701,9 +21639,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          18,
-          19
+          13
         ],
         "color": "orange",
         "id": "bctech083-4"
@@ -24721,7 +21657,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.103(X.MĐ)",
         "weeks": [
-          14,
           18,
           19
         ],
@@ -24756,19 +21691,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          14
         ],
         "color": "orange",
         "id": "bctech083-7"
@@ -24786,8 +21709,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.103(X.MĐ)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -24828,7 +21749,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -24858,9 +21778,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          18,
-          19
+          15
         ],
         "color": "orange",
         "id": "bctech083-10"
@@ -24894,7 +21812,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          18,
           19
         ],
         "color": "orange",
@@ -24913,7 +21830,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
           18,
           19
         ],
@@ -24982,11 +21898,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -25027,20 +21938,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15
+          9
         ],
         "color": "rose",
         "id": "bctech084-4"
@@ -25071,8 +21970,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "blue",
         "id": "bctech084-5"
@@ -25104,13 +22002,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           16
         ],
         "color": "blue",
@@ -25151,13 +22042,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19
+          9
         ],
         "color": "teal",
         "id": "bctech084-9"
@@ -25228,13 +22113,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X2.102(PCNC)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           19
         ],
         "color": "orange",
@@ -25302,20 +22180,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.101(LĐĐ)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -25366,8 +22230,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.101(LĐĐ)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -25414,8 +22276,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "blue",
         "id": "bctech085-4"
@@ -25447,16 +22308,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           15
         ],
         "color": "blue",
@@ -25484,8 +22335,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "rose",
         "id": "bctech085-7"
@@ -25518,8 +22368,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          16
+          12
         ],
         "color": "rose",
         "id": "bctech085-9"
@@ -25538,9 +22387,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
-          15,
           16
         ],
         "color": "rose",
@@ -25646,8 +22492,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          14
+          13
         ],
         "color": "rose",
         "id": "bctech086-1"
@@ -25680,16 +22525,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
           14
         ],
         "color": "rose",
@@ -25744,9 +22579,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          13,
-          14
+          13
         ],
         "color": "emerald",
         "id": "bctech086-5"
@@ -25764,8 +22597,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.102(ĐT)",
         "weeks": [
-          1,
-          2,
           3,
           4,
           5,
@@ -25803,8 +22634,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "orange",
         "id": "bctech086-7"
@@ -25837,8 +22667,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          13
+          11
         ],
         "color": "orange",
         "id": "bctech086-9"
@@ -25854,8 +22683,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14
+          13
         ],
         "color": "emerald",
         "id": "bctech086-10"
@@ -25873,8 +22701,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          12,
           13,
           14
         ],
@@ -25895,8 +22721,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           10,
-          12,
-          15
+          12
         ],
         "color": "emerald",
         "id": "bctech086-12"
@@ -25914,7 +22739,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
           15
         ],
         "color": "violet",
@@ -25963,8 +22787,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "rose",
         "id": "bctech087-1"
@@ -25983,20 +22806,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.302",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "rose",
@@ -26028,8 +22837,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech087-3"
@@ -26060,20 +22868,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           18
         ],
         "color": "emerald",
@@ -26105,8 +22899,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "teal",
         "id": "bctech087-6"
@@ -26122,24 +22915,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.204(X.ĐL)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "teal",
         "id": "bctech087-7"
@@ -26232,8 +23008,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "rose",
         "id": "bctech087-10"
@@ -26248,8 +23023,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          18
+          9
         ],
         "color": "rose",
         "id": "bctech087-11"
@@ -26264,12 +23038,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "rose",
@@ -26293,8 +23061,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "violet",
         "id": "bctech087-13"
@@ -26326,13 +23093,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "violet",
@@ -26376,14 +23136,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.204(X.ĐL)",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          9
         ],
         "color": "rose",
         "id": "bctech087-17"
@@ -26408,10 +23161,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "teal",
         "id": "bctech087-18"
@@ -26480,20 +23230,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15
+          9
         ],
         "color": "rose",
         "id": "bctech088-2"
@@ -26524,8 +23262,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "blue",
         "id": "bctech088-3"
@@ -26557,20 +23294,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16
         ],
         "color": "blue",
@@ -26602,8 +23325,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "blue",
         "id": "bctech088-6"
@@ -26635,16 +23357,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           16
         ],
         "color": "blue",
@@ -26672,8 +23384,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "rose",
         "id": "bctech088-9"
@@ -26706,19 +23417,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13
+          11
         ],
         "color": "rose",
         "id": "bctech088-11"
@@ -26748,12 +23447,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          13
         ],
         "color": "blue",
         "id": "bctech088-12"
@@ -26825,11 +23519,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
           8,
           9
         ],
@@ -26855,11 +23544,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          14,
-          15,
-          16,
-          18
+          9
         ],
         "color": "rose",
         "id": "bctech088-16"
@@ -26877,8 +23562,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X1.102(ĐT)",
         "weeks": [
-          8,
-          9,
           14,
           15,
           16,
@@ -26898,10 +23581,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          14,
-          15,
-          16
+          9
         ],
         "color": "rose",
         "id": "bctech088-18"
@@ -26938,8 +23618,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          14,
           18
         ],
         "color": "rose",
@@ -27000,8 +23678,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "teal",
         "id": "bctech090-1"
@@ -27019,13 +23696,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
           18
         ],
         "color": "teal",
@@ -27050,14 +23720,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15
+          7
         ],
         "color": "teal",
         "id": "bctech090-3"
@@ -27088,10 +23751,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "teal",
         "id": "bctech090-4"
@@ -27120,7 +23780,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -27171,12 +23830,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
           17,
           18
         ],
@@ -27222,8 +23875,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6
+          5
         ],
         "color": "orange",
         "id": "bctech090-9"
@@ -27242,17 +23894,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          6
         ],
         "color": "orange",
         "id": "bctech090-10"
@@ -27351,17 +23993,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
           19
         ],
         "color": "emerald",
@@ -27438,11 +24069,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          13,
-          15,
-          16,
-          17,
-          18
+          13
         ],
         "color": "teal",
         "id": "bctech091-6"
@@ -27490,10 +24117,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X7.101(X.ĐL)",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
           13,
           14,
           15,
@@ -27525,8 +24148,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "teal",
         "id": "bctech204-2"
@@ -27544,8 +24166,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17,
-          19
+          17
         ],
         "color": "teal",
         "id": "bctech204-3"
@@ -27560,9 +24181,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
-          17,
-          18,
           19
         ],
         "color": "rose",
@@ -27581,7 +24199,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
           16,
           17,
           18
@@ -27599,13 +24216,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          9
         ],
         "color": "blue",
         "id": "bctech204-6"
@@ -27623,13 +24234,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           13,
           14,
           15,
@@ -27659,8 +24263,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9,
-          19
+          9
         ],
         "color": "rose",
         "id": "bctech204-8"
@@ -27679,7 +24282,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          10,
           19
         ],
         "color": "rose",
@@ -27713,12 +24315,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           10
         ],
         "color": "rose",
@@ -27742,14 +24338,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          8
         ],
         "color": "blue",
         "id": "bctech204-12"
@@ -27767,7 +24356,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          9,
           12,
           13,
           14,
@@ -27793,8 +24381,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          9,
-          19
+          9
         ],
         "color": "blue",
         "id": "bctech204-14"
@@ -27827,12 +24414,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           19
         ],
         "color": "rose",
@@ -27856,8 +24437,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "blue",
         "id": "bctech204-17"
@@ -27876,13 +24456,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          9,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          9
         ],
         "color": "blue",
         "id": "bctech204-18"
@@ -27900,16 +24474,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2X4.201(ĐL)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13,
           14,
@@ -27948,8 +24512,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "teal",
         "id": "bctech204-20"
@@ -27982,7 +24545,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
           19
         ],
         "color": "rose",
@@ -27998,14 +24560,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "blue",
         "id": "bctech204-23"
@@ -28026,7 +24581,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -28055,8 +24609,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech204-25"
@@ -28074,9 +24627,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          7,
-          8,
-          9,
           15,
           16,
           18
@@ -28099,11 +24649,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           7,
           8,
-          9,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "rose",
         "id": "bctech204-27"
@@ -28124,8 +24670,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech204-28"
@@ -28180,7 +24725,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -28240,8 +24784,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          19
+          18
         ],
         "color": "orange",
         "id": "bctech092-3"
@@ -28259,17 +24802,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           19
         ],
         "color": "orange",
@@ -28353,8 +24885,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "emerald",
         "id": "bctech094-1"
@@ -28386,18 +24917,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -28427,9 +24946,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16,
-          17
+          15
         ],
         "color": "emerald",
         "id": "bctech094-4"
@@ -28466,17 +24983,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15
         ],
         "color": "teal",
@@ -28505,8 +25011,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          18
+          14
         ],
         "color": "teal",
         "id": "bctech094-7"
@@ -28524,7 +25029,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          3,
           18
         ],
         "color": "orange",
@@ -28543,7 +25047,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          1,
           3
         ],
         "color": "violet",
@@ -28562,8 +25065,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
-          2
+          1
         ],
         "color": "rose",
         "id": "bctech094-10"
@@ -28581,8 +25083,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
-          15
+          2
         ],
         "color": "teal",
         "id": "bctech094-11"
@@ -28600,20 +25101,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15
         ],
         "color": "rose",
@@ -28645,8 +25132,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "emerald",
         "id": "bctech094-13"
@@ -28662,8 +25148,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.201(X.CT)",
         "weeks": [
-          15,
-          18
+          15
         ],
         "color": "emerald",
         "id": "bctech094-14"
@@ -28681,7 +25166,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          15,
           18
         ],
         "color": "orange",
@@ -28698,12 +25182,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          15
         ],
         "color": "emerald",
         "id": "bctech094-16"
@@ -28720,7 +25199,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
           12,
           13,
           14,
@@ -28745,21 +25223,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "1B.102(CBMA)",
         "weeks": [
           1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          2
         ],
         "color": "teal",
         "id": "bctech094-18"
@@ -28777,7 +25241,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          2,
           3,
           4,
           5,
@@ -28810,8 +25273,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "1B.102(CBMA)",
         "weeks": [
           1,
-          2,
-          18
+          2
         ],
         "color": "teal",
         "id": "bctech094-20"
@@ -28829,11 +25291,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -28851,7 +25308,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
           13,
           14,
           15,
@@ -28874,19 +25330,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15
+          1
         ],
         "color": "rose",
         "id": "bctech094-23"
@@ -28904,7 +25348,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.302",
         "weeks": [
-          2,
           3,
           4,
           5,
@@ -28934,8 +25377,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
-          16
+          2
         ],
         "color": "teal",
         "id": "bctech094-25"
@@ -28954,7 +25396,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.302",
         "weeks": [
-          1,
           16
         ],
         "color": "violet",
@@ -28972,8 +25413,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
-          2
+          1
         ],
         "color": "rose",
         "id": "bctech094-27"
@@ -28991,8 +25431,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
-          18
+          2
         ],
         "color": "teal",
         "id": "bctech094-28"
@@ -29010,7 +25449,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          15,
           18
         ],
         "color": "orange",
@@ -29027,17 +25465,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15
         ],
         "color": "rose",
@@ -29066,8 +25493,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          16
+          14
         ],
         "color": "rose",
         "id": "bctech094-31"
@@ -29086,20 +25512,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19
+          16
         ],
         "color": "violet",
         "id": "bctech094-32"
@@ -29147,9 +25560,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          18,
           19
         ],
         "color": "violet",
@@ -29168,17 +25578,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
           15,
           16,
           18
@@ -29209,8 +25608,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          16
+          14
         ],
         "color": "rose",
         "id": "bctech094-36"
@@ -29226,11 +25624,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
           16
         ],
         "color": "violet",
@@ -29252,8 +25645,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "emerald",
         "id": "bctech094-38"
@@ -29306,8 +25698,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech206-1"
@@ -29341,12 +25732,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           19
         ],
         "color": "rose",
@@ -29370,8 +25755,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          9
+          8
         ],
         "color": "teal",
         "id": "bctech206-4"
@@ -29390,21 +25774,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
+          9
         ],
         "color": "teal",
         "id": "bctech206-5"
@@ -29497,20 +25867,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           17,
           18
         ],
@@ -29543,8 +25899,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          18
+          15
         ],
         "color": "violet",
         "id": "bctech095-3"
@@ -29560,8 +25915,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
           18
         ],
         "color": "violet",
@@ -29641,9 +25994,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "violet",
         "id": "bctech096-1"
@@ -29692,7 +26043,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
           18
         ],
         "color": "teal",
@@ -29726,11 +26076,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           12
         ],
         "color": "blue",
@@ -29753,12 +26098,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
+          5
         ],
         "color": "teal",
         "id": "bctech096-6"
@@ -29785,14 +26125,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          10
         ],
         "color": "blue",
         "id": "bctech096-7"
@@ -29831,16 +26164,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           17,
           18
         ],
@@ -29885,10 +26208,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          14,
-          15,
-          16
+          12
         ],
         "color": "blue",
         "id": "bctech096-11"
@@ -29908,8 +26228,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech096-12"
@@ -29928,9 +26247,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          14,
-          15,
-          16,
           18
         ],
         "color": "emerald",
@@ -29951,8 +26267,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "emerald",
         "id": "bctech096-14"
@@ -29967,7 +26282,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
           18
         ],
         "color": "emerald",
@@ -29987,7 +26301,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          15,
           16
         ],
         "color": "violet",
@@ -30006,8 +26319,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          6,
-          7,
           15
         ],
         "color": "violet",
@@ -30027,8 +26338,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.301(CBTP)",
         "weeks": [
           6,
-          7,
-          16
+          7
         ],
         "color": "teal",
         "id": "bctech096-18"
@@ -30044,7 +26354,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
           16
         ],
         "color": "violet",
@@ -30063,8 +26372,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          6,
-          7,
           15
         ],
         "color": "violet",
@@ -30120,8 +26427,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11
+          10
         ],
         "color": "teal",
         "id": "bctech097-1"
@@ -30154,9 +26460,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
           11
         ],
         "color": "teal",
@@ -30175,11 +26478,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.401(TNVS)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8
@@ -30206,8 +26504,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5,
           6,
-          7,
-          8
+          7
         ],
         "color": "violet",
         "id": "bctech097-5"
@@ -30240,16 +26537,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
+          8
         ],
         "color": "violet",
         "id": "bctech097-7"
@@ -30276,8 +26564,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "teal",
         "id": "bctech097-8"
@@ -30310,16 +26597,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12
         ],
         "color": "teal",
@@ -30412,8 +26689,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech098-1"
@@ -30445,7 +26721,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
           18
         ],
         "color": "orange",
@@ -30464,8 +26739,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.201(CBMA)",
         "weeks": [
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech098-4"
@@ -30483,7 +26757,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.101(CBTP)",
         "weeks": [
-          16,
           17
         ],
         "color": "orange",
@@ -30502,24 +26775,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.201(CBMA)",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech098-6"
@@ -30584,8 +26840,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech098-8"
@@ -30617,18 +26872,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           17
         ],
         "color": "orange",
@@ -30658,8 +26901,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech098-11"
@@ -30691,7 +26933,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          14,
           16
         ],
         "color": "orange",
@@ -30730,9 +26971,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.301(CBTP)",
         "weeks": [
-          10,
-          12,
-          13,
           14
         ],
         "color": "blue",
@@ -30753,8 +26991,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "blue",
         "id": "bctech098-16"
@@ -30797,16 +27034,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13
+          3
         ],
         "color": "teal",
         "id": "bctech099-1"
@@ -30824,7 +27052,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           4,
           5,
           6,
@@ -30852,10 +27079,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.201(CBMA)",
         "weeks": [
           1,
-          2,
-          3,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-3"
@@ -30873,7 +27097,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
           18,
           19
         ],
@@ -30893,7 +27116,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           3
         ],
         "color": "teal",
@@ -30913,10 +27135,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.101(CBMA)",
         "weeks": [
           1,
-          2,
-          16,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-6"
@@ -30934,7 +27153,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
           18,
           19
         ],
@@ -30952,12 +27170,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "orange",
@@ -30981,10 +27193,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech099-9"
@@ -31001,7 +27210,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
           13,
           14,
           15,
@@ -31025,9 +27233,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.101(CBTP)",
         "weeks": [
-          3,
-          18,
-          19
+          3
         ],
         "color": "teal",
         "id": "bctech099-11"
@@ -31045,12 +27251,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           18,
           19
         ],
@@ -31070,24 +27270,12 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
           10,
           11,
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech099-13"
@@ -31139,16 +27327,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13
+          3
         ],
         "color": "teal",
         "id": "bctech099-15"
@@ -31166,7 +27345,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           4,
           5,
           6,
@@ -31194,10 +27372,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.201(CBMA)",
         "weeks": [
           1,
-          2,
-          3,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-17"
@@ -31215,7 +27390,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
           18,
           19
         ],
@@ -31235,7 +27409,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           3
         ],
         "color": "teal",
@@ -31255,19 +27428,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.201(CBMA)",
         "weeks": [
           1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14
+          2
         ],
         "color": "orange",
         "id": "bctech099-20"
@@ -31295,8 +27456,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "teal",
         "id": "bctech099-21"
@@ -31313,7 +27473,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          2,
           15
         ],
         "color": "teal",
@@ -31332,7 +27491,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           3
         ],
         "color": "teal",
@@ -31352,10 +27510,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.201(CBMA)",
         "weeks": [
           1,
-          2,
-          16,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-24"
@@ -31373,7 +27528,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
           18,
           19
         ],
@@ -31393,7 +27547,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          3,
           9,
           10,
           11,
@@ -31419,7 +27572,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           3
         ],
         "color": "teal",
@@ -31439,10 +27591,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.201(CBMA)",
         "weeks": [
           1,
-          2,
-          16,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-28"
@@ -31460,7 +27609,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          2,
           18,
           19
         ],
@@ -31481,13 +27629,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "emerald",
@@ -31506,12 +27647,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "DN",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -31536,7 +27671,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          1,
           3,
           4,
           5,
@@ -31564,18 +27698,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "2B.201(CBMA)",
         "weeks": [
           1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-33"
@@ -31593,7 +27716,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          13,
           18,
           19
         ],
@@ -31612,7 +27734,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
           13
         ],
         "color": "violet",
@@ -31631,7 +27752,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.101(CBMA)",
         "weeks": [
-          1,
           3,
           4,
           5,
@@ -31658,9 +27778,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.102(X.B)",
         "weeks": [
-          1,
-          18,
-          19
+          1
         ],
         "color": "orange",
         "id": "bctech099-37"
@@ -31697,7 +27815,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          13,
           18,
           19
         ],
@@ -31716,7 +27833,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
           13
         ],
         "color": "violet",
@@ -31736,9 +27852,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           1,
-          2,
-          18,
-          19
+          2
         ],
         "color": "orange",
         "id": "bctech099-41"
@@ -31756,7 +27870,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           18,
           19
         ],
@@ -31777,8 +27890,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           1,
-          2,
-          18
+          2
         ],
         "color": "orange",
         "id": "bctech099-43"
@@ -31796,7 +27908,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1B.102(CBMA)",
         "weeks": [
-          1,
           18
         ],
         "color": "orange",
@@ -31834,8 +27945,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2
+          1
         ],
         "color": "orange",
         "id": "bctech099-46"
@@ -31900,10 +28010,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.ONLINE",
         "weeks": [
           8,
-          9,
-          13,
-          14,
-          15
+          9
         ],
         "color": "teal",
         "id": "bctech100-2"
@@ -31921,8 +28028,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          12,
           13,
           14,
           15
@@ -31947,9 +28052,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          18
+          15
         ],
         "color": "rose",
         "id": "bctech100-4"
@@ -32007,8 +28110,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech102-1"
@@ -32027,18 +28129,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16
         ],
         "color": "rose",
@@ -32068,8 +28158,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech102-3"
@@ -32088,12 +28177,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2B.401(TNVS)",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           16
         ],
         "color": "rose",
@@ -32117,8 +28200,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          16
+          10
         ],
         "color": "rose",
         "id": "bctech102-5"
@@ -32150,12 +28232,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           16
         ],
         "color": "rose",
@@ -32241,12 +28317,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "orange",
         "id": "bctech104-2"
@@ -32270,7 +28341,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -32300,8 +28370,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          20
+          15
         ],
         "color": "orange",
         "id": "bctech104-4"
@@ -32318,17 +28387,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.305",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           17,
           18,
           19,
@@ -32355,7 +28413,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -32379,17 +28436,8 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
-          13,
-          14,
-          15,
-          16
+          13
         ],
         "color": "orange",
         "id": "bctech104-7"
@@ -32416,10 +28464,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18,
-          19
+          16
         ],
         "color": "orange",
         "id": "bctech104-8"
@@ -32436,17 +28481,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           17,
           18,
           19
@@ -32475,10 +28509,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18,
-          19
+          16
         ],
         "color": "orange",
         "id": "bctech104-10"
@@ -32494,16 +28525,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           17,
           18,
           19
@@ -32532,9 +28553,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13
+          10
         ],
         "color": "orange",
         "id": "bctech104-12"
@@ -32551,16 +28570,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13
         ],
@@ -32587,12 +28596,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          10
         ],
         "color": "orange",
         "id": "bctech104-14"
@@ -32619,8 +28623,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech104-15"
@@ -32636,10 +28639,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -32701,12 +28700,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "orange",
         "id": "bctech104-18"
@@ -32829,7 +28823,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -32908,11 +28901,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -32922,8 +28910,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech105-5"
@@ -32951,7 +28938,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -32983,8 +28969,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "color": "orange",
         "id": "bctech105-7"
@@ -33036,7 +29021,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          18,
           19
         ],
         "color": "rose",
@@ -33055,21 +29039,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18,
           19
         ],
@@ -33156,8 +29125,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech106-5"
@@ -33202,9 +29170,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6,
-          7,
           16,
           18,
           19
@@ -33298,10 +29263,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          13,
-          16,
-          17,
-          18
+          13
         ],
         "color": "violet",
         "id": "bctech109-2"
@@ -33319,7 +29281,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.208",
         "weeks": [
-          14,
           16,
           17,
           18
@@ -33341,16 +29302,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          14
         ],
         "color": "violet",
         "id": "bctech109-4"
@@ -33377,8 +29329,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech109-5"
@@ -33397,11 +29348,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "rose",
@@ -33425,8 +29371,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech109-7"
@@ -33459,21 +29404,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -33525,15 +29455,9 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
           14,
           15,
           16,
-          17,
           18
         ],
         "color": "orange",
@@ -33629,9 +29553,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech110-1"
@@ -33660,7 +29582,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -33692,10 +29613,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           12,
-          13,
-          16,
-          17,
-          18
+          13
         ],
         "color": "orange",
         "id": "bctech110-3"
@@ -33713,11 +29631,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          4,
-          5,
-          6,
-          7,
-          8,
           16,
           17,
           18
@@ -33743,12 +29656,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          14,
-          15,
-          16,
-          17,
-          18
+          8
         ],
         "color": "orange",
         "id": "bctech110-5"
@@ -33767,7 +29675,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          9,
           14,
           15,
           16,
@@ -33805,21 +29712,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          9
         ],
         "color": "orange",
         "id": "bctech110-8"
@@ -33851,8 +29744,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech110-9"
@@ -33885,15 +29777,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -33912,13 +29795,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -33987,13 +29863,9 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "rose",
         "id": "bctech111-1"
@@ -34010,10 +29882,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2.STRG",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -34049,8 +29917,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "rose",
         "id": "bctech111-3"
@@ -34076,9 +29943,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18,
-          19
+          16
         ],
         "color": "rose",
         "id": "bctech111-4"
@@ -34166,7 +30031,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -34189,11 +30053,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -34203,10 +30062,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech112-2"
@@ -34240,8 +30096,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "orange",
         "id": "bctech112-3"
@@ -34259,7 +30114,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          18,
           19
         ],
         "color": "orange",
@@ -34360,8 +30214,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech112-8"
@@ -34394,16 +30247,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -34421,11 +30264,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -34435,8 +30273,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech112-11"
@@ -34468,8 +30305,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          19
+          16
         ],
         "color": "orange",
         "id": "bctech112-12"
@@ -34487,7 +30323,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          18,
           19
         ],
         "color": "orange",
@@ -34506,21 +30341,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18,
           19
         ],
@@ -34542,8 +30362,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           6,
           7,
-          8,
-          19
+          8
         ],
         "color": "orange",
         "id": "bctech112-15"
@@ -34571,14 +30390,11 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech112-16"
@@ -34631,8 +30447,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1.STRG",
         "weeks": [
-          7,
-          8,
           9,
           10,
           11,
@@ -34659,8 +30473,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1.STRG",
         "weeks": [
-          5,
-          6,
           7,
           8,
           9,
@@ -34696,9 +30508,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          18
+          15
         ],
         "color": "rose",
         "id": "bctech113-3"
@@ -34715,8 +30525,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1.STRG",
         "weeks": [
-          5,
-          6,
           7,
           8,
           9,
@@ -34795,9 +30603,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          16,
-          17,
-          18,
           19
         ],
         "color": "rose",
@@ -34816,22 +30621,9 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech114-3"
@@ -34881,21 +30673,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "rose",
@@ -34948,8 +30725,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "P.G.MEET",
         "weeks": [
           16,
-          18,
-          19
+          18
         ],
         "color": "rose",
         "id": "bctech114-7"
@@ -34967,19 +30743,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18,
           19
         ],
@@ -35041,7 +30804,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          18,
           19
         ],
         "color": "teal",
@@ -35061,9 +30823,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          5,
-          6,
-          7,
           18,
           19
         ],
@@ -35136,16 +30895,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           17,
           18
         ],
@@ -35164,11 +30913,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -35178,8 +30922,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech116-3"
@@ -35211,8 +30954,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech116-4"
@@ -35245,11 +30987,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          13,
-          14,
           18
         ],
         "color": "orange",
@@ -35273,8 +31010,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11,
           13,
-          14,
-          15
+          14
         ],
         "color": "orange",
         "id": "bctech116-7"
@@ -35291,10 +31027,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech116-8"
@@ -35312,7 +31045,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          15,
           16,
           17,
           18
@@ -35331,24 +31063,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech116-10"
@@ -35415,9 +31130,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech116-12"
@@ -35478,8 +31191,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           12,
-          13,
-          14
+          13
         ],
         "color": "rose",
         "id": "bctech116-14"
@@ -35498,16 +31210,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.203",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          14
         ],
         "color": "rose",
         "id": "bctech116-15"
@@ -35533,10 +31236,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech116-16"
@@ -35631,9 +31331,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech118-1"
@@ -35685,20 +31383,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
           16,
           17,
           18
@@ -35733,8 +31417,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech118-4"
@@ -35753,10 +31436,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.208",
         "weeks": [
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -35779,8 +31458,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech118-6"
@@ -35813,16 +31491,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -35840,11 +31508,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           6,
           7,
           8,
@@ -35854,8 +31517,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech118-9"
@@ -35887,8 +31549,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech118-10"
@@ -35907,11 +31568,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -35935,8 +31591,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech118-12"
@@ -35969,9 +31624,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech118-14"
@@ -35990,10 +31643,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
           15,
           16,
           18
@@ -36015,11 +31664,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           10,
           12,
           13,
@@ -36047,8 +31691,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          18
+          5
         ],
         "color": "orange",
         "id": "bctech118-17"
@@ -36067,7 +31710,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          16,
           18
         ],
         "color": "orange",
@@ -36085,7 +31727,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          6,
           16
         ],
         "color": "orange",
@@ -36103,8 +31744,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          6,
-          16
+          6
         ],
         "color": "orange",
         "id": "bctech118-20"
@@ -36120,7 +31760,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
           16
         ],
         "color": "orange",
@@ -36137,16 +31776,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
+          6
         ],
         "color": "orange",
         "id": "bctech118-22"
@@ -36172,11 +31802,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          13,
-          14,
-          15,
-          16
+          12
         ],
         "color": "orange",
         "id": "bctech118-23"
@@ -36202,8 +31828,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech118-24"
@@ -36236,15 +31861,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -36300,11 +31916,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
           18
         ],
         "color": "orange",
@@ -36328,8 +31939,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6
+          5
         ],
         "color": "orange",
         "id": "bctech119-2"
@@ -36362,11 +31972,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          14,
-          15,
-          16,
-          17
+          6
         ],
         "color": "orange",
         "id": "bctech119-4"
@@ -36388,8 +31994,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech119-5"
@@ -36422,21 +32027,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -36469,8 +32059,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech119-8"
@@ -36489,9 +32078,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.209",
         "weeks": [
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -36510,7 +32096,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          14,
           15,
           16,
           17,
@@ -36536,8 +32121,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech119-11"
@@ -36570,16 +32154,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -36629,8 +32203,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech119-15"
@@ -36663,17 +32236,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech119-17"
@@ -36691,13 +32254,11 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          5,
           6,
           7,
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -36757,7 +32318,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          18,
           19
         ],
         "color": "teal",
@@ -36777,7 +32337,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.G.MEET",
         "weeks": [
-          16,
           18,
           19
         ],
@@ -36832,8 +32391,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "blue",
         "id": "bctech181-1"
@@ -36902,9 +32460,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          13
+          10
         ],
         "color": "violet",
         "id": "bctech122-1"
@@ -36921,16 +32477,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           11,
           13
         ],
@@ -36957,12 +32503,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          10
         ],
         "color": "violet",
         "id": "bctech122-3"
@@ -36989,8 +32530,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "violet",
         "id": "bctech122-4"
@@ -37059,10 +32599,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -37070,7 +32606,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -37158,12 +32693,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "violet",
         "id": "bctech122-10"
@@ -37186,7 +32716,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -37207,10 +32736,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.302",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -37247,9 +32772,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13
+          10
         ],
         "color": "violet",
         "id": "bctech122-13"
@@ -37266,16 +32789,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13
         ],
@@ -37302,12 +32815,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "violet",
         "id": "bctech122-15"
@@ -37350,10 +32858,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -37490,9 +32994,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech125-2"
@@ -37549,8 +33051,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5,
-          6
+          5
         ],
         "color": "orange",
         "id": "bctech125-4"
@@ -37583,17 +33084,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
+          6
         ],
         "color": "orange",
         "id": "bctech125-6"
@@ -37620,8 +33111,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "blue",
         "id": "bctech125-7"
@@ -37640,16 +33130,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
           19
         ],
         "color": "blue",
@@ -37676,10 +33156,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
-          15,
-          16,
-          18
+          12
         ],
         "color": "orange",
         "id": "bctech125-9"
@@ -37697,11 +33174,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
           15,
           16,
           18
@@ -37727,8 +33199,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "orange",
         "id": "bctech125-11"
@@ -37761,16 +33232,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15
+          12
         ],
         "color": "orange",
         "id": "bctech125-13"
@@ -37796,10 +33258,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17,
-          18
+          15
         ],
         "color": "orange",
         "id": "bctech125-14"
@@ -37854,18 +33313,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
           14,
           15,
           16,
@@ -37899,7 +33346,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -37923,14 +33369,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -37972,8 +33410,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech126-4"
@@ -38006,8 +33443,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          16,
-          17,
           18
         ],
         "color": "orange",
@@ -38026,15 +33461,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           16,
           17,
           18
@@ -38136,8 +33562,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech127-2"
@@ -38153,21 +33578,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          18
         ],
         "color": "emerald",
         "id": "bctech127-3"
@@ -38214,10 +33625,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -38296,8 +33703,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech127-7"
@@ -38313,21 +33719,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          18
         ],
         "color": "emerald",
         "id": "bctech127-8"
@@ -38374,10 +33766,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -38385,7 +33773,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -38425,8 +33812,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech127-11"
@@ -38458,22 +33844,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -38537,8 +33907,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech127-15"
@@ -38570,22 +33939,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -38612,16 +33965,12 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "emerald",
         "id": "bctech127-18"
@@ -38730,10 +34079,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.407",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -38773,8 +34118,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
-          20
+          12
         ],
         "color": "violet",
         "id": "bctech127-23"
@@ -38791,17 +34135,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
           20
         ],
         "color": "emerald",
@@ -38829,8 +34162,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
-          20
+          12
         ],
         "color": "violet",
         "id": "bctech127-25"
@@ -38863,8 +34195,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          18,
-          19,
           20
         ],
         "color": "emerald",
@@ -38900,8 +34230,7 @@ const ALL_TEACHERS_DATABASE =
         "room": "1A.108",
         "weeks": [
           18,
-          19,
-          20
+          19
         ],
         "color": "emerald",
         "id": "bctech127-29"
@@ -38917,7 +34246,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          12,
           20
         ],
         "color": "emerald",
@@ -39006,8 +34334,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech128-2"
@@ -39023,22 +34350,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.205",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -39071,8 +34382,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech128-4"
@@ -39104,22 +34414,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -39215,8 +34509,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech128-9"
@@ -39232,22 +34525,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -39280,8 +34557,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech128-11"
@@ -39313,22 +34589,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -39360,9 +34620,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19,
-          20
+          17
         ],
         "color": "violet",
         "id": "bctech128-14"
@@ -39396,18 +34654,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           19,
           20
         ],
@@ -39461,13 +34707,11 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
           18,
           19,
           20
@@ -39595,12 +34839,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "orange",
         "id": "bctech129-2"
@@ -39643,10 +34882,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -39710,12 +34945,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "orange",
         "id": "bctech129-6"
@@ -39765,7 +34995,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -39796,8 +35025,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "orange",
         "id": "bctech129-9"
@@ -39814,18 +35042,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "orange",
@@ -39842,10 +35058,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -39884,11 +35096,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
-          13,
-          14,
-          15
+          13
         ],
         "color": "orange",
         "id": "bctech129-12"
@@ -39914,8 +35123,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "violet",
         "id": "bctech129-13"
@@ -39932,10 +35140,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.407",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -39999,12 +35203,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "orange",
         "id": "bctech129-16"
@@ -40057,8 +35256,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech129-18"
@@ -40138,9 +35336,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16,
-          17
+          15
         ],
         "color": "orange",
         "id": "bctech130-1"
@@ -40163,8 +35359,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "orange",
         "id": "bctech130-2"
@@ -40197,11 +35392,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -40225,8 +35415,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech130-5"
@@ -40259,20 +35448,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
           16
         ],
         "color": "orange",
@@ -40328,8 +35503,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech130-9"
@@ -40362,16 +35536,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           18
         ],
         "color": "orange",
@@ -40398,8 +35562,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech130-12"
@@ -40484,7 +35647,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -40511,7 +35673,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -40569,8 +35730,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "orange",
         "id": "bctech131-5"
@@ -40586,10 +35746,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -40653,8 +35809,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "orange",
         "id": "bctech131-8"
@@ -40670,16 +35825,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.304",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12
         ],
         "color": "orange",
@@ -40731,8 +35876,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12
+          10
         ],
         "color": "orange",
         "id": "bctech131-11"
@@ -40855,10 +35999,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -40922,12 +36062,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
+          11
         ],
         "color": "orange",
         "id": "bctech132-6"
@@ -41023,10 +36158,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -41146,10 +36277,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14
+          10
         ],
         "color": "orange",
         "id": "bctech133-2"
@@ -41165,16 +36293,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13,
           14
@@ -41269,8 +36387,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech136-1"
@@ -41302,22 +36419,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -41344,16 +36445,12 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "emerald",
         "id": "bctech136-4"
@@ -41400,10 +36497,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -41482,8 +36575,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech136-8"
@@ -41499,22 +36591,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -41547,8 +36623,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech136-10"
@@ -41580,22 +36655,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.301",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -41691,8 +36750,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech136-15"
@@ -41708,22 +36766,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.303",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -41756,8 +36798,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech136-17"
@@ -41789,22 +36830,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.204",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -41832,7 +36857,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -41869,8 +36893,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech136-21"
@@ -41902,22 +36925,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "emerald",
@@ -41949,10 +36956,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "emerald",
         "id": "bctech136-24"
@@ -42286,8 +37290,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "violet",
         "id": "bctech140-1"
@@ -42303,7 +37306,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          18,
           19
         ],
         "color": "violet",
@@ -42336,8 +37338,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "violet",
         "id": "bctech140-3"
@@ -42353,7 +37354,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          18,
           19
         ],
         "color": "violet",
@@ -42370,21 +37370,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-5"
@@ -42431,10 +37417,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -42481,8 +37463,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19
+          18
         ],
         "color": "violet",
         "id": "bctech140-8"
@@ -42498,7 +37479,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          18,
           19
         ],
         "color": "violet",
@@ -42531,8 +37511,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "violet",
         "id": "bctech140-10"
@@ -42548,7 +37527,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          18,
           19
         ],
         "color": "violet",
@@ -42565,21 +37543,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-12"
@@ -42633,7 +37597,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -42671,9 +37634,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16,
           17,
-          18,
-          19,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-15"
@@ -42721,10 +37682,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.406",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -42772,8 +37729,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-18"
@@ -42790,22 +37746,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           20
         ],
         "color": "violet",
@@ -42837,8 +37777,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-20"
@@ -42854,19 +37793,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
           20
         ],
         "color": "violet",
@@ -42883,10 +37809,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.406",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -42932,8 +37854,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-23"
@@ -42950,22 +37871,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           20
         ],
         "color": "violet",
@@ -42997,8 +37902,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech140-25"
@@ -43014,8 +37918,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          18,
-          19,
           20
         ],
         "color": "violet",
@@ -43076,22 +37978,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -43123,10 +38009,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "violet",
         "id": "bctech143-2"
@@ -43173,10 +38056,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -43223,8 +38102,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech143-5"
@@ -43240,21 +38118,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          18
         ],
         "color": "violet",
         "id": "bctech143-6"
@@ -43301,10 +38165,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -43312,7 +38172,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -43352,8 +38211,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech143-9"
@@ -43385,22 +38243,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -43432,8 +38274,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          20
+          17
         ],
         "color": "violet",
         "id": "bctech143-12"
@@ -43466,22 +38307,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.109",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           20
         ],
         "color": "violet",
@@ -43514,8 +38339,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech143-15"
@@ -43547,22 +38371,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -43594,8 +38402,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          20
+          17
         ],
         "color": "violet",
         "id": "bctech143-18"
@@ -43770,11 +38577,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17,
-          18,
-          19,
-          20
+          16
         ],
         "color": "violet",
         "id": "bctech144-5"
@@ -43810,17 +38613,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.205",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           17,
           18,
           19,
@@ -43846,7 +38638,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
@@ -43904,8 +38695,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "color": "violet",
         "id": "bctech144-10"
@@ -43932,8 +38722,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          20
+          16
         ],
         "color": "violet",
         "id": "bctech144-11"
@@ -44061,7 +38850,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -44212,8 +39000,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech185-1"
@@ -44245,22 +39032,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.202",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -44287,16 +39058,12 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "violet",
         "id": "bctech185-4"
@@ -44375,10 +39142,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.305",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -44426,8 +39189,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "violet",
         "id": "bctech185-8"
@@ -44459,22 +39221,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.201",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
           18
         ],
         "color": "violet",
@@ -44501,16 +39247,12 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "violet",
         "id": "bctech185-11"
@@ -44667,12 +39409,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "violet",
         "id": "bctech191-2"
@@ -44715,10 +39452,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -44782,12 +39515,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "violet",
         "id": "bctech191-6"
@@ -44830,10 +39558,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.210",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -44895,13 +39619,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "violet",
         "id": "bctech191-10"
@@ -44929,8 +39647,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "violet",
         "id": "bctech191-11"
@@ -44946,17 +39663,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           17
         ],
         "color": "violet",
@@ -44973,10 +39679,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -44987,8 +39689,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "violet",
         "id": "bctech191-13"
@@ -45101,10 +39802,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14
+          10
         ],
         "color": "violet",
         "id": "bctech191-17"
@@ -45120,16 +39818,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13,
           14
@@ -45158,9 +39846,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13
+          10
         ],
         "color": "violet",
         "id": "bctech191-19"
@@ -45177,16 +39863,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           12,
           13
         ],
@@ -45213,12 +39889,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8,
           9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16
+          10
         ],
         "color": "violet",
         "id": "bctech191-21"
@@ -45261,10 +39932,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -45321,11 +39988,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6,
           7,
-          8,
-          13,
-          14,
-          15,
-          16
+          8
         ],
         "color": "violet",
         "id": "bctech191-25"
@@ -45529,7 +40192,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -45771,8 +40433,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          19
+          17
         ],
         "color": "emerald",
         "id": "bctech194-1"
@@ -45788,7 +40449,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          18,
           19
         ],
         "color": "emerald",
@@ -45805,8 +40465,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech194-3"
@@ -45822,21 +40481,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20
+          19
         ],
         "color": "emerald",
         "id": "bctech194-4"
@@ -45913,7 +40558,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.108",
         "weeks": [
-          18,
           19
         ],
         "color": "emerald",
@@ -45930,8 +40574,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          18,
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech194-8"
@@ -45947,22 +40590,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.107",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
           19
         ],
         "color": "emerald",
@@ -45994,10 +40621,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18,
-          19,
-          20
+          17
         ],
         "color": "emerald",
         "id": "bctech194-10"
@@ -46051,7 +40675,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -46169,10 +40792,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
           5,
           6,
           7,
@@ -46250,8 +40869,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "emerald",
         "id": "bctech194-18"
@@ -46284,22 +40902,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.110",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           20
         ],
         "color": "emerald",
@@ -46332,8 +40934,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "emerald",
         "id": "bctech194-21"
@@ -46350,22 +40951,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.211",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           20
         ],
         "color": "emerald",
@@ -46397,8 +40982,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          18,
-          20
+          18
         ],
         "color": "emerald",
         "id": "bctech194-23"
@@ -46522,20 +41106,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.205",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
           20
         ],
         "color": "emerald",
@@ -46692,18 +41262,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "2A.302",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
           19,
           20
         ],
@@ -46757,13 +41315,11 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
           18,
           19,
           20
@@ -47088,12 +41644,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -47117,8 +41667,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech030-2"
@@ -47137,12 +41686,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X2.PLASMA",
         "weeks": [
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
           18
         ],
         "color": "orange",
@@ -47166,8 +41709,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "orange",
         "id": "bctech030-4"
@@ -47249,19 +41791,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
           19
         ],
         "color": "emerald",
@@ -47311,14 +41840,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1A.306(LAB2)",
         "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
           16,
           17,
           18
@@ -47384,7 +41905,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -47414,8 +41934,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "blue",
         "id": "bctech048-2"
@@ -47551,8 +42070,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15,
-          16,
-          18
+          16
         ],
         "color": "teal",
         "id": "bctech173-2"
@@ -47570,15 +42088,6 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
           18
         ],
         "color": "teal",
@@ -47605,7 +42114,6 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12
         ],
         "color": "blue",
@@ -47624,8 +42132,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          11,
-          12
+          11
         ],
         "color": "blue",
         "id": "bctech173-5"
@@ -47644,8 +42151,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          12,
-          18
+          12
         ],
         "color": "blue",
         "id": "bctech173-6"

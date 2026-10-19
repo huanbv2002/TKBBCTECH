@@ -120,13 +120,17 @@ def process_pdf(pdf_path):
             table = tables_found[0]
             extracted_data = table.extract()
             
-            header_chars = [c for c in chars if c['text'] in '1234567890' and 110 < c['top'] < 170 and c['x0'] > 500]
+            header_chars = [c for c in chars if c['text'] in '1234567890' and 135 < c['top'] < 165 and c['x0'] > 575]
             header_chars.sort(key=lambda c: c['x0'])
             unique_header = []
             for hc in header_chars:
                 if not any(abs(u['x0'] - hc['x0']) < 2.5 for u in unique_header):
                     unique_header.append(hc)
             unique_header.sort(key=lambda c: c['x0'])
+            if len(unique_header) == 22:
+                col_x0s = [hc['x0'] for hc in unique_header]
+            else:
+                col_x0s = [589.9 + i * 4.825 for i in range(22)]
             
             row_entries = []
             for r_idx, row in enumerate(table.rows):
@@ -161,18 +165,18 @@ def process_pdf(pdf_path):
                     teacher = ''
                 
                 bbox = row.bbox
-                row_digits = [c for c in chars if c['text'] in '1234567890' and bbox[1] - 1.5 <= c['top'] <= bbox[3] + 1.5 and c['x0'] > 500]
+                row_digits = [c for c in chars if c['text'] in '1234567890' and bbox[1] - 0.5 <= c['top'] < bbox[3] - 0.5 and c['x0'] > 575]
                 
                 weeks = []
                 for rd in row_digits:
                     best_col = None
                     min_dist = 9999
-                    for col_idx, hc in enumerate(unique_header):
-                        dist = abs(rd['x0'] - hc['x0'])
+                    for col_idx, cx in enumerate(col_x0s):
+                        dist = abs(rd['x0'] - cx)
                         if dist < min_dist:
                             min_dist = dist
                             best_col = col_idx + 1
-                    if best_col and min_dist < 6:
+                    if best_col and min_dist < 3.5:
                         weeks.append(best_col)
                 
                 weeks = sorted(set(weeks))
