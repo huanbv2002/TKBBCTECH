@@ -115,6 +115,25 @@ function getVietnameseSortKey(fullName) {
   return `${firstName} ${remaining}`;
 }
 
+function getTeacherStats(teacherInfo) {
+  if (!teacherInfo || !teacherInfo.schedule) return { subjects: 0, classes: 0, label: '0 môn' };
+  const subjects = new Set();
+  const classes = new Set();
+  teacherInfo.schedule.forEach((s) => {
+    if (s.subject) subjects.add(s.subject.trim());
+    if (s.className) classes.add(s.className.trim());
+  });
+  const subjCount = subjects.size;
+  const classCount = classes.size;
+  const subjList = [...subjects].join(', ');
+  return {
+    subjects: subjCount,
+    classes: classCount,
+    subjList: subjList,
+    label: `${subjCount} môn · ${classCount} lớp`
+  };
+}
+
 function renderClassPickerOptions(filterText = '') {
   const listContainer = $('picker-options-list');
   const countLabel = $('picker-count-label');
@@ -241,6 +260,7 @@ function renderClassPickerOptions(filterText = '') {
       const isSelected = settings && settings.viewMode === 'teacher' && settings.teacherCode === k;
       const nameHtml = highlightMatch(info.name || k, query);
       const codeHtml = highlightMatch(info.code || k, query);
+      const stats = getTeacherStats(info);
       const itemIndex = globalItemIndex++;
 
       html += `
@@ -251,7 +271,7 @@ function renderClassPickerOptions(filterText = '') {
              aria-selected="${isSelected ? 'true' : 'false'}">
           <div class="picker-item-left">
             <span class="picker-item-code">${nameHtml}</span>
-            <span class="picker-item-major">Mã: ${codeHtml} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
+            <span class="picker-item-major" title="${escapeHtml(stats.subjList)}">Mã: ${codeHtml} · ${stats.label}</span>
           </div>
           <div class="picker-item-check" aria-hidden="true">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -319,11 +339,12 @@ function renderClassPickerOptions(filterText = '') {
             <div class="picker-cross-list">
               ${previewTeachers.map((k) => {
                 const info = ALL_TEACHERS_DATABASE[k];
+                const stats = getTeacherStats(info);
                 return `
                   <div class="picker-item picker-teacher-item is-cross-match" data-cross-teacher="${k}">
                     <div class="picker-item-left">
                       <span class="picker-item-code">${escapeHtml(info.name || k)}</span>
-                      <span class="picker-item-major">Mã: ${escapeHtml(info.code || k)} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
+                      <span class="picker-item-major" title="${escapeHtml(stats.subjList)}">Mã: ${escapeHtml(info.code || k)} · ${stats.label}</span>
                     </div>
                     <span class="picker-cross-btn">Xem lịch dạy</span>
                   </div>
