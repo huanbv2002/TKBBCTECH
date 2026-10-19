@@ -233,6 +233,15 @@
     height: 15px;
   }
 
+  .top-actions .outline-btn img,
+  .top-actions .profile-btn-icon {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+  }
+
   .top-actions .today-action-btn {
     background: #dbeafe;
     border: none !important;

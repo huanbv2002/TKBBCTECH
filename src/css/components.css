@@ -79,6 +79,26 @@
   color: var(--primary-hover);
 }
 
+.profile-action-btn {
+  text-decoration: none !important;
+  color: var(--slate-700);
+}
+
+.profile-action-btn:hover {
+  background: var(--slate-100);
+  border-color: var(--slate-300);
+  color: var(--slate-900);
+}
+
+.profile-btn-icon {
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  display: block;
+}
+
 .select-wrapper {
   position: relative;
 }
