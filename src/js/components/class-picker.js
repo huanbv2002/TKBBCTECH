@@ -13,7 +13,7 @@ function updateClassPickerButton(code) {
     const tCode = settings.teacherCode;
     if (typeof ALL_TEACHERS_DATABASE === 'object' && ALL_TEACHERS_DATABASE && ALL_TEACHERS_DATABASE[tCode]) {
       const info = ALL_TEACHERS_DATABASE[tCode];
-      triggerText.innerHTML = `<span class="picker-trigger-name">${escapeHtml(info.name)}</span><span class="picker-trigger-sub"> · ${escapeHtml(info.dept || info.code || 'Giảng viên')}</span>`;
+      triggerText.innerHTML = `<span class="picker-trigger-name">${escapeHtml(info.name)}</span><span class="picker-trigger-sub"> · Giảng viên</span>`;
       return;
     }
     triggerText.innerHTML = `<span class="picker-trigger-name">${escapeHtml(tCode)}</span><span class="picker-trigger-sub"> · Giảng viên</span>`;
@@ -106,6 +106,15 @@ function highlightMatch(text, query) {
   return `${escapeHtml(before)}<span class="picker-highlight">${escapeHtml(match)}</span>${escapeHtml(after)}`;
 }
 
+function getVietnameseSortKey(fullName) {
+  if (!fullName) return '';
+  const parts = fullName.trim().split(/\s+/);
+  if (parts.length <= 1) return fullName;
+  const firstName = parts[parts.length - 1];
+  const remaining = parts.slice(0, parts.length - 1).join(' ');
+  return `${firstName} ${remaining}`;
+}
+
 function renderClassPickerOptions(filterText = '') {
   const listContainer = $('picker-options-list');
   const countLabel = $('picker-count-label');
@@ -129,8 +138,7 @@ function renderClassPickerOptions(filterText = '') {
       const info = ALL_TEACHERS_DATABASE[k];
       const normName = removeVietnameseTones(info.name || '');
       const normCode = removeVietnameseTones(info.code || k);
-      const normDept = removeVietnameseTones(info.dept || '');
-      return normName.includes(normQuery) || normCode.includes(normQuery) || normDept.includes(normQuery);
+      return normName.includes(normQuery) || normCode.includes(normQuery);
     });
 
     currentFilteredItems = filtered;
@@ -200,13 +208,13 @@ function renderClassPickerOptions(filterText = '') {
       return;
     }
 
-    // Nhóm theo Đơn vị / Khoa
-    const deptGroups = {};
-    filtered.forEach((k) => {
-      const info = ALL_TEACHERS_DATABASE[k];
-      const d = (info.dept || 'Khác').trim();
-      if (!deptGroups[d]) deptGroups[d] = [];
-      deptGroups[d].push(k);
+    // Sắp xếp danh sách giảng viên theo Tên (A - Z chuẩn Tiếng Việt)
+    filtered.sort((a, b) => {
+      const nameA = (ALL_TEACHERS_DATABASE[a]?.name || a).trim();
+      const nameB = (ALL_TEACHERS_DATABASE[b]?.name || b).trim();
+      const keyA = getVietnameseSortKey(nameA);
+      const keyB = getVietnameseSortKey(nameB);
+      return keyA.localeCompare(keyB, 'vi');
     });
 
     let html = '';
@@ -228,32 +236,28 @@ function renderClassPickerOptions(filterText = '') {
       }
     }
 
-    Object.keys(deptGroups).sort().forEach((deptName) => {
-      const tKeys = deptGroups[deptName];
-      html += `<div class="picker-group-heading">${escapeHtml(deptName)} (${tKeys.length})</div>`;
-      tKeys.forEach((k) => {
-        const info = ALL_TEACHERS_DATABASE[k];
-        const isSelected = settings && settings.viewMode === 'teacher' && settings.teacherCode === k;
-        const nameHtml = highlightMatch(info.name || k, query);
-        const codeHtml = highlightMatch(info.code || k, query);
-        const itemIndex = globalItemIndex++;
+    filtered.forEach((k) => {
+      const info = ALL_TEACHERS_DATABASE[k];
+      const isSelected = settings && settings.viewMode === 'teacher' && settings.teacherCode === k;
+      const nameHtml = highlightMatch(info.name || k, query);
+      const codeHtml = highlightMatch(info.code || k, query);
+      const itemIndex = globalItemIndex++;
 
-        html += `
-          <div class="picker-item picker-teacher-item ${isSelected ? 'is-selected' : ''}" 
-               data-teacher="${k}" 
-               data-index="${itemIndex}"
-               role="option" 
-               aria-selected="${isSelected ? 'true' : 'false'}">
-            <div class="picker-item-left">
-              <span class="picker-item-code">${nameHtml}</span>
-              <span class="picker-item-major">Mã: ${codeHtml} · ${escapeHtml(info.dept || '')} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
-            </div>
-            <div class="picker-item-check" aria-hidden="true">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            </div>
+      html += `
+        <div class="picker-item picker-teacher-item ${isSelected ? 'is-selected' : ''}" 
+             data-teacher="${k}" 
+             data-index="${itemIndex}"
+             role="option" 
+             aria-selected="${isSelected ? 'true' : 'false'}">
+          <div class="picker-item-left">
+            <span class="picker-item-code">${nameHtml}</span>
+            <span class="picker-item-major">Mã: ${codeHtml} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
           </div>
-        `;
-      });
+          <div class="picker-item-check" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"></polyline></svg>
+          </div>
+        </div>
+      `;
     });
 
     listContainer.innerHTML = html;
@@ -303,8 +307,7 @@ function renderClassPickerOptions(filterText = '') {
         const info = ALL_TEACHERS_DATABASE[k];
         const normName = removeVietnameseTones(info.name || '');
         const normCode = removeVietnameseTones(info.code || k);
-        const normDept = removeVietnameseTones(info.dept || '');
-        return normName.includes(normQuery) || normCode.includes(normQuery) || normDept.includes(normQuery);
+        return normName.includes(normQuery) || normCode.includes(normQuery);
       });
 
       if (matchingTeachers.length > 0) {
@@ -320,7 +323,7 @@ function renderClassPickerOptions(filterText = '') {
                   <div class="picker-item picker-teacher-item is-cross-match" data-cross-teacher="${k}">
                     <div class="picker-item-left">
                       <span class="picker-item-code">${escapeHtml(info.name || k)}</span>
-                      <span class="picker-item-major">Mã: ${escapeHtml(info.code || k)} · ${escapeHtml(info.dept || '')}</span>
+                      <span class="picker-item-major">Mã: ${escapeHtml(info.code || k)} · ${info.schedule ? info.schedule.length : 0} môn/lớp</span>
                     </div>
                     <span class="picker-cross-btn">Xem lịch dạy</span>
                   </div>
