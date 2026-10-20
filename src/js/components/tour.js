@@ -60,6 +60,7 @@ const TOUR_STEPS = [
         <div>• <b>Lịch tuần</b>: Xem thời khóa biểu theo từng tuần học.</div>
         <div>• <b>Lịch tháng</b>: Xem lịch theo dạng tờ lịch tháng quen thuộc.</div>
         <div>• <b>22 Tuần</b>: Xem lịch cả học kỳ và các ngày được nghỉ Lễ, Tết.</div>
+        <div>• <b>Theo ngày</b>: Tra cứu lịch học, phòng/xưởng toàn trường theo từng ngày.</div>
       </div>
     `,
     preferredPos: 'top'

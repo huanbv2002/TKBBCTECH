@@ -1,0 +1,718 @@
+/**
+ * TKB - Daily Schedule Inspection View (Thanh tra / Toàn trường theo ngày)
+ * Clean, minimal, print-friendly & responsive (PC / Tablet / Mobile)
+ */
+
+/* ============================================================
+   1. DAILY VIEW CONTAINER & HEADER
+   ============================================================ */
+.daily-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 1380px;
+  margin: 0 auto;
+  padding-bottom: 24px;
+}
+
+.daily-header-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.daily-date-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.daily-date-stepper {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--slate-50);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 4px;
+}
+
+.daily-step-btn {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-xs);
+  color: var(--slate-700);
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.daily-step-btn:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--white);
+}
+
+.daily-step-btn svg {
+  flex-shrink: 0;
+}
+
+.daily-date-picker-wrap {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+.daily-date-picker-wrap input[type="date"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.daily-date-display {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--slate-900);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.daily-week-tag {
+  font-size: 11.5px;
+  font-weight: 600;
+  background: rgba(37, 99, 235, 0.1);
+  color: var(--primary);
+  border-radius: 4px;
+  padding: 2px 7px;
+  letter-spacing: 0.2px;
+}
+
+.daily-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.daily-today-btn {
+  font-size: 12.5px;
+  font-weight: 600;
+  padding: 7px 14px;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--line);
+  background: var(--white);
+  color: var(--slate-700);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.daily-today-btn:hover {
+  background: var(--slate-50);
+  border-color: var(--slate-300);
+  color: var(--slate-900);
+}
+
+.daily-print-btn {
+  font-size: 12.5px;
+  font-weight: 600;
+  padding: 7px 14px;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--line);
+  background: var(--white);
+  color: var(--slate-700);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.daily-print-btn:hover {
+  background: var(--slate-100);
+  color: var(--slate-900);
+}
+
+/* ============================================================
+   2. FILTER TOOLBAR & SEARCH
+   ============================================================ */
+.daily-filter-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line-light);
+  flex-wrap: wrap;
+}
+
+.daily-filter-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.daily-filter-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--slate-500);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.daily-pills {
+  display: inline-flex;
+  align-items: center;
+  background: var(--slate-100);
+  border-radius: var(--radius-xs);
+  padding: 3px;
+  gap: 2px;
+}
+
+.daily-pill-btn {
+  border: none;
+  background: transparent;
+  color: var(--slate-600);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px 11px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.daily-pill-btn:hover {
+  color: var(--slate-900);
+}
+
+.daily-pill-btn.active {
+  background: var(--white);
+  color: var(--primary);
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.daily-search-box {
+  position: relative;
+  min-width: 280px;
+  flex: 1;
+  max-width: 420px;
+}
+
+.daily-search-input {
+  width: 100%;
+  height: 36px;
+  padding: 6px 32px 6px 32px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-xs);
+  font-size: 13px;
+  color: var(--slate-800);
+  background: var(--slate-50);
+  transition: all 0.2s ease;
+}
+
+.daily-search-input:focus {
+  outline: none;
+  background: var(--white);
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+.daily-search-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--slate-400);
+  pointer-events: none;
+}
+
+.daily-search-clear {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: var(--slate-400);
+  cursor: pointer;
+  padding: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.daily-search-clear:hover {
+  color: var(--slate-700);
+}
+
+/* Summary stats badge */
+.daily-stats-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 4px;
+  font-size: 13px;
+  color: var(--slate-600);
+}
+
+.daily-stats-counts {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.daily-stat-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: 600;
+  color: var(--slate-800);
+}
+
+.daily-stat-badge b {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+/* Holiday banner */
+.daily-holiday-banner {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-radius: var(--radius-md);
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #991b1b;
+  font-size: 13.5px;
+}
+
+.daily-holiday-banner svg {
+  flex-shrink: 0;
+}
+
+/* ============================================================
+   3. SESSION SECTION & TABLE (DESKTOP)
+   ============================================================ */
+.daily-session-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+}
+
+.daily-session-header {
+  padding: 12px 18px;
+  background: var(--slate-50);
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.daily-session-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--slate-900);
+}
+
+.daily-session-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(15, 43, 72, 0.08);
+  color: var(--slate-700);
+}
+
+.daily-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.daily-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  text-align: left;
+}
+
+.daily-table th {
+  background: #fafbfc;
+  color: var(--slate-600);
+  font-weight: 700;
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.daily-table td {
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--line-light);
+  color: var(--slate-800);
+  vertical-align: middle;
+}
+
+.daily-table tbody tr:hover {
+  background: rgba(37, 99, 235, 0.025);
+}
+
+.daily-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.daily-period-col {
+  white-space: nowrap;
+  font-weight: 700;
+  color: var(--slate-900);
+}
+
+.daily-time-sub {
+  display: block;
+  font-size: 11px;
+  color: var(--slate-500);
+  font-weight: 500;
+}
+
+.daily-room-badge {
+  display: inline-block;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 12.5px;
+  color: #1e3a8a;
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.daily-room-badge.workshop {
+  background: #fef3c7;
+  border-color: #fde68a;
+  color: #92400e;
+}
+
+.daily-room-badge.online {
+  background: #f3e8ff;
+  border-color: #e9d5ff;
+  color: #6b21a8;
+}
+
+.daily-class-badge {
+  font-weight: 700;
+  color: var(--primary);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.daily-class-badge:hover {
+  text-decoration: underline;
+}
+
+.daily-subject-cell {
+  font-weight: 600;
+  color: var(--slate-900);
+}
+
+.daily-subject-major {
+  display: block;
+  font-size: 11.5px;
+  color: var(--slate-500);
+  font-weight: normal;
+}
+
+.daily-teacher-cell {
+  font-weight: 600;
+  color: var(--slate-800);
+  white-space: nowrap;
+}
+
+.daily-campus-tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.daily-campus-tag.cs1 {
+  background: #ecfdf5;
+  color: #047857;
+  border: 1px solid #a7f3d0;
+}
+
+.daily-campus-tag.cs2 {
+  background: #e0f2fe;
+  color: #0369a1;
+  border: 1px solid #bae6fd;
+}
+
+.daily-campus-tag.online {
+  background: #faf5ff;
+  color: #7e22ce;
+  border: 1px solid #f3e8ff;
+}
+
+/* Live badge indicator */
+.daily-live-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  background: #16a34a;
+  color: #ffffff;
+  padding: 2px 6px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+.daily-live-dot {
+  width: 5px;
+  height: 5px;
+  background: #ffffff;
+  border-radius: 50%;
+  animation: dailyPulse 1.4s infinite;
+}
+
+@keyframes dailyPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.8); }
+}
+
+/* ============================================================
+   4. MOBILE CARDS LIST
+   ============================================================ */
+.daily-mobile-cards {
+  display: none;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+}
+
+.daily-card-item {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: all 0.15s ease;
+}
+
+.daily-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.daily-card-subject {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--slate-900);
+}
+
+.daily-card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 12px;
+  font-size: 12px;
+}
+
+.daily-card-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--slate-600);
+}
+
+.daily-card-row svg {
+  color: var(--slate-400);
+  flex-shrink: 0;
+}
+
+.daily-card-row strong {
+  color: var(--slate-800);
+}
+
+/* ============================================================
+   5. EMPTY STATE
+   ============================================================ */
+.daily-empty-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--slate-500);
+}
+
+.daily-empty-icon {
+  margin: 0 auto 12px auto;
+  color: var(--slate-300);
+}
+
+.daily-empty-card h4 {
+  margin: 0 0 6px 0;
+  font-size: 16px;
+  color: var(--slate-800);
+}
+
+.daily-empty-card p {
+  margin: 0;
+  font-size: 13.5px;
+  color: var(--slate-500);
+}
+
+/* ============================================================
+   6. RESPONSIVE BREAKPOINTS
+   ============================================================ */
+@media (max-width: 900px) {
+  .daily-table-wrap {
+    display: none;
+  }
+  .daily-mobile-cards {
+    display: flex;
+  }
+  .daily-date-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .daily-date-stepper {
+    justify-content: space-between;
+  }
+  .daily-header-actions {
+    justify-content: flex-end;
+  }
+  .daily-filter-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  .daily-search-box {
+    max-width: 100%;
+    min-width: 100%;
+  }
+}
+
+/* ============================================================
+   7. PRINT OPTIMIZATION (CHUẨN GIẤY IN A4 CHO THANH TRA)
+   ============================================================ */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+  }
+
+  /* Hide unnecessary elements */
+  .sidebar,
+  .topbar,
+  .mobile-bottom-nav,
+  .daily-date-stepper,
+  .daily-header-actions,
+  .daily-filter-toolbar,
+  .modal-backdrop,
+  #tour-backdrop,
+  .daily-mobile-cards {
+    display: none !important;
+  }
+
+  .main {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+  }
+
+  .daily-container {
+    max-width: 100% !important;
+    padding: 0 !important;
+    gap: 12px !important;
+  }
+
+  .daily-header-card {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 0 10px 0 !important;
+    border-bottom: 2px solid #000000 !important;
+    border-radius: 0 !important;
+  }
+
+  .daily-date-display {
+    font-size: 14pt !important;
+    color: #000000 !important;
+  }
+
+  .daily-session-card {
+    border: 1px solid #cccccc !important;
+    box-shadow: none !important;
+    page-break-inside: avoid;
+    margin-bottom: 15px;
+    border-radius: 0 !important;
+  }
+
+  .daily-session-header {
+    background: #f0f0f0 !important;
+    border-bottom: 1px solid #000000 !important;
+  }
+
+  .daily-table-wrap {
+    display: block !important;
+  }
+
+  .daily-table {
+    border-collapse: collapse !important;
+    font-size: 10pt !important;
+  }
+
+  .daily-table th,
+  .daily-table td {
+    border: 1px solid #666666 !important;
+    padding: 6px 8px !important;
+    color: #000000 !important;
+  }
+
+  .daily-room-badge,
+  .daily-campus-tag {
+    border: 1px solid #666666 !important;
+    background: transparent !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+  }
+}

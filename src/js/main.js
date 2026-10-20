@@ -74,13 +74,15 @@ function showView(view) {
   $('page-title').textContent = ({
     week: 'Lịch tuần',
     month: 'Lịch tháng',
-    reference: 'Bảng tham chiếu'
+    reference: 'Bảng tham chiếu',
+    daily: 'Tra cứu theo ngày'
   })[view] || 'Lịch học';
 
   updateHeader();
   if (view === 'week') renderWeek();
   if (view === 'month') renderMonth();
   if (view === 'reference') renderReferenceTable();
+  if (view === 'daily' && typeof renderDailyView === 'function') renderDailyView();
 }
 
 function switchClass(classCode) {
@@ -148,6 +150,10 @@ function bindEvents() {
   document.querySelectorAll('.mobile-nav-item').forEach((button) => button.addEventListener('click', () => showView(button.dataset.view)));
 
   $('today-btn').addEventListener('click', () => {
+    if (activeView === 'daily' && typeof resetDailyToToday === 'function') {
+      resetDailyToToday();
+      return;
+    }
     focusWeek = currentWeek();
     focusMonth = new Date(now().getFullYear(), now().getMonth(), 1);
     updateHeader();
