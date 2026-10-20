@@ -2,7 +2,7 @@
  * TKB - Feature Announcement & Community Note Modal
  * Displays release information for Teacher Timetable feature
  */
-const ANNOUNCEMENT_STORAGE_KEY = 'bctech_feature_announcement_v2';
+const ANNOUNCEMENT_STORAGE_KEY = 'bctech_feature_announcement_v3';
 
 function initAnnouncementModal() {
   const modal = document.getElementById('announcement-modal');

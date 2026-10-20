@@ -15,71 +15,71 @@ except Exception:
 
 # Bảng ánh xạ cấu trúc (100% Zero PII)
 T26_MAPPING = {
-    # === CƠ SỞ 1 (BÀ RỊA) ===
+    # === CƠ SỞ 1 (ĐẤT ĐỎ) ===
     # 1. Các lớp học 1 - 1 trọn vẹn
     'T26CNTT1': {
         'type': 'single',
         'vocational': 'T26CNTT1',
         'cultural': 'T26VH07',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'CNTT + VH07 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'CNTT + VH07 (CS1 - Đất Đỏ)'
     },
     'T26CBMA1': {
         'type': 'single',
         'vocational': 'T26CBMA1',
         'cultural': 'T26VH08',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Chế biến món ăn + VH08 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Chế biến món ăn + VH08 (CS1 - Đất Đỏ)'
     },
     'T26DCN1': {
         'type': 'single',
         'vocational': 'T26DCN1',
         'cultural': 'T26VH03',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Điện công nghiệp + VH03 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Điện công nghiệp + VH03 (CS1 - Đất Đỏ)'
     },
     'T26CGKL1': {
         'type': 'single',
         'vocational': 'T26CGKL1',
         'cultural': 'T26VH04',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Cắt gọt kim loại + VH04 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Cắt gọt kim loại + VH04 (CS1 - Đất Đỏ)'
     },
     'T26CNOT1': {
         'type': 'single',
         'vocational': 'T26CNOT1',
         'cultural': 'T26VH05',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Công nghệ ô tô + VH05 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Công nghệ ô tô + VH05 (CS1 - Đất Đỏ)'
     },
     'T26CNOT2': {
         'type': 'single',
         'vocational': 'T26CNOT2',
         'cultural': 'T26VH06',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Công nghệ ô tô + VH06 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Công nghệ ô tô + VH06 (CS1 - Đất Đỏ)'
     },
     'T26KTML1': {
         'type': 'single',
         'vocational': 'T26KTML1',
         'cultural': 'T26VH01',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Kỹ thuật máy lạnh + VH01 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Kỹ thuật máy lạnh + VH01 (CS1 - Đất Đỏ)'
     },
     'T26KTML2': {
         'type': 'single',
         'vocational': 'T26KTML2',
         'cultural': 'T26VH02',
         'campus': 'CS1',
-        'campusName': 'CS1 - Bà Rịa',
-        'desc': 'Kỹ thuật máy lạnh + VH02 (CS1 - Bà Rịa)'
+        'campusName': 'CS1 - Đất Đỏ',
+        'desc': 'Kỹ thuật máy lạnh + VH02 (CS1 - Đất Đỏ)'
     },
 
     # 2. Các lớp chia 2 nhóm tại CS1
@@ -93,7 +93,7 @@ T26_MAPPING = {
                 'vocational': 'T26DCN2',
                 'cultural': 'T26VH01',
                 'campus': 'CS1',
-                'campusName': 'CS1 - Bà Rịa',
+                'campusName': 'CS1 - Đất Đỏ',
                 'desc': 'Điện công nghiệp (Nhóm 1 + VH01 · CS1)'
             },
             {
@@ -102,7 +102,7 @@ T26_MAPPING = {
                 'vocational': 'T26DCN2',
                 'cultural': 'T26VH02',
                 'campus': 'CS1',
-                'campusName': 'CS1 - Bà Rịa',
+                'campusName': 'CS1 - Đất Đỏ',
                 'desc': 'Điện công nghiệp (Nhóm 2 + VH02 · CS1)'
             }
         ]
@@ -117,7 +117,7 @@ T26_MAPPING = {
                 'vocational': 'T26CDT1',
                 'cultural': 'T26VH04',
                 'campus': 'CS1',
-                'campusName': 'CS1 - Bà Rịa',
+                'campusName': 'CS1 - Đất Đỏ',
                 'desc': 'Cơ điện tử (Nhóm 1 + VH04 · CS1)'
             },
             {
@@ -126,7 +126,7 @@ T26_MAPPING = {
                 'vocational': 'T26CDT1',
                 'cultural': 'T26VH03',
                 'campus': 'CS1',
-                'campusName': 'CS1 - Bà Rịa',
+                'campusName': 'CS1 - Đất Đỏ',
                 'desc': 'Cơ điện tử (Nhóm 2 + VH03 · CS1)'
             }
         ]
@@ -141,7 +141,7 @@ T26_MAPPING = {
                 'vocational': 'T26HAN1',
                 'cultural': 'T26VH05',
                 'campus': 'CS1',
-                'campusName': 'CS1 - Bà Rịa',
+                'campusName': 'CS1 - Đất Đỏ',
                 'desc': 'Hàn (Nhóm 1 + VH05 · CS1)'
             },
             {
@@ -150,7 +150,7 @@ T26_MAPPING = {
                 'vocational': 'T26HAN1',
                 'cultural': 'T26VH06',
                 'campus': 'CS1',
-                'campusName': 'CS1 - Bà Rịa',
+                'campusName': 'CS1 - Đất Đỏ',
                 'desc': 'Hàn (Nhóm 2 + VH06 · CS1)'
             }
         ]

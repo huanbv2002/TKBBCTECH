@@ -363,7 +363,7 @@ function init() {
 
   // Auto-launch tour on first visit (after announcement has been handled)
   setTimeout(() => {
-    const announcementPending = localStorage.getItem('bctech_feature_announcement_v2') !== 'true';
+    const announcementPending = localStorage.getItem('bctech_feature_announcement_v3') !== 'true';
     if (!announcementPending && typeof startTour === 'function') {
       startTour(false);
     }

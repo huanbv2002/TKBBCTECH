@@ -50991,7 +50991,7 @@ const ALL_CLASSES_DATABASE =
   "T26CBMA1": {
     "code": "T26CBMA1",
     "name": "Lớp T26CBMA1",
-    "major": "Chế biến món ăn + VH08 (CS1 - Bà Rịa)",
+    "major": "Chế biến món ăn + VH08 (CS1 - Đất Đỏ)",
     "dept": "Du lịch",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -52800,7 +52800,7 @@ const ALL_CLASSES_DATABASE =
   "T26CGKL1": {
     "code": "T26CGKL1",
     "name": "Lớp T26CGKL1",
-    "major": "Cắt gọt kim loại + VH04 (CS1 - Bà Rịa)",
+    "major": "Cắt gọt kim loại + VH04 (CS1 - Đất Đỏ)",
     "dept": "Cơ khí chế tạo",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -53582,7 +53582,7 @@ const ALL_CLASSES_DATABASE =
   "T26CNOT1": {
     "code": "T26CNOT1",
     "name": "Lớp T26CNOT1",
-    "major": "Công nghệ ô tô + VH05 (CS1 - Bà Rịa)",
+    "major": "Công nghệ ô tô + VH05 (CS1 - Đất Đỏ)",
     "dept": "",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -54166,7 +54166,7 @@ const ALL_CLASSES_DATABASE =
   "T26CNOT2": {
     "code": "T26CNOT2",
     "name": "Lớp T26CNOT2",
-    "major": "Công nghệ ô tô + VH06 (CS1 - Bà Rịa)",
+    "major": "Công nghệ ô tô + VH06 (CS1 - Đất Đỏ)",
     "dept": "",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -55368,7 +55368,7 @@ const ALL_CLASSES_DATABASE =
   "T26CNTT1": {
     "code": "T26CNTT1",
     "name": "Lớp T26CNTT1",
-    "major": "CNTT + VH07 (CS1 - Bà Rịa)",
+    "major": "CNTT + VH07 (CS1 - Đất Đỏ)",
     "dept": "Công nghệ thông tin",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -57476,7 +57476,7 @@ const ALL_CLASSES_DATABASE =
   "T26DCN1": {
     "code": "T26DCN1",
     "name": "Lớp T26DCN1",
-    "major": "Điện công nghiệp + VH03 (CS1 - Bà Rịa)",
+    "major": "Điện công nghiệp + VH03 (CS1 - Đất Đỏ)",
     "dept": "Điện",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -59434,7 +59434,7 @@ const ALL_CLASSES_DATABASE =
   "T26KTML1": {
     "code": "T26KTML1",
     "name": "Lớp T26KTML1",
-    "major": "Kỹ thuật máy lạnh + VH01 (CS1 - Bà Rịa)",
+    "major": "Kỹ thuật máy lạnh + VH01 (CS1 - Đất Đỏ)",
     "dept": "",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
@@ -60231,7 +60231,7 @@ const ALL_CLASSES_DATABASE =
   "T26KTML2": {
     "code": "T26KTML2",
     "name": "Lớp T26KTML2",
-    "major": "Kỹ thuật máy lạnh + VH02 (CS1 - Bà Rịa)",
+    "major": "Kỹ thuật máy lạnh + VH02 (CS1 - Đất Đỏ)",
     "dept": "",
     "startDate": "2026-09-07",
     "maxWeeks": 20,
