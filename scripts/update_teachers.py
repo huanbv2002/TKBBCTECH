@@ -126,7 +126,11 @@ def process_teachers_pdf(pdf_path):
             extracted = table.extract()
             chars = page.chars
             
-            header_chars = [c for c in chars if c['text'] in '1234567890' and 135 < c['top'] < 165 and c['x0'] > 575]
+            # Xác định toạ độ mép trái của ô Tuần học (cell 6 trong header)
+            w_cell = table.rows[0].cells[6] if len(table.rows[0].cells) > 6 and table.rows[0].cells[6] else None
+            min_week_x = (w_cell[0] - 2.0) if w_cell else 585.0
+
+            header_chars = [c for c in chars if c['text'] in '1234567890' and 135 < c['top'] < 168 and c['x0'] >= min_week_x]
             header_chars.sort(key=lambda c: c['x0'])
             unique_header = []
             for hc in header_chars:
@@ -136,7 +140,8 @@ def process_teachers_pdf(pdf_path):
             if len(unique_header) == 22:
                 col_x0s = [hc['x0'] for hc in unique_header]
             else:
-                col_x0s = [589.9 + i * 4.825 for i in range(22)]
+                base_x0 = unique_header[0]['x0'] if unique_header else (w_cell[0] + 1.5 if w_cell else 589.92)
+                col_x0s = [base_x0 + i * 4.825 for i in range(22)]
                 
             row_entries = []
             for r_idx, row in enumerate(table.rows):
@@ -167,8 +172,8 @@ def process_teachers_pdf(pdf_path):
                     room = '?'
                     
                 bbox = row.bbox
-                # Chặn nghiêm ngặt trong phạm vi chiều cao dòng và cột tuần (x0 > 575) để không bị lọt số từ dòng khác hoặc số phòng học
-                row_digits = [c for c in chars if c['text'] in '1234567890' and bbox[1] - 0.5 <= c['top'] < bbox[3] - 0.5 and c['x0'] > 575]
+                # Chặn nghiêm ngặt trong phạm vi chiều cao dòng và cột tuần (x0 >= min_week_x) để không bị lọt số từ dòng khác hoặc số phòng học
+                row_digits = [c for c in chars if c['text'] in '1234567890' and bbox[1] - 0.5 <= c['top'] < bbox[3] - 0.5 and c['x0'] >= min_week_x]
                 
                 weeks = []
                 for rd in row_digits:

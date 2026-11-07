@@ -27,7 +27,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech001-1"
       },
       {
@@ -45,7 +45,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech001-2"
       },
       {
@@ -66,7 +66,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech001-3"
       },
       {
@@ -85,7 +85,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech001-4"
       },
       {
@@ -108,7 +108,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech001-5"
       },
       {
@@ -123,7 +123,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech001-6"
       },
       {
@@ -151,7 +151,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech001-7"
       },
       {
@@ -169,7 +169,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech001-8"
       },
       {
@@ -197,7 +197,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech001-9"
       },
       {
@@ -213,7 +213,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech001-10"
       },
       {
@@ -231,7 +231,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech001-11"
       },
       {
@@ -246,7 +246,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech001-12"
       },
       {
@@ -270,7 +270,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech001-13"
       },
       {
@@ -297,7 +297,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech001-14"
       },
       {
@@ -319,7 +319,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech001-15"
       },
       {
@@ -334,7 +334,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech001-16"
       },
       {
@@ -362,7 +362,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech001-17"
       },
       {
@@ -377,7 +377,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech001-18"
       },
       {
@@ -397,7 +397,7 @@ const ALL_TEACHERS_DATABASE =
           5,
           6
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech001-19"
       },
       {
@@ -416,7 +416,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech001-20"
       }
     ]
@@ -451,7 +451,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech002-1"
       },
       {
@@ -470,7 +470,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech002-2"
       },
       {
@@ -495,7 +495,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech002-3"
       },
       {
@@ -529,8 +529,36 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech002-4"
+      },
+      {
+        "code": "CDLTCGKL15_2\n026",
+        "subject": "Gia công trên máy tiện CNC (***)",
+        "className": "CD26CGKL-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X5.101(TCNC)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech002-5"
       },
       {
         "code": "CD25CDT24",
@@ -545,8 +573,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "blue",
-        "id": "bctech002-5"
+        "color": "rose",
+        "id": "bctech002-6"
       },
       {
         "code": "CD25CDT24",
@@ -574,8 +602,29 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
+        "color": "rose",
+        "id": "bctech002-7"
+      },
+      {
+        "code": "CDLTCGKL15_2\n026",
+        "subject": "Gia công trên máy tiện CNC (***)",
+        "className": "CD26CGKL-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X5.101(TCNC)",
+        "weeks": [
+          17,
+          18,
+          19,
+          20
+        ],
         "color": "blue",
-        "id": "bctech002-6"
+        "id": "bctech002-8"
       },
       {
         "code": "CD25CDT24",
@@ -604,8 +653,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "blue",
-        "id": "bctech002-7"
+        "color": "rose",
+        "id": "bctech002-9"
       },
       {
         "code": "CD25CDT24",
@@ -633,8 +682,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "blue",
-        "id": "bctech002-8"
+        "color": "rose",
+        "id": "bctech002-10"
       },
       {
         "code": "CD25CDT24",
@@ -649,8 +698,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "blue",
-        "id": "bctech002-9"
+        "color": "rose",
+        "id": "bctech002-11"
       },
       {
         "code": "CD25CDT24",
@@ -678,8 +727,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "blue",
-        "id": "bctech002-10"
+        "color": "rose",
+        "id": "bctech002-12"
       },
       {
         "code": "CD25CGKL18",
@@ -696,8 +745,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "rose",
-        "id": "bctech002-11"
+        "color": "orange",
+        "id": "bctech002-13"
       }
     ]
   },
@@ -734,7 +783,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech003-1"
       },
       {
@@ -766,7 +815,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech003-2"
       },
       {
@@ -782,7 +831,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech003-3"
       },
       {
@@ -797,7 +846,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech003-4"
       },
       {
@@ -819,7 +868,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech003-5"
       },
       {
@@ -838,7 +887,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech003-6"
       },
       {
@@ -866,7 +915,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech003-7"
       },
       {
@@ -881,7 +930,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech003-8"
       },
       {
@@ -910,8 +959,24 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech003-9"
+      },
+      {
+        "code": "CD25CGKL27",
+        "subject": "Gia công trên máy phay 2",
+        "className": "CD25CGKL",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech003-10"
       },
       {
         "code": "CD25CGKL27",
@@ -930,23 +995,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
-        "id": "bctech003-10"
-      },
-      {
-        "code": "CD25CGKL27",
-        "subject": "Gia công trên máy phay 2",
-        "className": "CD25CGKL",
-        "dow": 7,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech003-11"
       },
       {
@@ -962,7 +1011,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech003-12"
       }
     ]
@@ -998,7 +1047,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech004-1"
       },
       {
@@ -1017,7 +1066,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech004-2"
       },
       {
@@ -1033,7 +1082,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech004-3"
       },
       {
@@ -1057,8 +1106,71 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech004-4"
+      },
+      {
+        "code": "CDLTCTCK08_2\n026",
+        "subject": "Vẽ AutoCad",
+        "className": "CD26CTCK-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.305(LAB1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald",
+        "id": "bctech004-5"
+      },
+      {
+        "code": "CDLTCTCK08_2\n026",
+        "subject": "Vẽ AutoCad",
+        "className": "CD26CTCK-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.305(LAB1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald",
+        "id": "bctech004-6"
+      },
+      {
+        "code": "CDLTCTCK08_2\n026",
+        "subject": "Vẽ AutoCad",
+        "className": "CD26CTCK-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "1A.305(LAB1)",
+        "weeks": [
+          15
+        ],
+        "color": "emerald",
+        "id": "bctech004-7"
       }
     ]
   },
@@ -1094,7 +1206,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech005-1"
       },
       {
@@ -1109,7 +1221,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech005-2"
       },
       {
@@ -1144,7 +1256,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech005-3"
       },
       {
@@ -1177,7 +1289,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech005-4"
       },
       {
@@ -1198,7 +1310,7 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech005-5"
       },
       {
@@ -1218,7 +1330,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech005-6"
       },
       {
@@ -1237,7 +1349,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           4
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech005-7"
       },
       {
@@ -1265,7 +1377,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech005-8"
       },
       {
@@ -1285,7 +1397,7 @@ const ALL_TEACHERS_DATABASE =
           2,
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech005-9"
       }
     ]
@@ -1320,7 +1432,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech006-1"
       },
       {
@@ -1339,8 +1451,35 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech006-2"
+      },
+      {
+        "code": "CDLTCGKL08_2\n026",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CGKL-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.107",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "orange",
+        "id": "bctech006-3"
       },
       {
         "code": "CD25CGKL20",
@@ -1373,8 +1512,26 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
-        "id": "bctech006-3"
+        "color": "blue",
+        "id": "bctech006-4"
+      },
+      {
+        "code": "CDLTCGKL08_2\n026",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CGKL-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.107",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech006-5"
       },
       {
         "code": "CD25CGKL20",
@@ -1390,8 +1547,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech006-4"
+        "color": "blue",
+        "id": "bctech006-6"
       },
       {
         "code": "TC15QTM24",
@@ -1417,8 +1574,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "rose",
-        "id": "bctech006-5"
+        "color": "orange",
+        "id": "bctech006-7"
       },
       {
         "code": "CD25CGKL20",
@@ -1435,8 +1592,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech006-6"
+        "color": "blue",
+        "id": "bctech006-8"
       },
       {
         "code": "TC15QTM24",
@@ -1454,70 +1611,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
-        "id": "bctech006-7"
-      },
-      {
-        "code": "TC25CGKL18",
-        "subject": "Gia công trên máy tiện CNC 1",
-        "className": "T25CGKL2",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X2.102(TCNC)",
-        "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "rose",
-        "id": "bctech006-8"
-      },
-      {
-        "code": "TC25CGKL18",
-        "subject": "Gia công trên máy tiện CNC 1",
-        "className": "T25CGKL2",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2X2.102(TCNC)",
-        "weeks": [
-          13,
-          14,
-          15,
-          16
-        ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech006-9"
-      },
-      {
-        "code": "TC25CGKL18",
-        "subject": "Gia công trên máy tiện CNC 1",
-        "className": "T25CGKL2",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "2X2.102(TCNC)",
-        "weeks": [
-          18
-        ],
-        "color": "rose",
-        "id": "bctech006-10"
       },
       {
         "code": "TC25CGKL18",
@@ -1534,26 +1629,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "rose",
-        "id": "bctech006-11"
-      },
-      {
-        "code": "TC25CGKL18",
-        "subject": "Gia công trên máy tiện CNC 1",
-        "className": "T25CGKL2",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "rose",
-        "id": "bctech006-12"
+        "color": "orange",
+        "id": "bctech006-10"
       }
     ]
   },
@@ -1591,7 +1668,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-1"
       },
       {
@@ -1607,7 +1684,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-2"
       },
       {
@@ -1622,7 +1699,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-3"
       },
       {
@@ -1649,7 +1726,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-4"
       },
       {
@@ -1666,7 +1743,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-5"
       },
       {
@@ -1681,7 +1758,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-6"
       },
       {
@@ -1702,7 +1779,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-7"
       },
       {
@@ -1724,7 +1801,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech174-8"
       }
     ]
@@ -1743,16 +1820,13 @@ const ALL_TEACHERS_DATABASE =
         "dow": 2,
         "periods": [
           11,
-          12,
-          13,
-          14
+          12
         ],
         "room": "P.ONLINE",
         "weeks": [
-          15,
-          16
+          17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech008-1"
       },
       {
@@ -1762,13 +1836,16 @@ const ALL_TEACHERS_DATABASE =
         "dow": 2,
         "periods": [
           11,
-          12
+          12,
+          13,
+          14
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17
+          15,
+          16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech008-2"
       },
       {
@@ -1794,7 +1871,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech008-3"
       },
       {
@@ -1813,7 +1890,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech008-4"
       },
       {
@@ -1840,7 +1917,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech008-5"
       },
       {
@@ -1872,7 +1949,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech008-6"
       },
       {
@@ -1904,7 +1981,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech008-7"
       },
       {
@@ -1936,7 +2013,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech008-8"
       },
       {
@@ -1955,7 +2032,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech008-9"
       },
       {
@@ -1987,7 +2064,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech008-10"
       },
       {
@@ -2007,7 +2084,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech008-11"
       },
       {
@@ -2025,8 +2102,57 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech008-12"
+      },
+      {
+        "code": "CDLTCNOT11",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT2-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.101(X.GAM)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "bctech008-13"
+      },
+      {
+        "code": "CDLTCNOT11",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT2-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.101(X.GAM)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "bctech008-14"
       },
       {
         "code": "CD25CNOT25",
@@ -2034,16 +2160,16 @@ const ALL_TEACHERS_DATABASE =
         "className": "CD25CNOT1 ...",
         "dow": 7,
         "periods": [
-          8,
-          9,
-          10
+          11,
+          12,
+          13
         ],
         "room": "P.ONLINE",
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech008-13"
+        "color": "teal",
+        "id": "bctech008-15"
       },
       {
         "code": "TC25CNOT20",
@@ -2061,24 +2187,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "teal",
-        "id": "bctech008-14"
-      },
-      {
-        "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "className": "T25CNOT1 ...",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15
-        ],
-        "color": "emerald",
-        "id": "bctech008-15"
+        "color": "blue",
+        "id": "bctech008-16"
       },
       {
         "code": "TC25CNOT19",
@@ -2101,8 +2211,24 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
-        "id": "bctech008-16"
+        "color": "violet",
+        "id": "bctech008-17"
+      },
+      {
+        "code": "TC25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "className": "T25CNOT1 ...",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "violet",
+        "id": "bctech008-18"
       }
     ]
   },
@@ -2137,7 +2263,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech009-1"
       },
       {
@@ -2156,8 +2282,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech009-2"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "className": "CD26CNOT3 ...",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC1",
+        "weeks": [
+          11
+        ],
+        "color": "violet",
+        "id": "bctech009-3"
       },
       {
         "code": "TC25CNOT22",
@@ -2175,8 +2319,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech009-3"
+        "color": "blue",
+        "id": "bctech009-4"
       },
       {
         "code": "TC25CNOT22",
@@ -2197,8 +2341,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
-        "id": "bctech009-4"
+        "color": "blue",
+        "id": "bctech009-5"
       },
       {
         "code": "CD26CNOT15",
@@ -2219,10 +2363,12 @@ const ALL_TEACHERS_DATABASE =
           6,
           7,
           8,
-          9
+          9,
+          10,
+          11
         ],
-        "color": "emerald",
-        "id": "bctech009-5"
+        "color": "violet",
+        "id": "bctech009-6"
       },
       {
         "code": "TC25CNOT22",
@@ -2238,8 +2384,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech009-6"
+        "color": "blue",
+        "id": "bctech009-7"
       },
       {
         "code": "TC25CNOT22",
@@ -2260,23 +2406,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
-        "id": "bctech009-7"
-      },
-      {
-        "code": "CD26CNOT15",
-        "subject": "Cấu tạo ô tô",
-        "className": "CD26CNOT3 ...",
-        "dow": 3,
-        "periods": [
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          8,
-          9
-        ],
-        "color": "emerald",
+        "color": "blue",
         "id": "bctech009-8"
       },
       {
@@ -2308,7 +2438,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech009-9"
       },
       {
@@ -2340,7 +2470,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech009-10"
       },
       {
@@ -2360,7 +2490,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech009-11"
       },
       {
@@ -2384,7 +2514,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech009-12"
       },
       {
@@ -2408,7 +2538,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech009-13"
       },
       {
@@ -2424,7 +2554,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech009-14"
       },
       {
@@ -2440,7 +2570,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech009-15"
       },
       {
@@ -2472,8 +2602,121 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech009-16"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "className": "CD26CNOT3 ...",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          11
+        ],
+        "color": "violet",
+        "id": "bctech009-17"
+      },
+      {
+        "code": "CD26CNOT15",
+        "subject": "Cấu tạo ô tô",
+        "className": "CD26CNOT3 ...",
+        "dow": 7,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          11
+        ],
+        "color": "violet",
+        "id": "bctech009-18"
+      },
+      {
+        "code": "CDLTCNOT09",
+        "subject": "Điện tử cơ bản",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "bctech009-19"
+      },
+      {
+        "code": "CDLTCNOT09",
+        "subject": "Điện tử cơ bản",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "bctech009-20"
+      },
+      {
+        "code": "CDLTCNOT10",
+        "subject": "Sửa chữa mạng truyền thông trên ô tô",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech009-21"
+      },
+      {
+        "code": "CDLTCNOT10",
+        "subject": "Sửa chữa mạng truyền thông trên ô tô",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech009-22"
       },
       {
         "code": "CD25CNOT23",
@@ -2488,8 +2731,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech009-17"
+        "color": "blue",
+        "id": "bctech009-23"
       },
       {
         "code": "CD25CNOT28",
@@ -2508,8 +2751,8 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
-        "id": "bctech009-18"
+        "color": "blue",
+        "id": "bctech009-24"
       },
       {
         "code": "CD25CNOT28",
@@ -2525,8 +2768,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "teal",
-        "id": "bctech009-19"
+        "color": "blue",
+        "id": "bctech009-25"
       },
       {
         "code": "CD25CNOT23",
@@ -2549,8 +2792,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
-        "id": "bctech009-20"
+        "color": "blue",
+        "id": "bctech009-26"
       }
     ]
   },
@@ -2585,7 +2828,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech010-1"
       },
       {
@@ -2602,7 +2845,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech010-2"
       },
       {
@@ -2618,7 +2861,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech010-3"
       },
       {
@@ -2642,7 +2885,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech010-4"
       },
       {
@@ -2676,7 +2919,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech010-5"
       },
       {
@@ -2699,7 +2942,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech010-6"
       },
       {
@@ -2731,7 +2974,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech010-7"
       },
       {
@@ -2762,7 +3005,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech010-8"
       },
       {
@@ -2780,7 +3023,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech010-9"
       }
     ]
@@ -2810,7 +3053,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech011-1"
       },
       {
@@ -2828,7 +3071,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech011-2"
       },
       {
@@ -2861,7 +3104,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech011-3"
       },
       {
@@ -2888,7 +3131,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech011-4"
       },
       {
@@ -2906,8 +3149,41 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech011-5"
+      },
+      {
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "className": "CD25CNOT1 ...",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1X.ĐIOTO1",
+        "weeks": [
+          12
+        ],
+        "color": "blue",
+        "id": "bctech011-6"
+      },
+      {
+        "code": "CD25CNOT35",
+        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
+        "className": "CD25CNOT1 ...",
+        "dow": 3,
+        "periods": [
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12
+        ],
+        "color": "blue",
+        "id": "bctech011-7"
       },
       {
         "code": "TC23CNOT24",
@@ -2933,26 +3209,8 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "blue",
-        "id": "bctech011-6"
-      },
-      {
-        "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao",
-        "className": "T25CNOT1 ...",
-        "dow": 3,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          17
-        ],
-        "color": "blue",
-        "id": "bctech011-7"
+        "color": "rose",
+        "id": "bctech011-8"
       },
       {
         "code": "TC23CNOT24",
@@ -2972,8 +3230,26 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "blue",
-        "id": "bctech011-8"
+        "color": "rose",
+        "id": "bctech011-9"
+      },
+      {
+        "code": "TC23CNOT24",
+        "subject": "Thực hành nâng cao",
+        "className": "T25CNOT1 ...",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "rose",
+        "id": "bctech011-10"
       },
       {
         "code": "TC23CNOT24",
@@ -2988,8 +3264,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "blue",
-        "id": "bctech011-9"
+        "color": "rose",
+        "id": "bctech011-11"
       },
       {
         "code": "TC23CNOT24",
@@ -3021,8 +3297,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "blue",
-        "id": "bctech011-10"
+        "color": "rose",
+        "id": "bctech011-12"
       },
       {
         "code": "TC23CNOT24",
@@ -3039,8 +3315,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
-        "id": "bctech011-11"
+        "color": "rose",
+        "id": "bctech011-13"
       },
       {
         "code": "TC23CNOT24",
@@ -3057,8 +3333,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
-        "id": "bctech011-12"
+        "color": "rose",
+        "id": "bctech011-14"
       },
       {
         "code": "TC23CNOT24",
@@ -3073,8 +3349,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
+        "color": "rose",
+        "id": "bctech011-15"
+      },
+      {
+        "code": "CD25CNOT23",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
+        "className": "CD25CNOT1 ...",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
         "color": "blue",
-        "id": "bctech011-13"
+        "id": "bctech011-16"
       },
       {
         "code": "CD25CNOT23",
@@ -3106,8 +3400,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
-        "id": "bctech011-14"
+        "color": "blue",
+        "id": "bctech011-17"
       },
       {
         "code": "CD25CNOT28",
@@ -3137,8 +3431,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
-        "id": "bctech011-15"
+        "color": "blue",
+        "id": "bctech011-18"
       },
       {
         "code": "CD25CNOT28",
@@ -3154,8 +3448,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech011-16"
+        "color": "blue",
+        "id": "bctech011-19"
       },
       {
         "code": "CD25CNOT28",
@@ -3169,8 +3463,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech011-17"
+        "color": "blue",
+        "id": "bctech011-20"
       },
       {
         "code": "CD25CNOT23",
@@ -3202,8 +3496,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
-        "id": "bctech011-18"
+        "color": "blue",
+        "id": "bctech011-21"
       },
       {
         "code": "TC23CNOT24",
@@ -3220,8 +3514,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
-        "id": "bctech011-19"
+        "color": "rose",
+        "id": "bctech011-22"
       },
       {
         "code": "CD25CNOT23",
@@ -3241,8 +3535,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
-        "id": "bctech011-20"
+        "color": "blue",
+        "id": "bctech011-23"
       },
       {
         "code": "CD25CNOT35",
@@ -3268,8 +3562,8 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
-        "id": "bctech011-21"
+        "color": "blue",
+        "id": "bctech011-24"
       },
       {
         "code": "CD25CNOT23",
@@ -3284,8 +3578,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech011-22"
+        "color": "blue",
+        "id": "bctech011-25"
       },
       {
         "code": "TC23CNOT24",
@@ -3300,13 +3594,13 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
-        "id": "bctech011-23"
+        "color": "rose",
+        "id": "bctech011-26"
       },
       {
-        "code": "CD25CNOT23",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển động cơ",
-        "className": "CD25CNOT1 ...",
+        "code": "CDLTCNOT09",
+        "subject": "Điện tử cơ bản",
+        "className": "CD26CNOT2-LT",
         "dow": 8,
         "periods": [
           1,
@@ -3314,45 +3608,74 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "room": "P.ONLINE",
+        "room": "1X.ĐIOTO1",
         "weeks": [
-          16
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
         ],
-        "color": "teal",
-        "id": "bctech011-24"
+        "color": "rose",
+        "id": "bctech011-27"
       },
       {
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
-        "className": "CD25CNOT1 ...",
+        "code": "CDLTCNOT09",
+        "subject": "Điện tử cơ bản",
+        "className": "CD26CNOT2-LT",
         "dow": 8,
         "periods": [
           1,
-          2,
-          3
+          2
         ],
         "room": "1X.ĐIOTO1",
         "weeks": [
-          12
+          19
         ],
-        "color": "teal",
-        "id": "bctech011-25"
+        "color": "rose",
+        "id": "bctech011-28"
       },
       {
-        "code": "CD25CNOT35",
-        "subject": "Kỹ thuật đồng sơn xe ô tô (TC)",
-        "className": "CD25CNOT1 ...",
+        "code": "CDLTCNOT10",
+        "subject": "Sửa chữa mạng truyền thông trên ô tô",
+        "className": "CD26CNOT2-LT",
         "dow": 8,
         "periods": [
-          4,
-          5
+          3,
+          4
         ],
-        "room": "P.ONLINE",
+        "room": "1X.ĐIOTO1",
         "weeks": [
-          12
+          19
         ],
-        "color": "teal",
-        "id": "bctech011-26"
+        "color": "blue",
+        "id": "bctech011-29"
+      },
+      {
+        "code": "CDLTCNOT10",
+        "subject": "Sửa chữa mạng truyền thông trên ô tô",
+        "className": "CD26CNOT2-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X.ĐIOTO1",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech011-30"
       }
     ]
   },
@@ -3363,6 +3686,22 @@ const ALL_TEACHERS_DATABASE =
     "startDate": "2026-09-07",
     "maxWeeks": 20,
     "schedule": [
+      {
+        "code": "TC26CNOT16",
+        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
+        "className": "T26CNOT1",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X8.102(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "bctech012-1"
+      },
       {
         "code": "TC26CNOT16",
         "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
@@ -3383,23 +3722,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
-        "id": "bctech012-1"
-      },
-      {
-        "code": "TC26CNOT16",
-        "subject": "Bảo dưỡng sửa chữa động cơ đốt trong",
-        "className": "T26CNOT1",
-        "dow": 2,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "1X8.102(X.ĐCƠ)",
-        "weeks": [
-          19
-        ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-2"
       },
       {
@@ -3415,7 +3738,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-3"
       },
       {
@@ -3449,7 +3772,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech012-4"
       },
       {
@@ -3467,7 +3790,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-5"
       },
       {
@@ -3491,7 +3814,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-6"
       },
       {
@@ -3520,7 +3843,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech012-7"
       },
       {
@@ -3538,7 +3861,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-8"
       },
       {
@@ -3570,7 +3893,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-9"
       },
       {
@@ -3601,7 +3924,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech012-10"
       },
       {
@@ -3619,7 +3942,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech012-11"
       }
     ]
@@ -3652,7 +3975,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech013-1"
       },
       {
@@ -3668,7 +3991,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech013-2"
       },
       {
@@ -3700,7 +4023,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech013-3"
       },
       {
@@ -3732,7 +4055,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech013-4"
       },
       {
@@ -3763,7 +4086,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech013-5"
       },
       {
@@ -3781,7 +4104,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech013-6"
       },
       {
@@ -3812,8 +4135,88 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech013-7"
+      },
+      {
+        "code": "CDLTCNOT09",
+        "subject": "Điện tử cơ bản",
+        "className": "CD26CNOT1-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "rose",
+        "id": "bctech013-8"
+      },
+      {
+        "code": "CDLTCNOT09",
+        "subject": "Điện tử cơ bản",
+        "className": "CD26CNOT1-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "rose",
+        "id": "bctech013-9"
+      },
+      {
+        "code": "CDLTCNOT10",
+        "subject": "Sửa chữa mạng truyền thông trên ô tô",
+        "className": "CD26CNOT1-LT",
+        "dow": 8,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech013-10"
+      },
+      {
+        "code": "CDLTCNOT10",
+        "subject": "Sửa chữa mạng truyền thông trên ô tô",
+        "className": "CD26CNOT1-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech013-11"
       },
       {
         "code": "TC25CNOT22",
@@ -3830,8 +4233,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
-        "id": "bctech013-8"
+        "color": "blue",
+        "id": "bctech013-12"
       }
     ]
   },
@@ -3863,7 +4266,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-1"
       },
       {
@@ -3879,7 +4282,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-2"
       },
       {
@@ -3904,7 +4307,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-3"
       },
       {
@@ -3920,7 +4323,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-4"
       },
       {
@@ -3936,7 +4339,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-5"
       },
       {
@@ -3960,7 +4363,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-6"
       },
       {
@@ -3976,7 +4379,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-7"
       },
       {
@@ -4000,7 +4403,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech014-8"
       },
       {
@@ -4026,7 +4429,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-9"
       },
       {
@@ -4042,7 +4445,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech014-10"
       },
       {
@@ -4074,7 +4477,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech014-11"
       },
       {
@@ -4098,7 +4501,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-12"
       },
       {
@@ -4116,7 +4519,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-13"
       },
       {
@@ -4135,7 +4538,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech014-14"
       },
       {
@@ -4151,7 +4554,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-15"
       },
       {
@@ -4175,7 +4578,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech014-16"
       },
       {
@@ -4192,7 +4595,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-17"
       },
       {
@@ -4208,7 +4611,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech014-18"
       },
       {
@@ -4224,7 +4627,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech014-19"
       },
       {
@@ -4243,7 +4646,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-20"
       },
       {
@@ -4264,7 +4667,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-21"
       },
       {
@@ -4296,7 +4699,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech014-22"
       }
     ]
@@ -4333,7 +4736,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-1"
       },
       {
@@ -4348,7 +4751,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-2"
       },
       {
@@ -4372,7 +4775,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-3"
       },
       {
@@ -4396,7 +4799,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-4"
       },
       {
@@ -4420,7 +4823,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-5"
       },
       {
@@ -4436,24 +4839,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-6"
-      },
-      {
-        "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "className": "T25CNOT4",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "emerald",
-        "id": "bctech015-7"
       },
       {
         "code": "TC25CNOT19",
@@ -4485,7 +4872,23 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
+        "id": "bctech015-7"
+      },
+      {
+        "code": "TC25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "className": "T25CNOT4",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "violet",
         "id": "bctech015-8"
       },
       {
@@ -4513,7 +4916,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-9"
       },
       {
@@ -4528,7 +4931,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-10"
       },
       {
@@ -4550,7 +4953,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech015-11"
       },
       {
@@ -4574,7 +4977,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech015-12"
       },
       {
@@ -4590,7 +4993,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech015-13"
       },
       {
@@ -4612,7 +5015,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech015-14"
       },
       {
@@ -4631,7 +5034,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech015-15"
       },
       {
@@ -4655,7 +5058,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech015-16"
       }
     ]
@@ -4688,7 +5091,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-1"
       },
       {
@@ -4706,7 +5109,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-2"
       },
       {
@@ -4722,7 +5125,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-3"
       },
       {
@@ -4746,7 +5149,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech016-4"
       },
       {
@@ -4772,7 +5175,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-5"
       },
       {
@@ -4788,7 +5191,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech016-6"
       },
       {
@@ -4812,7 +5215,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-7"
       },
       {
@@ -4830,7 +5233,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-8"
       },
       {
@@ -4845,7 +5248,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-9"
       },
       {
@@ -4861,7 +5264,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-10"
       },
       {
@@ -4893,7 +5296,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-11"
       },
       {
@@ -4912,7 +5315,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-12"
       },
       {
@@ -4939,7 +5342,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-13"
       },
       {
@@ -4958,7 +5361,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-14"
       },
       {
@@ -4976,7 +5379,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-15"
       },
       {
@@ -4991,7 +5394,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-16"
       },
       {
@@ -5023,7 +5426,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-17"
       },
       {
@@ -5042,7 +5445,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech016-18"
       },
       {
@@ -5064,7 +5467,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech016-19"
       },
       {
@@ -5083,7 +5486,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-20"
       },
       {
@@ -5105,7 +5508,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech016-21"
       }
     ]
@@ -5132,8 +5535,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech017-1"
+      },
+      {
+        "code": "CDLTCNOT08",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.108",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech017-2"
       },
       {
         "code": "TC25CNOT19",
@@ -5164,8 +5585,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech017-2"
+        "color": "violet",
+        "id": "bctech017-3"
       },
       {
         "code": "TC25CNOT20",
@@ -5183,8 +5604,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech017-3"
+        "color": "blue",
+        "id": "bctech017-4"
       },
       {
         "code": "TC25CNOT19",
@@ -5215,14 +5636,272 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech017-4"
+        "color": "violet",
+        "id": "bctech017-5"
+      },
+      {
+        "code": "CDLTCNOT08",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.108",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech017-6"
+      },
+      {
+        "code": "CDLTCNOT08",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.107",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech017-7"
+      },
+      {
+        "code": "TC23CNOT24",
+        "subject": "Thực hành nâng cao",
+        "className": "T25CNOT5",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          11
+        ],
+        "color": "rose",
+        "id": "bctech017-8"
+      },
+      {
+        "code": "TC23CNOT24",
+        "subject": "Thực hành nâng cao",
+        "className": "T25CNOT5",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          11
+        ],
+        "color": "rose",
+        "id": "bctech017-9"
+      },
+      {
+        "code": "TC25CNOT20",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "className": "T25CNOT5",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X3.201(GAM)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech017-10"
+      },
+      {
+        "code": "TC23CNOT24",
+        "subject": "Thực hành nâng cao",
+        "className": "T25CNOT5",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X.ĐIOTO2(EV)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "rose",
+        "id": "bctech017-11"
+      },
+      {
+        "code": "TC25CNOT20",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
+        "className": "T25CNOT5",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X3.201(GAM)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech017-12"
+      },
+      {
+        "code": "TC23CNOT24",
+        "subject": "Thực hành nâng cao",
+        "className": "T25CNOT5",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X.ĐIOTO2(EV)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "color": "rose",
+        "id": "bctech017-13"
+      },
+      {
+        "code": "CDLTCNOT11_2\n026",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT1-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "bctech017-14"
+      },
+      {
+        "code": "CDLTCNOT11_2\n026",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT1-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X.ĐIOTO2(EV)",
+        "weeks": [
+          19
+        ],
+        "color": "teal",
+        "id": "bctech017-15"
+      },
+      {
+        "code": "CDLTCNOT11_2\n026",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT1-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.103(X.ĐCƠ)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "bctech017-16"
       },
       {
         "code": "TC25CNOT19",
         "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
         "className": "T25CNOT5",
-        "dow": 4,
+        "dow": 7,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "violet",
+        "id": "bctech017-17"
+      },
+      {
+        "code": "TC25CNOT19",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
+        "className": "T25CNOT5",
+        "dow": 7,
         "periods": [
           11,
           12,
@@ -5239,156 +5918,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
-        "id": "bctech017-5"
-      },
-      {
-        "code": "TC25CNOT19",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống truyền lực trên ô tô",
-        "className": "T25CNOT5",
-        "dow": 4,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "bctech017-6"
-      },
-      {
-        "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao",
-        "className": "T25CNOT5",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          11
-        ],
-        "color": "blue",
-        "id": "bctech017-7"
-      },
-      {
-        "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao",
-        "className": "T25CNOT5",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          11
-        ],
-        "color": "blue",
-        "id": "bctech017-8"
-      },
-      {
-        "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
-        "className": "T25CNOT5",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X3.201(GAM)",
-        "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "teal",
-        "id": "bctech017-9"
-      },
-      {
-        "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao",
-        "className": "T25CNOT5",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X.ĐIOTO2(EV)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "blue",
-        "id": "bctech017-10"
-      },
-      {
-        "code": "TC25CNOT20",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống di chuyển trên ô tô",
-        "className": "T25CNOT5",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "2X3.201(GAM)",
-        "weeks": [
-          13,
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "teal",
-        "id": "bctech017-11"
-      },
-      {
-        "code": "TC23CNOT24",
-        "subject": "Thực hành nâng cao",
-        "className": "T25CNOT5",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X.ĐIOTO2(EV)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "color": "blue",
-        "id": "bctech017-12"
+        "color": "violet",
+        "id": "bctech017-18"
       }
     ]
   },
@@ -5423,7 +5954,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech019-1"
       },
       {
@@ -5455,7 +5986,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech019-2"
       },
       {
@@ -5474,7 +6005,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech019-3"
       },
       {
@@ -5506,8 +6037,35 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech019-4"
+      },
+      {
+        "code": "CDLTCNOT08",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CNOT3-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2A.202",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "orange",
+        "id": "bctech019-5"
       },
       {
         "code": "TC25CNOT19",
@@ -5538,8 +6096,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech019-5"
+        "color": "violet",
+        "id": "bctech019-6"
       },
       {
         "code": "TC25CNOT19",
@@ -5570,8 +6128,26 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech019-6"
+        "color": "violet",
+        "id": "bctech019-7"
+      },
+      {
+        "code": "CDLTCNOT08",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CNOT3-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2A.202",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech019-8"
       },
       {
         "code": "TC25CNOT19",
@@ -5594,8 +6170,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
-        "id": "bctech019-7"
+        "color": "violet",
+        "id": "bctech019-9"
       },
       {
         "code": "TC25CNOT19",
@@ -5610,8 +6186,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "emerald",
-        "id": "bctech019-8"
+        "color": "violet",
+        "id": "bctech019-10"
       },
       {
         "code": "TC25CNOT20",
@@ -5628,8 +6204,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech019-9"
+        "color": "blue",
+        "id": "bctech019-11"
       },
       {
         "code": "CD25CNOT21",
@@ -5650,8 +6226,24 @@ const ALL_TEACHERS_DATABASE =
           4,
           5
         ],
-        "color": "teal",
-        "id": "bctech019-10"
+        "color": "blue",
+        "id": "bctech019-12"
+      },
+      {
+        "code": "CD25CNOT22",
+        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
+        "className": "CD25CNOT3 ...",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "bctech019-13"
       },
       {
         "code": "CD25CNOT22",
@@ -5669,24 +6261,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
-        "id": "bctech019-11"
-      },
-      {
-        "code": "CD25CNOT22",
-        "subject": "Sửa chữa - bảo dưỡng hệ thống điều khiển trên xe ô tô",
-        "className": "CD25CNOT3 ...",
-        "dow": 7,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "rose",
-        "id": "bctech019-12"
+        "color": "orange",
+        "id": "bctech019-14"
       },
       {
         "code": "CD25CNOT21",
@@ -5706,8 +6282,8 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "color": "teal",
-        "id": "bctech019-13"
+        "color": "blue",
+        "id": "bctech019-15"
       },
       {
         "code": "CD25CNOT21",
@@ -5725,25 +6301,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           5
         ],
-        "color": "teal",
-        "id": "bctech019-14"
-      },
-      {
-        "code": "CD25CNOT25",
-        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
-        "className": "CD25CNOT3 ...",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15
-        ],
-        "color": "violet",
-        "id": "bctech019-15"
+        "color": "blue",
+        "id": "bctech019-16"
       },
       {
         "code": "CD25CNOT25",
@@ -5762,8 +6321,50 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
-        "id": "bctech019-16"
+        "color": "teal",
+        "id": "bctech019-17"
+      },
+      {
+        "code": "CD25CNOT25",
+        "subject": "Sửa chữa - bảo dưỡng hộp số tự động ô tô",
+        "className": "CD25CNOT3 ...",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "bctech019-18"
+      },
+      {
+        "code": "CDLTCNOT11",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT3-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "bctech019-19"
       },
       {
         "code": "CD25CNOT21",
@@ -5780,8 +6381,32 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           5
         ],
+        "color": "blue",
+        "id": "bctech019-20"
+      },
+      {
+        "code": "CDLTCNOT11",
+        "subject": "Bảo dưỡng - Sửa chữa hộp số tự động ô tô",
+        "className": "CD26CNOT3-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X4.101(ĐIOT1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
         "color": "teal",
-        "id": "bctech019-17"
+        "id": "bctech019-21"
       }
     ]
   },
@@ -5809,7 +6434,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech021-1"
       },
       {
@@ -5833,7 +6458,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech021-2"
       },
       {
@@ -5849,7 +6474,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech021-3"
       },
       {
@@ -5868,7 +6493,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech021-4"
       },
       {
@@ -5892,7 +6517,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech021-5"
       },
       {
@@ -5912,7 +6537,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech021-6"
       },
       {
@@ -5928,7 +6553,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech021-7"
       },
       {
@@ -5943,7 +6568,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech021-8"
       },
       {
@@ -5965,7 +6590,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech021-9"
       },
       {
@@ -5987,7 +6612,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech021-10"
       },
       {
@@ -6019,7 +6644,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech021-11"
       },
       {
@@ -6037,7 +6662,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech021-12"
       },
       {
@@ -6052,7 +6677,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech021-13"
       },
       {
@@ -6076,7 +6701,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech021-14"
       },
       {
@@ -6092,7 +6717,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech021-15"
       },
       {
@@ -6111,8 +6736,128 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech021-16"
+      },
+      {
+        "code": "CDLTOT07",
+        "subject": "Cơ – ứng dụng",
+        "className": "CD26CNOT2-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.107",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "bctech021-17"
+      },
+      {
+        "code": "CDLTOT07",
+        "subject": "Cơ – ứng dụng",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.203",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech021-18"
+      },
+      {
+        "code": "CDLTOT07",
+        "subject": "Cơ – ứng dụng",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2A.203",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech021-19"
+      },
+      {
+        "code": "CDLTOT07",
+        "subject": "Cơ – ứng dụng",
+        "className": "CD26CNOT2-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "1A.107",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech021-20"
+      },
+      {
+        "code": "CDLTOT07",
+        "subject": "Cơ – ứng dụng",
+        "className": "CD26CNOT1-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.107",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech021-21"
+      },
+      {
+        "code": "CDLTOT07",
+        "subject": "Cơ – ứng dụng",
+        "className": "CD26CNOT1-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.107",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech021-22"
       }
     ]
   },
@@ -6124,9 +6869,31 @@ const ALL_TEACHERS_DATABASE =
     "maxWeeks": 20,
     "schedule": [
       {
-        "code": "TC25CGKL14",
+        "code": "TC26CGKL14",
         "subject": "Kỹ thuật an toàn lao động",
-        "className": "T25CGKL1 ...",
+        "className": "T26CGKL2",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech022-1"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T26CGKL2",
         "dow": 3,
         "periods": [
           1,
@@ -6134,14 +6901,12 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "room": "P.G.MEET",
+        "room": "2X2.102(PLT)",
         "weeks": [
-          15,
-          16,
-          17
+          19
         ],
-        "color": "emerald",
-        "id": "bctech022-1"
+        "color": "violet",
+        "id": "bctech022-2"
       },
       {
         "code": "TC25CGKL17",
@@ -6168,8 +6933,46 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
-        "id": "bctech022-2"
+        "color": "blue",
+        "id": "bctech022-3"
+      },
+      {
+        "code": "CDLTCGKL10_2\n026",
+        "subject": "Gia công trên máy tiện nâng cao",
+        "className": "CD26CGKL-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X5.102(TIEN)",
+        "weeks": [
+          16,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech022-4"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T26CGKL2",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "bctech022-5"
       },
       {
         "code": "TC25CGKL17",
@@ -6198,26 +7001,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
-        "id": "bctech022-3"
-      },
-      {
-        "code": "TC25CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T25CGKL1 ...",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech022-4"
+        "color": "blue",
+        "id": "bctech022-6"
       },
       {
         "code": "TC25CGKL17",
@@ -6245,8 +7030,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
-        "id": "bctech022-5"
+        "color": "blue",
+        "id": "bctech022-7"
       },
       {
         "code": "TC25CGKL17",
@@ -6261,8 +7046,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech022-6"
+        "color": "blue",
+        "id": "bctech022-8"
       },
       {
         "code": "TC25CGKL17",
@@ -6277,58 +7062,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech022-7"
-      },
-      {
-        "code": "CD25CGKL25",
-        "subject": "Gia công trên máy tiện 2",
-        "className": "CD25CGKL",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X5.102(TIEN)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ],
-        "color": "violet",
-        "id": "bctech022-8"
-      },
-      {
-        "code": "CD25CGKL25",
-        "subject": "Gia công trên máy tiện 2",
-        "className": "CD25CGKL",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X5.102(TIEN)",
-        "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
-        ],
-        "color": "violet",
+        "color": "blue",
         "id": "bctech022-9"
       },
       {
@@ -6337,6 +7071,76 @@ const ALL_TEACHERS_DATABASE =
         "className": "CD25CGKL",
         "dow": 6,
         "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X5.102(TIEN)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "color": "teal",
+        "id": "bctech022-10"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T26CGKL2",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          15,
+          16
+        ],
+        "color": "violet",
+        "id": "bctech022-11"
+      },
+      {
+        "code": "CD25CGKL25",
+        "subject": "Gia công trên máy tiện 2",
+        "className": "CD25CGKL",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X5.102(TIEN)",
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "color": "teal",
+        "id": "bctech022-12"
+      },
+      {
+        "code": "CD25CGKL25",
+        "subject": "Gia công trên máy tiện 2",
+        "className": "CD25CGKL",
+        "dow": 6,
+        "periods": [
           6,
           7,
           8
@@ -6345,74 +7149,32 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "violet",
-        "id": "bctech022-10"
+        "color": "teal",
+        "id": "bctech022-13"
       },
       {
-        "code": "CD25CGKL25",
-        "subject": "Gia công trên máy tiện 2",
-        "className": "CD25CGKL",
-        "dow": 8,
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T26CGKL2",
+        "dow": 7,
         "periods": [
           1,
           2,
           3,
           4
         ],
-        "room": "P.ONLINE",
-        "weeks": [
-          9
-        ],
-        "color": "violet",
-        "id": "bctech022-11"
-      },
-      {
-        "code": "TC25CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T25CGKL1 ...",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "emerald",
-        "id": "bctech022-12"
-      },
-      {
-        "code": "TC25CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T25CGKL1 ...",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "room": "P.G.MEET",
+        "room": "2X2.102(PLT)",
         "weeks": [
           19
         ],
-        "color": "emerald",
-        "id": "bctech022-13"
+        "color": "violet",
+        "id": "bctech022-14"
       },
       {
         "code": "TC25CGKL17",
         "subject": "Gia công trên máy tiện 1",
         "className": "T25CGKL1",
-        "dow": 8,
+        "dow": 7,
         "periods": [
           6,
           7,
@@ -6430,8 +7192,122 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
+        "color": "blue",
+        "id": "bctech022-15"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T26CGKL2",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X2.102(PLT)",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "bctech022-16"
+      },
+      {
+        "code": "TC26CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T26CGKL2",
+        "dow": 7,
+        "periods": [
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "bctech022-17"
+      },
+      {
+        "code": "CDLTCGKL10_2\n026",
+        "subject": "Gia công trên máy tiện nâng cao",
+        "className": "CD26CGKL-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X5.102(TIEN)",
+        "weeks": [
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "violet",
+        "id": "bctech022-18"
+      },
+      {
+        "code": "CD25CGKL25",
+        "subject": "Gia công trên máy tiện 2",
+        "className": "CD25CGKL",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
         "color": "teal",
-        "id": "bctech022-14"
+        "id": "bctech022-19"
+      },
+      {
+        "code": "CDLTCGKL10_2\n026",
+        "subject": "Gia công trên máy tiện nâng cao",
+        "className": "CD26CGKL-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X5.102(TIEN)",
+        "weeks": [
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "violet",
+        "id": "bctech022-20"
+      },
+      {
+        "code": "CDLTCGKL10_2\n026",
+        "subject": "Gia công trên máy tiện nâng cao",
+        "className": "CD26CGKL-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X5.102(TIEN)",
+        "weeks": [
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "violet",
+        "id": "bctech022-21"
       }
     ]
   },
@@ -6458,7 +7334,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-1"
       },
       {
@@ -6492,7 +7368,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-2"
       },
       {
@@ -6508,7 +7384,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-3"
       },
       {
@@ -6542,7 +7418,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-4"
       },
       {
@@ -6574,7 +7450,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-5"
       },
       {
@@ -6606,7 +7482,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-6"
       },
       {
@@ -6622,7 +7498,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-7"
       },
       {
@@ -6649,7 +7525,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-8"
       },
       {
@@ -6668,7 +7544,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-9"
       },
       {
@@ -6687,24 +7563,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-10"
-      },
-      {
-        "code": "TC25HAN15",
-        "subject": "Hàn TIG",
-        "className": "T25HAN1",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "1X2.HAN",
-        "weeks": [
-          18
-        ],
-        "color": "teal",
-        "id": "bctech024-11"
       },
       {
         "code": "TC25HAN15",
@@ -6724,7 +7584,23 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
+        "id": "bctech024-11"
+      },
+      {
+        "code": "TC25HAN15",
+        "subject": "Hàn TIG",
+        "className": "T25HAN1",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "1X2.HAN",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
         "id": "bctech024-12"
       },
       {
@@ -6757,7 +7633,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-13"
       },
       {
@@ -6790,7 +7666,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-14"
       },
       {
@@ -6823,7 +7699,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-15"
       },
       {
@@ -6847,7 +7723,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-16"
       },
       {
@@ -6865,7 +7741,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech024-17"
       },
       {
@@ -6892,7 +7768,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech024-18"
       }
     ]
@@ -6928,7 +7804,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech025-1"
       },
       {
@@ -6945,7 +7821,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech025-2"
       },
       {
@@ -6969,7 +7845,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech025-3"
       },
       {
@@ -7001,7 +7877,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech025-4"
       },
       {
@@ -7036,7 +7912,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech025-5"
       },
       {
@@ -7065,7 +7941,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech025-6"
       },
       {
@@ -7081,7 +7957,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech025-7"
       },
       {
@@ -7103,7 +7979,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech025-8"
       },
       {
@@ -7132,8 +8008,24 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech025-9"
+      },
+      {
+        "code": "TC25CTCK16",
+        "subject": "Chế tạo khung nhà công nghiệp",
+        "className": "T25CTCK2",
+        "dow": 5,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2X3.102(HAN)",
+        "weeks": [
+          13
+        ],
+        "color": "emerald",
+        "id": "bctech025-10"
       },
       {
         "code": "TC25CTCK16",
@@ -7160,23 +8052,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "orange",
-        "id": "bctech025-10"
-      },
-      {
-        "code": "TC25CTCK16",
-        "subject": "Chế tạo khung nhà công nghiệp",
-        "className": "T25CTCK2",
-        "dow": 5,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "2X3.102(HAN)",
-        "weeks": [
-          13
-        ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech025-11"
       },
       {
@@ -7208,7 +8084,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech025-12"
       },
       {
@@ -7224,7 +8100,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech025-13"
       },
       {
@@ -7252,8 +8128,29 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech025-14"
+      },
+      {
+        "code": "CDLTHAN10_20\n26",
+        "subject": "Quy trình hàn",
+        "className": "CD26HAN-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "violet",
+        "id": "bctech025-15"
       },
       {
         "code": "CD25CTCK19",
@@ -7274,8 +8171,28 @@ const ALL_TEACHERS_DATABASE =
           4,
           5
         ],
-        "color": "orange",
-        "id": "bctech025-15"
+        "color": "emerald",
+        "id": "bctech025-16"
+      },
+      {
+        "code": "CDLTHAN10_20\n26",
+        "subject": "Quy trình hàn",
+        "className": "CD26HAN-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          16,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech025-17"
       },
       {
         "code": "CD25CTCK19",
@@ -7296,8 +8213,24 @@ const ALL_TEACHERS_DATABASE =
           4,
           5
         ],
-        "color": "orange",
-        "id": "bctech025-16"
+        "color": "emerald",
+        "id": "bctech025-18"
+      },
+      {
+        "code": "CDLTHAN10_20\n26",
+        "subject": "Quy trình hàn",
+        "className": "CD26HAN-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          20
+        ],
+        "color": "violet",
+        "id": "bctech025-19"
       },
       {
         "code": "CD26CTCK16",
@@ -7326,8 +8259,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
-        "id": "bctech025-17"
+        "color": "violet",
+        "id": "bctech025-20"
       },
       {
         "code": "CD26CTCK16",
@@ -7355,8 +8288,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
-        "id": "bctech025-18"
+        "color": "violet",
+        "id": "bctech025-21"
       },
       {
         "code": "CD26CTCK16",
@@ -7371,8 +8304,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
-        "id": "bctech025-19"
+        "color": "violet",
+        "id": "bctech025-22"
       }
     ]
   },
@@ -7404,7 +8337,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-1"
       },
       {
@@ -7427,7 +8360,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-2"
       },
       {
@@ -7461,7 +8394,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-3"
       },
       {
@@ -7491,7 +8424,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech026-4"
       },
       {
@@ -7523,7 +8456,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-5"
       },
       {
@@ -7554,7 +8487,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-6"
       },
       {
@@ -7572,8 +8505,25 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-7"
+      },
+      {
+        "code": "CD26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "className": "CD26CTCK2",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "2A.201",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech026-8"
       },
       {
         "code": "CD26CTCK12",
@@ -7594,24 +8544,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
-        "id": "bctech026-8"
-      },
-      {
-        "code": "CD26CTCK12",
-        "subject": "Vẽ kỹ thuật",
-        "className": "CD26CTCK2",
-        "dow": 5,
-        "periods": [
-          11,
-          12,
-          13
-        ],
-        "room": "2A.201",
-        "weeks": [
-          18
-        ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech026-9"
       },
       {
@@ -7644,7 +8577,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-10"
       },
       {
@@ -7669,8 +8602,25 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-11"
+      },
+      {
+        "code": "CD26CTCK12",
+        "subject": "Vẽ kỹ thuật",
+        "className": "CD26CTCK2",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech026-12"
       },
       {
         "code": "CD26CTCK12",
@@ -7689,24 +8639,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
-        "id": "bctech026-12"
-      },
-      {
-        "code": "CD26CTCK12",
-        "subject": "Vẽ kỹ thuật",
-        "className": "CD26CTCK2",
-        "dow": 6,
-        "periods": [
-          11,
-          12,
-          13
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech026-13"
       },
       {
@@ -7729,7 +8662,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech026-14"
       }
     ]
@@ -7769,7 +8702,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech027-1"
       },
       {
@@ -7787,7 +8720,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech027-2"
       },
       {
@@ -7806,7 +8739,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech027-3"
       },
       {
@@ -7828,7 +8761,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech027-4"
       },
       {
@@ -7846,7 +8779,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech027-5"
       },
       {
@@ -7876,7 +8809,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech027-6"
       },
       {
@@ -7894,7 +8827,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech027-7"
       },
       {
@@ -7923,7 +8856,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech027-8"
       },
       {
@@ -7942,7 +8875,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech027-9"
       },
       {
@@ -7960,8 +8893,30 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech027-10"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "violet",
+        "id": "bctech027-11"
       },
       {
         "code": "TC25HAN15",
@@ -7978,8 +8933,50 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
-        "id": "bctech027-11"
+        "color": "blue",
+        "id": "bctech027-12"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "violet",
+        "id": "bctech027-13"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X2.HAN",
+        "weeks": [
+          16,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech027-14"
       },
       {
         "code": "TC25HAN15",
@@ -7994,8 +8991,30 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
-        "id": "bctech027-12"
+        "color": "blue",
+        "id": "bctech027-15"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "violet",
+        "id": "bctech027-16"
       },
       {
         "code": "TC25HAN15",
@@ -8012,8 +9031,50 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "teal",
-        "id": "bctech027-13"
+        "color": "blue",
+        "id": "bctech027-17"
+      },
+      {
+        "code": "TC26HAN11",
+        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
+        "className": "T26HAN2",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "bctech027-18"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X2.HAN",
+        "weeks": [
+          16,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech027-19"
       },
       {
         "code": "TC26HAN11",
@@ -8040,8 +9101,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech027-14"
+        "color": "emerald",
+        "id": "bctech027-20"
       },
       {
         "code": "TC25HAN15",
@@ -8073,13 +9134,13 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
-        "id": "bctech027-15"
+        "color": "blue",
+        "id": "bctech027-21"
       },
       {
-        "code": "TC26HAN11",
-        "subject": "Cơ sở công nghệ Chế tạo và gá lắp phôi hàn",
-        "className": "T26HAN2",
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
         "dow": 8,
         "periods": [
           1,
@@ -8087,16 +9148,51 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "room": "P.ONLINE",
+        "room": "1X2.HAN",
         "weeks": [
-          13,
-          14,
-          15,
           16,
-          17
+          18
         ],
-        "color": "orange",
-        "id": "bctech027-16"
+        "color": "violet",
+        "id": "bctech027-22"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X2.HAN",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "bctech027-23"
+      },
+      {
+        "code": "CDLTCTCK09_2\n026",
+        "subject": "Cắt khí và hàn điện cơ bản",
+        "className": "CD26CTCK-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X2.HAN",
+        "weeks": [
+          16,
+          18
+        ],
+        "color": "violet",
+        "id": "bctech027-24"
       }
     ]
   },
@@ -8132,30 +9228,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "orange",
-        "id": "bctech028-1"
-      },
-      {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
-        "dow": 2,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X2.102(PLT)",
-        "weeks": [
-          15,
-          16,
-          17,
-          18,
-          19
-        ],
         "color": "emerald",
-        "id": "bctech028-2"
+        "id": "bctech028-1"
       },
       {
         "code": "CD26CGKL11",
@@ -8169,8 +9243,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech028-3"
+        "color": "emerald",
+        "id": "bctech028-2"
       },
       {
         "code": "TC26CGKL12",
@@ -8200,8 +9274,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
-        "id": "bctech028-4"
+        "color": "orange",
+        "id": "bctech028-3"
       },
       {
         "code": "TC26CGKL12",
@@ -8216,26 +9290,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
-        "id": "bctech028-5"
-      },
-      {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
-        "dow": 3,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X2.102(PLT)",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech028-6"
+        "color": "orange",
+        "id": "bctech028-4"
       },
       {
         "code": "TC26CGKL12",
@@ -8250,26 +9306,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
-        "id": "bctech028-7"
-      },
-      {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X2.102(PLT)",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech028-8"
+        "color": "orange",
+        "id": "bctech028-5"
       },
       {
         "code": "CD25CGKL23",
@@ -8296,8 +9334,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
-        "id": "bctech028-9"
+        "color": "teal",
+        "id": "bctech028-6"
       },
       {
         "code": "CD25CGKL23",
@@ -8311,8 +9349,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech028-10"
+        "color": "teal",
+        "id": "bctech028-7"
       },
       {
         "code": "CD25CGKL24",
@@ -8338,8 +9376,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
-        "id": "bctech028-11"
+        "color": "blue",
+        "id": "bctech028-8"
       },
       {
         "code": "CD25CGKL24",
@@ -8355,8 +9393,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech028-12"
+        "color": "blue",
+        "id": "bctech028-9"
       },
       {
         "code": "CD25CGKL24",
@@ -8371,8 +9409,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech028-13"
+        "color": "blue",
+        "id": "bctech028-10"
       },
       {
         "code": "TC25CGKL21",
@@ -8396,8 +9434,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "blue",
-        "id": "bctech028-14"
+        "color": "rose",
+        "id": "bctech028-11"
       },
       {
         "code": "TC25CGKL21",
@@ -8413,27 +9451,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
-        "id": "bctech028-15"
-      },
-      {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X2.102(PLT)",
-        "weeks": [
-          15,
-          16
-        ],
-        "color": "emerald",
-        "id": "bctech028-16"
+        "color": "rose",
+        "id": "bctech028-12"
       },
       {
         "code": "TC25CGKL21",
@@ -8448,59 +9467,71 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
+        "color": "rose",
+        "id": "bctech028-13"
+      },
+      {
+        "code": "CDLTCGKL09_2\n026",
+        "subject": "Máy cắt kim loại",
+        "className": "CD26CGKL-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X4.TIEN",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
         "color": "blue",
-        "id": "bctech028-17"
+        "id": "bctech028-14"
       },
       {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2X2.102(PLT)",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech028-18"
-      },
-      {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
+        "code": "CDLTCGKL09_2\n026",
+        "subject": "Máy cắt kim loại",
+        "className": "CD26CGKL-LT",
         "dow": 8,
         "periods": [
           1,
           2,
           3,
-          4
-        ],
-        "room": "2X2.102(PLT)",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech028-19"
-      },
-      {
-        "code": "TC26CGKL14",
-        "subject": "Kỹ thuật an toàn lao động",
-        "className": "T26CGKL2",
-        "dow": 8,
-        "periods": [
+          4,
           5
         ],
-        "room": "P.ONLINE",
+        "room": "1X4.TIEN",
         "weeks": [
-          19
+          15
         ],
-        "color": "emerald",
-        "id": "bctech028-20"
+        "color": "blue",
+        "id": "bctech028-15"
+      },
+      {
+        "code": "CDLTCGKL09_2\n026",
+        "subject": "Máy cắt kim loại",
+        "className": "CD26CGKL-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X4.TIEN",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "bctech028-16"
       },
       {
         "code": "TC25CGKL21",
@@ -8518,8 +9549,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "blue",
-        "id": "bctech028-21"
+        "color": "rose",
+        "id": "bctech028-17"
       }
     ]
   },
@@ -8530,6 +9561,26 @@ const ALL_TEACHERS_DATABASE =
     "startDate": "2026-09-07",
     "maxWeeks": 20,
     "schedule": [
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T25CGKL1 ...",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1C.202",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "violet",
+        "id": "bctech029-1"
+      },
       {
         "code": "TC26CGKL12",
         "subject": "Vẽ kỹ thuật",
@@ -8558,8 +9609,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
-        "id": "bctech029-1"
+        "color": "orange",
+        "id": "bctech029-2"
       },
       {
         "code": "TC26CGKL12",
@@ -8574,8 +9625,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "rose",
-        "id": "bctech029-2"
+        "color": "orange",
+        "id": "bctech029-3"
       },
       {
         "code": "TC26CGKL12",
@@ -8590,8 +9641,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "rose",
-        "id": "bctech029-3"
+        "color": "orange",
+        "id": "bctech029-4"
       },
       {
         "code": "CD26CGKL13",
@@ -8619,8 +9670,86 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
+        "color": "emerald",
+        "id": "bctech029-5"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T25CGKL1 ...",
+        "dow": 5,
+        "periods": [
+          1
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
+        "id": "bctech029-6"
+      },
+      {
+        "code": "CD26CGKL13",
+        "subject": "Vẽ Autocad",
+        "className": "CD26CGKL",
+        "dow": 5,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech029-7"
+      },
+      {
+        "code": "TC25CGKL14",
+        "subject": "Kỹ thuật an toàn lao động",
+        "className": "T25CGKL1 ...",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1C.202",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech029-8"
+      },
+      {
+        "code": "TC25CGKL18",
+        "subject": "Gia công trên máy tiện CNC 1",
+        "className": "T25CGKL2",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X2.102(TCNC)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
         "color": "orange",
-        "id": "bctech029-4"
+        "id": "bctech029-9"
       },
       {
         "code": "TC25CGKL14",
@@ -8643,8 +9772,8 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "emerald",
-        "id": "bctech029-5"
+        "color": "violet",
+        "id": "bctech029-10"
       },
       {
         "code": "TC25CGKL14",
@@ -8660,24 +9789,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
-        "id": "bctech029-6"
-      },
-      {
-        "code": "CD26CGKL13",
-        "subject": "Vẽ Autocad",
-        "className": "CD26CGKL",
-        "dow": 7,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "orange",
-        "id": "bctech029-7"
+        "color": "violet",
+        "id": "bctech029-11"
       },
       {
         "code": "TC25CGKL14",
@@ -8692,8 +9805,48 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
-        "id": "bctech029-8"
+        "color": "violet",
+        "id": "bctech029-12"
+      },
+      {
+        "code": "TC25CGKL18",
+        "subject": "Gia công trên máy tiện CNC 1",
+        "className": "T25CGKL2",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X2.102(TCNC)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "bctech029-13"
+      },
+      {
+        "code": "TC25CGKL18",
+        "subject": "Gia công trên máy tiện CNC 1",
+        "className": "T25CGKL2",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "2X2.102(TCNC)",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech029-14"
       },
       {
         "code": "TC25CGKL14",
@@ -8712,8 +9865,26 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "emerald",
-        "id": "bctech029-9"
+        "color": "violet",
+        "id": "bctech029-15"
+      },
+      {
+        "code": "TC25CGKL18",
+        "subject": "Gia công trên máy tiện CNC 1",
+        "className": "T25CGKL2",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech029-16"
       }
     ]
   },
@@ -8752,7 +9923,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech031-1"
       },
       {
@@ -8779,7 +9950,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech031-2"
       },
       {
@@ -8797,7 +9968,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech031-3"
       },
       {
@@ -8825,12 +9996,12 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech031-4"
       },
       {
-        "code": "TC25HAN14",
-        "subject": "Hàn MIG/MAG",
+        "code": "TC25HAN13",
+        "subject": "Hàn hồ quang nâng cao",
         "className": "T25HAN1",
         "dow": 3,
         "periods": [
@@ -8841,12 +10012,24 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
           14,
           15,
-          16,
-          17
+          16
         ],
-        "color": "violet",
+        "color": "blue",
         "id": "bctech031-5"
       },
       {
@@ -8878,7 +10061,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech031-6"
       },
       {
@@ -8898,7 +10081,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech031-7"
       },
       {
@@ -8930,7 +10113,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech031-8"
       },
       {
@@ -8950,13 +10133,13 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech031-9"
       },
       {
-        "code": "TC25HAN13",
-        "subject": "Hàn hồ quang nâng cao",
-        "className": "T25HAN1",
+        "code": "CDLTHAN08_20\n26",
+        "subject": "Hàn MIG/MAG",
+        "className": "CD26HAN-LT",
         "dow": 4,
         "periods": [
           11,
@@ -8964,27 +10147,34 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "room": "P.ONLINE",
+        "room": "1X3.HAN",
         "weeks": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
           11,
           12,
           13,
           14,
           15,
-          16
+          16,
+          17
         ],
         "color": "teal",
         "id": "bctech031-10"
+      },
+      {
+        "code": "CDLTHAN08_20\n26",
+        "subject": "Hàn MIG/MAG",
+        "className": "CD26HAN-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1X3.HAN",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "bctech031-11"
       },
       {
         "code": "TC25HAN13",
@@ -9010,8 +10200,91 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
+        "color": "blue",
+        "id": "bctech031-12"
+      },
+      {
+        "code": "CDLTHAN08_20\n26",
+        "subject": "Hàn MIG/MAG",
+        "className": "CD26HAN-LT",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16,
+          18
+        ],
         "color": "teal",
-        "id": "bctech031-11"
+        "id": "bctech031-13"
+      },
+      {
+        "code": "CDLTHAN08_20\n26",
+        "subject": "Hàn MIG/MAG",
+        "className": "CD26HAN-LT",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "bctech031-14"
+      },
+      {
+        "code": "CDLTHAN08_20\n26",
+        "subject": "Hàn MIG/MAG",
+        "className": "CD26HAN-LT",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "teal",
+        "id": "bctech031-15"
+      },
+      {
+        "code": "CDLTHAN08_20\n26",
+        "subject": "Hàn MIG/MAG",
+        "className": "CD26HAN-LT",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "DN",
+        "weeks": [
+          14,
+          15,
+          16
+        ],
+        "color": "teal",
+        "id": "bctech031-16"
       },
       {
         "code": "TC25HAN13",
@@ -9026,8 +10299,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech031-12"
+        "color": "blue",
+        "id": "bctech031-17"
       },
       {
         "code": "TC26HAN11",
@@ -9048,8 +10321,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech031-13"
+        "color": "emerald",
+        "id": "bctech031-18"
       },
       {
         "code": "TC26HAN11",
@@ -9067,8 +10340,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
-        "id": "bctech031-14"
+        "color": "emerald",
+        "id": "bctech031-19"
       },
       {
         "code": "TC25HAN13",
@@ -9097,8 +10370,29 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
+        "color": "blue",
+        "id": "bctech031-20"
+      },
+      {
+        "code": "TC25HAN14",
+        "subject": "Hàn MIG/MAG",
+        "className": "T25HAN1",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          14,
+          15,
+          16,
+          17
+        ],
         "color": "teal",
-        "id": "bctech031-15"
+        "id": "bctech031-21"
       },
       {
         "code": "TC25HAN14",
@@ -9119,8 +10413,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
-        "id": "bctech031-16"
+        "color": "teal",
+        "id": "bctech031-22"
       },
       {
         "code": "TC25HAN14",
@@ -9141,8 +10435,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
-        "id": "bctech031-17"
+        "color": "teal",
+        "id": "bctech031-23"
       }
     ]
   },
@@ -9179,7 +10473,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech203-1"
       },
       {
@@ -9213,7 +10507,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech203-2"
       },
       {
@@ -9245,7 +10539,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-3"
       },
       {
@@ -9275,7 +10569,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-4"
       },
       {
@@ -9304,7 +10598,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-5"
       },
       {
@@ -9320,7 +10614,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-6"
       },
       {
@@ -9348,7 +10642,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-7"
       },
       {
@@ -9363,7 +10657,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-8"
       },
       {
@@ -9379,7 +10673,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech203-9"
       },
       {
@@ -9404,7 +10698,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech203-10"
       },
       {
@@ -9433,7 +10727,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-11"
       },
       {
@@ -9449,7 +10743,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-12"
       },
       {
@@ -9473,7 +10767,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech203-13"
       }
     ]
@@ -9516,7 +10810,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech034-1"
       },
       {
@@ -9567,7 +10861,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech034-3"
       },
       {
@@ -9657,7 +10951,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech034-7"
       },
       {
@@ -9673,8 +10967,25 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech034-8"
+      },
+      {
+        "code": "CD22CNTT17",
+        "subject": "Thiết kế hoạt hình Flash",
+        "className": "CD25CNTT1 ...",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "teal",
+        "id": "bctech034-9"
       },
       {
         "code": "CD22CNTT17",
@@ -9691,23 +11002,6 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14,
           15
-        ],
-        "color": "teal",
-        "id": "bctech034-9"
-      },
-      {
-        "code": "CD22CNTT17",
-        "subject": "Thiết kế hoạt hình Flash",
-        "className": "CD25CNTT1 ...",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "teal",
         "id": "bctech034-10"
@@ -9769,7 +11063,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-2"
       },
       {
@@ -9789,10 +11083,27 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4,
-          5
+          5,
+          6
         ],
         "color": "emerald",
         "id": "bctech039-3"
+      },
+      {
+        "code": "CD25CTCK27",
+        "subject": "Tin học nâng cao",
+        "className": "CD25CTCK1 ...",
+        "dow": 2,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech039-4"
       },
       {
         "code": "CD25CTCK27",
@@ -9814,22 +11125,6 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15
-        ],
-        "color": "emerald",
-        "id": "bctech039-4"
-      },
-      {
-        "code": "CD25CTCK27",
-        "subject": "Tin học nâng cao",
-        "className": "CD25CTCK1 ...",
-        "dow": 2,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
         ],
         "color": "emerald",
         "id": "bctech039-5"
@@ -9889,7 +11184,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-7"
       },
       {
@@ -9907,7 +11202,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-8"
       },
       {
@@ -9949,22 +11244,6 @@ const ALL_TEACHERS_DATABASE =
         "dow": 3,
         "periods": [
           11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "bctech039-10"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "className": "CD25DCN3",
-        "dow": 3,
-        "periods": [
-          11,
           12,
           13,
           14
@@ -9978,6 +11257,22 @@ const ALL_TEACHERS_DATABASE =
           13,
           14,
           15
+        ],
+        "color": "emerald",
+        "id": "bctech039-10"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "className": "CD25DCN3",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
         ],
         "color": "emerald",
         "id": "bctech039-11"
@@ -10010,7 +11305,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-12"
       },
       {
@@ -10028,7 +11323,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-13"
       },
       {
@@ -10089,7 +11384,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-16"
       },
       {
@@ -10157,7 +11452,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-19"
       },
       {
@@ -10227,7 +11522,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-22"
       },
       {
@@ -10245,7 +11540,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-23"
       },
       {
@@ -10262,7 +11557,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech039-24"
       }
     ]
@@ -10302,7 +11597,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-1"
       },
       {
@@ -10321,7 +11616,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-2"
       },
       {
@@ -10337,7 +11632,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-3"
       },
       {
@@ -10361,7 +11656,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-4"
       },
       {
@@ -10394,7 +11689,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-5"
       },
       {
@@ -10468,7 +11763,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-8"
       },
       {
@@ -10489,7 +11784,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-9"
       },
       {
@@ -10506,7 +11801,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-10"
       },
       {
@@ -10522,7 +11817,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech040-11"
       },
       {
@@ -10645,6 +11940,46 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech041-3"
       },
       {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26DCN3-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2B.302(LAB3)",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "bctech041-4"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26DCN3-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "2B.302(LAB3)",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech041-5"
+      },
+      {
         "code": "CD25CNTT18",
         "subject": "Thiết kế web",
         "className": "CD25CNTT1 ...",
@@ -10676,7 +12011,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "violet",
-        "id": "bctech041-4"
+        "id": "bctech041-6"
       },
       {
         "code": "CD25CNTT18",
@@ -10692,7 +12027,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "violet",
-        "id": "bctech041-5"
+        "id": "bctech041-7"
       },
       {
         "code": "TC25TKDH21",
@@ -10712,7 +12047,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech041-6"
+        "id": "bctech041-8"
       },
       {
         "code": "CD25CDT29",
@@ -10744,7 +12079,23 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech041-7"
+        "id": "bctech041-9"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "className": "CD25CNTT1 ...",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech041-10"
       },
       {
         "code": "CD25CDT29",
@@ -10768,23 +12119,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "emerald",
-        "id": "bctech041-8"
-      },
-      {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "className": "CD25CNTT1 ...",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "emerald",
-        "id": "bctech041-9"
+        "id": "bctech041-11"
       }
     ]
   },
@@ -10814,7 +12149,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech042-1"
       },
       {
@@ -10866,7 +12201,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech042-3"
       },
       {
@@ -10888,9 +12223,9 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech042-4"
       },
       {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "className": "CD25CDT1 ...",
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26HAN-LT",
         "dow": 2,
         "periods": [
           11,
@@ -10898,34 +12233,70 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "room": "P.ONLINE",
+        "room": "1X8.204.T",
         "weeks": [
-          9,
-          10,
           11,
-          12,
           13,
           14,
-          15
+          15,
+          16,
+          17,
+          18
         ],
         "color": "emerald",
         "id": "bctech042-5"
       },
       {
-        "code": "CD25CDT29",
-        "subject": "Tin học nâng cao",
-        "className": "CD25CDT1 ...",
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26HAN-LT",
         "dow": 2,
         "periods": [
           11,
           12
         ],
-        "room": "P.ONLINE",
+        "room": "1X8.204.T",
         "weeks": [
-          16
+          19
         ],
         "color": "emerald",
         "id": "bctech042-6"
+      },
+      {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "className": "T25HAN1",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech042-7"
+      },
+      {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "className": "T25HAN1",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech042-8"
       },
       {
         "code": "CD25CNOT31",
@@ -10951,7 +12322,27 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech042-7"
+        "id": "bctech042-9"
+      },
+      {
+        "code": "TC25CNTT13",
+        "subject": "Quản trị mạng",
+        "className": "T25CNTT1",
+        "dow": 3,
+        "periods": [
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "blue",
+        "id": "bctech042-10"
       },
       {
         "code": "CD25CNOT31",
@@ -10983,7 +12374,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech042-8"
+        "id": "bctech042-11"
       },
       {
         "code": "TC25KTML23",
@@ -11001,7 +12392,7 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech042-9"
+        "id": "bctech042-12"
       },
       {
         "code": "TC25DCN23",
@@ -11020,7 +12411,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech042-10"
+        "id": "bctech042-13"
       },
       {
         "code": "TC25DCN23",
@@ -11055,7 +12446,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech042-11"
+        "id": "bctech042-14"
       },
       {
         "code": "TC25KTML23",
@@ -11073,7 +12464,34 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech042-12"
+        "id": "bctech042-15"
+      },
+      {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "className": "T25CTCK1 ...",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech042-16"
       },
       {
         "code": "TC25DCN23",
@@ -11100,7 +12518,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech042-13"
+        "id": "bctech042-17"
       },
       {
         "code": "CD25CDT29",
@@ -11132,7 +12550,26 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech042-14"
+        "id": "bctech042-18"
+      },
+      {
+        "code": "TC25CNTT13",
+        "subject": "Quản trị mạng",
+        "className": "T25CNTT1",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "bctech042-19"
       },
       {
         "code": "TC25KTML23",
@@ -11150,7 +12587,7 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech042-15"
+        "id": "bctech042-20"
       },
       {
         "code": "TC25DCN23",
@@ -11183,181 +12620,60 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech042-16"
-      },
-      {
-        "code": "TC25KTML23",
-        "subject": "Tin học nâng cao",
-        "className": "T25KTML1",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.306(LAB2)",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech042-17"
-      },
-      {
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "className": "T25CTCK1 ...",
-        "dow": 6,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "color": "emerald",
-        "id": "bctech042-18"
-      },
-      {
-        "code": "TC25KTML23",
-        "subject": "Tin học nâng cao",
-        "className": "T25KTML1",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1A.306(LAB2)",
-        "weeks": [
-          14,
-          15,
-          16,
-          18,
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech042-19"
-      },
-      {
-        "code": "TC25KTML23",
-        "subject": "Tin học nâng cao",
-        "className": "T25KTML1",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1A.306(LAB2)",
-        "weeks": [
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech042-20"
-      },
-      {
-        "code": "TC25KTML23",
-        "subject": "Tin học nâng cao",
-        "className": "T25KTML1",
-        "dow": 7,
-        "periods": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          18
-        ],
-        "color": "emerald",
         "id": "bctech042-21"
       },
       {
-        "code": "TC25CNTT13",
-        "subject": "Quản trị mạng",
-        "className": "T25CNTT1",
-        "dow": 8,
+        "code": "TC25KTML23",
+        "subject": "Tin học nâng cao",
+        "className": "T25KTML1",
+        "dow": 6,
         "periods": [
-          1,
-          2,
-          3,
-          4,
-          5
+          6,
+          7,
+          8,
+          9
         ],
-        "room": "P.ONLINE",
+        "room": "1A.306(LAB2)",
         "weeks": [
-          18
+          19
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "bctech042-22"
       },
       {
-        "code": "TC25CNTT13",
-        "subject": "Quản trị mạng",
-        "className": "T25CNTT1",
-        "dow": 8,
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNOT1-LT",
+        "dow": 6,
         "periods": [
-          1,
-          2,
-          3,
-          4
+          11,
+          12,
+          13,
+          14
         ],
-        "room": "P.ONLINE",
+        "room": "1A.305(LAB1)",
         "weeks": [
+          11,
+          12,
+          13,
+          14,
           15,
           16,
-          17
+          18
         ],
-        "color": "teal",
+        "color": "emerald",
         "id": "bctech042-23"
       },
       {
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "className": "T25HAN1",
-        "dow": 8,
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNOT1-LT",
+        "dow": 6,
         "periods": [
-          1,
-          2,
-          3,
-          4
+          11,
+          12
         ],
-        "room": "1X8.204.N",
+        "room": "1A.305(LAB1)",
         "weeks": [
           19
         ],
@@ -11365,9 +12681,218 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech042-24"
       },
       {
-        "code": "TC25DCN23",
+        "code": "TC25KTML23",
         "subject": "Tin học nâng cao",
-        "className": "T25HAN1",
+        "className": "T25KTML1",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.306(LAB2)",
+        "weeks": [
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech042-25"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "className": "CD25CDT1 ...",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "color": "emerald",
+        "id": "bctech042-26"
+      },
+      {
+        "code": "CDLTTKDH08_2\n026",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "className": "CD26TKDH-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          20
+        ],
+        "color": "rose",
+        "id": "bctech042-27"
+      },
+      {
+        "code": "TC25KTML23",
+        "subject": "Tin học nâng cao",
+        "className": "T25KTML1",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.306(LAB2)",
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech042-28"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "className": "CD25CDT1 ...",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          2,
+          3,
+          4
+        ],
+        "color": "emerald",
+        "id": "bctech042-29"
+      },
+      {
+        "code": "CD25CDT29",
+        "subject": "Tin học nâng cao",
+        "className": "CD25CDT1 ...",
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          5
+        ],
+        "color": "emerald",
+        "id": "bctech042-30"
+      },
+      {
+        "code": "CDLTTKDH08_2\n026",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "className": "CD26TKDH-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          20
+        ],
+        "color": "rose",
+        "id": "bctech042-31"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNOT2-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.305(LAB1)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech042-32"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNOT2-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.305(LAB1)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech042-33"
+      },
+      {
+        "code": "CDLTTKDH08_2\n026",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "className": "CD26TKDH-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "bctech042-34"
+      },
+      {
+        "code": "CDLTTKDH08_2\n026",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "className": "CD26TKDH-LT",
         "dow": 8,
         "periods": [
           6,
@@ -11375,12 +12900,63 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "room": "1X8.204.N",
+        "room": "1X8.204.T",
         "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
           19
         ],
+        "color": "rose",
+        "id": "bctech042-35"
+      },
+      {
+        "code": "CDLTTKDH08_2\n026",
+        "subject": "Xử lý và chỉnh sửa ảnh chuyên nghiệp",
+        "className": "CD26TKDH-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          20
+        ],
+        "color": "rose",
+        "id": "bctech042-36"
+      },
+      {
+        "code": "TC25KTML23",
+        "subject": "Tin học nâng cao",
+        "className": "T25KTML1",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
         "color": "emerald",
-        "id": "bctech042-25"
+        "id": "bctech042-37"
       }
     ]
   },
@@ -11413,6 +12989,38 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech043-1"
       },
       {
+        "code": "TC25CNTT19",
+        "subject": "Lập trình Windows Form (TC*)",
+        "className": "T25CNTT1",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "bctech043-2"
+      },
+      {
+        "code": "TC17DTC09",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "T26CNTT1",
+        "dow": 2,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "bctech043-3"
+      },
+      {
         "code": "TC17DTC09",
         "subject": "Xử lý và phân tích dữ liệu cơ bản",
         "className": "T26CNTT1",
@@ -11440,8 +13048,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
-        "id": "bctech043-2"
+        "color": "blue",
+        "id": "bctech043-4"
       },
       {
         "code": "TC17DTC09",
@@ -11459,8 +13067,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
-        "id": "bctech043-3"
+        "color": "blue",
+        "id": "bctech043-5"
       },
       {
         "code": "TC25CNTT19",
@@ -11495,7 +13103,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "blue",
-        "id": "bctech043-4"
+        "id": "bctech043-6"
       },
       {
         "code": "TC26CNTT11",
@@ -11526,7 +13134,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "bctech043-5"
+        "id": "bctech043-7"
       },
       {
         "code": "TC26CNTT11",
@@ -11547,7 +13155,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "blue",
-        "id": "bctech043-6"
+        "id": "bctech043-8"
       },
       {
         "code": "TC26CNTT11",
@@ -11566,7 +13174,7 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "blue",
-        "id": "bctech043-7"
+        "id": "bctech043-9"
       },
       {
         "code": "TC17DTC09",
@@ -11590,8 +13198,49 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "teal",
-        "id": "bctech043-8"
+        "color": "blue",
+        "id": "bctech043-10"
+      },
+      {
+        "code": "TC26CNTT11",
+        "subject": "Lập trình cơ bản",
+        "className": "T26CNTT1",
+        "dow": 6,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech043-11"
+      },
+      {
+        "code": "CDLTCNTT08_2\n026",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech043-12"
       },
       {
         "code": "TC26CNTT11",
@@ -11612,55 +13261,124 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "blue",
-        "id": "bctech043-9"
+        "id": "bctech043-13"
       },
       {
-        "code": "TC17DTC09",
+        "code": "CDLTCNTT08_2\n026",
         "subject": "Xử lý và phân tích dữ liệu cơ bản",
-        "className": "T26CNTT1",
+        "className": "CD26CNTT-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech043-14"
+      },
+      {
+        "code": "CDLTCNTT08_2\n026",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "CD26CNTT-LT",
         "dow": 7,
         "periods": [
           6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "teal",
-        "id": "bctech043-10"
-      },
-      {
-        "code": "TC26CNTT11",
-        "subject": "Lập trình cơ bản",
-        "className": "T26CNTT1",
-        "dow": 7,
-        "periods": [
+          7,
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "1A.308(LAB4)",
         "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech043-15"
+      },
+      {
+        "code": "CDLTCNTT08_2\n026",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech043-16"
+      },
+      {
+        "code": "CDLTCNTT08_2\n026",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
           19
         ],
         "color": "blue",
-        "id": "bctech043-11"
+        "id": "bctech043-17"
       },
       {
-        "code": "TC25CNTT19",
-        "subject": "Lập trình Windows Form (TC*)",
-        "className": "T25CNTT1",
+        "code": "CDLTCNTT08_2\n026",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "CD26CNTT-LT",
         "dow": 8,
         "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.308(LAB4)",
+        "weeks": [
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech043-18"
+      },
+      {
+        "code": "CDLTCNTT08_2\n026",
+        "subject": "Xử lý và phân tích dữ liệu cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "1A.308(LAB4)",
         "weeks": [
-          18
+          18,
+          19,
+          20
         ],
         "color": "blue",
-        "id": "bctech043-12"
+        "id": "bctech043-19"
       }
     ]
   },
@@ -11751,6 +13469,46 @@ const ALL_TEACHERS_DATABASE =
         ],
         "color": "emerald",
         "id": "bctech045-3"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CDT-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2B.302(LAB3)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech045-4"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CDT-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "2B.302(LAB3)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech045-5"
       }
     ]
   },
@@ -12086,6 +13844,31 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech047-2"
       },
       {
+        "code": "CDLTTKDH07_2\n026",
+        "subject": "Tư duy thiết kế và phát triển ý tưởng",
+        "className": "CD26TKDH-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "bctech047-3"
+      },
+      {
         "code": "TC25DCN23",
         "subject": "Tin học nâng cao",
         "className": "T25CNOT4 ...",
@@ -12101,7 +13884,7 @@ const ALL_TEACHERS_DATABASE =
           20
         ],
         "color": "emerald",
-        "id": "bctech047-3"
+        "id": "bctech047-4"
       },
       {
         "code": "CD26CNTT11",
@@ -12127,8 +13910,8 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "orange",
-        "id": "bctech047-4"
+        "color": "emerald",
+        "id": "bctech047-5"
       },
       {
         "code": "TC25DCN23",
@@ -12146,7 +13929,7 @@ const ALL_TEACHERS_DATABASE =
           20
         ],
         "color": "emerald",
-        "id": "bctech047-5"
+        "id": "bctech047-6"
       },
       {
         "code": "CD26CNTT11",
@@ -12162,8 +13945,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech047-6"
+        "color": "emerald",
+        "id": "bctech047-7"
       },
       {
         "code": "CD26CNTT11",
@@ -12178,8 +13961,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech047-7"
+        "color": "emerald",
+        "id": "bctech047-8"
       },
       {
         "code": "CD26TKDH10",
@@ -12209,8 +13992,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
-        "id": "bctech047-8"
+        "color": "blue",
+        "id": "bctech047-9"
       },
       {
         "code": "CD25TKDH15",
@@ -12227,8 +14010,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech047-9"
+        "color": "orange",
+        "id": "bctech047-10"
       },
       {
         "code": "CD26TKDH10",
@@ -12243,8 +14026,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "teal",
-        "id": "bctech047-10"
+        "color": "blue",
+        "id": "bctech047-11"
       },
       {
         "code": "CD26TKDH10",
@@ -12259,8 +14042,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "teal",
-        "id": "bctech047-11"
+        "color": "blue",
+        "id": "bctech047-12"
       },
       {
         "code": "CD25TKDH15",
@@ -12295,8 +14078,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech047-12"
+        "color": "orange",
+        "id": "bctech047-13"
       },
       {
         "code": "TC25DCN23",
@@ -12323,7 +14106,46 @@ const ALL_TEACHERS_DATABASE =
           17
         ],
         "color": "emerald",
-        "id": "bctech047-13"
+        "id": "bctech047-14"
+      },
+      {
+        "code": "CD25TKDH15",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "className": "CD25TKDH",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech047-15"
+      },
+      {
+        "code": "TC25CNTT21",
+        "subject": "Tin học nâng cao",
+        "className": "T25CNTT2",
+        "dow": 5,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech047-16"
       },
       {
         "code": "TC25CNTT21",
@@ -12356,7 +14178,25 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech047-14"
+        "id": "bctech047-17"
+      },
+      {
+        "code": "CD25TKDH15",
+        "subject": "Thiết kế dàn trang với Adobe InDesign",
+        "className": "CD25TKDH",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech047-18"
       },
       {
         "code": "TC25DCN23",
@@ -12389,7 +14229,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech047-15"
+        "id": "bctech047-19"
       },
       {
         "code": "TC25TKDH15",
@@ -12412,8 +14252,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "blue",
-        "id": "bctech047-16"
+        "color": "rose",
+        "id": "bctech047-20"
       },
       {
         "code": "TC25TKDH15",
@@ -12428,52 +14268,62 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "blue",
-        "id": "bctech047-17"
-      },
-      {
-        "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign",
-        "className": "CD25TKDH",
-        "dow": 7,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          19
-        ],
         "color": "rose",
-        "id": "bctech047-18"
+        "id": "bctech047-21"
       },
       {
-        "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao",
-        "className": "T25CNTT2",
-        "dow": 7,
+        "code": "CDLTTKDH07_2\n026",
+        "subject": "Tư duy thiết kế và phát triển ý tưởng",
+        "className": "CD26TKDH-LT",
+        "dow": 6,
         "periods": [
-          1,
-          2,
-          3,
-          4
+          11,
+          12,
+          13,
+          14
         ],
-        "room": "2B.302(LAB3)",
+        "room": "2B.203(LAB2)",
         "weeks": [
+          12,
           13,
           14,
           15,
-          16
+          16,
+          18,
+          19
         ],
-        "color": "emerald",
-        "id": "bctech047-19"
+        "color": "blue",
+        "id": "bctech047-22"
       },
       {
-        "code": "CD25TKDH15",
-        "subject": "Thiết kế dàn trang với Adobe InDesign",
-        "className": "CD25TKDH",
+        "code": "CDLTTKDH10_2\n026",
+        "subject": "Thiết kế và dàn trang sách báo",
+        "className": "CD26TKDH-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "bctech047-23"
+      },
+      {
+        "code": "CDLTTKDH10_2\n026",
+        "subject": "Thiết kế và dàn trang sách báo",
+        "className": "CD26TKDH-LT",
         "dow": 7,
         "periods": [
           6,
@@ -12481,12 +14331,123 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "bctech047-24"
+      },
+      {
+        "code": "CDLTTKDH10_2\n026",
+        "subject": "Thiết kế và dàn trang sách báo",
+        "className": "CD26TKDH-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2B.203(LAB2)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech047-25"
+      },
+      {
+        "code": "CDLTTKDH10_2\n026",
+        "subject": "Thiết kế và dàn trang sách báo",
+        "className": "CD26TKDH-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "2B.203(LAB2)",
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech047-20"
+        "color": "blue",
+        "id": "bctech047-26"
+      },
+      {
+        "code": "CDLTCNTT10_2\n026",
+        "subject": "Cơ sở dữ liệu",
+        "className": "CD26CNTT-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald",
+        "id": "bctech047-27"
+      },
+      {
+        "code": "CDLTCNTT10_2\n026",
+        "subject": "Cơ sở dữ liệu",
+        "className": "CD26CNTT-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech047-28"
+      },
+      {
+        "code": "CDLTCNTT10_2\n026",
+        "subject": "Cơ sở dữ liệu",
+        "className": "CD26CNTT-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "emerald",
+        "id": "bctech047-29"
       },
       {
         "code": "CD25TKDH15",
@@ -12494,15 +14455,15 @@ const ALL_TEACHERS_DATABASE =
         "className": "CD25TKDH",
         "dow": 8,
         "periods": [
-          1,
-          2
+          11,
+          12
         ],
         "room": "P.ONLINE",
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech047-21"
+        "color": "orange",
+        "id": "bctech047-30"
       },
       {
         "code": "TC25CNTT21",
@@ -12510,10 +14471,10 @@ const ALL_TEACHERS_DATABASE =
         "className": "T25CNTT2",
         "dow": 8,
         "periods": [
-          1,
-          2,
-          3,
-          4
+          11,
+          12,
+          13,
+          14
         ],
         "room": "P.ONLINE",
         "weeks": [
@@ -12529,7 +14490,7 @@ const ALL_TEACHERS_DATABASE =
           17
         ],
         "color": "emerald",
-        "id": "bctech047-22"
+        "id": "bctech047-31"
       }
     ]
   },
@@ -12663,7 +14624,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech049-5"
       },
       {
@@ -12794,7 +14755,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech049-11"
       },
       {
@@ -12814,7 +14775,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech049-12"
       },
       {
@@ -12833,7 +14794,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech049-13"
       }
     ]
@@ -12869,7 +14830,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-1"
       },
       {
@@ -12890,7 +14851,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-2"
       },
       {
@@ -12911,7 +14872,7 @@ const ALL_TEACHERS_DATABASE =
           3,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-3"
       },
       {
@@ -12977,7 +14938,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-6"
       },
       {
@@ -13003,7 +14964,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-7"
       },
       {
@@ -13027,7 +14988,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech050-8"
       },
       {
@@ -13059,7 +15020,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech050-9"
       },
       {
@@ -13078,7 +15039,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech050-10"
       },
       {
@@ -13094,7 +15055,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech050-11"
       },
       {
@@ -13128,7 +15089,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-12"
       },
       {
@@ -13178,8 +15139,48 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech050-14"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CBMA-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech050-15"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CBMA-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2B.303(LAB4)",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech050-16"
       },
       {
         "code": "TC25TKDH17",
@@ -13194,8 +15195,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech050-15"
+        "color": "emerald",
+        "id": "bctech050-17"
       },
       {
         "code": "TC25TKDH17",
@@ -13215,24 +15216,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech050-16"
-      },
-      {
-        "code": "CD25TKDH19",
-        "subject": "Hiệu ứng âm thanh với Adobe Audition",
-        "className": "CD25TKDH",
-        "dow": 8,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "orange",
-        "id": "bctech050-17"
+        "color": "emerald",
+        "id": "bctech050-18"
       },
       {
         "code": "CD25TKDH19",
@@ -13252,13 +15237,13 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech050-18"
+        "color": "emerald",
+        "id": "bctech050-19"
       },
       {
-        "code": "TC25TKDH17",
+        "code": "CD25TKDH19",
         "subject": "Hiệu ứng âm thanh với Adobe Audition",
-        "className": "T25TKDH1",
+        "className": "CD25TKDH",
         "dow": 8,
         "periods": [
           1,
@@ -13266,10 +15251,10 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
-          9
+          18
         ],
-        "color": "orange",
-        "id": "bctech050-19"
+        "color": "emerald",
+        "id": "bctech050-20"
       },
       {
         "code": "TC25TKDH17",
@@ -13289,8 +15274,24 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "orange",
-        "id": "bctech050-20"
+        "color": "emerald",
+        "id": "bctech050-21"
+      },
+      {
+        "code": "TC25TKDH17",
+        "subject": "Hiệu ứng âm thanh với Adobe Audition",
+        "className": "T25TKDH1",
+        "dow": 8,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          9
+        ],
+        "color": "emerald",
+        "id": "bctech050-22"
       }
     ]
   },
@@ -13391,6 +15392,46 @@ const ALL_TEACHERS_DATABASE =
         ],
         "color": "blue",
         "id": "bctech051-4"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNOT3-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech051-5"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNOT3-LT",
+        "dow": 7,
+        "periods": [
+          3,
+          4
+        ],
+        "room": "2B.202(LAB1)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech051-6"
       }
     ]
   },
@@ -13429,8 +15470,50 @@ const ALL_TEACHERS_DATABASE =
           16,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech052-1"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "className": "T26CNTT1",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech052-2"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNTT-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "bctech052-3"
       },
       {
         "code": "CD26CNTT09",
@@ -13450,8 +15533,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech052-2"
+        "color": "orange",
+        "id": "bctech052-4"
       },
       {
         "code": "CD26TKDH09",
@@ -13483,8 +15566,48 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech052-3"
+        "color": "orange",
+        "id": "bctech052-5"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26DCN1-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "emerald",
+        "id": "bctech052-6"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26DCN1-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech052-7"
       },
       {
         "code": "TC26MC02",
@@ -13511,7 +15634,7 @@ const ALL_TEACHERS_DATABASE =
           12
         ],
         "color": "emerald",
-        "id": "bctech052-4"
+        "id": "bctech052-8"
       },
       {
         "code": "TC26CNTT09",
@@ -13530,8 +15653,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech052-5"
+        "color": "orange",
+        "id": "bctech052-9"
       },
       {
         "code": "TC26MC02",
@@ -13548,7 +15671,7 @@ const ALL_TEACHERS_DATABASE =
           13
         ],
         "color": "emerald",
-        "id": "bctech052-6"
+        "id": "bctech052-10"
       },
       {
         "code": "CD26TKDH09",
@@ -13565,8 +15688,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-7"
+        "color": "orange",
+        "id": "bctech052-11"
       },
       {
         "code": "TC26MC02",
@@ -13582,7 +15705,41 @@ const ALL_TEACHERS_DATABASE =
           13
         ],
         "color": "emerald",
-        "id": "bctech052-8"
+        "id": "bctech052-12"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNTT-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech052-13"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CNTT-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          17
+        ],
+        "color": "emerald",
+        "id": "bctech052-14"
       },
       {
         "code": "CD26CNTT09",
@@ -13613,8 +15770,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech052-9"
+        "color": "orange",
+        "id": "bctech052-15"
       },
       {
         "code": "CD26CNTT09",
@@ -13630,8 +15787,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-10"
+        "color": "orange",
+        "id": "bctech052-16"
       },
       {
         "code": "TC26CNTT09",
@@ -13648,8 +15805,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-11"
+        "color": "orange",
+        "id": "bctech052-17"
       },
       {
         "code": "CD26TKDH09",
@@ -13666,8 +15823,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-12"
+        "color": "orange",
+        "id": "bctech052-18"
       },
       {
         "code": "CD26TKDH09",
@@ -13685,59 +15842,137 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-13"
+        "color": "orange",
+        "id": "bctech052-19"
       },
       {
-        "code": "TC26CNTT09",
-        "subject": "Lắp ráp và cài đặt máy tính",
-        "className": "T26CNTT1",
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CTCK-LT",
         "dow": 7,
         "periods": [
           1,
           2,
           3,
-          4,
-          5
+          4
         ],
         "room": "1A.309(LAB5)",
         "weeks": [
-          19
+          16,
+          18,
+          19,
+          20
         ],
-        "color": "rose",
-        "id": "bctech052-14"
+        "color": "emerald",
+        "id": "bctech052-20"
       },
       {
-        "code": "TC26CNTT09",
-        "subject": "Lắp ráp và cài đặt máy tính",
-        "className": "T26CNTT1",
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CTCK-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          16,
+          18,
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech052-21"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CTCK-LT",
         "dow": 7,
         "periods": [
           6,
           7
         ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech052-22"
+      },
+      {
+        "code": "TC26CNTT09",
+        "subject": "Lắp ráp và cài đặt máy tính",
+        "className": "T26CNTT1",
+        "dow": 8,
+        "periods": [
+          1,
+          2
+        ],
         "room": "P.ONLINE",
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-15"
+        "color": "orange",
+        "id": "bctech052-23"
       },
       {
         "code": "CD26TKDH09",
         "subject": "Lắp ráp và cài đặt máy tính",
         "className": "CD26TKDH",
-        "dow": 7,
+        "dow": 8,
         "periods": [
-          8,
-          9
+          3,
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech052-16"
+        "color": "orange",
+        "id": "bctech052-24"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26TKDH-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech052-25"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26TKDH-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.309(LAB5)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech052-26"
       }
     ]
   },
@@ -14061,7 +16296,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-1"
       },
       {
@@ -14079,7 +16314,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-2"
       },
       {
@@ -14098,7 +16333,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-3"
       },
       {
@@ -14116,7 +16351,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-4"
       },
       {
@@ -14135,7 +16370,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-5"
       },
       {
@@ -14153,7 +16388,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-6"
       },
       {
@@ -14172,7 +16407,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-7"
       },
       {
@@ -14190,7 +16425,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-8"
       },
       {
@@ -14209,7 +16444,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-9"
       },
       {
@@ -14227,7 +16462,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-10"
       },
       {
@@ -14246,7 +16481,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-11"
       },
       {
@@ -14264,7 +16499,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-12"
       },
       {
@@ -14310,7 +16545,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-14"
       },
       {
@@ -14328,7 +16563,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-15"
       },
       {
@@ -14346,7 +16581,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-16"
       },
       {
@@ -14362,7 +16597,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech056-17"
       },
       {
@@ -14429,6 +16664,31 @@ const ALL_TEACHERS_DATABASE =
     "maxWeeks": 20,
     "schedule": [
       {
+        "code": "CD26LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "className": "T26LOG ...",
+        "dow": 2,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2.HTC2",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "bctech150-1"
+      },
+      {
         "code": "CD25LGT23",
         "subject": "Bảo quản hàng hóa",
         "className": "CD25LOG ...",
@@ -14444,8 +16704,47 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "rose",
-        "id": "bctech150-1"
+        "color": "orange",
+        "id": "bctech150-2"
+      },
+      {
+        "code": "CD26LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "className": "T26LOG ...",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "2A.401(HT)",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech150-3"
+      },
+      {
+        "code": "CD26LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "className": "T26LOG ...",
+        "dow": 3,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2A.401(HT)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "bctech150-4"
       },
       {
         "code": "CD25LGT16",
@@ -14471,8 +16770,8 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
-        "id": "bctech150-2"
+        "color": "orange",
+        "id": "bctech150-5"
       },
       {
         "code": "CD25LGT16",
@@ -14488,8 +16787,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
-        "id": "bctech150-3"
+        "color": "orange",
+        "id": "bctech150-6"
       },
       {
         "code": "CD25LGT16",
@@ -14503,8 +16802,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
-        "id": "bctech150-4"
+        "color": "orange",
+        "id": "bctech150-7"
       },
       {
         "code": "CD25LGT16",
@@ -14524,8 +16823,8 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
-        "id": "bctech150-5"
+        "color": "orange",
+        "id": "bctech150-8"
       },
       {
         "code": "CD25LGT23",
@@ -14550,8 +16849,30 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech150-6"
+        "color": "orange",
+        "id": "bctech150-9"
+      },
+      {
+        "code": "CD26LGT16",
+        "subject": "Quản trị Chuỗi cung ứng",
+        "className": "T26LOG ...",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "bctech150-10"
       },
       {
         "code": "CD25LGT23",
@@ -14568,8 +16889,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "rose",
-        "id": "bctech150-7"
+        "color": "orange",
+        "id": "bctech150-11"
       }
     ]
   },
@@ -14598,7 +16919,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech156-1"
       },
       {
@@ -14625,7 +16946,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech156-2"
       },
       {
@@ -14642,7 +16963,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech156-3"
       },
       {
@@ -14657,7 +16978,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech156-4"
       }
     ]
@@ -14787,9 +17108,9 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech061-5"
       },
       {
-        "code": "TC25CNOT26",
+        "code": "TC25CNTT21",
         "subject": "Tin học nâng cao",
-        "className": "T25CDT1 ...",
+        "className": "T25CNTT1",
         "dow": 2,
         "periods": [
           11,
@@ -14799,6 +17120,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
+          8,
           9,
           10,
           11,
@@ -14807,8 +17129,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech061-6"
@@ -14846,9 +17167,9 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "room": "1A.307(LAB3)",
+        "room": "1A.309(LAB5)",
         "weeks": [
-          19
+          18
         ],
         "color": "emerald",
         "id": "bctech061-8"
@@ -14864,17 +17185,17 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "room": "1A.309(LAB5)",
+        "room": "1A.307(LAB3)",
         "weeks": [
-          18
+          19
         ],
         "color": "emerald",
         "id": "bctech061-9"
       },
       {
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "className": "T25CNOT1 ...",
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26DCN2-LT",
         "dow": 3,
         "periods": [
           11,
@@ -14882,16 +17203,34 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "room": "P.ONLINE",
+        "room": "1A.305(LAB1)",
         "weeks": [
+          10,
+          11,
+          13,
           14,
           15,
           16,
-          17,
-          18
+          17
         ],
         "color": "emerald",
         "id": "bctech061-10"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26DCN2-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.305(LAB1)",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech061-11"
       },
       {
         "code": "TC25DCN23",
@@ -14926,7 +17265,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech061-11"
+        "id": "bctech061-12"
       },
       {
         "code": "TC25DCN23",
@@ -14944,7 +17283,7 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech061-12"
+        "id": "bctech061-13"
       },
       {
         "code": "CD26MC02",
@@ -14974,7 +17313,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "emerald",
-        "id": "bctech061-13"
+        "id": "bctech061-14"
       },
       {
         "code": "TC25DCN23",
@@ -14994,7 +17333,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech061-14"
+        "id": "bctech061-15"
       },
       {
         "code": "TC25DCN23",
@@ -15012,12 +17351,12 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech061-15"
+        "id": "bctech061-16"
       },
       {
-        "code": "TC25DCN23",
+        "code": "TC25CNOT26",
         "subject": "Tin học nâng cao",
-        "className": "T25CNOT1 ...",
+        "className": "T25CDT1 ...",
         "dow": 4,
         "periods": [
           11,
@@ -15027,6 +17366,11 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "P.ONLINE",
         "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
           14,
           15,
           16,
@@ -15034,7 +17378,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech061-16"
+        "id": "bctech061-17"
       },
       {
         "code": "TC25DCN23",
@@ -15053,7 +17397,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech061-17"
+        "id": "bctech061-18"
       },
       {
         "code": "TC25DCN23",
@@ -15071,7 +17415,7 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech061-18"
+        "id": "bctech061-19"
       },
       {
         "code": "TC25CNTT21",
@@ -15104,7 +17448,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech061-19"
+        "id": "bctech061-20"
       },
       {
         "code": "TC25DCN23",
@@ -15122,12 +17466,12 @@ const ALL_TEACHERS_DATABASE =
           19
         ],
         "color": "emerald",
-        "id": "bctech061-20"
+        "id": "bctech061-21"
       },
       {
-        "code": "TC25CNTT21",
-        "subject": "Tin học nâng cao",
-        "className": "T25CNTT1",
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CGKL-LT",
         "dow": 5,
         "periods": [
           11,
@@ -15135,21 +17479,18 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "room": "P.ONLINE",
+        "room": "1X8.204.T",
         "weeks": [
-          8,
-          9,
           10,
           11,
           12,
           13,
           14,
           15,
-          16,
-          17
+          16
         ],
         "color": "emerald",
-        "id": "bctech061-21"
+        "id": "bctech061-22"
       },
       {
         "code": "CD26MC02",
@@ -15166,7 +17507,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "emerald",
-        "id": "bctech061-22"
+        "id": "bctech061-23"
       },
       {
         "code": "TC25DCN23",
@@ -15178,24 +17519,6 @@ const ALL_TEACHERS_DATABASE =
           2,
           3,
           4
-        ],
-        "room": "1A.307(LAB3)",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech061-23"
-      },
-      {
-        "code": "TC25DCN23",
-        "subject": "Tin học nâng cao",
-        "className": "T25CNOT1 ...",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
         ],
         "room": "1A.307(LAB3)",
         "weeks": [
@@ -15223,6 +17546,24 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech061-25"
       },
       {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "className": "T25CNOT1 ...",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech061-26"
+      },
+      {
         "code": "CD25CDT29",
         "subject": "Tin học nâng cao",
         "className": "CD25CGKL ...",
@@ -15246,7 +17587,23 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "emerald",
-        "id": "bctech061-26"
+        "id": "bctech061-27"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26CGKL-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech061-28"
       },
       {
         "code": "CD25CDT29",
@@ -15278,7 +17635,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech061-27"
+        "id": "bctech061-29"
       },
       {
         "code": "TC25CNOT26",
@@ -15311,7 +17668,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "emerald",
-        "id": "bctech061-28"
+        "id": "bctech061-30"
       },
       {
         "code": "TC25DCN23",
@@ -15338,7 +17695,34 @@ const ALL_TEACHERS_DATABASE =
           17
         ],
         "color": "emerald",
-        "id": "bctech061-29"
+        "id": "bctech061-31"
+      },
+      {
+        "code": "TC25DCN23",
+        "subject": "Tin học nâng cao",
+        "className": "T25CNOT1 ...",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14
+        ],
+        "color": "emerald",
+        "id": "bctech061-32"
       },
       {
         "code": "TC25CNOT26",
@@ -15357,7 +17741,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech061-30"
+        "id": "bctech061-33"
       },
       {
         "code": "TC25CNOT26",
@@ -15376,7 +17760,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech061-31"
+        "id": "bctech061-34"
       },
       {
         "code": "TC25DCN23",
@@ -15403,7 +17787,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "emerald",
-        "id": "bctech061-32"
+        "id": "bctech061-35"
       }
     ]
   },
@@ -15438,7 +17822,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech062-1"
       },
       {
@@ -15455,7 +17839,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech062-2"
       },
       {
@@ -15470,7 +17854,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech062-3"
       },
       {
@@ -15491,7 +17875,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech062-4"
       }
     ]
@@ -15524,7 +17908,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech063-1"
       },
       {
@@ -15540,7 +17924,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech063-2"
       },
       {
@@ -15656,7 +18040,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech158-1"
       },
       {
@@ -15674,7 +18058,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech158-2"
       },
       {
@@ -15693,7 +18077,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech158-3"
       }
     ]
@@ -15723,7 +18107,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech175-1"
       },
       {
@@ -15750,7 +18134,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech175-2"
       },
       {
@@ -15767,7 +18151,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech175-3"
       },
       {
@@ -15782,7 +18166,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech175-4"
       }
     ]
@@ -15817,7 +18201,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech201-1"
       },
       {
@@ -15843,8 +18227,26 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech201-2"
+      },
+      {
+        "code": "TC26LGT10",
+        "subject": "Nhập môn Logistics",
+        "className": "T26LOG ...",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "rose",
+        "id": "bctech201-3"
       },
       {
         "code": "TC26LGT10",
@@ -15862,25 +18264,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "blue",
-        "id": "bctech201-3"
-      },
-      {
-        "code": "TC26LGT10",
-        "subject": "Nhập môn Logistics",
-        "className": "T26LOG ...",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          17
-        ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech201-4"
       },
       {
@@ -15899,7 +18283,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech201-5"
       },
       {
@@ -15917,7 +18301,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech201-6"
       }
     ]
@@ -15954,7 +18338,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech023-1"
       },
       {
@@ -15970,7 +18354,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech023-2"
       },
       {
@@ -15986,7 +18370,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech023-3"
       },
       {
@@ -16011,7 +18395,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech023-4"
       },
       {
@@ -16037,7 +18421,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech023-5"
       },
       {
@@ -16062,7 +18446,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech023-6"
       },
       {
@@ -16088,7 +18472,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech023-7"
       },
       {
@@ -16120,7 +18504,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech023-8"
       },
       {
@@ -16148,7 +18532,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech023-9"
       },
       {
@@ -16176,7 +18560,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech023-10"
       },
       {
@@ -16203,8 +18587,25 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech023-11"
+      },
+      {
+        "code": "TC25CDT13",
+        "subject": "Thiết kế cơ khí",
+        "className": "T25CDT1",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          11
+        ],
+        "color": "emerald",
+        "id": "bctech023-12"
       },
       {
         "code": "TC25CDT13",
@@ -16227,25 +18628,50 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
-        "id": "bctech023-12"
+        "color": "emerald",
+        "id": "bctech023-13"
       },
       {
-        "code": "TC25CDT13",
+        "code": "CDLTCDT08_20\n26",
         "subject": "Thiết kế cơ khí",
-        "className": "T25CDT1",
-        "dow": 6,
+        "className": "CD26CDT-LT",
+        "dow": 7,
         "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
           11,
           12,
-          13
+          13,
+          14,
+          15
         ],
-        "room": "P.ONLINE",
+        "color": "emerald",
+        "id": "bctech023-14"
+      },
+      {
+        "code": "CDLTCDT08_20\n26",
+        "subject": "Thiết kế cơ khí",
+        "className": "CD26CDT-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1X8.201(X.TĐH)",
         "weeks": [
-          11
+          16,
+          18
         ],
-        "color": "orange",
-        "id": "bctech023-13"
+        "color": "emerald",
+        "id": "bctech023-15"
       },
       {
         "code": "TC26CDT10",
@@ -16263,8 +18689,24 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "teal",
-        "id": "bctech023-14"
+        "color": "blue",
+        "id": "bctech023-16"
+      },
+      {
+        "code": "TC26CDT13",
+        "subject": "Thiết kế cơ khí",
+        "className": "T26CDT1 ...",
+        "dow": 7,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          13
+        ],
+        "color": "emerald",
+        "id": "bctech023-17"
       },
       {
         "code": "TC26CDT13",
@@ -16285,24 +18727,8 @@ const ALL_TEACHERS_DATABASE =
           11,
           12
         ],
-        "color": "orange",
-        "id": "bctech023-15"
-      },
-      {
-        "code": "TC26CDT13",
-        "subject": "Thiết kế cơ khí",
-        "className": "T26CDT1 ...",
-        "dow": 7,
-        "periods": [
-          11,
-          12
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          13
-        ],
-        "color": "orange",
-        "id": "bctech023-16"
+        "color": "emerald",
+        "id": "bctech023-18"
       },
       {
         "code": "TC26CDT13",
@@ -16319,8 +18745,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
-        "id": "bctech023-17"
+        "color": "emerald",
+        "id": "bctech023-19"
+      },
+      {
+        "code": "CD24CDT23",
+        "subject": "Bảo trì hệ thống truyền động cơ khí",
+        "className": "CD24CDT2",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "DN_RENZE",
+        "weeks": [
+          7
+        ],
+        "color": "violet",
+        "id": "bctech023-20"
       },
       {
         "code": "CD24CDT23",
@@ -16336,26 +18780,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "emerald",
-        "id": "bctech023-18"
-      },
-      {
-        "code": "CD24CDT23",
-        "subject": "Bảo trì hệ thống truyền động cơ khí",
-        "className": "CD24CDT2",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "DN_RENZE",
-        "weeks": [
-          7
-        ],
-        "color": "emerald",
-        "id": "bctech023-19"
+        "color": "violet",
+        "id": "bctech023-21"
       },
       {
         "code": "CD24CDT32",
@@ -16370,8 +18796,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech023-20"
+        "color": "emerald",
+        "id": "bctech023-22"
       },
       {
         "code": "CD24CDT32",
@@ -16389,8 +18815,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
-        "id": "bctech023-21"
+        "color": "emerald",
+        "id": "bctech023-23"
       },
       {
         "code": "TC26CDT13",
@@ -16405,8 +18831,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
-        "id": "bctech023-22"
+        "color": "emerald",
+        "id": "bctech023-24"
       },
       {
         "code": "CD24CDT23",
@@ -16423,8 +18849,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           7
         ],
-        "color": "emerald",
-        "id": "bctech023-23"
+        "color": "violet",
+        "id": "bctech023-25"
       },
       {
         "code": "CD24CDT32",
@@ -16442,8 +18868,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
-        "id": "bctech023-24"
+        "color": "emerald",
+        "id": "bctech023-26"
       }
     ]
   },
@@ -16478,7 +18904,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech064-1"
       },
       {
@@ -16497,7 +18923,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech064-2"
       },
       {
@@ -16524,7 +18950,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-3"
       },
       {
@@ -16541,7 +18967,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-4"
       },
       {
@@ -16557,7 +18983,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-5"
       },
       {
@@ -16583,7 +19009,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-6"
       },
       {
@@ -16614,7 +19040,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech064-7"
       },
       {
@@ -16630,7 +19056,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech064-8"
       },
       {
@@ -16646,7 +19072,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech064-9"
       },
       {
@@ -16673,7 +19099,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech064-10"
       },
       {
@@ -16694,7 +19120,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-11"
       },
       {
@@ -16711,7 +19137,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech064-12"
       },
       {
@@ -16727,7 +19153,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech064-13"
       },
       {
@@ -16754,7 +19180,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-14"
       },
       {
@@ -16771,7 +19197,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-15"
       },
       {
@@ -16787,7 +19213,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-16"
       },
       {
@@ -16818,7 +19244,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-17"
       },
       {
@@ -16845,7 +19271,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-18"
       },
       {
@@ -16862,7 +19288,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-19"
       },
       {
@@ -16878,7 +19304,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-20"
       },
       {
@@ -16895,7 +19321,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech064-21"
       },
       {
@@ -16914,7 +19340,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-22"
       },
       {
@@ -16930,7 +19356,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-23"
       },
       {
@@ -16953,7 +19379,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech064-24"
       }
     ]
@@ -16995,7 +19421,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech065-1"
       },
       {
@@ -17028,7 +19454,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech065-2"
       },
       {
@@ -17052,7 +19478,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech065-3"
       },
       {
@@ -17068,27 +19494,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech065-4"
-      },
-      {
-        "code": "TC25DCN15",
-        "subject": "Máy điện 1",
-        "className": "T25DCN1",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          12
-        ],
-        "color": "orange",
-        "id": "bctech065-5"
       },
       {
         "code": "TC25DCN15",
@@ -17109,8 +19516,8 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "orange",
-        "id": "bctech065-6"
+        "color": "emerald",
+        "id": "bctech065-5"
       },
       {
         "code": "TC25DCN15",
@@ -17129,7 +19536,26 @@ const ALL_TEACHERS_DATABASE =
           5,
           6
         ],
-        "color": "orange",
+        "color": "emerald",
+        "id": "bctech065-6"
+      },
+      {
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "className": "T25DCN1",
+        "dow": 4,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          12
+        ],
+        "color": "emerald",
         "id": "bctech065-7"
       },
       {
@@ -17162,7 +19588,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech065-8"
       },
       {
@@ -17195,27 +19621,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech065-9"
-      },
-      {
-        "code": "CD26DCN15",
-        "subject": "Máy điện 1",
-        "className": "CD26DCN1",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "orange",
-        "id": "bctech065-10"
       },
       {
         "code": "CD26DCN15",
@@ -17234,7 +19641,26 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
+        "id": "bctech065-10"
+      },
+      {
+        "code": "CD26DCN15",
+        "subject": "Máy điện 1",
+        "className": "CD26DCN1",
+        "dow": 6,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
         "id": "bctech065-11"
       }
     ]
@@ -17277,7 +19703,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech066-1"
       },
       {
@@ -17308,7 +19734,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech066-2"
       },
       {
@@ -17333,7 +19759,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech066-3"
       },
       {
@@ -17349,7 +19775,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech066-4"
       },
       {
@@ -17367,7 +19793,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech066-5"
       },
       {
@@ -17392,7 +19818,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech066-6"
       },
       {
@@ -17426,7 +19852,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech066-7"
       },
       {
@@ -17442,7 +19868,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech066-8"
       },
       {
@@ -17458,7 +19884,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech066-9"
       },
       {
@@ -17476,7 +19902,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech066-10"
       },
       {
@@ -17500,25 +19926,8 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech066-11"
-      },
-      {
-        "code": "TC17DTC03",
-        "subject": "Kỹ thuật gia công và kết nối ống đồng",
-        "className": "CD26KTML",
-        "dow": 5,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          19
-        ],
-        "color": "emerald",
-        "id": "bctech066-12"
       },
       {
         "code": "TC17DTC03",
@@ -17537,7 +19946,24 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
+        "id": "bctech066-12"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "className": "CD26KTML",
+        "dow": 5,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          19
+        ],
+        "color": "violet",
         "id": "bctech066-13"
       },
       {
@@ -17565,7 +19991,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech066-14"
       },
       {
@@ -17586,7 +20012,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech066-15"
       }
     ]
@@ -17622,7 +20048,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech067-1"
       },
       {
@@ -17639,7 +20065,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech067-2"
       },
       {
@@ -17655,7 +20081,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech067-3"
       },
       {
@@ -17682,7 +20108,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech067-4"
       },
       {
@@ -17699,7 +20125,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech067-5"
       },
       {
@@ -17715,8 +20141,53 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech067-6"
+      },
+      {
+        "code": "CDLTDCN07_20\n26",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả*",
+        "className": "CD26DCN3-LT ...",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech067-7"
+      },
+      {
+        "code": "CDLTDCN07_20\n26",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả*",
+        "className": "CD26DCN3-LT ...",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech067-8"
       }
     ]
   },
@@ -17743,7 +20214,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech069-1"
       },
       {
@@ -17773,7 +20244,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech069-2"
       },
       {
@@ -17803,7 +20274,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech069-3"
       },
       {
@@ -17833,8 +20304,48 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech069-4"
+      },
+      {
+        "code": "CDLTKTML09_2\n026",
+        "subject": "Máy điện",
+        "className": "CD26KTML-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech069-5"
+      },
+      {
+        "code": "CDLTKTML09_2\n026",
+        "subject": "Máy điện",
+        "className": "CD26KTML-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "1X6.102(X.MĐ)",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech069-6"
       },
       {
         "code": "TC25KTML15",
@@ -17851,8 +20362,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "emerald",
-        "id": "bctech069-5"
+        "color": "violet",
+        "id": "bctech069-7"
       },
       {
         "code": "TC25KTML15",
@@ -17870,8 +20381,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
-        "id": "bctech069-6"
+        "color": "violet",
+        "id": "bctech069-8"
       },
       {
         "code": "TC25KTML15",
@@ -17888,8 +20399,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "emerald",
-        "id": "bctech069-7"
+        "color": "violet",
+        "id": "bctech069-9"
       }
     ]
   },
@@ -17916,7 +20427,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech070-1"
       },
       {
@@ -17946,7 +20457,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech070-2"
       }
     ]
@@ -17979,7 +20490,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech071-1"
       },
       {
@@ -17995,7 +20506,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech071-2"
       },
       {
@@ -18028,7 +20539,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-3"
       },
       {
@@ -18048,7 +20559,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-4"
       },
       {
@@ -18067,7 +20578,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-5"
       },
       {
@@ -18100,7 +20611,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech071-6"
       },
       {
@@ -18133,7 +20644,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech071-7"
       },
       {
@@ -18166,7 +20677,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-8"
       },
       {
@@ -18193,7 +20704,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-9"
       },
       {
@@ -18210,7 +20721,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-10"
       },
       {
@@ -18229,7 +20740,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech071-11"
       },
       {
@@ -18249,7 +20760,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech071-12"
       },
       {
@@ -18265,8 +20776,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech071-13"
+      },
+      {
+        "code": "CDLTDCN10_20\n26",
+        "subject": "Trang bị điện 1",
+        "className": "CD26DCN3-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X6.201(CCĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "teal",
+        "id": "bctech071-14"
       },
       {
         "code": "CD25CTCK22",
@@ -18296,8 +20825,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
-        "id": "bctech071-14"
+        "color": "teal",
+        "id": "bctech071-15"
       },
       {
         "code": "CD25CTCK22",
@@ -18312,8 +20841,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech071-15"
+        "color": "teal",
+        "id": "bctech071-16"
       },
       {
         "code": "CD25CTCK22",
@@ -18328,8 +20857,84 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech071-16"
+        "color": "teal",
+        "id": "bctech071-17"
+      },
+      {
+        "code": "CDLTCDT09_20\n26",
+        "subject": "Điện cơ bản",
+        "className": "CD26CDT-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech071-18"
+      },
+      {
+        "code": "CDLTDCN10_20\n26",
+        "subject": "Trang bị điện 1",
+        "className": "CD26DCN3-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X6.201(CCĐ)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "teal",
+        "id": "bctech071-19"
+      },
+      {
+        "code": "CDLTCDT09_20\n26",
+        "subject": "Điện cơ bản",
+        "className": "CD26CDT-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "orange",
+        "id": "bctech071-20"
       }
     ]
   },
@@ -18361,7 +20966,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech072-1"
       },
       {
@@ -18377,7 +20982,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech072-2"
       },
       {
@@ -18411,7 +21016,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech072-3"
       },
       {
@@ -18442,7 +21047,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech072-4"
       },
       {
@@ -18458,7 +21063,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech072-5"
       },
       {
@@ -18474,7 +21079,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech072-6"
       },
       {
@@ -18492,7 +21097,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech072-7"
       },
       {
@@ -18523,7 +21128,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech072-8"
       },
       {
@@ -18539,7 +21144,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech072-9"
       },
       {
@@ -18555,26 +21160,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech072-10"
-      },
-      {
-        "code": "TC25CDT20",
-        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
-        "className": "T25CDT1 ...",
-        "dow": 4,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "emerald",
-        "id": "bctech072-11"
       },
       {
         "code": "TC25CDT20",
@@ -18593,7 +21180,25 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "emerald",
+        "color": "violet",
+        "id": "bctech072-11"
+      },
+      {
+        "code": "TC25CDT20",
+        "subject": "Lắp đặt và bảo trì hệ thống khí nén-thủy lực",
+        "className": "T25CDT1 ...",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "violet",
         "id": "bctech072-12"
       },
       {
@@ -18609,7 +21214,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech072-13"
       }
     ]
@@ -18652,7 +21257,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech073-1"
       },
       {
@@ -18684,7 +21289,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech073-2"
       },
       {
@@ -18703,7 +21308,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech073-3"
       },
       {
@@ -18718,8 +21323,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech073-4"
+      },
+      {
+        "code": "CDLTDCN11_20\n26",
+        "subject": "PLC cơ bản",
+        "className": "CD26DCN3-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X1.301(TĐH1)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech073-5"
       },
       {
         "code": "TC25CDT20",
@@ -18740,8 +21363,8 @@ const ALL_TEACHERS_DATABASE =
           4,
           5
         ],
-        "color": "emerald",
-        "id": "bctech073-5"
+        "color": "violet",
+        "id": "bctech073-6"
       },
       {
         "code": "CD25CDT20",
@@ -18775,8 +21398,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
-        "id": "bctech073-6"
+        "color": "violet",
+        "id": "bctech073-7"
       },
       {
         "code": "TC25CDT21",
@@ -18797,8 +21420,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "orange",
-        "id": "bctech073-7"
+        "color": "emerald",
+        "id": "bctech073-8"
       },
       {
         "code": "TC25CDT20",
@@ -18817,8 +21440,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech073-8"
+        "color": "violet",
+        "id": "bctech073-9"
       },
       {
         "code": "TC25CDT21",
@@ -18843,8 +21466,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "orange",
-        "id": "bctech073-9"
+        "color": "emerald",
+        "id": "bctech073-10"
       },
       {
         "code": "TC25CDT21",
@@ -18858,8 +21481,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "orange",
-        "id": "bctech073-10"
+        "color": "emerald",
+        "id": "bctech073-11"
       },
       {
         "code": "TC25CDT21",
@@ -18883,8 +21506,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "orange",
-        "id": "bctech073-11"
+        "color": "emerald",
+        "id": "bctech073-12"
       },
       {
         "code": "CD25DCN17",
@@ -18899,8 +21522,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech073-12"
+        "color": "emerald",
+        "id": "bctech073-13"
       },
       {
         "code": "CD25DCN17",
@@ -18920,8 +21543,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech073-13"
+        "color": "emerald",
+        "id": "bctech073-14"
       },
       {
         "code": "CD25DCN17",
@@ -18938,8 +21561,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech073-14"
+        "color": "emerald",
+        "id": "bctech073-15"
       },
       {
         "code": "CD25CDT20",
@@ -18954,8 +21577,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "emerald",
-        "id": "bctech073-15"
+        "color": "violet",
+        "id": "bctech073-16"
       },
       {
         "code": "CD25CDT20",
@@ -18973,8 +21596,35 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
+        "color": "violet",
+        "id": "bctech073-17"
+      },
+      {
+        "code": "CDLTDCN11_20\n26",
+        "subject": "PLC cơ bản",
+        "className": "CD26DCN3-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2X1.301(TĐH1)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
         "color": "emerald",
-        "id": "bctech073-16"
+        "id": "bctech073-18"
       }
     ]
   },
@@ -19014,7 +21664,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech074-1"
       },
       {
@@ -19048,7 +21698,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech074-2"
       },
       {
@@ -19073,8 +21723,26 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech074-3"
+      },
+      {
+        "code": "CDLTDCN09_20\n26",
+        "subject": "Máy điện 1",
+        "className": "CD26DCN3-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech074-4"
       },
       {
         "code": "CD26DCN15",
@@ -19093,8 +21761,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
-        "id": "bctech074-4"
+        "color": "emerald",
+        "id": "bctech074-5"
       },
       {
         "code": "CD26DCN15",
@@ -19124,8 +21792,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
-        "id": "bctech074-5"
+        "color": "emerald",
+        "id": "bctech074-6"
       },
       {
         "code": "TC25DCN15",
@@ -19156,8 +21824,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech074-6"
+        "color": "emerald",
+        "id": "bctech074-7"
       },
       {
         "code": "TC25DCN15",
@@ -19175,8 +21843,35 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech074-7"
+        "color": "emerald",
+        "id": "bctech074-8"
+      },
+      {
+        "code": "CDLTDCN09_20\n26",
+        "subject": "Máy điện 1",
+        "className": "CD26DCN3-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X1.202(MD)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech074-9"
       },
       {
         "code": "CD26DCN15",
@@ -19194,8 +21889,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech074-8"
+        "color": "emerald",
+        "id": "bctech074-10"
       },
       {
         "code": "CD26DCN15",
@@ -19214,8 +21909,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech074-9"
+        "color": "emerald",
+        "id": "bctech074-11"
       }
     ]
   },
@@ -19256,7 +21951,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech075-1"
       },
       {
@@ -19289,7 +21984,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech075-2"
       },
       {
@@ -19315,7 +22010,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech075-3"
       },
       {
@@ -19339,7 +22034,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech075-4"
       },
       {
@@ -19355,7 +22050,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech075-5"
       },
       {
@@ -19379,7 +22074,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech075-6"
       },
       {
@@ -19395,7 +22090,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech075-7"
       },
       {
@@ -19423,7 +22118,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech075-8"
       },
       {
@@ -19450,7 +22145,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech075-9"
       },
       {
@@ -19466,7 +22161,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech075-10"
       },
       {
@@ -19484,7 +22179,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech075-11"
       }
     ]
@@ -19515,7 +22210,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech077-1"
       },
       {
@@ -19532,7 +22227,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech077-2"
       },
       {
@@ -19548,7 +22243,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech077-3"
       },
       {
@@ -19570,8 +22265,26 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech077-4"
+      },
+      {
+        "code": "CDLTDCN10_20\n26",
+        "subject": "Trang bị điện 1",
+        "className": "CD26DCN2-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.203(X.TBĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "teal",
+        "id": "bctech077-5"
       },
       {
         "code": "TC26DCN14",
@@ -19589,40 +22302,7 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "color": "rose",
-        "id": "bctech077-5"
-      },
-      {
-        "code": "TC26DCN14",
-        "subject": "Kỹ thuật lắp đặt điện 1",
-        "className": "T26DCN2",
-        "dow": 5,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "1X7.201(X.LĐĐ)",
-        "weeks": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19
-        ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech077-6"
       },
       {
@@ -19631,6 +22311,39 @@ const ALL_TEACHERS_DATABASE =
         "className": "T26DCN2",
         "dow": 5,
         "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.201(X.LĐĐ)",
+        "weeks": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech077-7"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "T26DCN2",
+        "dow": 5,
+        "periods": [
           6,
           7,
           8,
@@ -19653,8 +22366,26 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech077-7"
+        "color": "orange",
+        "id": "bctech077-8"
+      },
+      {
+        "code": "CDLTDCN10_20\n26",
+        "subject": "Trang bị điện 1",
+        "className": "CD26DCN1-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.203(X.TBĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "teal",
+        "id": "bctech077-9"
       },
       {
         "code": "TC25DCN16",
@@ -19685,8 +22416,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
-        "id": "bctech077-8"
+        "color": "teal",
+        "id": "bctech077-10"
       },
       {
         "code": "TC25DCN16",
@@ -19717,8 +22448,62 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
-        "id": "bctech077-9"
+        "color": "teal",
+        "id": "bctech077-11"
+      },
+      {
+        "code": "CDLTDCN10_20\n26",
+        "subject": "Trang bị điện 1",
+        "className": "CD26DCN1-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.203(X.TBĐ)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "teal",
+        "id": "bctech077-12"
+      },
+      {
+        "code": "CDLTDCN10_20\n26",
+        "subject": "Trang bị điện 1",
+        "className": "CD26DCN2-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X7.201(X.LĐĐ)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "teal",
+        "id": "bctech077-13"
       },
       {
         "code": "TC26DCN14",
@@ -19736,8 +22521,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
-        "id": "bctech077-10"
+        "color": "orange",
+        "id": "bctech077-14"
       },
       {
         "code": "TC26DCN14",
@@ -19756,8 +22541,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
-        "id": "bctech077-11"
+        "color": "orange",
+        "id": "bctech077-15"
       },
       {
         "code": "TC25DCN16",
@@ -19775,8 +22560,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech077-12"
+        "color": "teal",
+        "id": "bctech077-16"
       },
       {
         "code": "TC25DCN16",
@@ -19802,8 +22587,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
-        "id": "bctech077-13"
+        "color": "teal",
+        "id": "bctech077-17"
       }
     ]
   },
@@ -19815,9 +22600,9 @@ const ALL_TEACHERS_DATABASE =
     "maxWeeks": 20,
     "schedule": [
       {
-        "code": "TC25CDT21",
-        "subject": "PLC cơ bản",
-        "className": "T25CDT1 ...",
+        "code": "T26DKTD10",
+        "subject": "Vẽ điện",
+        "className": "CD26DKTD",
         "dow": 2,
         "periods": [
           1,
@@ -19827,12 +22612,50 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
+          11,
+          13,
+          14,
+          15,
           16,
           17,
           18
         ],
-        "color": "orange",
+        "color": "blue",
         "id": "bctech078-1"
+      },
+      {
+        "code": "T26DKTD10",
+        "subject": "Vẽ điện",
+        "className": "CD26DKTD",
+        "dow": 2,
+        "periods": [
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech078-2"
+      },
+      {
+        "code": "TC25CDT21",
+        "subject": "PLC cơ bản",
+        "className": "T25CDT1 ...",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech078-3"
       },
       {
         "code": "TC26DCN11",
@@ -19855,8 +22678,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
-        "id": "bctech078-2"
+        "color": "blue",
+        "id": "bctech078-4"
       },
       {
         "code": "TC26DCN11",
@@ -19871,8 +22694,44 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
-        "id": "bctech078-3"
+        "color": "blue",
+        "id": "bctech078-5"
+      },
+      {
+        "code": "TC25CDT21",
+        "subject": "PLC cơ bản",
+        "className": "T25CDT1 ...",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech078-6"
+      },
+      {
+        "code": "CDLTDCN11_20\n26",
+        "subject": "PLC cơ bản",
+        "className": "CD26DCN1-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech078-7"
       },
       {
         "code": "CD25DCN17",
@@ -19906,13 +22765,13 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
-        "id": "bctech078-4"
+        "color": "emerald",
+        "id": "bctech078-8"
       },
       {
-        "code": "CD25DCN17",
+        "code": "TC25CDT21",
         "subject": "PLC cơ bản",
-        "className": "CD25DCN1 ...",
+        "className": "T25CDT1 ...",
         "dow": 4,
         "periods": [
           6,
@@ -19922,12 +22781,10 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X6.201(X.TĐH)",
         "weeks": [
-          16,
-          17,
           18
         ],
-        "color": "orange",
-        "id": "bctech078-5"
+        "color": "emerald",
+        "id": "bctech078-9"
       },
       {
         "code": "TC25CDT21",
@@ -19955,8 +22812,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
-        "id": "bctech078-6"
+        "color": "emerald",
+        "id": "bctech078-10"
       },
       {
         "code": "CD26DCN12",
@@ -19982,8 +22839,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
-        "id": "bctech078-7"
+        "color": "emerald",
+        "id": "bctech078-11"
       },
       {
         "code": "CD26DCN12",
@@ -19999,8 +22856,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech078-8"
+        "color": "emerald",
+        "id": "bctech078-12"
       },
       {
         "code": "CD25DCN17",
@@ -20017,8 +22874,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech078-9"
+        "color": "emerald",
+        "id": "bctech078-13"
       },
       {
         "code": "CD26DCN12",
@@ -20033,8 +22890,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech078-10"
+        "color": "emerald",
+        "id": "bctech078-14"
       },
       {
         "code": "TC26DCN12",
@@ -20060,8 +22917,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
-        "id": "bctech078-11"
+        "color": "emerald",
+        "id": "bctech078-15"
       },
       {
         "code": "TC26DCN12",
@@ -20077,8 +22934,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech078-12"
+        "color": "emerald",
+        "id": "bctech078-16"
       },
       {
         "code": "CD25DCN17",
@@ -20087,14 +22944,18 @@ const ALL_TEACHERS_DATABASE =
         "dow": 6,
         "periods": [
           1,
-          2
+          2,
+          3,
+          4
         ],
-        "room": "P.ONLINE",
+        "room": "1X6.201(X.TĐH)",
         "weeks": [
+          15,
+          16,
           18
         ],
-        "color": "orange",
-        "id": "bctech078-13"
+        "color": "emerald",
+        "id": "bctech078-17"
       },
       {
         "code": "TC26DCN12",
@@ -20109,8 +22970,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech078-14"
+        "color": "emerald",
+        "id": "bctech078-18"
       },
       {
         "code": "TC25CDT21",
@@ -20131,8 +22992,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
-        "id": "bctech078-15"
+        "color": "emerald",
+        "id": "bctech078-19"
       },
       {
         "code": "TC25CDT21",
@@ -20149,8 +23010,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech078-16"
+        "color": "emerald",
+        "id": "bctech078-20"
       },
       {
         "code": "TC26DCN12",
@@ -20176,8 +23037,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
-        "id": "bctech078-17"
+        "color": "emerald",
+        "id": "bctech078-21"
       },
       {
         "code": "TC26DCN12",
@@ -20193,8 +23054,24 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech078-18"
+        "color": "emerald",
+        "id": "bctech078-22"
+      },
+      {
+        "code": "CD25DCN17",
+        "subject": "PLC cơ bản",
+        "className": "CD25DCN1 ...",
+        "dow": 7,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech078-23"
       },
       {
         "code": "TC26DCN12",
@@ -20209,8 +23086,35 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
-        "id": "bctech078-19"
+        "color": "emerald",
+        "id": "bctech078-24"
+      },
+      {
+        "code": "CDLTDCN11_20\n26",
+        "subject": "PLC cơ bản",
+        "className": "CD26DCN1-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech078-25"
       },
       {
         "code": "TC25CDT21",
@@ -20227,8 +23131,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech078-20"
+        "color": "emerald",
+        "id": "bctech078-26"
       },
       {
         "code": "TC25CDT21",
@@ -20243,8 +23147,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
-        "id": "bctech078-21"
+        "color": "emerald",
+        "id": "bctech078-27"
       }
     ]
   },
@@ -20272,7 +23176,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-1"
       },
       {
@@ -20303,7 +23207,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-2"
       },
       {
@@ -20319,7 +23223,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-3"
       },
       {
@@ -20350,7 +23254,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-4"
       },
       {
@@ -20368,7 +23272,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-5"
       },
       {
@@ -20384,7 +23288,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-6"
       },
       {
@@ -20400,7 +23304,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-7"
       },
       {
@@ -20432,7 +23336,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech079-8"
       },
       {
@@ -20456,8 +23360,26 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech079-9"
+      },
+      {
+        "code": "CDLTDCN08_20\n26",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "CD26DCN1-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech079-10"
       },
       {
         "code": "TC26DCN14",
@@ -20487,8 +23409,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
-        "id": "bctech079-10"
+        "color": "orange",
+        "id": "bctech079-11"
       },
       {
         "code": "CD25DCN21",
@@ -20518,8 +23440,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "blue",
-        "id": "bctech079-11"
+        "color": "rose",
+        "id": "bctech079-12"
       },
       {
         "code": "CD25DCN21",
@@ -20534,8 +23456,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "blue",
-        "id": "bctech079-12"
+        "color": "rose",
+        "id": "bctech079-13"
       },
       {
         "code": "CD25DCN21",
@@ -20550,8 +23472,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "blue",
-        "id": "bctech079-13"
+        "color": "rose",
+        "id": "bctech079-14"
       },
       {
         "code": "T26DKTD15",
@@ -20574,8 +23496,92 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
-        "id": "bctech079-14"
+        "color": "orange",
+        "id": "bctech079-15"
+      },
+      {
+        "code": "CDLTDCN08_20\n26",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "CD26DCN2-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech079-16"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "T26DCN1",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "orange",
+        "id": "bctech079-17"
+      },
+      {
+        "code": "TC26DCN14",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "T26DCN1",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17
+        ],
+        "color": "orange",
+        "id": "bctech079-18"
+      },
+      {
+        "code": "CDLTDCN08_20\n26",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "CD26DCN1-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.105(X.LĐĐ)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "orange",
+        "id": "bctech079-19"
       },
       {
         "code": "CD26DCN11",
@@ -20590,47 +23596,35 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
-        "id": "bctech079-15"
+        "color": "blue",
+        "id": "bctech079-20"
       },
       {
-        "code": "TC26DCN14",
+        "code": "CDLTDCN08_20\n26",
         "subject": "Kỹ thuật lắp đặt điện 1",
-        "className": "T26DCN1",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15,
-          16,
-          17
-        ],
-        "color": "rose",
-        "id": "bctech079-16"
-      },
-      {
-        "code": "TC26DCN14",
-        "subject": "Kỹ thuật lắp đặt điện 1",
-        "className": "T26DCN1",
+        "className": "CD26DCN2-LT",
         "dow": 8,
         "periods": [
           6,
           7,
           8,
-          9,
-          10
+          9
         ],
-        "room": "P.ONLINE",
+        "room": "1X6.105(X.LĐĐ)",
         "weeks": [
-          17
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
         ],
-        "color": "rose",
-        "id": "bctech079-17"
+        "color": "orange",
+        "id": "bctech079-21"
       }
     ]
   },
@@ -20661,7 +23655,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech080-1"
       },
       {
@@ -20680,7 +23674,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech080-2"
       },
       {
@@ -20711,7 +23705,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech080-3"
       },
       {
@@ -20726,8 +23720,46 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech080-4"
+      },
+      {
+        "code": "TC17DTC03",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng",
+        "className": "T26KTML2",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "violet",
+        "id": "bctech080-5"
+      },
+      {
+        "code": "CD25KTML21",
+        "subject": "Hệ thống máy lạnh thương nghiệp",
+        "className": "CD25KTML",
+        "dow": 4,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          15
+        ],
+        "color": "orange",
+        "id": "bctech080-6"
       },
       {
         "code": "CD25KTML21",
@@ -20752,25 +23784,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
-        "id": "bctech080-5"
-      },
-      {
-        "code": "CD25KTML21",
-        "subject": "Hệ thống máy lạnh thương nghiệp",
-        "className": "CD25KTML",
-        "dow": 4,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          15
-        ],
-        "color": "rose",
-        "id": "bctech080-6"
+        "color": "orange",
+        "id": "bctech080-7"
       },
       {
         "code": "TC17DTC03",
@@ -20785,8 +23800,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
-        "id": "bctech080-7"
+        "color": "violet",
+        "id": "bctech080-8"
       },
       {
         "code": "TC17DTC03",
@@ -20800,8 +23815,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
-        "id": "bctech080-8"
+        "color": "violet",
+        "id": "bctech080-9"
       },
       {
         "code": "TC26KTML12",
@@ -20815,8 +23830,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
-        "id": "bctech080-9"
+        "color": "rose",
+        "id": "bctech080-10"
       },
       {
         "code": "TC25KTML18",
@@ -20850,8 +23865,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
-        "id": "bctech080-10"
+        "color": "teal",
+        "id": "bctech080-11"
       },
       {
         "code": "TC25KTML18",
@@ -20884,8 +23899,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
-        "id": "bctech080-11"
+        "color": "teal",
+        "id": "bctech080-12"
       },
       {
         "code": "CD25KTML21",
@@ -20915,8 +23930,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
-        "id": "bctech080-12"
+        "color": "orange",
+        "id": "bctech080-13"
       },
       {
         "code": "TC26KTML12",
@@ -20938,8 +23953,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "blue",
-        "id": "bctech080-13"
+        "color": "rose",
+        "id": "bctech080-14"
       },
       {
         "code": "TC26KTML12",
@@ -20957,14 +23972,112 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
-        "id": "bctech080-14"
+        "color": "rose",
+        "id": "bctech080-15"
+      },
+      {
+        "code": "CDLTKTML10_2\n026",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng (***)",
+        "className": "CD26KTML-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "bctech080-16"
+      },
+      {
+        "code": "CDLTKTML10_2\n026",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng (***)",
+        "className": "CD26KTML-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          20
+        ],
+        "color": "teal",
+        "id": "bctech080-17"
       },
       {
         "code": "TC25KTML18",
         "subject": "Hệ thống điều hoà không khí dân dụng",
         "className": "T25KTML2",
-        "dow": 6,
+        "dow": 7,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "bctech080-18"
+      },
+      {
+        "code": "TC25KTML18",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "className": "T25KTML2",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          10,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "teal",
+        "id": "bctech080-19"
+      },
+      {
+        "code": "TC25KTML18",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "className": "T25KTML2",
+        "dow": 7,
+        "periods": [
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "teal",
+        "id": "bctech080-20"
+      },
+      {
+        "code": "TC25KTML18",
+        "subject": "Hệ thống điều hoà không khí dân dụng",
+        "className": "T25KTML2",
+        "dow": 7,
         "periods": [
           11,
           12,
@@ -20982,68 +24095,56 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
-        "id": "bctech080-15"
+        "color": "teal",
+        "id": "bctech080-21"
       },
       {
-        "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng",
-        "className": "T25KTML2",
-        "dow": 7,
+        "code": "CDLTKTML11_2\n026",
+        "subject": "Máy lạnh dân dụng và thương nghiệp (***)",
+        "className": "CD26KTML-LT",
+        "dow": 8,
         "periods": [
-          6,
-          7
+          1,
+          2,
+          3,
+          4
         ],
         "room": "1X7.103(X.ĐL)",
         "weeks": [
-          18
-        ],
-        "color": "violet",
-        "id": "bctech080-16"
-      },
-      {
-        "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng",
-        "className": "T25KTML2",
-        "dow": 7,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "1X7.103(X.ĐL)",
-        "weeks": [
-          10,
+          11,
           12,
           13,
           14,
           15,
-          16
+          16,
+          18,
+          19
         ],
-        "color": "violet",
-        "id": "bctech080-17"
+        "color": "orange",
+        "id": "bctech080-22"
       },
       {
-        "code": "TC25KTML18",
-        "subject": "Hệ thống điều hoà không khí dân dụng",
-        "className": "T25KTML2",
-        "dow": 7,
+        "code": "CDLTKTML10_2\n026",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng (***)",
+        "className": "CD26KTML-LT",
+        "dow": 8,
         "periods": [
-          8,
-          9
+          1,
+          2,
+          3,
+          4
         ],
-        "room": "P.ONLINE",
+        "room": "1X7.103(X.ĐL)",
         "weeks": [
-          18
+          20
         ],
-        "color": "violet",
-        "id": "bctech080-18"
+        "color": "teal",
+        "id": "bctech080-23"
       },
       {
-        "code": "TC17DTC03",
-        "subject": "Kỹ thuật gia công và kết nối ống đồng",
-        "className": "T26KTML2",
+        "code": "CDLTKTML11_2\n026",
+        "subject": "Máy lạnh dân dụng và thương nghiệp (***)",
+        "className": "CD26KTML-LT",
         "dow": 8,
         "periods": [
           6,
@@ -21051,15 +24152,37 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "room": "P.ONLINE",
+        "room": "1X7.103(X.ĐL)",
         "weeks": [
+          11,
+          12,
+          13,
+          14,
           15,
           16,
-          17,
           18
         ],
-        "color": "emerald",
-        "id": "bctech080-19"
+        "color": "orange",
+        "id": "bctech080-24"
+      },
+      {
+        "code": "CDLTKTML10_2\n026",
+        "subject": "Kỹ thuật gia công và kết nối ống đồng (***)",
+        "className": "CD26KTML-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "1X7.103(X.ĐL)",
+        "weeks": [
+          20
+        ],
+        "color": "teal",
+        "id": "bctech080-25"
       }
     ]
   },
@@ -21091,7 +24214,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech082-1"
       },
       {
@@ -21107,7 +24230,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech082-2"
       },
       {
@@ -21138,7 +24261,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech082-3"
       },
       {
@@ -21154,7 +24277,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech082-4"
       },
       {
@@ -21170,7 +24293,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech082-5"
       },
       {
@@ -21204,7 +24327,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech082-6"
       },
       {
@@ -21231,7 +24354,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-7"
       },
       {
@@ -21248,7 +24371,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-8"
       },
       {
@@ -21264,7 +24387,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-9"
       },
       {
@@ -21291,7 +24414,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-10"
       },
       {
@@ -21308,7 +24431,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-11"
       },
       {
@@ -21324,7 +24447,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-12"
       },
       {
@@ -21351,7 +24474,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-13"
       },
       {
@@ -21368,7 +24491,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-14"
       },
       {
@@ -21384,7 +24507,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-15"
       },
       {
@@ -21411,7 +24534,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-16"
       },
       {
@@ -21428,7 +24551,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-17"
       },
       {
@@ -21444,7 +24567,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech082-18"
       },
       {
@@ -21476,7 +24599,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech082-19"
       },
       {
@@ -21495,7 +24618,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech082-20"
       },
       {
@@ -21520,7 +24643,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech082-21"
       }
     ]
@@ -21548,7 +24671,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-1"
       },
       {
@@ -21580,7 +24703,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-2"
       },
       {
@@ -21614,7 +24737,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-3"
       },
       {
@@ -21641,7 +24764,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-4"
       },
       {
@@ -21660,7 +24783,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-5"
       },
       {
@@ -21677,7 +24800,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-6"
       },
       {
@@ -21693,8 +24816,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech083-7"
+      },
+      {
+        "code": "CDLTDCN09_20\n26",
+        "subject": "Máy điện 1",
+        "className": "CD26DCN2-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech083-8"
       },
       {
         "code": "CD26DCN15",
@@ -21723,8 +24864,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech083-8"
+        "color": "emerald",
+        "id": "bctech083-9"
       },
       {
         "code": "TC25DCN15",
@@ -21755,8 +24896,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech083-9"
+        "color": "emerald",
+        "id": "bctech083-10"
       },
       {
         "code": "TC25DCN15",
@@ -21780,8 +24921,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
-        "id": "bctech083-10"
+        "color": "emerald",
+        "id": "bctech083-11"
       },
       {
         "code": "CD26DCN15",
@@ -21799,8 +24940,27 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
-        "id": "bctech083-11"
+        "color": "emerald",
+        "id": "bctech083-12"
+      },
+      {
+        "code": "TC25DCN15",
+        "subject": "Máy điện 1",
+        "className": "T25DCN2",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
+        "id": "bctech083-13"
       },
       {
         "code": "CD26DCN15",
@@ -21814,8 +24974,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "orange",
-        "id": "bctech083-12"
+        "color": "emerald",
+        "id": "bctech083-14"
       },
       {
         "code": "CD26DCN15",
@@ -21833,27 +24993,80 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
-        "id": "bctech083-13"
+        "color": "emerald",
+        "id": "bctech083-15"
       },
       {
-        "code": "TC25DCN15",
+        "code": "CDLTDCN09_20\n26",
         "subject": "Máy điện 1",
-        "className": "T25DCN2",
+        "className": "CD26DCN2-LT",
         "dow": 8,
         "periods": [
           1,
           2,
           3,
-          4,
-          5
+          4
         ],
-        "room": "P.ONLINE",
+        "room": "1X6.103(X.MĐ)",
         "weeks": [
-          16
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
         ],
-        "color": "orange",
-        "id": "bctech083-14"
+        "color": "emerald",
+        "id": "bctech083-16"
+      },
+      {
+        "code": "CDLTDCN09_20\n26",
+        "subject": "Máy điện 1",
+        "className": "CD26DCN1-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech083-17"
+      },
+      {
+        "code": "CDLTDCN09_20\n26",
+        "subject": "Máy điện 1",
+        "className": "CD26DCN1-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X6.103(X.MĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech083-18"
       }
     ]
   },
@@ -21885,7 +25098,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech084-1"
       },
       {
@@ -21901,8 +25114,31 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech084-2"
+      },
+      {
+        "code": "CDLTCDT10_20\n26",
+        "subject": "Lập trình Vi điều khiển",
+        "className": "CD26CDT-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "color": "blue",
+        "id": "bctech084-3"
       },
       {
         "code": "TC26DCN09",
@@ -21925,8 +25161,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech084-3"
+        "color": "orange",
+        "id": "bctech084-4"
       },
       {
         "code": "TC26DCN09",
@@ -21941,8 +25177,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech084-4"
+        "color": "orange",
+        "id": "bctech084-5"
       },
       {
         "code": "TC25CDT16",
@@ -21973,7 +25209,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "blue",
-        "id": "bctech084-5"
+        "id": "bctech084-6"
       },
       {
         "code": "TC25CDT16",
@@ -21989,7 +25225,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "bctech084-6"
+        "id": "bctech084-7"
       },
       {
         "code": "TC25CDT16",
@@ -22005,7 +25241,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "bctech084-7"
+        "id": "bctech084-8"
       },
       {
         "code": "TC26CDT09",
@@ -22028,8 +25264,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
-        "id": "bctech084-8"
+        "color": "blue",
+        "id": "bctech084-9"
       },
       {
         "code": "TC26CDT09",
@@ -22044,8 +25280,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
-        "id": "bctech084-9"
+        "color": "blue",
+        "id": "bctech084-10"
       },
       {
         "code": "TC26CDT11",
@@ -22067,8 +25303,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
-        "id": "bctech084-10"
+        "color": "emerald",
+        "id": "bctech084-11"
       },
       {
         "code": "TC26CDT11",
@@ -22082,8 +25318,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "orange",
-        "id": "bctech084-11"
+        "color": "emerald",
+        "id": "bctech084-12"
       },
       {
         "code": "TC26CDT11",
@@ -22100,8 +25336,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "orange",
-        "id": "bctech084-12"
+        "color": "emerald",
+        "id": "bctech084-13"
       },
       {
         "code": "TC26CDT11",
@@ -22115,8 +25351,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "orange",
-        "id": "bctech084-13"
+        "color": "emerald",
+        "id": "bctech084-14"
       },
       {
         "code": "CD26DCN09",
@@ -22139,8 +25375,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech084-14"
+        "color": "orange",
+        "id": "bctech084-15"
       },
       {
         "code": "CD26DCN09",
@@ -22155,8 +25391,34 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech084-15"
+        "color": "orange",
+        "id": "bctech084-16"
+      },
+      {
+        "code": "CDLTCDT10_20\n26",
+        "subject": "Lập trình Vi điều khiển",
+        "className": "CD26CDT-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2X1.102(ĐT)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech084-17"
       }
     ]
   },
@@ -22182,8 +25444,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech085-1"
+      },
+      {
+        "code": "CDLTDCN07_20\n26",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả*",
+        "className": "CD26DCN1-LT ...",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech085-2"
       },
       {
         "code": "TC26DCN14",
@@ -22214,8 +25494,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech085-2"
+        "color": "orange",
+        "id": "bctech085-3"
       },
       {
         "code": "TC26DCN14",
@@ -22247,8 +25527,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech085-3"
+        "color": "orange",
+        "id": "bctech085-4"
       },
       {
         "code": "CD25DCN21",
@@ -22278,8 +25558,8 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "blue",
-        "id": "bctech085-4"
+        "color": "rose",
+        "id": "bctech085-5"
       },
       {
         "code": "CD25DCN21",
@@ -22294,8 +25574,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "blue",
-        "id": "bctech085-5"
+        "color": "rose",
+        "id": "bctech085-6"
       },
       {
         "code": "CD25DCN21",
@@ -22310,8 +25590,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "blue",
-        "id": "bctech085-6"
+        "color": "rose",
+        "id": "bctech085-7"
+      },
+      {
+        "code": "CDLTDCN08_20\n26",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "CD26DCN3-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2X1.101(LĐĐ)",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech085-8"
       },
       {
         "code": "CD25DCN26",
@@ -22337,8 +25635,8 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
-        "id": "bctech085-7"
+        "color": "orange",
+        "id": "bctech085-9"
       },
       {
         "code": "CD25DCN26",
@@ -22354,8 +25652,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "rose",
-        "id": "bctech085-8"
+        "color": "orange",
+        "id": "bctech085-10"
       },
       {
         "code": "CD25DCN26",
@@ -22370,8 +25668,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "rose",
-        "id": "bctech085-9"
+        "color": "orange",
+        "id": "bctech085-11"
       },
       {
         "code": "TC26DCN14",
@@ -22389,8 +25687,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
-        "id": "bctech085-10"
+        "color": "orange",
+        "id": "bctech085-12"
       },
       {
         "code": "TC26DCN14",
@@ -22409,57 +25707,62 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
-        "id": "bctech085-11"
-      }
-    ]
-  },
-  "BCTECH205": {
-    "code": "BCTECH205",
-    "name": "T.H.Như-H.Q.Trung .",
-    "dept": "Điện công nghiệp (DCN) - Điện",
-    "startDate": "2026-09-07",
-    "maxWeeks": 20,
-    "schedule": [
+        "color": "orange",
+        "id": "bctech085-13"
+      },
       {
-        "code": "CD26DCN11",
-        "subject": "Vẽ điện",
-        "className": "CD26DCN1",
-        "dow": 4,
+        "code": "CDLTDCN08_20\n26",
+        "subject": "Kỹ thuật lắp đặt điện 1",
+        "className": "CD26DCN3-LT",
+        "dow": 7,
         "periods": [
           1,
           2,
           3,
           4
         ],
-        "room": "1X8.201(X.TĐH)",
+        "room": "2X1.101(LĐĐ)",
         "weeks": [
+          10,
+          11,
           12,
           13,
           14,
           15,
           16,
-          17,
-          18
+          18,
+          19,
+          20
         ],
-        "color": "teal",
-        "id": "bctech205-1"
+        "color": "orange",
+        "id": "bctech085-14"
       },
       {
-        "code": "CD26DCN11",
-        "subject": "Vẽ điện",
-        "className": "CD26DCN1",
-        "dow": 5,
+        "code": "CDLTDCN07_20\n26",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả*",
+        "className": "CD26DCN1-LT ...",
+        "dow": 7,
         "periods": [
-          1,
-          2
+          11,
+          12,
+          13,
+          14
         ],
-        "room": "P.ONLINE",
+        "room": "P.G.MEET",
         "weeks": [
-          18
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
         ],
-        "color": "teal",
-        "id": "bctech205-2"
+        "color": "blue",
+        "id": "bctech085-15"
       }
     ]
   },
@@ -22494,7 +25797,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech086-1"
       },
       {
@@ -22511,7 +25814,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech086-2"
       },
       {
@@ -22527,7 +25830,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech086-3"
       },
       {
@@ -22554,7 +25857,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech086-4"
       },
       {
@@ -22581,7 +25884,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech086-5"
       },
       {
@@ -22609,7 +25912,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech086-6"
       },
       {
@@ -22636,7 +25939,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech086-7"
       },
       {
@@ -22653,7 +25956,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech086-8"
       },
       {
@@ -22669,7 +25972,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech086-9"
       },
       {
@@ -22685,7 +25988,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech086-10"
       },
       {
@@ -22704,7 +26007,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech086-11"
       },
       {
@@ -22723,7 +26026,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech086-12"
       },
       {
@@ -22741,7 +26044,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech086-13"
       },
       {
@@ -22757,7 +26060,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech086-14"
       }
     ]
@@ -22789,7 +26092,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech087-1"
       },
       {
@@ -22808,8 +26111,34 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech087-2"
+      },
+      {
+        "code": "CDLTKTML08_2\n026",
+        "subject": "Điện tử ứng dụng trong hệ thống lạnh",
+        "className": "CD26KTML-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech087-3"
       },
       {
         "code": "TC17DTC03",
@@ -22839,8 +26168,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
-        "id": "bctech087-3"
+        "color": "violet",
+        "id": "bctech087-4"
       },
       {
         "code": "TC17DTC03",
@@ -22855,8 +26184,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
-        "id": "bctech087-4"
+        "color": "violet",
+        "id": "bctech087-5"
       },
       {
         "code": "TC17DTC03",
@@ -22870,8 +26199,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
-        "id": "bctech087-5"
+        "color": "violet",
+        "id": "bctech087-6"
       },
       {
         "code": "CD25KTML24",
@@ -22901,8 +26230,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
-        "id": "bctech087-6"
+        "color": "blue",
+        "id": "bctech087-7"
       },
       {
         "code": "CD25KTML24",
@@ -22917,8 +26246,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech087-7"
+        "color": "blue",
+        "id": "bctech087-8"
       },
       {
         "code": "TC25KTML18",
@@ -22952,8 +26281,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
-        "id": "bctech087-8"
+        "color": "teal",
+        "id": "bctech087-9"
       },
       {
         "code": "TC25KTML18",
@@ -22987,8 +26316,26 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
-        "id": "bctech087-9"
+        "color": "teal",
+        "id": "bctech087-10"
+      },
+      {
+        "code": "CDLTKTML08_2\n026",
+        "subject": "Điện tử ứng dụng trong hệ thống lạnh",
+        "className": "CD26KTML-LT",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech087-11"
       },
       {
         "code": "TC26KTML11",
@@ -23010,8 +26357,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "rose",
-        "id": "bctech087-10"
+        "color": "orange",
+        "id": "bctech087-12"
       },
       {
         "code": "TC26KTML11",
@@ -23025,8 +26372,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "rose",
-        "id": "bctech087-11"
+        "color": "orange",
+        "id": "bctech087-13"
       },
       {
         "code": "CD26KTML11",
@@ -23040,8 +26387,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
-        "id": "bctech087-12"
+        "color": "orange",
+        "id": "bctech087-14"
       },
       {
         "code": "TC25KTML18",
@@ -23063,8 +26410,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
-        "id": "bctech087-13"
+        "color": "teal",
+        "id": "bctech087-15"
       },
       {
         "code": "TC25KTML18",
@@ -23079,8 +26426,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech087-14"
+        "color": "teal",
+        "id": "bctech087-16"
       },
       {
         "code": "TC25KTML18",
@@ -23095,8 +26442,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech087-15"
+        "color": "teal",
+        "id": "bctech087-17"
       },
       {
         "code": "TC25KTML18",
@@ -23119,8 +26466,26 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
-        "id": "bctech087-16"
+        "color": "teal",
+        "id": "bctech087-18"
+      },
+      {
+        "code": "CDLTKTML08_2\n026",
+        "subject": "Điện tử ứng dụng trong hệ thống lạnh",
+        "className": "CD26KTML-LT",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.204(X.ĐL)",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech087-19"
       },
       {
         "code": "TC26KTML11",
@@ -23138,8 +26503,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "rose",
-        "id": "bctech087-17"
+        "color": "orange",
+        "id": "bctech087-20"
       },
       {
         "code": "CD25KTML24",
@@ -23163,8 +26528,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
-        "id": "bctech087-18"
+        "color": "blue",
+        "id": "bctech087-21"
       },
       {
         "code": "TC17DTC03",
@@ -23184,8 +26549,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
-        "id": "bctech087-19"
+        "color": "violet",
+        "id": "bctech087-22"
       }
     ]
   },
@@ -23217,7 +26582,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-1"
       },
       {
@@ -23233,7 +26598,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-2"
       },
       {
@@ -23327,7 +26692,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech088-6"
       },
       {
@@ -23343,7 +26708,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech088-7"
       },
       {
@@ -23359,7 +26724,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech088-8"
       },
       {
@@ -23386,7 +26751,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-9"
       },
       {
@@ -23403,7 +26768,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-10"
       },
       {
@@ -23419,7 +26784,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-11"
       },
       {
@@ -23482,7 +26847,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-13"
       },
       {
@@ -23506,7 +26871,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech088-14"
       },
       {
@@ -23522,7 +26887,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech088-15"
       },
       {
@@ -23546,7 +26911,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-16"
       },
       {
@@ -23567,7 +26932,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-17"
       },
       {
@@ -23583,7 +26948,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-18"
       },
       {
@@ -23604,7 +26969,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-19"
       },
       {
@@ -23620,7 +26985,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech088-20"
       },
       {
@@ -23680,26 +27045,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech090-1"
-      },
-      {
-        "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm.",
-        "className": "T25KTML1",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "teal",
-        "id": "bctech090-2"
       },
       {
         "code": "TC25KTML20",
@@ -23722,7 +27069,25 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "teal",
+        "color": "blue",
+        "id": "bctech090-2"
+      },
+      {
+        "code": "TC25KTML20",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "className": "T25KTML1",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
         "id": "bctech090-3"
       },
       {
@@ -23753,7 +27118,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech090-4"
       },
       {
@@ -23787,7 +27152,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech090-5"
       },
       {
@@ -23815,7 +27180,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech090-6"
       },
       {
@@ -23833,7 +27198,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech090-7"
       },
       {
@@ -23856,8 +27221,27 @@ const ALL_TEACHERS_DATABASE =
           5,
           6
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech090-8"
+      },
+      {
+        "code": "TC25KTML26",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng\n(TC*",
+        "className": "T25KTML1 ...",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          6
+        ],
+        "color": "emerald",
+        "id": "bctech090-9"
       },
       {
         "code": "TC25KTML26",
@@ -23877,26 +27261,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5
         ],
-        "color": "orange",
-        "id": "bctech090-9"
-      },
-      {
-        "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng\n(TC*",
-        "className": "T25KTML1 ...",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          6
-        ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech090-10"
       },
       {
@@ -23924,7 +27289,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech090-11"
       }
     ]
@@ -23964,7 +27329,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech091-1"
       },
       {
@@ -23980,7 +27345,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech091-2"
       },
       {
@@ -23995,7 +27360,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech091-3"
       },
       {
@@ -24024,7 +27389,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech091-4"
       },
       {
@@ -24053,7 +27418,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech091-5"
       },
       {
@@ -24071,7 +27436,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech091-6"
       },
       {
@@ -24092,7 +27457,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech091-7"
       }
     ]
@@ -24125,8 +27490,26 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech204-1"
+      },
+      {
+        "code": "TC25KTML20",
+        "subject": "Hệ thống điều hoà không khí trung tâm.",
+        "className": "T25KTML2",
+        "dow": 2,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          17
+        ],
+        "color": "blue",
+        "id": "bctech204-2"
       },
       {
         "code": "TC25KTML20",
@@ -24150,25 +27533,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
-        "id": "bctech204-2"
-      },
-      {
-        "code": "TC25KTML20",
-        "subject": "Hệ thống điều hoà không khí trung tâm.",
-        "className": "T25KTML2",
-        "dow": 2,
-        "periods": [
-          6,
-          7,
-          8,
-          9
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          17
-        ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech204-3"
       },
       {
@@ -24183,7 +27548,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech204-4"
       },
       {
@@ -24203,7 +27568,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech204-5"
       },
       {
@@ -24218,8 +27583,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech204-6"
+      },
+      {
+        "code": "CDLTKTML07_2\n026",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "className": "CD26KTML-LT",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          20
+        ],
+        "color": "rose",
+        "id": "bctech204-7"
       },
       {
         "code": "TC26KTML11",
@@ -24241,8 +27624,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech204-7"
+        "color": "orange",
+        "id": "bctech204-8"
       },
       {
         "code": "TC15QTM24",
@@ -24265,8 +27648,8 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech204-8"
+        "color": "orange",
+        "id": "bctech204-9"
       },
       {
         "code": "TC26KTML11",
@@ -24284,8 +27667,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech204-9"
+        "color": "orange",
+        "id": "bctech204-10"
       },
       {
         "code": "TC15QTM24",
@@ -24300,8 +27683,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "rose",
-        "id": "bctech204-10"
+        "color": "orange",
+        "id": "bctech204-11"
       },
       {
         "code": "TC15QTM24",
@@ -24317,8 +27700,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           10
         ],
-        "color": "rose",
-        "id": "bctech204-11"
+        "color": "orange",
+        "id": "bctech204-12"
       },
       {
         "code": "CD26KTML10",
@@ -24340,8 +27723,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "blue",
-        "id": "bctech204-12"
+        "color": "rose",
+        "id": "bctech204-13"
       },
       {
         "code": "TC15QTM24",
@@ -24364,8 +27747,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech204-13"
+        "color": "orange",
+        "id": "bctech204-14"
       },
       {
         "code": "CD26KTML10",
@@ -24383,8 +27766,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
-        "id": "bctech204-14"
+        "color": "rose",
+        "id": "bctech204-15"
       },
       {
         "code": "TC15QTM24",
@@ -24399,8 +27782,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech204-15"
+        "color": "orange",
+        "id": "bctech204-16"
       },
       {
         "code": "TC15QTM24",
@@ -24416,8 +27799,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech204-16"
+        "color": "orange",
+        "id": "bctech204-17"
       },
       {
         "code": "TC26KTML10",
@@ -24439,8 +27822,8 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "blue",
-        "id": "bctech204-17"
+        "color": "rose",
+        "id": "bctech204-18"
       },
       {
         "code": "TC26KTML10",
@@ -24458,8 +27841,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
-        "id": "bctech204-18"
+        "color": "rose",
+        "id": "bctech204-19"
       },
       {
         "code": "TC25KTML26",
@@ -24481,8 +27864,26 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
-        "id": "bctech204-19"
+        "color": "emerald",
+        "id": "bctech204-20"
+      },
+      {
+        "code": "CDLTKTML07_2\n026",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "className": "CD26KTML-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          20
+        ],
+        "color": "rose",
+        "id": "bctech204-21"
       },
       {
         "code": "TC25KTML20",
@@ -24514,8 +27915,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
-        "id": "bctech204-20"
+        "color": "blue",
+        "id": "bctech204-22"
       },
       {
         "code": "TC15QTM24",
@@ -24530,8 +27931,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech204-21"
+        "color": "orange",
+        "id": "bctech204-23"
       },
       {
         "code": "TC15QTM24",
@@ -24547,8 +27948,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech204-22"
+        "color": "orange",
+        "id": "bctech204-24"
       },
       {
         "code": "TC26KTML10",
@@ -24562,8 +27963,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "blue",
-        "id": "bctech204-23"
+        "color": "rose",
+        "id": "bctech204-25"
       },
       {
         "code": "CD25KTML22",
@@ -24587,8 +27988,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech204-24"
+        "color": "violet",
+        "id": "bctech204-26"
       },
       {
         "code": "CD25KTML22",
@@ -24596,10 +27997,10 @@ const ALL_TEACHERS_DATABASE =
         "className": "CD25KTML",
         "dow": 7,
         "periods": [
-          6,
-          7,
-          8,
-          9
+          1,
+          2,
+          3,
+          4
         ],
         "room": "P.ONLINE",
         "weeks": [
@@ -24611,8 +28012,34 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
-        "id": "bctech204-25"
+        "color": "violet",
+        "id": "bctech204-27"
+      },
+      {
+        "code": "CDLTKTML07_2\n026",
+        "subject": "Bảo vệ môi trường và sử dụng năng lượng hiệu quả (*)",
+        "className": "CD26KTML-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X7.101(X.ĐL)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "rose",
+        "id": "bctech204-28"
       },
       {
         "code": "TC15QTM24",
@@ -24631,8 +28058,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
-        "id": "bctech204-26"
+        "color": "orange",
+        "id": "bctech204-29"
       },
       {
         "code": "TC15QTM24",
@@ -24651,8 +28078,27 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "rose",
-        "id": "bctech204-27"
+        "color": "orange",
+        "id": "bctech204-30"
+      },
+      {
+        "code": "TC25KTML26",
+        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng\n(TC*",
+        "className": "T25KTML3",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech204-31"
       },
       {
         "code": "TC25KTML26",
@@ -24672,27 +28118,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
-        "id": "bctech204-28"
-      },
-      {
-        "code": "TC25KTML26",
-        "subject": "Tính toán thiết kế hệ thống điều hòa không khí dân dụng\n(TC*",
-        "className": "T25KTML3",
-        "dow": 8,
-        "periods": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          18
-        ],
-        "color": "orange",
-        "id": "bctech204-29"
+        "color": "emerald",
+        "id": "bctech204-32"
       }
     ]
   },
@@ -24703,6 +28130,50 @@ const ALL_TEACHERS_DATABASE =
     "startDate": "2026-09-07",
     "maxWeeks": 20,
     "schedule": [
+      {
+        "code": "CDLTCBMA15",
+        "subject": "Nghiệp vụ nhà hàng",
+        "className": "CD26CBMA-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech092-1"
+      },
+      {
+        "code": "CDLTCBMA9",
+        "subject": "Tổng quan về du lịch và khách sạn",
+        "className": "CD26CBMA-LT",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2A.201",
+        "weeks": [
+          20
+        ],
+        "color": "blue",
+        "id": "bctech092-2"
+      },
       {
         "code": "T26NHKS18",
         "subject": "Nghiệp vụ lễ tân",
@@ -24731,8 +28202,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
-        "id": "bctech092-1"
+        "color": "emerald",
+        "id": "bctech092-3"
       },
       {
         "code": "T26NHKS07",
@@ -24759,8 +28230,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "blue",
-        "id": "bctech092-2"
+        "color": "rose",
+        "id": "bctech092-4"
       },
       {
         "code": "T26NHKS18",
@@ -24786,8 +28257,51 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
+        "color": "emerald",
+        "id": "bctech092-5"
+      },
+      {
+        "code": "CDLTCBMA15",
+        "subject": "Nghiệp vụ nhà hàng",
+        "className": "CD26CBMA-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
         "color": "orange",
-        "id": "bctech092-3"
+        "id": "bctech092-6"
+      },
+      {
+        "code": "CDLTCBMA15",
+        "subject": "Nghiệp vụ nhà hàng",
+        "className": "CD26CBMA-LT",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "2A.101(NVNH)",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech092-7"
       },
       {
         "code": "T26NHKS18",
@@ -24804,8 +28318,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "orange",
-        "id": "bctech092-4"
+        "color": "emerald",
+        "id": "bctech092-8"
       },
       {
         "code": "TC25CBMA28",
@@ -24818,7 +28332,7 @@ const ALL_TEACHERS_DATABASE =
           3,
           4
         ],
-        "room": "P.ONLINE",
+        "room": "P.G.MEET",
         "weeks": [
           5,
           6,
@@ -24832,8 +28346,8 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
-        "id": "bctech092-5"
+        "color": "blue",
+        "id": "bctech092-9"
       },
       {
         "code": "TC25CBMA28",
@@ -24847,8 +28361,35 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "teal",
-        "id": "bctech092-6"
+        "color": "blue",
+        "id": "bctech092-10"
+      },
+      {
+        "code": "CDLTCBMA9",
+        "subject": "Tổng quan về du lịch và khách sạn",
+        "className": "CD26CBMA-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "2A.201",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "blue",
+        "id": "bctech092-11"
       }
     ]
   },
@@ -24887,7 +28428,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-1"
       },
       {
@@ -24903,7 +28444,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-2"
       },
       {
@@ -24919,7 +28460,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-3"
       },
       {
@@ -24948,7 +28489,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-4"
       },
       {
@@ -24968,7 +28509,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-5"
       },
       {
@@ -24985,7 +28526,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-6"
       },
       {
@@ -25013,7 +28554,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-7"
       },
       {
@@ -25031,7 +28572,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech094-8"
       },
       {
@@ -25049,7 +28590,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-9"
       },
       {
@@ -25067,7 +28608,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech094-10"
       },
       {
@@ -25085,7 +28626,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           2
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-11"
       },
       {
@@ -25103,7 +28644,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech094-12"
       },
       {
@@ -25134,7 +28675,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-13"
       },
       {
@@ -25150,7 +28691,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-14"
       },
       {
@@ -25168,7 +28709,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech094-15"
       },
       {
@@ -25184,7 +28725,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-16"
       },
       {
@@ -25206,7 +28747,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech094-17"
       },
       {
@@ -25225,7 +28766,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-18"
       },
       {
@@ -25256,7 +28797,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech094-19"
       },
       {
@@ -25275,7 +28816,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-20"
       },
       {
@@ -25293,7 +28834,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech094-21"
       },
       {
@@ -25314,7 +28855,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-22"
       },
       {
@@ -25332,7 +28873,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech094-23"
       },
       {
@@ -25361,7 +28902,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-24"
       },
       {
@@ -25379,7 +28920,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           2
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-25"
       },
       {
@@ -25398,7 +28939,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-26"
       },
       {
@@ -25415,7 +28956,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech094-27"
       },
       {
@@ -25433,7 +28974,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           2
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech094-28"
       },
       {
@@ -25451,24 +28992,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech094-29"
-      },
-      {
-        "code": "CD24CBMA26",
-        "subject": "Chế biến các món ăn đãi tiệc",
-        "className": "CD25CBMA",
-        "dow": 6,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "DN",
-        "weeks": [
-          15
-        ],
-        "color": "rose",
-        "id": "bctech094-30"
       },
       {
         "code": "CD24CBMA26",
@@ -25495,7 +29020,23 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
+        "id": "bctech094-30"
+      },
+      {
+        "code": "CD24CBMA26",
+        "subject": "Chế biến các món ăn đãi tiệc",
+        "className": "CD25CBMA",
+        "dow": 6,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "DN",
+        "weeks": [
+          15
+        ],
+        "color": "orange",
         "id": "bctech094-31"
       },
       {
@@ -25514,7 +29055,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-32"
       },
       {
@@ -25545,7 +29086,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-33"
       },
       {
@@ -25562,7 +29103,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-34"
       },
       {
@@ -25582,7 +29123,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-35"
       },
       {
@@ -25610,7 +29151,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech094-36"
       },
       {
@@ -25626,7 +29167,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech094-37"
       },
       {
@@ -25647,7 +29188,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-38"
       },
       {
@@ -25668,7 +29209,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech094-39"
       }
     ]
@@ -25680,6 +29221,22 @@ const ALL_TEACHERS_DATABASE =
     "startDate": "2026-09-07",
     "maxWeeks": 20,
     "schedule": [
+      {
+        "code": "T26NHKS19",
+        "subject": "Nghiệp vụ buồng phòng",
+        "className": "T26NHKS",
+        "dow": 2,
+        "periods": [
+          1,
+          2
+        ],
+        "room": "2A.304",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech206-1"
+      },
       {
         "code": "T26NHKS19",
         "subject": "Nghiệp vụ buồng phòng",
@@ -25700,23 +29257,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
-        "id": "bctech206-1"
-      },
-      {
-        "code": "T26NHKS19",
-        "subject": "Nghiệp vụ buồng phòng",
-        "className": "T26NHKS",
-        "dow": 2,
-        "periods": [
-          1,
-          2
-        ],
-        "room": "2A.304",
-        "weeks": [
-          19
-        ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech206-2"
       },
       {
@@ -25734,7 +29275,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech206-3"
       },
       {
@@ -25757,7 +29298,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech206-4"
       },
       {
@@ -25776,7 +29317,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech206-5"
       },
       {
@@ -25808,7 +29349,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech206-6"
       },
       {
@@ -25823,7 +29364,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech206-7"
       }
     ]
@@ -25851,7 +29392,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech095-1"
       },
       {
@@ -25870,7 +29411,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech095-2"
       },
       {
@@ -25901,7 +29442,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech095-3"
       },
       {
@@ -25917,7 +29458,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech095-4"
       },
       {
@@ -25936,7 +29477,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech095-5"
       },
       {
@@ -25955,7 +29496,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech095-6"
       }
     ]
@@ -25996,7 +29537,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech096-1"
       },
       {
@@ -26030,7 +29571,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech096-2"
       },
       {
@@ -26045,7 +29586,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech096-3"
       },
       {
@@ -26063,7 +29604,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-4"
       },
       {
@@ -26078,7 +29619,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-5"
       },
       {
@@ -26100,7 +29641,7 @@ const ALL_TEACHERS_DATABASE =
           4,
           5
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech096-6"
       },
       {
@@ -26127,7 +29668,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-7"
       },
       {
@@ -26151,7 +29692,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-8"
       },
       {
@@ -26167,7 +29708,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-9"
       },
       {
@@ -26195,7 +29736,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-10"
       },
       {
@@ -26210,7 +29751,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech096-11"
       },
       {
@@ -26230,7 +29771,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech096-12"
       },
       {
@@ -26249,7 +29790,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech096-13"
       },
       {
@@ -26269,7 +29810,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech096-14"
       },
       {
@@ -26284,8 +29825,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech096-15"
+      },
+      {
+        "code": "TC25CBTP15",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "className": "T25CBTP",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.301(CBTP)",
+        "weeks": [
+          15
+        ],
+        "color": "teal",
+        "id": "bctech096-16"
       },
       {
         "code": "TC25CBTP15",
@@ -26303,25 +29862,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "violet",
-        "id": "bctech096-16"
-      },
-      {
-        "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm",
-        "className": "T25CBTP",
-        "dow": 8,
-        "periods": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "room": "2B.301(CBTP)",
-        "weeks": [
-          15
-        ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech096-17"
       },
       {
@@ -26340,24 +29881,8 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech096-18"
-      },
-      {
-        "code": "TC25CBTP15",
-        "subject": "Kiểm tra chất lượng sản phẩm",
-        "className": "T25CBTP",
-        "dow": 8,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "P.ONLINE",
-        "weeks": [
-          16
-        ],
-        "color": "violet",
-        "id": "bctech096-19"
       },
       {
         "code": "TC25CBTP15",
@@ -26374,7 +29899,23 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "violet",
+        "color": "teal",
+        "id": "bctech096-19"
+      },
+      {
+        "code": "TC25CBTP15",
+        "subject": "Kiểm tra chất lượng sản phẩm",
+        "className": "T25CBTP",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "teal",
         "id": "bctech096-20"
       },
       {
@@ -26393,7 +29934,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech096-21"
       }
     ]
@@ -26429,7 +29970,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-1"
       },
       {
@@ -26445,7 +29986,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-2"
       },
       {
@@ -26462,7 +30003,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-3"
       },
       {
@@ -26482,7 +30023,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech097-4"
       },
       {
@@ -26506,7 +30047,7 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech097-5"
       },
       {
@@ -26522,7 +30063,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech097-6"
       },
       {
@@ -26539,7 +30080,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech097-7"
       },
       {
@@ -26566,7 +30107,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-8"
       },
       {
@@ -26582,7 +30123,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-9"
       },
       {
@@ -26599,7 +30140,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-10"
       },
       {
@@ -26625,7 +30166,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-11"
       },
       {
@@ -26651,7 +30192,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech097-12"
       }
     ]
@@ -26691,7 +30232,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-1"
       },
       {
@@ -26707,7 +30248,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-2"
       },
       {
@@ -26723,7 +30264,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-3"
       },
       {
@@ -26741,7 +30282,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-4"
       },
       {
@@ -26759,7 +30300,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-5"
       },
       {
@@ -26777,7 +30318,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-6"
       },
       {
@@ -26812,7 +30353,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech098-7"
       },
       {
@@ -26842,7 +30383,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-8"
       },
       {
@@ -26858,7 +30399,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-9"
       },
       {
@@ -26874,7 +30415,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-10"
       },
       {
@@ -26903,7 +30444,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-11"
       },
       {
@@ -26919,7 +30460,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-12"
       },
       {
@@ -26935,8 +30476,56 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech098-13"
+      },
+      {
+        "code": "CDLTCBMA7",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CBMA-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2A.303",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "orange",
+        "id": "bctech098-14"
+      },
+      {
+        "code": "CDLTCBMA8",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "className": "CD26CBMA-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech098-15"
       },
       {
         "code": "TC25CBTP16",
@@ -26956,8 +30545,47 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "blue",
-        "id": "bctech098-14"
+        "color": "rose",
+        "id": "bctech098-16"
+      },
+      {
+        "code": "CDLTCBMA7",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26CBMA-LT",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "2A.303",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech098-17"
+      },
+      {
+        "code": "CDLTCBMA8",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "className": "CD26CBMA-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech098-18"
       },
       {
         "code": "TC25CBTP16",
@@ -26973,8 +30601,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "blue",
-        "id": "bctech098-15"
+        "color": "rose",
+        "id": "bctech098-19"
       },
       {
         "code": "TC25CBTP16",
@@ -26993,8 +30621,24 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "blue",
-        "id": "bctech098-16"
+        "color": "rose",
+        "id": "bctech098-20"
+      },
+      {
+        "code": "CDLTCBMA8",
+        "subject": "Thương phẩm & an toàn thực phẩm",
+        "className": "CD26CBMA-LT",
+        "dow": 8,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2B.101(CBMA)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech098-21"
       },
       {
         "code": "TC25CBTP16",
@@ -27009,8 +30653,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "blue",
-        "id": "bctech098-17"
+        "color": "rose",
+        "id": "bctech098-22"
       }
     ]
   },
@@ -27036,7 +30680,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-1"
       },
       {
@@ -27062,7 +30706,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech099-2"
       },
       {
@@ -27081,7 +30725,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-3"
       },
       {
@@ -27100,7 +30744,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-4"
       },
       {
@@ -27118,7 +30762,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-5"
       },
       {
@@ -27137,7 +30781,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-6"
       },
       {
@@ -27156,24 +30800,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-7"
-      },
-      {
-        "code": "CD25CBMA22",
-        "subject": "Chế biến món ăn á",
-        "className": "CD25CBMA",
-        "dow": 2,
-        "periods": [
-          6,
-          7
-        ],
-        "room": "DN",
-        "weeks": [
-          16
-        ],
-        "color": "orange",
-        "id": "bctech099-8"
       },
       {
         "code": "CD25CBMA22",
@@ -27195,7 +30823,23 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
+        "id": "bctech099-8"
+      },
+      {
+        "code": "CD25CBMA22",
+        "subject": "Chế biến món ăn á",
+        "className": "CD25CBMA",
+        "dow": 2,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "DN",
+        "weeks": [
+          16
+        ],
+        "color": "emerald",
         "id": "bctech099-9"
       },
       {
@@ -27217,7 +30861,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-10"
       },
       {
@@ -27235,7 +30879,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-11"
       },
       {
@@ -27254,7 +30898,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-12"
       },
       {
@@ -27277,7 +30921,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-13"
       },
       {
@@ -27311,7 +30955,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-14"
       },
       {
@@ -27329,7 +30973,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-15"
       },
       {
@@ -27355,7 +30999,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech099-16"
       },
       {
@@ -27374,7 +31018,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-17"
       },
       {
@@ -27393,7 +31037,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-18"
       },
       {
@@ -27411,7 +31055,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-19"
       },
       {
@@ -27430,7 +31074,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-20"
       },
       {
@@ -27458,7 +31102,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-21"
       },
       {
@@ -27475,7 +31119,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           15
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-22"
       },
       {
@@ -27493,7 +31137,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-23"
       },
       {
@@ -27512,7 +31156,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-24"
       },
       {
@@ -27531,7 +31175,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-25"
       },
       {
@@ -27556,7 +31200,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-26"
       },
       {
@@ -27574,7 +31218,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           3
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech099-27"
       },
       {
@@ -27593,7 +31237,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-28"
       },
       {
@@ -27612,7 +31256,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-29"
       },
       {
@@ -27631,7 +31275,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-30"
       },
       {
@@ -27655,7 +31299,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech099-31"
       },
       {
@@ -27681,7 +31325,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech099-32"
       },
       {
@@ -27700,7 +31344,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-33"
       },
       {
@@ -27719,7 +31363,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-34"
       },
       {
@@ -27736,7 +31380,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech099-35"
       },
       {
@@ -27762,7 +31406,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech099-36"
       },
       {
@@ -27780,7 +31424,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-37"
       },
       {
@@ -27799,7 +31443,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-38"
       },
       {
@@ -27818,7 +31462,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-39"
       },
       {
@@ -27835,7 +31479,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech099-40"
       },
       {
@@ -27854,7 +31498,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-41"
       },
       {
@@ -27873,7 +31517,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-42"
       },
       {
@@ -27892,7 +31536,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-43"
       },
       {
@@ -27910,7 +31554,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-44"
       },
       {
@@ -27929,7 +31573,7 @@ const ALL_TEACHERS_DATABASE =
           1,
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-45"
       },
       {
@@ -27947,7 +31591,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           1
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-46"
       },
       {
@@ -27963,7 +31607,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           2
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech099-47"
       }
     ]
@@ -27996,7 +31640,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech100-1"
       },
       {
@@ -28012,7 +31656,7 @@ const ALL_TEACHERS_DATABASE =
           8,
           9
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech100-2"
       },
       {
@@ -28032,7 +31676,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech100-3"
       },
       {
@@ -28054,7 +31698,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech100-4"
       },
       {
@@ -28074,7 +31718,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech100-5"
       }
     ]
@@ -28112,7 +31756,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-1"
       },
       {
@@ -28131,7 +31775,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-2"
       },
       {
@@ -28160,7 +31804,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-3"
       },
       {
@@ -28179,7 +31823,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-4"
       },
       {
@@ -28202,7 +31846,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-5"
       },
       {
@@ -28218,7 +31862,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-6"
       },
       {
@@ -28234,7 +31878,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-7"
       },
       {
@@ -28257,7 +31901,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech102-8"
       }
     ]
@@ -28294,7 +31938,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-1"
       },
       {
@@ -28319,7 +31963,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-2"
       },
       {
@@ -28346,7 +31990,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-3"
       },
       {
@@ -28372,7 +32016,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-4"
       },
       {
@@ -28392,7 +32036,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech104-5"
       },
       {
@@ -28421,7 +32065,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech104-6"
       },
       {
@@ -28439,7 +32083,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-7"
       },
       {
@@ -28466,7 +32110,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-8"
       },
       {
@@ -28485,7 +32129,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech104-9"
       },
       {
@@ -28511,7 +32155,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-10"
       },
       {
@@ -28529,7 +32173,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech104-11"
       },
       {
@@ -28555,7 +32199,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-12"
       },
       {
@@ -28573,7 +32217,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-13"
       },
       {
@@ -28598,7 +32242,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-14"
       },
       {
@@ -28625,7 +32269,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-15"
       },
       {
@@ -28651,7 +32295,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-16"
       },
       {
@@ -28676,7 +32320,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-17"
       },
       {
@@ -28702,7 +32346,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-18"
       },
       {
@@ -28729,7 +32373,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-19"
       },
       {
@@ -28755,7 +32399,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech104-20"
       }
     ]
@@ -28899,7 +32543,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "room": "P.ONLINE",
+        "room": "1X5.101(PMAY)",
         "weeks": [
           6,
           7,
@@ -29010,6 +32654,25 @@ const ALL_TEACHERS_DATABASE =
     "maxWeeks": 20,
     "schedule": [
       {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech106-1"
+      },
+      {
         "code": "CD26MC03",
         "subject": "Giáo dục chính trị",
         "className": "CD26DCN2 ...",
@@ -29023,8 +32686,26 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
-        "id": "bctech106-1"
+        "color": "orange",
+        "id": "bctech106-2"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26DCN1-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech106-3"
       },
       {
         "code": "CD26MC03",
@@ -29042,8 +32723,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech106-2"
+        "color": "orange",
+        "id": "bctech106-4"
       },
       {
         "code": "CD26MC03",
@@ -29076,8 +32757,35 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech106-3"
+        "color": "orange",
+        "id": "bctech106-5"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26DCN1-LT ...",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech106-6"
       },
       {
         "code": "CD26MC03",
@@ -29109,8 +32817,51 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech106-4"
+        "color": "orange",
+        "id": "bctech106-7"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech106-8"
+      },
+      {
+        "code": "CD26MC03",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26DKTD ...",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech106-9"
       },
       {
         "code": "CD26MC03",
@@ -29127,25 +32878,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "rose",
-        "id": "bctech106-5"
-      },
-      {
-        "code": "CD26MC03",
-        "subject": "Giáo dục chính trị",
-        "className": "CD26DKTD ...",
-        "dow": 6,
-        "periods": [
-          1,
-          2,
-          3
-        ],
-        "room": "P.G.MEET",
-        "weeks": [
-          19
-        ],
-        "color": "rose",
-        "id": "bctech106-6"
+        "color": "orange",
+        "id": "bctech106-10"
       }
     ]
   },
@@ -29156,6 +32890,117 @@ const ALL_TEACHERS_DATABASE =
     "startDate": "2026-09-07",
     "maxWeeks": 20,
     "schedule": [
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          11,
+          13,
+          14
+        ],
+        "color": "blue",
+        "id": "bctech107-1"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 2,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          15
+        ],
+        "color": "blue",
+        "id": "bctech107-2"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26CGKL-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          10,
+          11,
+          13
+        ],
+        "color": "blue",
+        "id": "bctech107-3"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26CGKL-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          14
+        ],
+        "color": "blue",
+        "id": "bctech107-4"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26CDT-LT ...",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          11,
+          12,
+          13
+        ],
+        "color": "blue",
+        "id": "bctech107-5"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26CDT-LT ...",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          14
+        ],
+        "color": "blue",
+        "id": "bctech107-6"
+      },
       {
         "code": "TC26MC04",
         "subject": "Pháp luật",
@@ -29174,8 +33019,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "teal",
-        "id": "bctech107-1"
+        "color": "blue",
+        "id": "bctech107-7"
       },
       {
         "code": "TC26MC04",
@@ -29195,8 +33040,8 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "teal",
-        "id": "bctech107-2"
+        "color": "blue",
+        "id": "bctech107-8"
       }
     ]
   },
@@ -29265,7 +33110,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech109-2"
       },
       {
@@ -29304,7 +33149,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech109-4"
       },
       {
@@ -29331,7 +33176,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech109-5"
       },
       {
@@ -29350,7 +33195,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech109-6"
       },
       {
@@ -29867,7 +33712,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech111-1"
       },
       {
@@ -29893,7 +33738,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech111-2"
       },
       {
@@ -29919,7 +33764,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech111-3"
       },
       {
@@ -29945,7 +33790,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech111-4"
       },
       {
@@ -29971,7 +33816,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech111-5"
       },
       {
@@ -29997,7 +33842,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech111-6"
       }
     ]
@@ -30038,7 +33883,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech112-1"
       },
       {
@@ -30438,32 +34283,6 @@ const ALL_TEACHERS_DATABASE =
       {
         "code": "TC26MC06",
         "subject": "Giáo dục thể chất",
-        "className": "T26CNTT1 ...",
-        "dow": 4,
-        "periods": [
-          8,
-          9,
-          10
-        ],
-        "room": "1.STRG",
-        "weeks": [
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18
-        ],
-        "color": "rose",
-        "id": "bctech113-1"
-      },
-      {
-        "code": "TC26MC06",
-        "subject": "Giáo dục thể chất",
         "className": "T26CGKL1 ...",
         "dow": 5,
         "periods": [
@@ -30484,8 +34303,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
-        "id": "bctech113-2"
+        "color": "orange",
+        "id": "bctech113-1"
       },
       {
         "code": "TC26MC06",
@@ -30510,8 +34329,8 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
-        "id": "bctech113-3"
+        "color": "orange",
+        "id": "bctech113-2"
       },
       {
         "code": "TC26MC06",
@@ -30536,8 +34355,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
-        "id": "bctech113-4"
+        "color": "orange",
+        "id": "bctech113-3"
       },
       {
         "code": "TC26MC06",
@@ -30562,7 +34381,33 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "rose",
+        "color": "orange",
+        "id": "bctech113-4"
+      },
+      {
+        "code": "TC26MC06",
+        "subject": "Giáo dục thể chất",
+        "className": "T26CNTT1 ...",
+        "dow": 7,
+        "periods": [
+          8,
+          9,
+          10
+        ],
+        "room": "1.STRG",
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "orange",
         "id": "bctech113-5"
       }
     ]
@@ -30588,7 +34433,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech114-1"
       },
       {
@@ -30605,7 +34450,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech114-2"
       },
       {
@@ -30625,7 +34470,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech114-3"
       },
       {
@@ -30658,7 +34503,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech114-4"
       },
       {
@@ -30675,8 +34520,27 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech114-5"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26CDT-LT ...",
+        "dow": 4,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech114-6"
       },
       {
         "code": "CD26MC03",
@@ -30708,8 +34572,34 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech114-6"
+        "color": "orange",
+        "id": "bctech114-7"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26CDT-LT ...",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "color": "orange",
+        "id": "bctech114-8"
       },
       {
         "code": "CD26MC03",
@@ -30727,8 +34617,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "rose",
-        "id": "bctech114-7"
+        "color": "orange",
+        "id": "bctech114-9"
       },
       {
         "code": "CD26MC03",
@@ -30746,8 +34636,26 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech114-8"
+        "color": "orange",
+        "id": "bctech114-10"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26CBMA-LT ...",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          20
+        ],
+        "color": "orange",
+        "id": "bctech114-11"
       },
       {
         "code": "CD26MC03",
@@ -30778,8 +34686,35 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "rose",
-        "id": "bctech114-9"
+        "color": "orange",
+        "id": "bctech114-12"
+      },
+      {
+        "code": "CDLTMH01",
+        "subject": "Giáo dục chính trị",
+        "className": "CD26CBMA-LT ...",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "orange",
+        "id": "bctech114-13"
       }
     ]
   },
@@ -30806,8 +34741,45 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech115-1"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26DCN1-LT ...",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          10,
+          11,
+          12
+        ],
+        "color": "blue",
+        "id": "bctech115-2"
+      },
+      {
+        "code": "CDLTMH02",
+        "subject": "Pháp luật",
+        "className": "CD26DCN1-LT ...",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          13
+        ],
+        "color": "blue",
+        "id": "bctech115-3"
       },
       {
         "code": "TC26MC04",
@@ -30826,8 +34798,8 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "teal",
-        "id": "bctech115-2"
+        "color": "blue",
+        "id": "bctech115-4"
       },
       {
         "code": "TC26MC04",
@@ -30847,8 +34819,8 @@ const ALL_TEACHERS_DATABASE =
           6,
           7
         ],
-        "color": "teal",
-        "id": "bctech115-3"
+        "color": "blue",
+        "id": "bctech115-5"
       }
     ]
   },
@@ -30902,30 +34874,44 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech116-2"
       },
       {
-        "code": "TC25CBTP24",
-        "subject": "Tiếng Anh nâng cao",
-        "className": "T25CBMA2",
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26DCN1-LT ...",
         "dow": 2,
         "periods": [
           11,
           12,
-          13
+          13,
+          14
         ],
-        "room": "P.ONLINE",
+        "room": "P.G.MEET",
         "weeks": [
-          6,
-          7,
-          8,
-          9,
           10,
           11,
-          12,
           13,
           14,
-          15
+          15,
+          16,
+          17
         ],
         "color": "orange",
         "id": "bctech116-3"
+      },
+      {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26DCN1-LT ...",
+        "dow": 2,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech116-4"
       },
       {
         "code": "TC25CBTP24",
@@ -30957,7 +34943,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "bctech116-4"
+        "id": "bctech116-5"
       },
       {
         "code": "TC25DCN08",
@@ -30974,7 +34960,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-5"
+        "id": "bctech116-6"
       },
       {
         "code": "TC25DCN08",
@@ -30990,7 +34976,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-6"
+        "id": "bctech116-7"
       },
       {
         "code": "TC25CBMA08",
@@ -31013,7 +34999,7 @@ const ALL_TEACHERS_DATABASE =
           14
         ],
         "color": "orange",
-        "id": "bctech116-7"
+        "id": "bctech116-8"
       },
       {
         "code": "TC25CBMA08",
@@ -31030,7 +35016,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech116-8"
+        "id": "bctech116-9"
       },
       {
         "code": "CD25MC01",
@@ -31050,7 +35036,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-9"
+        "id": "bctech116-10"
       },
       {
         "code": "TC25CBMA08",
@@ -31066,7 +35052,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech116-10"
+        "id": "bctech116-11"
       },
       {
         "code": "CD25MC01",
@@ -31101,7 +35087,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-11"
+        "id": "bctech116-12"
       },
       {
         "code": "TC25CBTP24",
@@ -31133,7 +35119,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "bctech116-12"
+        "id": "bctech116-13"
       },
       {
         "code": "CD25MC01",
@@ -31167,7 +35153,33 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-13"
+        "id": "bctech116-14"
+      },
+      {
+        "code": "TC25CBTP24",
+        "subject": "Tiếng Anh nâng cao",
+        "className": "T25CBMA2",
+        "dow": 5,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "orange",
+        "id": "bctech116-15"
       },
       {
         "code": "CD26ANH09",
@@ -31193,8 +35205,8 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "rose",
-        "id": "bctech116-14"
+        "color": "orange",
+        "id": "bctech116-16"
       },
       {
         "code": "CD26ANH09",
@@ -31212,8 +35224,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           14
         ],
-        "color": "rose",
-        "id": "bctech116-15"
+        "color": "orange",
+        "id": "bctech116-17"
       },
       {
         "code": "TC25CBTP24",
@@ -31239,7 +35251,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech116-16"
+        "id": "bctech116-18"
       },
       {
         "code": "CD25MC01",
@@ -31266,7 +35278,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-17"
+        "id": "bctech116-19"
       },
       {
         "code": "CD25MC01",
@@ -31293,7 +35305,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech116-18"
+        "id": "bctech116-20"
       }
     ]
   },
@@ -31442,6 +35454,46 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech118-5"
       },
       {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "bctech118-6"
+      },
+      {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26CNOT1-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech118-7"
+      },
+      {
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "className": "T25DCN1",
@@ -31461,7 +35513,7 @@ const ALL_TEACHERS_DATABASE =
           17
         ],
         "color": "orange",
-        "id": "bctech118-6"
+        "id": "bctech118-8"
       },
       {
         "code": "TC25DCN08",
@@ -31478,7 +35530,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-7"
+        "id": "bctech118-9"
       },
       {
         "code": "TC25DCN08",
@@ -31494,7 +35546,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-8"
+        "id": "bctech118-10"
       },
       {
         "code": "TC25CBTP24",
@@ -31520,7 +35572,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech118-9"
+        "id": "bctech118-11"
       },
       {
         "code": "TC25CBTP24",
@@ -31552,7 +35604,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "bctech118-10"
+        "id": "bctech118-12"
       },
       {
         "code": "TC25KTML08",
@@ -31571,7 +35623,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-11"
+        "id": "bctech118-13"
       },
       {
         "code": "TC25CBMA08",
@@ -31594,7 +35646,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech118-12"
+        "id": "bctech118-14"
       },
       {
         "code": "TC25CBMA08",
@@ -31611,7 +35663,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "bctech118-13"
+        "id": "bctech118-15"
       },
       {
         "code": "TC25CBMA08",
@@ -31627,7 +35679,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "bctech118-14"
+        "id": "bctech118-16"
       },
       {
         "code": "TC25KTML08",
@@ -31648,7 +35700,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-15"
+        "id": "bctech118-17"
       },
       {
         "code": "TC25DCN08",
@@ -31671,7 +35723,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech118-16"
+        "id": "bctech118-18"
       },
       {
         "code": "TC25DCN08",
@@ -31694,7 +35746,7 @@ const ALL_TEACHERS_DATABASE =
           5
         ],
         "color": "orange",
-        "id": "bctech118-17"
+        "id": "bctech118-19"
       },
       {
         "code": "TC25KTML08",
@@ -31713,40 +35765,6 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-18"
-      },
-      {
-        "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành",
-        "className": "T25CNOT3 ...",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "1A.109",
-        "weeks": [
-          16
-        ],
-        "color": "orange",
-        "id": "bctech118-19"
-      },
-      {
-        "code": "TC25DCN08",
-        "subject": "Tiếng anh chuyên ngành",
-        "className": "T25CGKL1 ...",
-        "dow": 6,
-        "periods": [
-          6,
-          7,
-          8
-        ],
-        "room": "1A.109",
-        "weeks": [
-          6
-        ],
-        "color": "orange",
         "id": "bctech118-20"
       },
       {
@@ -31755,10 +35773,11 @@ const ALL_TEACHERS_DATABASE =
         "className": "T25CNOT3 ...",
         "dow": 6,
         "periods": [
-          9,
-          10
+          6,
+          7,
+          8
         ],
-        "room": "P.ONLINE",
+        "room": "1A.109",
         "weeks": [
           16
         ],
@@ -31771,6 +35790,39 @@ const ALL_TEACHERS_DATABASE =
         "className": "T25CGKL1 ...",
         "dow": 6,
         "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "1A.109",
+        "weeks": [
+          6
+        ],
+        "color": "orange",
+        "id": "bctech118-22"
+      },
+      {
+        "code": "TC25DCN08",
+        "subject": "Tiếng anh chuyên ngành",
+        "className": "T25CNOT3 ...",
+        "dow": 6,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          16
+        ],
+        "color": "orange",
+        "id": "bctech118-23"
+      },
+      {
+        "code": "TC25DCN08",
+        "subject": "Tiếng anh chuyên ngành",
+        "className": "T25CGKL1 ...",
+        "dow": 6,
+        "periods": [
           9,
           10
         ],
@@ -31779,7 +35831,7 @@ const ALL_TEACHERS_DATABASE =
           6
         ],
         "color": "orange",
-        "id": "bctech118-22"
+        "id": "bctech118-24"
       },
       {
         "code": "TC25CBTP24",
@@ -31805,7 +35857,7 @@ const ALL_TEACHERS_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "bctech118-23"
+        "id": "bctech118-25"
       },
       {
         "code": "TC25CBTP24",
@@ -31831,7 +35883,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "orange",
-        "id": "bctech118-24"
+        "id": "bctech118-26"
       },
       {
         "code": "TC25KTML08",
@@ -31848,7 +35900,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-25"
+        "id": "bctech118-27"
       },
       {
         "code": "TC25KTML08",
@@ -31864,7 +35916,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-26"
+        "id": "bctech118-28"
       },
       {
         "code": "CD25MC01",
@@ -31891,7 +35943,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech118-27"
+        "id": "bctech118-29"
       }
     ]
   },
@@ -32270,6 +36322,46 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech119-18"
       },
       {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26HAN-LT ...",
+        "dow": 6,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "color": "orange",
+        "id": "bctech119-19"
+      },
+      {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26HAN-LT ...",
+        "dow": 6,
+        "periods": [
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          18
+        ],
+        "color": "orange",
+        "id": "bctech119-20"
+      },
+      {
         "code": "TC25CBTP24",
         "subject": "Tiếng Anh nâng cao",
         "className": "T25CNOT2",
@@ -32293,7 +36385,7 @@ const ALL_TEACHERS_DATABASE =
           14
         ],
         "color": "orange",
-        "id": "bctech119-19"
+        "id": "bctech119-21"
       }
     ]
   },
@@ -32320,7 +36412,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech177-1"
       },
       {
@@ -32340,7 +36432,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech177-2"
       },
       {
@@ -32361,7 +36453,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech177-3"
       }
     ]
@@ -32393,7 +36485,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech181-1"
       },
       {
@@ -32412,7 +36504,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech181-2"
       },
       {
@@ -32427,7 +36519,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           16
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech181-3"
       }
     ]
@@ -32462,7 +36554,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-1"
       },
       {
@@ -32480,7 +36572,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-2"
       },
       {
@@ -32505,7 +36597,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-3"
       },
       {
@@ -32532,7 +36624,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-4"
       },
       {
@@ -32558,7 +36650,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-5"
       },
       {
@@ -32585,7 +36677,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-6"
       },
       {
@@ -32611,7 +36703,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-7"
       },
       {
@@ -32642,7 +36734,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-8"
       },
       {
@@ -32670,7 +36762,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-9"
       },
       {
@@ -32695,7 +36787,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-10"
       },
       {
@@ -32722,7 +36814,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-11"
       },
       {
@@ -32748,7 +36840,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-12"
       },
       {
@@ -32774,7 +36866,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-13"
       },
       {
@@ -32792,7 +36884,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-14"
       },
       {
@@ -32817,7 +36909,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-15"
       },
       {
@@ -32844,7 +36936,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-16"
       },
       {
@@ -32870,7 +36962,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-17"
       },
       {
@@ -32898,7 +36990,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-18"
       },
       {
@@ -32923,7 +37015,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech122-19"
       }
     ]
@@ -33034,6 +37126,46 @@ const ALL_TEACHERS_DATABASE =
         "id": "bctech125-3"
       },
       {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26CDT-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "color": "orange",
+        "id": "bctech125-4"
+      },
+      {
+        "code": "CDLTMH06",
+        "subject": "Tiếng anh",
+        "className": "CD26CDT-LT ...",
+        "dow": 3,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "P.G.MEET",
+        "weeks": [
+          19
+        ],
+        "color": "orange",
+        "id": "bctech125-5"
+      },
+      {
         "code": "TC25DCN08",
         "subject": "Tiếng anh chuyên ngành",
         "className": "T25CNOT4",
@@ -33054,7 +37186,7 @@ const ALL_TEACHERS_DATABASE =
           5
         ],
         "color": "orange",
-        "id": "bctech125-4"
+        "id": "bctech125-6"
       },
       {
         "code": "TC25DCN08",
@@ -33071,7 +37203,7 @@ const ALL_TEACHERS_DATABASE =
           6
         ],
         "color": "orange",
-        "id": "bctech125-5"
+        "id": "bctech125-7"
       },
       {
         "code": "TC25DCN08",
@@ -33087,7 +37219,7 @@ const ALL_TEACHERS_DATABASE =
           6
         ],
         "color": "orange",
-        "id": "bctech125-6"
+        "id": "bctech125-8"
       },
       {
         "code": "CD26ANH12",
@@ -33113,8 +37245,8 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "blue",
-        "id": "bctech125-7"
+        "color": "rose",
+        "id": "bctech125-9"
       },
       {
         "code": "CD26ANH12",
@@ -33132,8 +37264,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "blue",
-        "id": "bctech125-8"
+        "color": "rose",
+        "id": "bctech125-10"
       },
       {
         "code": "TC25CBTP24",
@@ -33159,7 +37291,7 @@ const ALL_TEACHERS_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "bctech125-9"
+        "id": "bctech125-11"
       },
       {
         "code": "CD25MC01",
@@ -33179,7 +37311,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech125-10"
+        "id": "bctech125-12"
       },
       {
         "code": "TC25DCN08",
@@ -33202,7 +37334,7 @@ const ALL_TEACHERS_DATABASE =
           10
         ],
         "color": "orange",
-        "id": "bctech125-11"
+        "id": "bctech125-13"
       },
       {
         "code": "TC25DCN08",
@@ -33219,7 +37351,7 @@ const ALL_TEACHERS_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "bctech125-12"
+        "id": "bctech125-14"
       },
       {
         "code": "TC25DCN08",
@@ -33235,7 +37367,7 @@ const ALL_TEACHERS_DATABASE =
           12
         ],
         "color": "orange",
-        "id": "bctech125-13"
+        "id": "bctech125-15"
       },
       {
         "code": "TC25CBTP24",
@@ -33261,7 +37393,7 @@ const ALL_TEACHERS_DATABASE =
           15
         ],
         "color": "orange",
-        "id": "bctech125-14"
+        "id": "bctech125-16"
       },
       {
         "code": "CD25MC01",
@@ -33288,7 +37420,7 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "orange",
-        "id": "bctech125-15"
+        "id": "bctech125-17"
       }
     ]
   },
@@ -33532,7 +37664,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-1"
       },
       {
@@ -33564,7 +37696,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-2"
       },
       {
@@ -33580,7 +37712,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-3"
       },
       {
@@ -33611,7 +37743,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-4"
       },
       {
@@ -33641,7 +37773,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-5"
       },
       {
@@ -33673,7 +37805,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-6"
       },
       {
@@ -33705,7 +37837,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-7"
       },
       {
@@ -33721,7 +37853,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-8"
       },
       {
@@ -33752,7 +37884,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-9"
       },
       {
@@ -33782,7 +37914,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-10"
       },
       {
@@ -33814,7 +37946,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-11"
       },
       {
@@ -33830,7 +37962,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-12"
       },
       {
@@ -33846,7 +37978,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-13"
       },
       {
@@ -33877,7 +38009,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-14"
       },
       {
@@ -33909,7 +38041,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-15"
       },
       {
@@ -33925,7 +38057,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-16"
       },
       {
@@ -33941,7 +38073,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-17"
       },
       {
@@ -33972,7 +38104,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-18"
       },
       {
@@ -34004,7 +38136,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-19"
       },
       {
@@ -34035,8 +38167,26 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-20"
+      },
+      {
+        "code": "T26VH02",
+        "subject": "Ngữ văn",
+        "className": "T26VH08",
+        "dow": 6,
+        "periods": [
+          1,
+          2,
+          3
+        ],
+        "room": "1A.109",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech127-21"
       },
       {
         "code": "T26VH02",
@@ -34065,8 +38215,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
-        "id": "bctech127-21"
+        "color": "violet",
+        "id": "bctech127-22"
       },
       {
         "code": "T26VH02",
@@ -34094,8 +38244,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
-        "id": "bctech127-22"
+        "color": "violet",
+        "id": "bctech127-23"
       },
       {
         "code": "T25VH03",
@@ -34120,8 +38270,8 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "violet",
-        "id": "bctech127-23"
+        "color": "teal",
+        "id": "bctech127-24"
       },
       {
         "code": "T26VH02",
@@ -34137,8 +38287,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
-        "id": "bctech127-24"
+        "color": "violet",
+        "id": "bctech127-25"
       },
       {
         "code": "T25VH03",
@@ -34164,8 +38314,8 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "violet",
-        "id": "bctech127-25"
+        "color": "teal",
+        "id": "bctech127-26"
       },
       {
         "code": "T26VH02",
@@ -34180,8 +38330,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
-        "id": "bctech127-26"
+        "color": "violet",
+        "id": "bctech127-27"
       },
       {
         "code": "T26VH02",
@@ -34197,8 +38347,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
-        "id": "bctech127-27"
+        "color": "violet",
+        "id": "bctech127-28"
       },
       {
         "code": "T26VH02",
@@ -34214,25 +38364,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "emerald",
-        "id": "bctech127-28"
-      },
-      {
-        "code": "T26VH02",
-        "subject": "Ngữ văn",
-        "className": "T26VH08",
-        "dow": 7,
-        "periods": [
-          8,
-          9,
-          10
-        ],
-        "room": "1A.108",
-        "weeks": [
-          18,
-          19
-        ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-29"
       },
       {
@@ -34248,7 +38380,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech127-30"
       },
       {
@@ -34263,7 +38395,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech127-31"
       }
     ]
@@ -34304,7 +38436,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-1"
       },
       {
@@ -34336,7 +38468,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-2"
       },
       {
@@ -34352,7 +38484,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-3"
       },
       {
@@ -34384,7 +38516,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-4"
       },
       {
@@ -34400,7 +38532,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-5"
       },
       {
@@ -34416,7 +38548,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-6"
       },
       {
@@ -34447,7 +38579,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-7"
       },
       {
@@ -34479,7 +38611,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-8"
       },
       {
@@ -34511,7 +38643,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-9"
       },
       {
@@ -34527,7 +38659,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-10"
       },
       {
@@ -34559,7 +38691,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-11"
       },
       {
@@ -34575,7 +38707,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-12"
       },
       {
@@ -34591,7 +38723,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-13"
       },
       {
@@ -34622,7 +38754,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-14"
       },
       {
@@ -34640,7 +38772,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-15"
       },
       {
@@ -34657,7 +38789,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-16"
       },
       {
@@ -34686,7 +38818,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-17"
       },
       {
@@ -34716,7 +38848,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-18"
       },
       {
@@ -34747,7 +38879,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-19"
       },
       {
@@ -34779,7 +38911,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech128-20"
       }
     ]
@@ -34816,7 +38948,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-1"
       },
       {
@@ -34841,7 +38973,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-2"
       },
       {
@@ -34868,7 +39000,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-3"
       },
       {
@@ -34894,7 +39026,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-4"
       },
       {
@@ -34922,7 +39054,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-5"
       },
       {
@@ -34947,7 +39079,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-6"
       },
       {
@@ -34974,7 +39106,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-7"
       },
       {
@@ -35000,7 +39132,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-8"
       },
       {
@@ -35027,7 +39159,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-9"
       },
       {
@@ -35044,7 +39176,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-10"
       },
       {
@@ -35071,7 +39203,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-11"
       },
       {
@@ -35099,7 +39231,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-12"
       },
       {
@@ -35125,7 +39257,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech129-13"
       },
       {
@@ -35152,7 +39284,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech129-14"
       },
       {
@@ -35180,7 +39312,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-15"
       },
       {
@@ -35205,7 +39337,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-16"
       },
       {
@@ -35232,7 +39364,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-17"
       },
       {
@@ -35258,7 +39390,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-18"
       },
       {
@@ -35277,7 +39409,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-19"
       },
       {
@@ -35297,7 +39429,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech129-20"
       }
     ]
@@ -35626,7 +39758,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech131-1"
       },
       {
@@ -35652,7 +39784,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech131-2"
       },
       {
@@ -35673,13 +39805,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
+          11,
           13,
           14,
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-3"
       },
       {
@@ -35706,7 +39838,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-4"
       },
       {
@@ -35732,7 +39864,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-5"
       },
       {
@@ -35758,7 +39890,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-6"
       },
       {
@@ -35786,7 +39918,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-7"
       },
       {
@@ -35811,7 +39943,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-8"
       },
       {
@@ -35827,7 +39959,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-9"
       },
       {
@@ -35853,7 +39985,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-10"
       },
       {
@@ -35878,7 +40010,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-11"
       },
       {
@@ -35896,7 +40028,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech131-12"
       }
     ]
@@ -35932,7 +40064,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-1"
       },
       {
@@ -35958,7 +40090,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-2"
       },
       {
@@ -35985,7 +40117,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-3"
       },
       {
@@ -36011,7 +40143,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-4"
       },
       {
@@ -36037,7 +40169,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-5"
       },
       {
@@ -36064,7 +40196,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           11
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-6"
       },
       {
@@ -36091,7 +40223,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-7"
       },
       {
@@ -36117,7 +40249,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-8"
       },
       {
@@ -36144,7 +40276,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-9"
       },
       {
@@ -36170,7 +40302,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-10"
       },
       {
@@ -36201,7 +40333,7 @@ const ALL_TEACHERS_DATABASE =
           14,
           15
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-11"
       },
       {
@@ -36216,7 +40348,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech132-12"
       }
     ]
@@ -36253,7 +40385,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech133-1"
       },
       {
@@ -36279,7 +40411,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech133-2"
       },
       {
@@ -36297,7 +40429,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech133-3"
       },
       {
@@ -36323,7 +40455,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech133-4"
       },
       {
@@ -36348,7 +40480,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech133-5"
       }
     ]
@@ -36389,7 +40521,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-1"
       },
       {
@@ -36405,7 +40537,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-2"
       },
       {
@@ -36421,7 +40553,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-3"
       },
       {
@@ -36452,7 +40584,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-4"
       },
       {
@@ -36483,7 +40615,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-5"
       },
       {
@@ -36513,7 +40645,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-6"
       },
       {
@@ -36545,7 +40677,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-7"
       },
       {
@@ -36577,7 +40709,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-8"
       },
       {
@@ -36593,7 +40725,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-9"
       },
       {
@@ -36625,7 +40757,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-10"
       },
       {
@@ -36641,7 +40773,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-11"
       },
       {
@@ -36657,7 +40789,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-12"
       },
       {
@@ -36688,7 +40820,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-13"
       },
       {
@@ -36720,7 +40852,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-14"
       },
       {
@@ -36752,7 +40884,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-15"
       },
       {
@@ -36768,7 +40900,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-16"
       },
       {
@@ -36800,7 +40932,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-17"
       },
       {
@@ -36816,7 +40948,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-18"
       },
       {
@@ -36832,7 +40964,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-19"
       },
       {
@@ -36863,7 +40995,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-20"
       },
       {
@@ -36895,7 +41027,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-21"
       },
       {
@@ -36911,7 +41043,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-22"
       },
       {
@@ -36927,7 +41059,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-23"
       },
       {
@@ -36958,7 +41090,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-24"
       },
       {
@@ -36989,7 +41121,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-25"
       },
       {
@@ -37019,7 +41151,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-26"
       },
       {
@@ -37036,7 +41168,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-27"
       },
       {
@@ -37052,7 +41184,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-28"
       },
       {
@@ -37069,7 +41201,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-29"
       },
       {
@@ -37085,7 +41217,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech136-30"
       }
     ]
@@ -37125,7 +41257,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech137-1"
       },
       {
@@ -37157,7 +41289,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech137-2"
       },
       {
@@ -37187,7 +41319,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech137-3"
       },
       {
@@ -37218,7 +41350,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech137-4"
       },
       {
@@ -37235,7 +41367,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech137-5"
       },
       {
@@ -37251,7 +41383,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech137-6"
       }
     ]
@@ -37292,7 +41424,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-1"
       },
       {
@@ -37308,7 +41440,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-2"
       },
       {
@@ -37340,7 +41472,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-3"
       },
       {
@@ -37356,7 +41488,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-4"
       },
       {
@@ -37372,7 +41504,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-5"
       },
       {
@@ -37403,7 +41535,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-6"
       },
       {
@@ -37433,7 +41565,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-7"
       },
       {
@@ -37465,7 +41597,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-8"
       },
       {
@@ -37481,7 +41613,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-9"
       },
       {
@@ -37513,7 +41645,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-10"
       },
       {
@@ -37529,7 +41661,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-11"
       },
       {
@@ -37545,7 +41677,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-12"
       },
       {
@@ -37576,7 +41708,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-13"
       },
       {
@@ -37606,7 +41738,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-14"
       },
       {
@@ -37636,7 +41768,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-15"
       },
       {
@@ -37667,7 +41799,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-16"
       },
       {
@@ -37699,7 +41831,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-17"
       },
       {
@@ -37731,7 +41863,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-18"
       },
       {
@@ -37748,7 +41880,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-19"
       },
       {
@@ -37779,7 +41911,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-20"
       },
       {
@@ -37795,7 +41927,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-21"
       },
       {
@@ -37824,7 +41956,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-22"
       },
       {
@@ -37856,7 +41988,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-23"
       },
       {
@@ -37873,7 +42005,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-24"
       },
       {
@@ -37904,7 +42036,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-25"
       },
       {
@@ -37920,7 +42052,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-26"
       },
       {
@@ -37937,7 +42069,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-27"
       },
       {
@@ -37955,7 +42087,7 @@ const ALL_TEACHERS_DATABASE =
           18,
           19
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech140-28"
       }
     ]
@@ -37980,7 +42112,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-1"
       },
       {
@@ -38011,7 +42143,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-2"
       },
       {
@@ -38042,7 +42174,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-3"
       },
       {
@@ -38072,7 +42204,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-4"
       },
       {
@@ -38104,7 +42236,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-5"
       },
       {
@@ -38120,7 +42252,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-6"
       },
       {
@@ -38151,7 +42283,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-7"
       },
       {
@@ -38181,7 +42313,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-8"
       },
       {
@@ -38213,7 +42345,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-9"
       },
       {
@@ -38229,7 +42361,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-10"
       },
       {
@@ -38245,7 +42377,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-11"
       },
       {
@@ -38276,7 +42408,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-12"
       },
       {
@@ -38293,7 +42425,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-13"
       },
       {
@@ -38309,7 +42441,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-14"
       },
       {
@@ -38341,7 +42473,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-15"
       },
       {
@@ -38357,7 +42489,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-16"
       },
       {
@@ -38373,7 +42505,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-17"
       },
       {
@@ -38404,7 +42536,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-18"
       },
       {
@@ -38421,7 +42553,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-19"
       },
       {
@@ -38437,7 +42569,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech143-20"
       }
     ]
@@ -38467,13 +42599,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
+          11,
           13,
           14,
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-1"
       },
       {
@@ -38493,13 +42625,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
+          11,
           13,
           14,
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-2"
       },
       {
@@ -38520,13 +42652,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
+          11,
           13,
           14,
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-3"
       },
       {
@@ -38546,13 +42678,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          12,
+          11,
           13,
           14,
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-4"
       },
       {
@@ -38579,7 +42711,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-5"
       },
       {
@@ -38598,7 +42730,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-6"
       },
       {
@@ -38618,7 +42750,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-7"
       },
       {
@@ -38644,7 +42776,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-8"
       },
       {
@@ -38665,13 +42797,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-9"
       },
       {
@@ -38691,13 +42823,13 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
-          15
+          15,
+          16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-10"
       },
       {
@@ -38724,7 +42856,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-11"
       },
       {
@@ -38740,7 +42872,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech144-12"
       }
     ]
@@ -38776,7 +42908,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-1"
       },
       {
@@ -38802,7 +42934,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-2"
       },
       {
@@ -38829,7 +42961,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-3"
       },
       {
@@ -38855,7 +42987,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-4"
       },
       {
@@ -38882,7 +43014,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-5"
       },
       {
@@ -38908,7 +43040,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-6"
       },
       {
@@ -38935,7 +43067,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-7"
       },
       {
@@ -38961,7 +43093,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech180-8"
       }
     ]
@@ -39002,7 +43134,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech185-1"
       },
       {
@@ -39018,7 +43150,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech185-2"
       },
       {
@@ -39034,7 +43166,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech185-3"
       },
       {
@@ -39065,7 +43197,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech185-4"
       },
       {
@@ -39097,7 +43229,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech185-5"
       },
       {
@@ -39118,7 +43250,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -39128,8 +43259,42 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech185-6"
+      },
+      {
+        "code": "T26VH01",
+        "subject": "Toán",
+        "className": "T26VH17",
+        "dow": 3,
+        "periods": [
+          6,
+          7,
+          8
+        ],
+        "room": "2A.306",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "teal",
+        "id": "bctech185-7"
+      },
+      {
+        "code": "T26VH01",
+        "subject": "Toán",
+        "className": "T26VH17",
+        "dow": 3,
+        "periods": [
+          6,
+          7
+        ],
+        "room": "2A.306",
+        "weeks": [
+          20
+        ],
+        "color": "teal",
+        "id": "bctech185-8"
       },
       {
         "code": "T26VH01",
@@ -39159,8 +43324,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
-        "id": "bctech185-7"
+        "color": "teal",
+        "id": "bctech185-9"
       },
       {
         "code": "T25VH01",
@@ -39191,8 +43356,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
-        "id": "bctech185-8"
+        "color": "teal",
+        "id": "bctech185-10"
       },
       {
         "code": "T25VH01",
@@ -39207,8 +43372,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
-        "id": "bctech185-9"
+        "color": "teal",
+        "id": "bctech185-11"
       },
       {
         "code": "T25VH01",
@@ -39223,8 +43388,8 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "violet",
-        "id": "bctech185-10"
+        "color": "teal",
+        "id": "bctech185-12"
       },
       {
         "code": "T25VH01",
@@ -39254,8 +43419,8 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "violet",
-        "id": "bctech185-11"
+        "color": "teal",
+        "id": "bctech185-13"
       },
       {
         "code": "T26VH01",
@@ -39286,8 +43451,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
-        "id": "bctech185-12"
+        "color": "teal",
+        "id": "bctech185-14"
       },
       {
         "code": "T26VH01",
@@ -39317,8 +43482,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
-        "id": "bctech185-13"
+        "color": "teal",
+        "id": "bctech185-15"
       },
       {
         "code": "T26VH01",
@@ -39338,19 +43503,17 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
           18,
           19,
           20
         ],
-        "color": "violet",
-        "id": "bctech185-14"
+        "color": "teal",
+        "id": "bctech185-16"
       }
     ]
   },
@@ -39386,7 +43549,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           12
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-1"
       },
       {
@@ -39411,7 +43574,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-2"
       },
       {
@@ -39438,7 +43601,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-3"
       },
       {
@@ -39464,7 +43627,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-4"
       },
       {
@@ -39492,7 +43655,7 @@ const ALL_TEACHERS_DATABASE =
           11,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-5"
       },
       {
@@ -39517,7 +43680,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-6"
       },
       {
@@ -39544,7 +43707,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-7"
       },
       {
@@ -39570,7 +43733,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-8"
       },
       {
@@ -39596,7 +43759,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-9"
       },
       {
@@ -39621,7 +43784,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-10"
       },
       {
@@ -39649,7 +43812,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-11"
       },
       {
@@ -39665,7 +43828,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           17
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-12"
       },
       {
@@ -39691,7 +43854,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-13"
       },
       {
@@ -39723,7 +43886,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-14"
       },
       {
@@ -39750,7 +43913,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-15"
       },
       {
@@ -39778,7 +43941,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-16"
       },
       {
@@ -39804,7 +43967,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-17"
       },
       {
@@ -39822,7 +43985,7 @@ const ALL_TEACHERS_DATABASE =
           13,
           14
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-18"
       },
       {
@@ -39848,7 +44011,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-19"
       },
       {
@@ -39866,7 +44029,7 @@ const ALL_TEACHERS_DATABASE =
           12,
           13
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-20"
       },
       {
@@ -39891,7 +44054,7 @@ const ALL_TEACHERS_DATABASE =
           9,
           10
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-21"
       },
       {
@@ -39918,7 +44081,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-22"
       },
       {
@@ -39944,7 +44107,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-23"
       },
       {
@@ -39967,7 +44130,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-24"
       },
       {
@@ -39990,7 +44153,7 @@ const ALL_TEACHERS_DATABASE =
           7,
           8
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-25"
       },
       {
@@ -40009,7 +44172,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech191-26"
       }
     ]
@@ -40049,7 +44212,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-1"
       },
       {
@@ -40079,7 +44242,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-2"
       },
       {
@@ -40110,7 +44273,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-3"
       },
       {
@@ -40140,7 +44303,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-4"
       },
       {
@@ -40171,7 +44334,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-5"
       },
       {
@@ -40201,7 +44364,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-6"
       },
       {
@@ -40232,7 +44395,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-7"
       },
       {
@@ -40262,7 +44425,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-8"
       },
       {
@@ -40279,7 +44442,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-9"
       },
       {
@@ -40296,7 +44459,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-10"
       },
       {
@@ -40312,7 +44475,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-11"
       },
       {
@@ -40328,7 +44491,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-12"
       },
       {
@@ -40345,7 +44508,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-13"
       },
       {
@@ -40361,7 +44524,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-14"
       },
       {
@@ -40378,7 +44541,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-15"
       },
       {
@@ -40394,7 +44557,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "violet",
+        "color": "teal",
         "id": "bctech192-16"
       }
     ]
@@ -40435,7 +44598,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-1"
       },
       {
@@ -40451,7 +44614,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-2"
       },
       {
@@ -40467,7 +44630,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-3"
       },
       {
@@ -40483,7 +44646,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-4"
       },
       {
@@ -40514,7 +44677,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-5"
       },
       {
@@ -40544,7 +44707,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-6"
       },
       {
@@ -40560,7 +44723,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-7"
       },
       {
@@ -40576,7 +44739,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-8"
       },
       {
@@ -40592,7 +44755,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           19
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-9"
       },
       {
@@ -40623,7 +44786,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           17
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-10"
       },
       {
@@ -40654,7 +44817,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-11"
       },
       {
@@ -40684,7 +44847,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-12"
       },
       {
@@ -40715,7 +44878,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-13"
       },
       {
@@ -40747,7 +44910,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-14"
       },
       {
@@ -40777,7 +44940,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-15"
       },
       {
@@ -40808,7 +44971,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-16"
       },
       {
@@ -40840,7 +45003,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-17"
       },
       {
@@ -40871,7 +45034,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-18"
       },
       {
@@ -40888,7 +45051,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-19"
       },
       {
@@ -40904,7 +45067,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-20"
       },
       {
@@ -40936,7 +45099,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-21"
       },
       {
@@ -40953,7 +45116,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-22"
       },
       {
@@ -40984,7 +45147,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-23"
       },
       {
@@ -41000,7 +45163,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-24"
       },
       {
@@ -41017,7 +45180,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-25"
       },
       {
@@ -41033,7 +45196,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech194-26"
       }
     ]
@@ -41059,7 +45222,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-1"
       },
       {
@@ -41076,7 +45239,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-2"
       },
       {
@@ -41092,7 +45255,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-3"
       },
       {
@@ -41108,7 +45271,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-4"
       },
       {
@@ -41139,7 +45302,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-5"
       },
       {
@@ -41169,7 +45332,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-6"
       },
       {
@@ -41200,7 +45363,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-7"
       },
       {
@@ -41230,7 +45393,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-8"
       },
       {
@@ -41248,7 +45411,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-9"
       },
       {
@@ -41265,7 +45428,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-10"
       },
       {
@@ -41294,7 +45457,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-11"
       },
       {
@@ -41324,7 +45487,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-12"
       },
       {
@@ -41355,7 +45518,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-13"
       },
       {
@@ -41387,7 +45550,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech199-14"
       }
     ]
@@ -41418,7 +45581,6 @@ const ALL_TEACHERS_DATABASE =
           9,
           10,
           11,
-          12,
           13,
           14,
           15,
@@ -41428,7 +45590,7 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech202-1"
       },
       {
@@ -41459,8 +45621,42 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
+        "color": "violet",
         "id": "bctech202-2"
+      },
+      {
+        "code": "T26VH02",
+        "subject": "Ngữ văn",
+        "className": "T26VH17",
+        "dow": 3,
+        "periods": [
+          8,
+          9,
+          10
+        ],
+        "room": "2A.306",
+        "weeks": [
+          20
+        ],
+        "color": "violet",
+        "id": "bctech202-3"
+      },
+      {
+        "code": "T26VH02",
+        "subject": "Ngữ văn",
+        "className": "T26VH17",
+        "dow": 3,
+        "periods": [
+          9,
+          10
+        ],
+        "room": "2A.306",
+        "weeks": [
+          18,
+          19
+        ],
+        "color": "violet",
+        "id": "bctech202-4"
       },
       {
         "code": "T26VH02",
@@ -41491,8 +45687,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
-        "id": "bctech202-3"
+        "color": "violet",
+        "id": "bctech202-5"
       },
       {
         "code": "T26VH02",
@@ -41523,8 +45719,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
-        "id": "bctech202-4"
+        "color": "violet",
+        "id": "bctech202-6"
       },
       {
         "code": "T26VH02",
@@ -41554,8 +45750,8 @@ const ALL_TEACHERS_DATABASE =
           19,
           20
         ],
-        "color": "emerald",
-        "id": "bctech202-5"
+        "color": "violet",
+        "id": "bctech202-7"
       },
       {
         "code": "T26VH02",
@@ -41574,19 +45770,17 @@ const ALL_TEACHERS_DATABASE =
           8,
           9,
           10,
-          11,
           12,
           13,
           14,
           15,
           16,
-          17,
           18,
           19,
           20
         ],
-        "color": "emerald",
-        "id": "bctech202-6"
+        "color": "violet",
+        "id": "bctech202-8"
       }
     ]
   },
@@ -41621,7 +45815,7 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "rose",
+        "color": "orange",
         "id": "bctech171-1"
       }
     ]
@@ -41646,7 +45840,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech030-1"
       },
       {
@@ -41669,7 +45863,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech030-2"
       },
       {
@@ -41688,7 +45882,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech030-3"
       },
       {
@@ -41711,7 +45905,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech030-4"
       },
       {
@@ -41730,8 +45924,71 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "orange",
+        "color": "emerald",
         "id": "bctech030-5"
+      },
+      {
+        "code": "CDLTHAN07_20\n26",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26HAN-LT ...",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "color": "orange",
+        "id": "bctech030-6"
+      },
+      {
+        "code": "CDLTHAN07_20\n26",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26HAN-LT ...",
+        "dow": 8,
+        "periods": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          15
+        ],
+        "color": "orange",
+        "id": "bctech030-7"
+      },
+      {
+        "code": "CDLTHAN07_20\n26",
+        "subject": "Bảo vệ môi trường, sử dụng hiệu quả năng lượng và tài\nnguyên",
+        "className": "CD26HAN-LT ...",
+        "dow": 8,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1A.401(HT)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "color": "orange",
+        "id": "bctech030-8"
       }
     ]
   },
@@ -41921,6 +46178,22 @@ const ALL_TEACHERS_DATABASE =
         "className": "CD26CNTT",
         "dow": 6,
         "periods": [
+          1,
+          2
+        ],
+        "room": "P.ONLINE",
+        "weeks": [
+          18
+        ],
+        "color": "blue",
+        "id": "bctech048-2"
+      },
+      {
+        "code": "CD26CNTT10",
+        "subject": "Lập trình cơ bản",
+        "className": "CD26CNTT",
+        "dow": 6,
+        "periods": [
           6,
           7,
           8,
@@ -41937,7 +46210,7 @@ const ALL_TEACHERS_DATABASE =
           16
         ],
         "color": "blue",
-        "id": "bctech048-2"
+        "id": "bctech048-3"
       },
       {
         "code": "CD26CNTT10",
@@ -41956,23 +46229,138 @@ const ALL_TEACHERS_DATABASE =
           18
         ],
         "color": "blue",
-        "id": "bctech048-3"
+        "id": "bctech048-4"
       },
       {
-        "code": "CD26CNTT10",
+        "code": "CDLTCNTT07_2\n026",
         "subject": "Lập trình cơ bản",
-        "className": "CD26CNTT",
+        "className": "CD26CNTT-LT",
         "dow": 7,
         "periods": [
           1,
-          2
+          2,
+          3,
+          4
         ],
-        "room": "P.ONLINE",
+        "room": "1X8.204.T",
         "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "bctech048-5"
+      },
+      {
+        "code": "CDLTCNTT07_2\n026",
+        "subject": "Lập trình cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19
+        ],
+        "color": "blue",
+        "id": "bctech048-6"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26KTML-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "color": "emerald",
+        "id": "bctech048-7"
+      },
+      {
+        "code": "CDLTMH05",
+        "subject": "Tin học",
+        "className": "CD26KTML-LT",
+        "dow": 7,
+        "periods": [
+          11,
+          12
+        ],
+        "room": "1A.307(LAB3)",
+        "weeks": [
+          19
+        ],
+        "color": "emerald",
+        "id": "bctech048-8"
+      },
+      {
+        "code": "CDLTCNTT07_2\n026",
+        "subject": "Lập trình cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
           18
         ],
         "color": "blue",
-        "id": "bctech048-4"
+        "id": "bctech048-9"
+      },
+      {
+        "code": "CDLTCNTT07_2\n026",
+        "subject": "Lập trình cơ bản",
+        "className": "CD26CNTT-LT",
+        "dow": 8,
+        "periods": [
+          11,
+          12,
+          13
+        ],
+        "room": "1X8.204.T",
+        "weeks": [
+          19
+        ],
+        "color": "blue",
+        "id": "bctech048-10"
       }
     ]
   },
@@ -41984,10 +46372,10 @@ const ALL_TEACHERS_DATABASE =
     "maxWeeks": 20,
     "schedule": [
       {
-        "code": "T26DKTD10",
+        "code": "CD26DCN11",
         "subject": "Vẽ điện",
-        "className": "CD26DKTD",
-        "dow": 2,
+        "className": "CD26DCN1",
+        "dow": 4,
         "periods": [
           1,
           2,
@@ -41996,7 +46384,7 @@ const ALL_TEACHERS_DATABASE =
         ],
         "room": "1X8.201(X.TĐH)",
         "weeks": [
-          11,
+          12,
           13,
           14,
           15,
@@ -42004,24 +46392,111 @@ const ALL_TEACHERS_DATABASE =
           17,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech081-1"
       },
       {
-        "code": "T26DKTD10",
-        "subject": "Vẽ điện",
-        "className": "CD26DKTD",
-        "dow": 2,
+        "code": "CDLTDCN11_20\n26",
+        "subject": "PLC cơ bản",
+        "className": "CD26DCN2-LT",
+        "dow": 4,
         "periods": [
-          5
+          11,
+          12,
+          13,
+          14
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech081-2"
+      },
+      {
+        "code": "CD26DCN11",
+        "subject": "Vẽ điện",
+        "className": "CD26DCN1",
+        "dow": 5,
+        "periods": [
+          1,
+          2
         ],
         "room": "P.ONLINE",
         "weeks": [
-          17,
           18
         ],
-        "color": "teal",
-        "id": "bctech081-2"
+        "color": "blue",
+        "id": "bctech081-3"
+      },
+      {
+        "code": "CDLTDCN11_20\n26",
+        "subject": "PLC cơ bản",
+        "className": "CD26DCN2-LT",
+        "dow": 7,
+        "periods": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "room": "1X6.201(X.TĐH)",
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20
+        ],
+        "color": "emerald",
+        "id": "bctech081-4"
+      },
+      {
+        "code": "CDLTCDT11_20\n26",
+        "subject": "Lắp đặt và bảo trì hệ thống cơ điện tử 1",
+        "className": "CD26CDT-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "color": "blue",
+        "id": "bctech081-5"
+      },
+      {
+        "code": "CDLTCDT11_20\n26",
+        "subject": "Lắp đặt và bảo trì hệ thống cơ điện tử 1",
+        "className": "CD26CDT-LT",
+        "dow": 7,
+        "periods": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "room": "1X8.201(X.TĐH)",
+        "weeks": [
+          16,
+          18
+        ],
+        "color": "blue",
+        "id": "bctech081-6"
       }
     ]
   },
@@ -42051,7 +46526,7 @@ const ALL_TEACHERS_DATABASE =
           16,
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech173-1"
       },
       {
@@ -42072,7 +46547,7 @@ const ALL_TEACHERS_DATABASE =
           15,
           16
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech173-2"
       },
       {
@@ -42090,7 +46565,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech173-3"
       },
       {
@@ -42116,7 +46591,7 @@ const ALL_TEACHERS_DATABASE =
           10,
           12
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech173-4"
       },
       {
@@ -42134,7 +46609,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           11
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech173-5"
       },
       {
@@ -42153,7 +46628,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           12
         ],
-        "color": "blue",
+        "color": "rose",
         "id": "bctech173-6"
       },
       {
@@ -42172,7 +46647,7 @@ const ALL_TEACHERS_DATABASE =
         "weeks": [
           18
         ],
-        "color": "teal",
+        "color": "blue",
         "id": "bctech173-7"
       }
     ]
