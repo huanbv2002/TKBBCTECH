@@ -97,7 +97,7 @@ const TOUR_STEPS = [
         Khi nhà trường công bố file thời khóa biểu mới dạng PDF, bạn chỉ cần bấm vào nút <b>Cập nhật PDF</b> này.
       </p>
       <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #64748b;">
-        Hệ thống sẽ tự động quét và cập nhật lại toàn bộ lịch học của 61 lớp trong trường.
+        Hệ thống sẽ tự động quét và cập nhật lại toàn bộ lịch học các lớp trong trường.
       </p>
     `,
     preferredPos: 'bottom'
